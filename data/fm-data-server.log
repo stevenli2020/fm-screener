@@ -1,0 +1,488 @@
+INFO:     Started server process [1315]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8766): [errno 98] address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [1416]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8766): [errno 98] address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [1486]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8766): [errno 98] address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [1535]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8766): [errno 98] address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [1590]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8766): [errno 98] address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [1723]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8766 (Press CTRL+C to quit)
+INFO:     127.0.0.1:55146 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55150 - "GET /api/health HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:48090 - "GET /api/ohlcv?ticker=D05.SI&frequency=1d&start_date=2025-01-01&end_date=2025-01-31 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41924 - "GET /api/ohlcv?ticker=D05.SI&frequency=1d&start_date=2025-01-01&end_date=2025-01-31 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50044 - "GET /api/ohlcv?ticker=D05.SI&frequency=1d&start_date=2025-01-01&end_date=2025-01-31 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50044 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:50054 - "GET /api/ohlcv?ticker=D05.SI&frequency=1wk&start_date=2025-01-01&end_date=2025-01-31 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58922 - "GET /api/ohlcv?ticker=D05.SI&frequency=1wk&start_date=2021-01-01&end_date=2026-08-12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34276 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1723]
+INFO:     Started server process [2254]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8766 (Press CTRL+C to quit)
+INFO:     127.0.0.1:56156 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43100 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45338 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45344 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     Started server process [2299]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8766): [errno 98] address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     127.0.0.1:57064 - "GET /api/ohlcv?ticker=D05.SI&frequency=1wk&start_date=2021-01-01&end_date=2026-08-12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=D05.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=O39.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=U11.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=Z74.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=S68.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=BN4.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=U96.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=S63.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=C6L.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=S58.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=F34.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=BS6.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=9CI.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=C09.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=V03.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=C38U.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=A17U.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=M44U.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=ME8U.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=N2IU.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=BUOU.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=J69U.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=AJBU.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=C2PU.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=HMN.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=K71U.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=T82U.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=ES3.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=G3B.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=CLR.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=SRT.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=A35.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=MBH.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=500.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=OV8.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=F03.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=BSL.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=AWX.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=558.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=E28.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=U14.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:34886 - "GET /api/ohlcv?ticker=G13.SI&frequency=1d HTTP/1.1" 200 OK
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/history.py:204: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  dt_now = pd.Timestamp.utcnow()
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=D01.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=O39.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=U11.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=Z74.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=S68.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=BN4.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=U96.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=S63.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=C6L.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=S58.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=F34.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=BS6.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=9CI.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=C09.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=V03.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=C38U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=A17U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=M44U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=ME8U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=N2IU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=BUOU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=J69U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=AJBU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=C2PU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=HMN.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=K71U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=T82U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=ES3.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=G3B.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=CLR.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=SRT.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=A35.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=MBH.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=500.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=OV8.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=F03.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=BSL.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=AWX.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=558.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=E28.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=U14.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54736 - "GET /api/ohlcv?ticker=G13.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=D01.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=O39.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=U11.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=Z74.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=S68.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=BN4.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=U96.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=S63.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=C6L.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=S58.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=F34.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=BS6.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=9CI.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=C09.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=V03.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=C38U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=A17U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=M44U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=ME8U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=N2IU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=BUOU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=J69U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=AJBU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=C2PU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=HMN.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=K71U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=T82U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=ES3.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=G3B.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=CLR.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=SRT.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=A35.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=MBH.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=500.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=OV8.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=F03.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=BSL.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=AWX.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=558.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=E28.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=U14.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47660 - "GET /api/ohlcv?ticker=G13.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=D01.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=O39.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=U11.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=Z74.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=S68.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=BN4.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=U96.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=S63.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=C6L.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=S58.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=F34.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=BS6.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=9CI.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=C09.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=V03.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=C38U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=A17U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=M44U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=ME8U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=N2IU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=BUOU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=J69U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=AJBU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=C2PU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=HMN.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=K71U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=T82U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=ES3.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=G3B.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=CLR.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=SRT.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=A35.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=MBH.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=500.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=OV8.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=F03.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=BSL.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=AWX.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=558.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=E28.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=U14.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54276 - "GET /api/ohlcv?ticker=G13.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34486 - "GET /api/ohlcv?ticker=D01.SI&frequency=1d&start_date=2025-01-01&end_date=2025-01-31 HTTP/1.1" 200 OK
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: DD01.SI"}}}
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/quote.py:700: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  start = pd.Timestamp.utcnow().floor("D") - datetime.timedelta(days=365 // 2)
+/mnt/d/Projects/FinancialMarket/.venv/lib/python3.14/site-packages/yfinance/scrapers/quote.py:702: Pandas4Warning: Timestamp.utcnow is deprecated and will be removed in a future version. Use Timestamp.now('UTC') instead.
+  end = pd.Timestamp.utcnow().ceil("D")
+
+1 Failed download:
+['DD01.SI']: YFTzMissingError('possibly delisted; no timezone found')
+INFO:     127.0.0.1:54682 - "GET /api/ohlcv?ticker=DD01.SI&frequency=1d HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=D05.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=O39.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=U11.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=Z74.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=S68.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=BN4.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=U96.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=S63.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=C6L.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=S58.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=F34.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=BS6.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=9CI.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=C09.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=V03.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=C38U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=A17U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=M44U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=ME8U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=N2IU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=BUOU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=J69U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=AJBU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=C2PU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=HMN.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=K71U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=T82U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=ES3.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=G3B.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=CLR.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=SRT.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=A35.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=MBH.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=500.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=OV8.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=F03.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=BSL.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=AWX.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=558.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=E28.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=U14.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/ohlcv?ticker=G13.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=D05.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=O39.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=U11.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=Z74.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=S68.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=BN4.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=U96.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=S63.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=C6L.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=S58.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=F34.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=BS6.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=9CI.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=C09.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=V03.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=C38U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=A17U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=M44U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=ME8U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=N2IU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=BUOU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=J69U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=AJBU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=C2PU.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=HMN.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=K71U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=T82U.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=ES3.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=G3B.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=CLR.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=SRT.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=A35.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=MBH.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=500.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=OV8.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=F03.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=BSL.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=AWX.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=558.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=E28.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=U14.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48162 - "GET /api/ohlcv?ticker=G13.SI&frequency=1d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=500.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=558.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=9CI.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=A17U.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=AJBU.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=AWX.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=BN4.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=BS6.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=BSL.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=BUOU.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=C09.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=C2PU.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=C38U.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=C6L.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=CLR.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=D05.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=E28.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=F03.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=F34.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=G13.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=HMN.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=J69U.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=K71U.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=M44U.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=ME8U.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=N2IU.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=O39.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=OV8.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=S58.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=S63.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=S68.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=SRT.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=T82U.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=U11.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=U14.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=U96.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=V03.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59076 - "GET /api/ohlcv?ticker=Z74.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=500.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=558.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=9CI.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=A17U.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=AJBU.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=AWX.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=BN4.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=BS6.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=BSL.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=BUOU.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=C09.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=C2PU.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=C38U.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=C6L.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=CLR.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=D05.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=E28.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=F03.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=F34.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=G13.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=HMN.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=J69U.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=K71U.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=M44U.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=ME8U.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=N2IU.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=O39.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=OV8.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=S58.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=S63.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=S68.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=SRT.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=T82U.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=U11.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=U14.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=U96.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=V03.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47982 - "GET /api/ohlcv?ticker=Z74.SI&frequency=1d&end_date=2026-08-13 HTTP/1.1" 200 OK

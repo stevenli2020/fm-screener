@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "currency": "SGD",
+  "position_sizing": {
+    "max_position_pct_of_account": 0.20,
+    "max_concurrent_positions": 4,
+    "min_cash_buffer_pct": 0.10
+  },
+  "loss_limits": {
+    "daily_loss_limit_pct_of_account": 0.05,
+    "weekly_loss_limit_pct_of_account": 0.10
+  },
+  "universe_filters": {
+    "minimum_average_daily_volume": 100000,
+    "minimum_median_daily_value_sgd": 1000000,
+    "liquidity_lookback_trading_days": 20
+  },
+  "screening": {
+    "signals": {
+      "price_move_60d_min_pct": 10.0,
+      "price_move_60d_max_pct": 50.0,
+      "volume_spike_min_multiple": 2.5,
+      "pct_from_52wk_extreme_min_pct": 5.0,
+      "donchian_breakout_threshold_pct": 85.0,
+      "volatility_lookback_days": 20,
+      "donchian_lookback_days": 55
+    }
+  },
+  "execution": {
+    "mode": "manual_only"
+  }
+}

@@ -1,0 +1,43 @@
+symbol,company_name,sector,notes
+D05,DBS Group Holdings Ltd,Banking,STI constituent / Blue chip
+O39,Oversea-Chinese Banking Corp Ltd,Banking,STI constituent / Blue chip
+U11,United Overseas Bank Ltd,Banking,STI constituent / Blue chip
+Z74,Singapore Telecommunications Ltd,Telecommunications,STI constituent / Blue chip
+S68,Singapore Exchange Ltd,Financial Services,STI constituent / Blue chip
+BN4,Keppel Ltd,Industrials,STI constituent / Blue chip
+U96,Sembcorp Industries Ltd,Energy,STI constituent / Blue chip
+S63,ST Engineering Ltd,Industrials,STI constituent / Blue chip
+C6L,Singapore Airlines Ltd,Consumer Discretionary,STI constituent / Blue chip
+S58,SATS Ltd,Industrials,STI constituent / Blue chip
+F34,Wilmar International Ltd,Consumer Staples,STI constituent / Blue chip
+BS6,Yangzijiang Shipbuilding Holdings,Industrials,STI constituent / Blue chip
+9CI,CapitaLand Investment Ltd,Real Estate,STI constituent / Blue chip
+C09,City Developments Ltd,Real Estate,STI constituent / Blue chip
+V03,Venture Corporation Ltd,Technology,STI constituent / Blue chip
+C38U,CapitaLand Integrated Commercial Trust,Real Estate,REIT / STI constituent
+A17U,CapitaLand Ascendas REIT,Real Estate,REIT / STI constituent
+M44U,Mapletree Logistics Trust,Real Estate,REIT / STI constituent
+ME8U,Mapletree Industrial Trust,Real Estate,REIT / STI constituent
+N2IU,Mapletree Pan Asia Commercial Trust,Real Estate,REIT / STI constituent
+BUOU,Frasers Logistics & Commercial Trust,Real Estate,REIT / STI constituent
+J69U,Frasers Centrepoint Trust,Real Estate,REIT
+AJBU,Keppel DC REIT,Real Estate,REIT
+C2PU,Parkway Life REIT,Real Estate,REIT
+HMN,CapitaLand Ascott Trust,Real Estate,REIT
+K71U,Keppel REIT,Real Estate,REIT
+T82U,Suntec REIT,Real Estate,REIT
+ES3,SPDR Straits Times Index ETF,ETF,Index ETF
+G3B,Nikko AM Singapore STI ETF,ETF,Index ETF
+CLR,Lion-Phillip S-REIT ETF,ETF,S-REIT ETF
+SRT,CSOP iEdge S-REIT ETF,ETF,S-REIT ETF
+A35,ABF Singapore Bond Index Fund,ETF,Bond ETF
+MBH,Nikko AM SGD Investment Grade Corp Bond,ETF,Bond ETF
+500,Seatrium Ltd,Industrials,Growth / Turnaround
+OV8,Sheng Siong Group Ltd,Consumer Staples,Defensive / Growth
+F03,Food Empire Holdings Ltd,Consumer Staples,Consumer F&B
+BSL,Raffles Medical Group Ltd,Healthcare,Healthcare
+AWX,AEM Holdings Ltd,Technology,Semiconductor
+558,UMS Holdings Ltd,Technology,Semiconductor
+E28,Frencken Group Ltd,Technology,Semiconductor
+U14,UOL Group Ltd,Real Estate,Property Development
+G13,Genting Singapore Ltd,Consumer Discretionary,Gaming & Leisure

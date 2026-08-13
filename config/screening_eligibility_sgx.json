@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "data_quality": {
+    "minimum_daily_bars": 120,
+    "maximum_candle_repairs": 5,
+    "maximum_staleness_calendar_days": 3,
+    "required_price_adjustment": "split_and_dividend_adjusted"
+  },
+  "instrument_policy": {
+    "equity": "eligible",
+    "reit": "eligible_same_initial_thresholds",
+    "etf": "exclude_pending_separate_policy"
+  },
+  "notes": [
+    "Candle repairs correct provider High/Low values that fail to bracket Open and Close; they do not fill missing dates or fabricate price bars.",
+    "M3 must report every exclusion with a deterministic reason.",
+    "REIT-specific technical thresholds are deferred until M9 supplies out-of-sample evidence; unvalidated bespoke thresholds are prohibited."
+  ]
+}

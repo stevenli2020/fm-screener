@@ -1,0 +1,13 @@
+{
+  "run_date": "2026-08-12",
+  "eligible_count": 38,
+  "candidates_matched": 18,
+  "ranked_candidates": [
+    {
+      "rank": 1,
+      "symbol": "O39",
+      "matched_signals": ["price_move_60d", "volume_spike", "pct_from_52wk_extreme", "donchian_breakout"]
+    }
+  ],
+  "note": "Abbreviated example. The CLI creates the full audit output."
+}
