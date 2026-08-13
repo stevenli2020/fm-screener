@@ -17,3 +17,5 @@ data/cache/
 reports/generated/
 .wsl-data-server.log
 FriesTrader
+mcp_server.py
+*.toml
