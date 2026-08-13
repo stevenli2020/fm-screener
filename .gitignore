@@ -19,3 +19,4 @@ reports/generated/
 FriesTrader
 mcp_server.py
 *.toml
+.gitignore
