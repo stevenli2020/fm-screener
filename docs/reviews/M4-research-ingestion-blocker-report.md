@@ -82,18 +82,28 @@ The production pipeline now:
 The approved live trial queried all 14 M3 candidates over 2026-08-11 through 2026-08-13.
 It discovered and completed 20 announcements with zero record or attachment failures,
 cached 19 PDFs, extracted 19 page-delimited text files, and created no page-snapshot
-directory. The next normal `fm news collect` refresh will replace the 20 older
-metadata-only SQLite rows with the richer content hashes; this is expected, not duplicate
-growth.
+directory.
+
+The enriched production refresh was then completed against the canonical database over the
+same window. It migrated schema v2 to v3 additively and returned 53/53 successful requests:
+14 listing requests, 20 detail requests, and 19 attachment requests. All 20 metadata-only
+rows were updated as replacements. SQLite still contains exactly 20 rows and 20 distinct
+SGX source IDs, with zero duplicate groups. All 20 rows contain announcement sections, 15
+rows have cached attachments (19 files total), and five rows have deterministic dividend or
+share-buyback event classifications. The failure log is empty.
+
+Self-review additionally made partial attachment downloads fail closed: the affected record
+is audited but is not emitted to SQLite or the M5 feed, preventing an incomplete refresh
+from replacing a previously complete authoritative record.
 
 ## WSL quality gate
 
-- Final full-project suite: 88 passed with one pre-existing Starlette/httpx deprecation
+- Final full-project suite: 89 passed with one pre-existing Starlette/httpx deprecation
   warning.
 - M4 research package coverage is 89%, exceeding the 80% requirement.
 - Production-specific tests cover compact sections, multi-column tables, event fields,
   attachment success/failure, PDF text boundaries, content hashes, SQLite persistence,
-  and schema-v3 migration.
+  schema-v3 migration, and fail-closed partial attachment handling.
 - Ruff lint, Ruff formatting, `compileall`, and `pip check` passed in WSL.
 
 ## Availability gate

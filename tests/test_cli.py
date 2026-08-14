@@ -53,7 +53,11 @@ def test_universe_reload_backs_up_existing_database(tmp_path: Path, capsys) -> N
     cli.main(["init-db", "--path", str(database_path)])
     capsys.readouterr()
     connection = sqlite3.connect(database_path)
-    connection.execute("insert into securities (symbol, provider_symbol, company_name, sector, instrument_type) values ('STALE', 'STALE.SI', 'Stale', 'Test', 'equity')")
+    connection.execute(
+        "insert into securities "
+        "(symbol, provider_symbol, company_name, sector, instrument_type) "
+        "values ('STALE', 'STALE.SI', 'Stale', 'Test', 'equity')"
+    )
     connection.commit()
     connection.close()
 
@@ -74,3 +78,46 @@ def test_universe_reload_backs_up_existing_database(tmp_path: Path, capsys) -> N
     assert output["loaded_count"] == 42
     assert output["backup"]
     assert count == 42
+
+
+def test_news_collect_command_writes_outputs(tmp_path: Path, capsys, monkeypatch) -> None:
+    class ContextClient:
+        endpoint = "https://www.sgx.com/stock-exchange/company-announcements"
+
+        def __enter__(self):
+            return self
+
+        def __exit__(self, *_: object) -> None:
+            return None
+
+    result = {
+        "run_date": "2026-08-13",
+        "candidate_count": 1,
+        "candidate_symbols": ["D05"],
+        "announcements_fetched": 0,
+        "candidate_announcements": 0,
+        "announcements_stored": 0,
+        "announcements_skipped": 0,
+        "candidates_with_news": 0,
+        "symbols_without_news": ["D05"],
+        "api_status": "success",
+        "api_error": None,
+        "records": [],
+        "api_log": [],
+        "api_availability": {
+            "successful_calls": 1,
+            "total_calls": 1,
+            "success_rate_pct": 100.0,
+        },
+    }
+    monkeypatch.setattr(cli, "SGXPublicPageClient", lambda **_kwargs: ContextClient())
+    monkeypatch.setattr(cli, "collect_news", lambda *_args, **_kwargs: result)
+    output_dir = tmp_path / "output"
+
+    return_code = cli.main(["news", "collect", "--output-dir", str(output_dir)])
+    output = json.loads(capsys.readouterr().out)
+
+    assert return_code == 0
+    assert output["status"] == "ok"
+    assert (output_dir / "news_feed.json").exists()
+    assert (output_dir / "news_report_2026-08-13.md").exists()

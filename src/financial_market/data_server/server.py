@@ -9,7 +9,6 @@ from pathlib import Path
 
 import uvicorn
 
-
 PID_FILE = Path(os.getenv("FM_DATA_SERVER_PID_FILE", "data/fm-data-server.pid"))
 LOG_FILE = Path(os.getenv("FM_DATA_SERVER_LOG_FILE", "data/fm-data-server.log"))
 

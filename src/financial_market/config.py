@@ -43,6 +43,14 @@ class Settings:
     risk_rules_path: Path = Path("config/risk_rules_sgx.json")
     universe_path: Path = Path("config/universe_sgx.csv")
     screening_eligibility_path: Path = Path("config/screening_eligibility_sgx.json")
+    sgx_news_api_url: str = "https://www.sgx.com/stock-exchange/company-announcements"
+    sgx_news_timeout_seconds: float = 15.0
+    sgx_news_max_retries: int = 2
+    sgx_news_retry_backoff_seconds: float = 0.25
+    sgx_news_limit: int = 50
+    sgx_announcement_filters_path: Path = Path("scripts/sgx_announcement_filters.json")
+    sgx_news_max_pages_per_target: int = 10
+    sgx_news_request_pacing_seconds: float = 0.5
 
     def __post_init__(self) -> None:
         parsed = urlparse(self.data_server_base_url)
@@ -58,6 +66,21 @@ class Settings:
             raise ConfigurationError("FM_DATA_SERVER_RETRY_BACKOFF_SECONDS must be non-negative")
         if self.data_server_cache_ttl_seconds < 0:
             raise ConfigurationError("FM_DATA_SERVER_CACHE_TTL_SECONDS must be non-negative")
+        news_url = urlparse(self.sgx_news_api_url)
+        if news_url.scheme != "https" or not news_url.netloc:
+            raise ConfigurationError("FM_SGX_NEWS_API_URL must be an https URL")
+        if self.sgx_news_timeout_seconds <= 0:
+            raise ConfigurationError("FM_SGX_NEWS_TIMEOUT_SECONDS must be greater than zero")
+        if self.sgx_news_max_retries < 0:
+            raise ConfigurationError("FM_SGX_NEWS_MAX_RETRIES must be non-negative")
+        if self.sgx_news_retry_backoff_seconds < 0:
+            raise ConfigurationError("FM_SGX_NEWS_RETRY_BACKOFF_SECONDS must be non-negative")
+        if self.sgx_news_limit <= 0:
+            raise ConfigurationError("FM_SGX_NEWS_LIMIT must be greater than zero")
+        if self.sgx_news_max_pages_per_target <= 0:
+            raise ConfigurationError("FM_SGX_NEWS_MAX_PAGES_PER_TARGET must be greater than zero")
+        if self.sgx_news_request_pacing_seconds < 0:
+            raise ConfigurationError("FM_SGX_NEWS_REQUEST_PACING_SECONDS must be non-negative")
         object.__setattr__(self, "data_server_base_url", self.data_server_base_url.rstrip("/"))
 
     @classmethod
@@ -85,5 +108,38 @@ class Settings:
             universe_path=Path(os.getenv("FM_UNIVERSE_PATH", "config/universe_sgx.csv")),
             screening_eligibility_path=Path(
                 os.getenv("FM_SCREENING_ELIGIBILITY_PATH", "config/screening_eligibility_sgx.json")
+            ),
+            sgx_news_api_url=os.getenv(
+                "FM_SGX_NEWS_API_URL",
+                "https://www.sgx.com/stock-exchange/company-announcements",
+            ),
+            sgx_news_timeout_seconds=_non_negative_float(
+                "FM_SGX_NEWS_TIMEOUT_SECONDS",
+                os.getenv("FM_SGX_NEWS_TIMEOUT_SECONDS", "15"),
+                allow_zero=False,
+            ),
+            sgx_news_max_retries=_non_negative_int(
+                "FM_SGX_NEWS_MAX_RETRIES", os.getenv("FM_SGX_NEWS_MAX_RETRIES", "2")
+            ),
+            sgx_news_retry_backoff_seconds=_non_negative_float(
+                "FM_SGX_NEWS_RETRY_BACKOFF_SECONDS",
+                os.getenv("FM_SGX_NEWS_RETRY_BACKOFF_SECONDS", "0.25"),
+            ),
+            sgx_news_limit=_non_negative_int(
+                "FM_SGX_NEWS_LIMIT", os.getenv("FM_SGX_NEWS_LIMIT", "50")
+            ),
+            sgx_announcement_filters_path=Path(
+                os.getenv(
+                    "FM_SGX_ANNOUNCEMENT_FILTERS_PATH",
+                    "scripts/sgx_announcement_filters.json",
+                )
+            ),
+            sgx_news_max_pages_per_target=_non_negative_int(
+                "FM_SGX_NEWS_MAX_PAGES_PER_TARGET",
+                os.getenv("FM_SGX_NEWS_MAX_PAGES_PER_TARGET", "10"),
+            ),
+            sgx_news_request_pacing_seconds=_non_negative_float(
+                "FM_SGX_NEWS_REQUEST_PACING_SECONDS",
+                os.getenv("FM_SGX_NEWS_REQUEST_PACING_SECONDS", "0.5"),
             ),
         )

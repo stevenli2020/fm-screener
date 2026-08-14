@@ -157,6 +157,41 @@ CREATE TABLE IF NOT EXISTS audit_events (
     payload_json TEXT NOT NULL
 );
 
+CREATE TABLE IF NOT EXISTS news_records (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    sgxnet_id TEXT NOT NULL UNIQUE,
+    symbol TEXT NOT NULL REFERENCES securities(symbol),
+    title TEXT NOT NULL,
+    type TEXT,
+    published_at TEXT NOT NULL,
+    retrieved_at TEXT NOT NULL,
+    url TEXT,
+    document_type TEXT,
+    document_hash TEXT NOT NULL UNIQUE,
+    source TEXT NOT NULL DEFAULT 'sgx_api',
+    announcement_sections_json TEXT NOT NULL DEFAULT '{}',
+    event_type TEXT NOT NULL DEFAULT 'unclassified',
+    event_data_json TEXT NOT NULL DEFAULT '{}',
+    attachments_json TEXT NOT NULL DEFAULT '[]',
+    created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    UNIQUE (sgxnet_id, symbol)
+);
+
+CREATE TABLE IF NOT EXISTS news_api_log (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    api_endpoint TEXT NOT NULL,
+    run_date TEXT NOT NULL,
+    status TEXT NOT NULL CHECK (status IN ('success', 'timeout', 'error', 'malformed')),
+    http_code INTEGER,
+    error_message TEXT,
+    announcements_fetched INTEGER NOT NULL DEFAULT 0 CHECK (announcements_fetched >= 0),
+    execution_time_ms INTEGER NOT NULL CHECK (execution_time_ms >= 0),
+    attempt_count INTEGER NOT NULL DEFAULT 1 CHECK (attempt_count > 0),
+    created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+
+INSERT OR IGNORE INTO schema_versions (version) VALUES (2);
+
 CREATE INDEX IF NOT EXISTS idx_screening_runs_date ON screening_runs(as_of_date);
 CREATE INDEX IF NOT EXISTS idx_screening_results_run ON screening_results(run_id);
 CREATE INDEX IF NOT EXISTS idx_research_symbol_published
@@ -171,3 +206,7 @@ CREATE INDEX IF NOT EXISTS idx_positions_symbol
     ON portfolio_positions(symbol);
 CREATE INDEX IF NOT EXISTS idx_trade_tickets_status
     ON trade_tickets(status, generated_at);
+CREATE INDEX IF NOT EXISTS idx_news_symbol_date
+    ON news_records(symbol, published_at);
+CREATE INDEX IF NOT EXISTS idx_news_api_run_date
+    ON news_api_log(run_date, status);

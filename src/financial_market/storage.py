@@ -20,6 +20,22 @@ def initialize_database(database_path: Path) -> None:
     connection = connect_database(database_path)
     try:
         connection.executescript(schema)
+        _apply_compatible_migrations(connection)
+        connection.execute("INSERT OR IGNORE INTO schema_versions (version) VALUES (3)")
         connection.commit()
     finally:
         connection.close()
+
+
+def _apply_compatible_migrations(connection: sqlite3.Connection) -> None:
+    """Add backward-compatible M4 columns to databases created before schema v3."""
+    existing = {row[1] for row in connection.execute("PRAGMA table_info(news_records)")}
+    additions = {
+        "announcement_sections_json": "TEXT NOT NULL DEFAULT '{}'",
+        "event_type": "TEXT NOT NULL DEFAULT 'unclassified'",
+        "event_data_json": "TEXT NOT NULL DEFAULT '{}'",
+        "attachments_json": "TEXT NOT NULL DEFAULT '[]'",
+    }
+    for column, declaration in additions.items():
+        if column not in existing:
+            connection.execute(f"ALTER TABLE news_records ADD COLUMN {column} {declaration}")

@@ -3,12 +3,15 @@ from __future__ import annotations
 import argparse
 import json
 import shutil
-from datetime import date, datetime, timedelta, timezone
+from datetime import UTC, date, datetime, timedelta
 from pathlib import Path
 
 from financial_market.config import ConfigurationError, Settings
 from financial_market.market_data.client import DataServerClient
 from financial_market.market_data.errors import MarketDataError
+from financial_market.research.news_collector import SGXPublicPageClient
+from financial_market.research.news_pipeline import NewsPipelineError, collect_news
+from financial_market.research.news_reporter import generate_json_feed, generate_markdown_report
 from financial_market.risk import RiskRules
 from financial_market.screening.eligibility import EligibilityPolicy, EligibilityPolicyError
 from financial_market.screening.reporter import render_report
@@ -70,6 +73,16 @@ def build_parser() -> argparse.ArgumentParser:
     dry_run.add_argument("--days", type=int, default=5)
     dry_run.add_argument("--database", type=Path)
     dry_run.add_argument("--output-dir", type=Path, default=Path("reports/generated"))
+    news = subparsers.add_parser("news", help="collect SGX announcements for M3 candidates")
+    news_commands = news.add_subparsers(dest="news_command", required=True)
+    news_collect = news_commands.add_parser("collect", help="fetch, deduplicate, and report news")
+    news_collect.add_argument(
+        "--input", type=Path, default=Path("reports/generated/pending_candidates.json")
+    )
+    news_collect.add_argument("--run-date", type=_date)
+    news_collect.add_argument("--lookback-days", type=int, default=2)
+    news_collect.add_argument("--database", type=Path)
+    news_collect.add_argument("--output-dir", type=Path, default=Path("reports/generated"))
     return parser
 
 
@@ -113,7 +126,7 @@ def main(argv: list[str] | None = None) -> int:
             if args.universe_command == "reload":
                 backup_path = None
                 if database_path.exists():
-                    stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+                    stamp = datetime.now(UTC).strftime("%Y%m%dT%H%M%SZ")
                     backup_path = database_path.with_name(
                         f"{database_path.name}.before-reload-{stamp}"
                     )
@@ -210,6 +223,28 @@ def main(argv: list[str] | None = None) -> int:
                 )
             )
             return 0
+        if args.command == "news":
+            database_path = args.database or settings.database_path
+            with SGXPublicPageClient(
+                filters_path=settings.sgx_announcement_filters_path,
+                extraction_dir=args.output_dir / "extraction",
+                max_pages=settings.sgx_news_max_pages_per_target,
+                pacing_seconds=settings.sgx_news_request_pacing_seconds,
+            ) as client:
+                result = collect_news(
+                    args.input,
+                    database_path,
+                    client,
+                    client.endpoint,
+                    args.run_date,
+                    lookback_days=args.lookback_days,
+                )
+            paths = _write_news_outputs(result, args.output_dir)
+            successful = result["api_status"] == "success"
+            print(
+                json.dumps({"status": "ok" if successful else "error", **result, "outputs": paths})
+            )
+            return 0 if successful else 1
 
         with DataServerClient(settings) as client:
             if args.command == "health":
@@ -252,6 +287,7 @@ def main(argv: list[str] | None = None) -> int:
         ConfigurationError,
         EligibilityPolicyError,
         MarketDataError,
+        NewsPipelineError,
         UniverseError,
         ValueError,
     ) as exc:
@@ -265,6 +301,18 @@ def _write_screening_outputs(result: dict[str, object], output_dir: Path) -> dic
     report_path = output_dir / f"screening_report_{result['run_date']}.md"
     json_path.write_text(json.dumps(result, indent=2, sort_keys=True) + "\n", encoding="utf-8")
     report_path.write_text(render_report(result), encoding="utf-8")
+    return {"json": str(json_path), "report": str(report_path)}
+
+
+def _write_news_outputs(result: dict[str, object], output_dir: Path) -> dict[str, str]:
+    output_dir.mkdir(parents=True, exist_ok=True)
+    json_path = output_dir / "news_feed.json"
+    report_path = output_dir / f"news_report_{result['run_date']}.md"
+    json_path.write_text(
+        json.dumps(generate_json_feed(result), indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8",
+    )
+    report_path.write_text(generate_markdown_report(result), encoding="utf-8")
     return {"json": str(json_path), "report": str(report_path)}
 
 

@@ -23,7 +23,8 @@ def render_report(result: dict[str, Any]) -> str:
         s = item["signals"]
         lines.append(
             (
-                "| {rank} | {symbol} | {company} | {matches} | {move} | {volume} | {distance} | {donchian} |"
+                "| {rank} | {symbol} | {company} | {matches} | {move} | {volume} | "
+                "{distance} | {donchian} |"
             ).format(
                 rank=item["rank"],
                 symbol=item["symbol"],

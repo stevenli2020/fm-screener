@@ -20,7 +20,7 @@
       "price_move_60d_min_pct": 10.0,
       "price_move_60d_max_pct": 50.0,
       "volume_spike_min_multiple": 2.5,
-      "pct_from_52wk_extreme_min_pct": 5.0,
+      "pct_from_52wk_extreme_min_pct": 2.5,
       "donchian_breakout_threshold_pct": 85.0,
       "volatility_lookback_days": 20,
       "donchian_lookback_days": 55
