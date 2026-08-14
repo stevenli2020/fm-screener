@@ -32,12 +32,21 @@ portfolio ledger (M6) ---------------+--> Phase B manual ticket (M7)
 format. Application services consume domain objects such as `OHLCVSeries`, permitting a
 future provider change without rewriting the screener.
 
+M4's SGX adapter follows a similarly narrow boundary. It maps M3 symbols to targeted SGX
+listing filters, parses each matched detail page deterministically, and emits compact JSON
+sections plus cached attachment provenance. `news_feed.json` is the authoritative M5
+contract. Per-announcement Markdown is derived for human review; announcement-page
+snapshots are not retained. PDFs and page-delimited extracted text are supporting evidence,
+not summaries.
+
 ## Data ownership
 
 - This project owns upstream retrieval, adjusted market data, indicator backtests, the SGX
   security master, screening runs, evidence, proposals,
   portfolio transactions and position snapshots, manual trade tickets, and audit events.
 - SQLite is the Phase 1 local system of record. Generated reports are derived artifacts.
+- Cached SGX attachments are content-addressed by recorded SHA-256 hashes and organized by
+  stable SGX source ID. Original URLs remain part of the record.
 
 ## Configuration
 

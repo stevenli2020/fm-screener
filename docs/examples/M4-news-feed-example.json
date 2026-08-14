@@ -1,0 +1,47 @@
+{
+  "run_date": "2026-08-13",
+  "period_start": "2026-08-11",
+  "period_end": "2026-08-13",
+  "candidate_count": 2,
+  "announcements_fetched": 1,
+  "candidate_announcements": 1,
+  "announcements_stored": 1,
+  "announcements_replaced": 0,
+  "announcements_skipped": 0,
+  "api_status": "success",
+  "api_error": null,
+  "records": [
+    {
+      "sgxnet_id": "EXAMPLE123",
+      "symbol": "D05",
+      "title": "Cash Dividend/ Distribution::Mandatory",
+      "type": "Cash Dividend/ Distribution",
+      "published_at": "2026-08-13T00:30:00Z",
+      "url": "https://links.sgx.com/1.0.0/corporate-announcements/EXAMPLE123/",
+      "document_type": "PDF",
+      "document_hash": "8f40a1ae0cd2d868b946d40f23720ee28d7ccdc617349194819f30fba8a43100",
+      "retrieved_at": "2026-08-13T01:00:00Z",
+      "source": "sgx_public_website",
+      "announcement_sections": {
+        "Event Dates": "Record Date: 20/08/2026; Ex Date: 19/08/2026; Pay Date: 02/09/2026",
+        "Dividend Details": "Payment Type: Tax Exempted (1-tier); Gross Rate: SGD 0.05; Net Rate: SGD 0.05"
+      },
+      "event_type": "cash_dividend",
+      "event_data": {
+        "record_date": "20/08/2026",
+        "ex_date": "19/08/2026",
+        "pay_date": "02/09/2026",
+        "gross_rate": "SGD 0.05"
+      },
+      "attachments": [
+        {
+          "name": "Dividend notice",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/EXAMPLE123/notice.pdf",
+          "local_path": "reports/generated/extraction/attachments/EXAMPLE123/01-notice.pdf",
+          "cache_status": "cached",
+          "sha256": "cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+        }
+      ]
+    }
+  ]
+}
