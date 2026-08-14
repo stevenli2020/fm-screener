@@ -1,0 +1,2682 @@
+--- PAGE 1 ---
+                 Singapore Telecommunications Limited
+                      And Subsidiary Companies
+
+
+
+
+                    MANAGEMENT DISCUSSION AND ANALYSIS OF
+                  FINANCIAL CONDITION, RESULTS OF OPERATIONS
+                               AND CASH FLOWS
+                           FOR THE HALF YEAR ENDED
+                              30 SEPTEMBER 2025
+
+
+
+
+The financial statements for the half year ended, and as at, 30 September 2025 are unaudited.
+
+Numbers in all tables may not exactly add due to rounding.
+
+For all pages, "@" denotes more than +/- 500%, "*" denotes less than +/- S$0.5 million or A$0.5 million and “**”
+denotes less than +/- 0.05%, unless otherwise indicated.
+
+For all tables, a negative sign for year-on-year change denotes a decrease in operating revenue, expense, gain
+or loss.
+
+--- PAGE 2 ---
+Singapore Telecommunications Ltd And Subsidiary Companies
+
+
+
+
+Table Of Contents
+Section 1 : Group                                                                                                        Pg
+ Performance At A Glance………………….………………………………………………………1
+ Financial Highlights……...…………………………………………………………………………2
+ Group Summary Income Statement………………………………………………………………3
+ Review Of Group Operating Performance…………………..……………………..…………… 4
+ Net Finance Expense………………………………………………………………………………6
+ Exceptional Items (Post-Tax)………………………………………………………………………7
+ Tax Expense…………………………………………………………………………………………8
+ Summary Statements Of Financial Position ……………………………………………………9
+ Capital Management……………………………………………………………………………… 10
+ Cash Flow …………………………………………………..………………....…………....………                                                                      11
+ Outlook For The Current Financial Year Ending 31 March 2026………………………………13
+ Dividend…................................................................................................................ 13
+
+Section 2 : Optus
+ Summary Income Statement………...……………………………………………………………14
+ Financial Performance…..…………………………………………………………………………15
+ Business Highlights…................................................................................................ 16
+
+Section 3 : Singtel Singapore
+ Summary Income Statement………...……………………………………………………………17
+ Financial Performance…..…………………………………………………………………………18
+ Business Highlights…................................................................................................ 19
+
+Section 4 : NCS
+ Summary Income Statement………...……………………………………………………………20
+ Financial Performance …..…………………………………………………………………………21
+ Business Highlights…................................................................................................ 22
+
+Section 5 : Digital InfraCo
+ Summary Income Statement………...……………………………………………………………23
+ Financial Performance…......…..…………………………………………………………………24
+ Business Highlights…................................................................................................ 25
+
+Section 6 : Associates/ Joint Ventures
+ Share Of Results Of Associates/ Joint Ventures………...…………………………………… 26
+ Financial Performance and Business Highlights …..……………………………………………28
+ Key Operational Data………...……………………………………………………………………32
+
+Section 7 : Product Information
+
+ Singapore Product Drivers………………….………………………………………………………33
+ Australia Product Drivers……...……………………………………………………………………34
+
+Section 8 : Glossary………………….……………………………………………………………35
+
+--- PAGE 3 ---
+Singapore Telecommunications Ltd And Subsidiary Companies
+
+
+
+
+Table Of Contents (continued)
+
+Appendix 1: Outlook For The Current Financial Year Ending 31 March 2026
+Appendix 2 : Group Operating Revenue And Expenses
+Appendix 3 : Business Segment Results
+Appendix 4 : Optus Financials In Australian Dollars
+Appendix 5 : Group Statements Of Financial Position
+Appendix 6 : Group Cash Flow Statement
+Appendix 7 : Currency Risk Management And Other Matters
+Appendix 8 : Proforma Information And Mobile Customer Base
+
+--- PAGE 4 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                           Page 1
+
+
+SECTION 1 : GROUP
+
+PERFORMANCE AT A GLANCE
+                                                             Financial Year                         Half Year
+                                                   Mar 25        Mar 24     Mar 23    Sep 25    Mar 25     Sep 24   Mar 24
+                                                   S$ m          S$ m       S$ m       S$ m     S$ m        S$ m    S$ m
+Operating Highlights
+                                        (1)
+ Group mobile customer base (million)                  809          786         775      820       809        788      786
+ Mobile customer market share (%)
+ - Singapore                                          44.6         46.3        45.5      45.4      44.6      45.1      46.3
+ - Australia                                          31.0         30.9        31.2      31.1      31.0      30.7      30.9
+ - Airtel India                                       33.7         33.1        32.4      33.5      33.7      33.2      33.1
+                  (2)
+ - Telkomsel                                          50.7         50.2        49.1      47.1      50.7      50.2      50.2
+ - AIS                                                48.4         46.9        47.8      49.6      48.4      48.4      46.9
+ - Globe                                              51.2         49.9        56.4      51.4      51.2      50.0      49.9
+
+Group Financials (S$ million)
+ Operating revenue                                  14,146       14,128      14,624     6,910     7,154     6,992     7,099
+                                 (3)                14,146       14,051      14,461     6,910     7,154     6,992     7,099
+ Underlying operating revenue
+ EBITDA                                              3,792        3,597       3,686     1,982     1,845     1,947     1,810
+ Share of associates' pre-tax profits                2,499        2,338       2,287     1,379     1,330     1,169     1,143
+ EBIT                                                3,880        3,491       3,399     2,209     1,974     1,907     1,716
+ Underlying net profit                               2,470        2,261       2,053     1,353     1,280     1,190     1,140
+ Net profit/(loss)                                   4,017          795       2,225     3,404     2,786     1,232    (1,341)
+ Free cash flow                                      2,476        2,569       2,613     1,446     1,177     1,299     1,380
+ Cash capex                                          2,133        2,150       2,162     1,278     1,294       839     1,073
+
+Key Financial Indicators
+ Proportionate EBITDA from outside Singapore (%)        84           83          82       84        85         82       84
+                                         (4)
+ Return on invested capital "ROIC" (%)                 9.6           9.3        8.3
+                         (5)
+ Underlying ROIC (%)                                   9.8           9.1        7.9
+
+ Return on equity (%)                                 16.5           3.3        8.5
+
+
+
+Notes:
+(1) Comprised mobile customers of Singtel, Optus, Airtel, Telkomsel, Globe and AIS.
+(2) The comparatives had not included Smartfren’s mobile customer base in the calculation of market shares.
+(3) Excluded contribution from Trustwave. The Group deconsolidated Trustwave from October 2023.
+(4) Defined as EBIT (post-tax) divided by average capital (excluding Optus goodwill).
+(5) Defined as EBIT (post-tax) divided by average capital (excluding Optus goodwill and exceptional items).
+
+--- PAGE 5 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                Page 2
+
+
+SECTION 1 : GROUP
+
+FINANCIAL HIGHLIGHTS
+
+FOR THE HALF YEAR ENDED 30 SEPTEMBER 2025
+
+         Operating revenue declined 1.2%, while EBITDA and OpCo EBIT1 rose 1.8%
+          and 13% respectively amid a 6% depreciation of the Australian Dollar. In
+          constant currency terms2, operating revenue, EBITDA and OpCo EBIT1
+          increased 1.9%, 4.9% and 14% respectively, driven mainly by NCS and
+          Optus.
+
+         Associates’ post-tax profit contributions was up 9.8%. Excluding Intouch
+          and in constant currency terms2, the associates’ post-tax contributions
+          would have risen 23%3 due to strong performances from Airtel and AIS
+          despite lower contributions from Telkomsel and Globe.
+
+         Underlying net profit increased 14%.
+
+         A net exceptional gain of S$2.05 billion was recorded, primarily from the
+          sale of a partial stake in Airtel and the Intouch-Gulf Energy merger.
+
+         With a higher net exceptional gain, net profit increased to S$3.40 billion.
+
+         Free cash flow was up 11% on higher operating cash, partially offset by
+          higher capital expenditure.
+
+
+
+
+1 OpCo EBIT is defined as EBITDA less depreciation and amortisation charges.
+2 Assuming constant exchange rates for the Australian Dollar and/or regional currencies (Indian Rupee, Indonesian
+
+    Rupiah, Philippine Peso and Thai Baht) from the corresponding period ended 30 September 2024.
+3   Excluded results of Intouch which ceased to be equity accounted from 1 April 2025 as well as withholding tax
+    expense on dividends received.
+
+--- PAGE 6 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                           Page 3
+
+
+SECTION 1 : GROUP
+
+GROUP SUMMARY INCOME STATEMENT
+For The Half Year Ended 30 September 2025
+
+                                                                                        Half Year                  YOY
+                                                                                         30 Sep                       Chge
+                                                                                 2025          2024        Chge      in cc (1)
+                                                                                 S$ m          S$ m         %           %
+
+ Operating revenue                                                                6,910         6,992       -1.2        1.9
+ Operating expenses                                                              (5,083)       (5,172)      -1.7        1.4
+                                                                                 1,827         1,820         0.4        3.5
+
+ Other income                                                                      156              127     22.3       25.0
+
+ EBITDA                                                                          1,982         1,947         1.8        4.9
+   - EBITDA margin                                                               28.7%         27.8%
+
+ Share of associates' pre-tax profits                                            1,379         1,169        18.0       22.8
+
+ EBITDA and share of associates' pre-tax profits                                 3,361         3,116         7.9       11.6
+
+ Depreciation                                                                     (992)        (1,070)      -7.3       -3.6
+ Amortisation of intangibles                                                      (160)          (139)      15.0       20.2
+                                                                                 (1,152)       (1,209)      -4.7       -0.9
+
+
+ EBIT                                                                            2,209         1,907        15.8       19.5
+ OpCo EBIT (2)                                                                     830              738    12.5        14.3
+
+ Net finance expense                                                              (166)         (175)       -5.3       -1.1
+
+ Profit before exceptional items and tax                                         2,043         1,731        18.0       21.6
+
+ Taxation                                                                         (683)         (535)       27.8       33.0
+
+ Profit after tax                                                                1,359         1,197        13.6       16.5
+ Minority interests                                                                  (6)             (7)   -13.2      -13.2
+
+ Underlying net profit                                                           1,353         1,190        13.7       16.7
+ Exceptional items (post-tax)                                                    2,050               42       @          @
+
+ Net profit                                                                      3,404         1,232       176.4     178.6
+
+ Excluding contributions from Intouch (3)
+ Share of associates' pre-tax profits                                            1,379         1,095        25.9       31.0
+
+ Share of associates' post-tax profits                                             899              759     18.5       22.5
+
+ Underlying net profit                                                           1,353         1,140        18.7       21.7
+
+“@” denotes more than +/- 500%.
+
+Unless otherwise stated, the presentation of income statements in this document is consistent with prior periods.
+
+Notes:
+(1) Assuming constant exchange rates for the Australian Dollar and/or regional currencies from the corresponding
+    period ended 30 September 2024.
+(2) OpCo EBIT is defined as EBITDA less depreciation and amortisation charges.
+(3) Excluded results of Intouch which ceased to be equity accounted from 1 April 2025 as well as withholding tax
+    expense on dividends received.
+
+--- PAGE 7 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                   Page 4
+
+
+SECTION 1 : GROUP
+
+REVIEW OF GROUP OPERATING PERFORMANCE
+
+For The Half Year Ended 30 September 2025
+
+The Group’s operating revenue declined 1.2% while EBITDA and OpCo EBIT4 grew 1.8% and
+13% respectively amid a 6% depreciation of the Australian Dollar. In constant currency terms,
+the Group’s operating revenue, EBITDA and OpCo EBIT4 rose 1.9%, 4.9% and 14%
+respectively, driven mainly by NCS and Optus.
+
+Optus’ operating revenue was up 1.7%. Mobile service revenue rose 4.8% mostly from postpaid,
+while equipment sales revenue fell due to lower device sales. Home revenue was higher on
+ARPU growth. Overall wholesale, enterprise and business fixed revenue decreased, mainly due
+to lower project-based satellite revenue which was partially offset by higher enterprise fixed and
+network sharing revenues. With operating expenses stable from the same period last year,
+EBITDA increased 7.2%. Depreciation and amortisation expense was higher due to amortisation
+of spectrum acquired in the prior year. Consequently, EBIT increased 27%.
+
+Singtel Singapore reported stable operating revenue despite a highly competitive market, with
+mixed performance across its service segments. Data and Internet, and ICT revenues were
+higher. However, mobile service revenue fell 9.7% on intense price competition and reduced
+roaming, partially mitigated by growth in Internet of Things (IoT) connectivity. EBITDA declined
+3.2% on reduced margins. EBIT remained stable following lower depreciation and amortisation
+charge due to a smaller asset base.
+
+NCS’ operating revenue grew 6.2%, driven primarily by growth in its Gov+ and Telco+
+businesses. EBITDA and EBIT increased 30% and 41% respectively, reflecting solid operational
+performance underpinned by margin expansion across all business segments, better delivery
+quality and cost optimisation. The results were also lifted by a one-off credit from a sub-
+contractor. NCS booked S$1.8 billion in orders in the first half of the year, driven by new contract
+wins and renewals across various industries.
+
+Digital InfraCo’s revenue fell 1.5% due to a customer reservation fee received for DC Tuas in
+the same period last year which did not recur, as well as a decline in project-based satellite
+deployment services. However, the decreases were partially offset by new data centre services
+and price increases, and contributions from its AI cloud business, RE:AI, which launched last
+October. EBITDA remained stable as operating expenses were lower. After accounting for a
+lower depreciation and amortisation charge as certain assets reached end-of-life, EBIT
+increased 5.8%.
+
+Pre-tax and post-tax contributions from the associates grew 18% and 9.8% respectively.
+Excluding Intouch, the pre-tax and post-tax contributions would have risen 26% and 19%
+respectively. If currency translation effects are also excluded, the pre-tax and post-tax
+contributions would have increased 31% and 23% respectively. The increase reflected strong
+performances from Airtel and AIS, despite lower contributions from Telkomsel and Globe.
+
+
+
+
+4 OpCo EBIT is defined as EBITDA less depreciation and amortisation charges.
+
+--- PAGE 8 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                   Page 5
+
+
+SECTION 1 : GROUP
+
+
+Airtel Group saw robust earnings growth in both India and Africa from strong execution and
+higher mobile tariffs. Bharti Telecom reported a larger net loss due to higher finance costs after
+raising its Airtel stake through borrowings, and increased dividend tax mainly from Airtel’s larger
+payout. AIS posted stronger profit due to revenue growth and effective cost management.
+Telkomsel’s net profit fell due to weaker mobile performance, a capital gain from sale and
+leaseback of indoor infrastructure in the last corresponding period, and higher interest expenses.
+Globe’s earnings were lower due to weak consumer spending, as stable EBITDA and increased
+contributions from its fintech associate were offset by higher depreciation and finance charges.
+
+Net finance expense declined 5.3% as a result of a foreign exchange gain as compared to a
+loss in the last corresponding period, and a lower interest expense. The gains were partially
+offset by a reduction in interest income.
+
+Consequently, underlying net profit increased 14% to S$1.35 billion.
+
+The net exceptional gain in the first half of the year comprised mainly gains from the sale of a
+partial stake in Airtel and the Intouch-Gulf Energy merger, partially offset by decommissioning
+and other provisions.
+
+With a higher net exceptional gain, net profit increased to S$3.40 billion.
+
+Free cash flow for the first half of the year increased 11% to S$1.45 billion. The increase was
+mainly attributable to improved operating performance, working capital movements and higher
+dividends received from the associates, which were partially offset by higher capital expenditure.
+
+--- PAGE 9 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                         Page 6
+
+
+SECTION 1 : GROUP
+
+NET FINANCE EXPENSE
+
+                                                                              Half Year
+                                                                               30 Sep           YOY
+                                                                           2025       2024      Chge
+                                                                           S$ m      S$ m        %
+
+ Net interest expense
+ - Interest expense                                                         (222)     (238)       -6.8
+ - Interest income                                                            52        75       -31.0
+                                                                            (170)     (163)        4.3
+
+ Other finance income/(expense)
+ - Investment income (1)                                                       *         *         nm
+ - Foreign exchange gain/(loss)                                                5       (12)        nm
+ - Net fair value loss (2)                                                    (1)       (1)       28.6
+                                                                               4       (12)        nm
+ Net finance expense                                                        (166)     (175)        -5.3
+
+“*” denotes less than +/- S$0.5 million and “nm” denotes not meaningful.
+
+Notes:
+(1) Included dividend income from ‘Fair Value through Other Comprehensive Income’ investments and other
+    investment gains/losses.
+(2) Comprised mainly adjustments for hedging instruments and other financial instruments including options
+    measured at fair values under SFRS(I) 9, Financial Instruments.
+
+
+Interest expense decreased on payment of a previously accrued ATO interest-bearing provision.
+Interest income declined on a lower average interest rate.
+
+The foreign exchange gain arose mainly from the revaluation of US Dollar and Euro
+denominated monetary assets.
+
+--- PAGE 10 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                     Page 7
+
+
+SECTION 1 : GROUP
+
+EXCEPTIONAL ITEMS (POST-TAX) (1)
+                                                                                           Half Year
+                                                                                            30 Sep            YOY
+                                                                                       2025        2024       Chge
+                                                                                       S$ m        S$ m        %
+
+                                                   (2)
+ Net gain on disposal of partial stake in Airtel                                       1,665          11          @
+ Net gain on merger of Intouch and Gulf Energy                                           746           -         nm
+ Dilution gain on Airtel                                                                   -          54         nm
+ Provision for decommissioning cost of HFC cables                                       (124)             -      nm
+ Provision for onerous lease contracts                                                   (23)             -      nm
+ Impairment of Optus Sport's assets                                                      (23)             -      nm
+ Staff restructuring costs                                                               (30)         (23)     28.9
+         (3)
+ Others                                                                                  (24)         (12)    107.0
+                                                                                       2,186           31        @
+
+  Tax (expense)/credit on exceptional items                                             (136)           5        nm
+
+ Group exceptional items (post-tax)                                                    2,051          36         @
+
+  Share of Airtel's exceptional gains                                                       -         11         nm
+  Share of Globe's exceptional gains                                                        *          *         nm
+  Share of other associates' exceptional losses                                             -         (5)        nm
+
+ Share of associates' exceptional gains (post-tax)                                          *           6       nm
+
+ Net exceptional gains (post-tax)                                                      2,050          42         @
+
+“*” denotes less than +/- S$0.5 million, “@” denotes more than +/- 500% and “nm” denotes not meaningful.
+
+Notes:
+(1) Exceptional items are material non-recurring items for which separate disclosure is considered necessary to avoid
+    distortion of reported results of performance.
+(2) The Group disposed 0.003% of its direct stake in Airtel in the last corresponding period.
+(3) Included provisions made on prudent grounds for the Group’s various regulatory exposures and related
+    remediation expenses. Other net loss in the last corresponding period comprised mainly certain provisions and
+    accelerated depreciation of Comcentre’s assets.
+
+In May 2025, the Group sold 1.2% of its direct stake in Airtel for net proceeds of S$1.93 billion.
+Following the completion of the divestments, Singtel’s effective stake in Airtel is 28.1%5, down
+from 29.4% previously. The net exceptional gain was S$1.67 billion6.
+
+Intouch, which the Group had an equity stake of 21.3%, merged with Gulf Energy in April 2025
+to form Gulf Development Public Company Limited (“Gulf”). Gulf took over all assets, liabilities,
+rights, duties and responsibilities of the former entities. Following the merger, the Group holds
+7.7% of equity stake in Gulf and Gulf has been classified as a “Fair Value Through Other
+Comprehensive Income” investment7. The resulting exceptional gain arising from this merger
+was S$746 million.
+
+A provision of S$124 million was made for the decommissioning cost of Hybrid Fibre-Coaxial
+(HFC) cables in Australia, reflecting the constructive obligation to decommission the cables over
+the next few years. In addition, S$23 million of provision was made for onerous lease contracts
+related to the poles supporting the coaxial cables.
+
+An impairment charge of S$23 million was recorded for property, plant and equipment upon
+Optus Sport’s closure.
+
+5 This comprises a direct stake of 8.0% in Airtel, and 20.1% indirect stake through Bharti Telecom.
+6 On a post-tax basis, the net exceptional gain was S$1.47 billion.
+7 Under Singapore Financial Reporting Standards, dividends (if any) from Gulf will be recognised as investment
+
+income in the income statement, and fair value changes in carrying value of Gulf will be taken to reserves.
+
+--- PAGE 11 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                 Page 8
+
+
+SECTION 1 : GROUP
+
+TAX EXPENSE
+
+                                                                                      Half Year
+                                                                                         30 Sep           YOY
+                                                                                  2025            2024    Chge
+                                                                                  S$ m            S$ m     %
+
+Income tax expense
+  Optus                                                                              31             23     38.5
+  Singtel and other subsidiaries                                                     72             61     18.6
+
+  Total                                     (a)                                     104             84     24.0
+
+  Share of associates' tax expense          (b)                                     480            350     37.2
+                                                     (1)
+  Withholding taxes on associates' dividend income                                  100            101      -1.3
+
+  Total                                                                             683            535     27.8
+
+  Profit before exceptional items and tax                                         2,043           1,731    18.0
+  Exclude:
+  Share of associates' pre-tax profits                                            (1,379)     (1,169)      18.0
+
+  Adjusted pre-tax profit                   (c)                                     664            563     18.0
+
+   Effective tax rate of Singtel and
+    subsidiaries                         (a)/(c)                                  15.6%           14.8%
+
+  Share of associates' pre-tax profits      (d)                                   1,379           1,169    18.0
+
+   Effective tax rate of associates      (b)/(d)                                  34.8%           30.0%
+
+
+Note:
+(1) Withholding taxes are deducted at source when dividends are remitted by the overseas associates. For
+    accounting purposes, the dividend income and related withholding taxes are accrued when declared by the
+    associates. Dividend income has no impact on the income statement of the Group as they are eliminated at the
+    Group. The cash inflows upon the receipt of dividend are shown on page 11.
+
+
+
+Overall tax expense grew in line with higher earnings. The effective tax rate of the associates
+was higher as BTL incurred more dividend tax in India mainly from Airtel’s larger payout.
+
+--- PAGE 12 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                               Page 9
+
+
+SECTION 1 : GROUP
+
+SUMMARY STATEMENTS OF FINANCIAL POSITION
+
+                                                                                       As at
+                                                                       30 Sep         31 Mar         30 Sep
+                                                                        2025           2025           2024
+                                                                        S$ m           S$ m           S$ m
+
+ Current assets (excluding cash)                                         5,233          5,418          5,575
+                             (1)
+ Cash and cash equivalents                                               3,365          2,774          2,679
+ Non-current assets                                                     39,178         38,592         36,908
+ Total assets                                                           47,776         46,783         45,161
+
+ Current liabilities                                                     7,189          8,379          9,004
+ Non-current liabilities                                                13,343         12,448         11,563
+ Total liabilities                                                      20,531         20,827         20,567
+
+ Net assets                                                             27,244         25,956         24,594
+
+ Share capital                                                           4,573          4,573          4,573
+ Retained earnings                                                      26,720         24,993         23,383
+ Currency translation reserve (loss)                                    (4,881)        (4,513)        (4,294)
+ Other reserves                                                           (331)          (174)          (133)
+ Equity attributable to shareholders                                    26,081         24,879         23,529
+ Perpetual Securities                                                    1,013          1,013          1,013
+ Minority interests                                                        151             65             53
+ Total Equity                                                           27,244         25,956         24,594
+
+Note:
+(1) Comprised cash and bank balances and fixed deposits (including those maturing longer than three months).
+
+
+
+The Group continued to be in a strong financial position as at 30 September 2025. Singtel’s
+ratings of A1 by Moody’s and A by S&P Global Ratings remain strong among its peers in the
+global telecommunications industry.
+
+A higher currency translation loss was recorded from 31 March 2025, primarily from Airtel,
+Telkomsel and Globe.
+
+--- PAGE 13 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                Page 10
+
+
+SECTION 1 : GROUP
+
+CAPITAL MANAGEMENT
+
+                                                                                            As at
+                                                                             30 Sep       31 Mar       30 Sep
+                                                                              2025         2025         2024
+                                                                              S$ m         S$ m         S$ m
+
+Gross debt
+ Current debt                                                                     550        1,469         2,444
+ Non-current debt                                                             10,839       10,203          9,182
+ Gross debt as reported in statement of financial position                    11,389       11,672        11,626
+                                  (1)
+ Related net hedging liability                                                    725          544           778
+Hedged gross debt                                                             12,114       12,215        12,404
+                                        (2)
+Less : Cash and cash equivalents                                              (3,365)      (2,774)       (2,679)
+Net debt                                                                        8,749        9,442         9,725
+
+                            (3)
+Gross debt gearing ratio                                                       30.8%        32.0%        33.5%
+
+Net debt gearing ratio                                                         24.3%        26.7%        28.3%
+                                                              (4)
+Net debt to EBITDA and share of associates' pre-tax profits                    1.30X         1.50X        1.56X
+
+Interest cover:
+                                                                       (5)
+EBITDA and share of associates' pre-tax profits/net interest expense           19.8X         18.1X        19.1X
+
+
+Notes:
+(1) The net hedging liability relates to the fair values of cross currency and interest rate swaps.
+(2) Comprised cash and bank balances and fixed deposits (including those maturing longer than three months).
+(3) Gross debt gearing ratio refers to the ratio of gross debt to gross capitalisation. Gross capitalisation is the
+    aggregate of gross debt and equity.
+(4) Net debt to EBITDA and share of associates’ pre-tax profits is calculated on an annualised basis.
+(5) Net interest expense refers to interest expense less interest income.
+
+
+
+As at 30 September 2025, net debt decreased by S$693 million from six months ago mainly due
+to a higher cash balance attributable to stronger free cash flow and net proceeds from
+divestments. With a lower net debt, the gearing ratio fell to 24.3% from 26.7%.
+
+--- PAGE 14 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                    Page 11
+
+
+SECTION 1 : GROUP
+
+CASH FLOW
+                                                                                          Half Year
+                                                                                           30 Sep             YOY
+                                                                                       2025       2024        Chge
+                                                                                       S$ m       S$ m         %
+
+  Operating cash flow (before dividends from associates)                               1,700       1,155        47.1
+  Dividends/Distributions received from associates
+   (net of withholding tax)                                                            1,024         983         4.2
+  Net cash inflow from operating activities                                            2,724       2,138        27.4
+  Net cash inflow/(outflow) for investing activities                                     225       (2,195)       nm
+  Net cash outflow for financing activities                                           (2,350)      (1,936)      21.4
+
+Net change in cash and cash equivalents                                                  599       (1,992)       nm
+Exchange effects on cash and cash equivalents                                                (6)       (5)      15.7
+Cash and cash equivalents at beginning of period (1)                                   2,766       4,595       -39.8
+                                                 (1)
+Cash and cash equivalents at end of period                                             3,359       2,598        29.3
+
+Group cash capex
+  Optus                                                                                  608         526        15.5
+  Singtel and other subsidiaries                                                         670         312       114.6
+                                                                                       1,278         839        52.4
+
+Group free cash flow
+  Optus                                                                                  392         352        11.4
+  Singtel and other subsidiaries                                                          29         (36)        nm
+Group free cash flow (before associates' dividends/distributions)                        422         317        33.1
+Dividends/Distributions received from associates (net of withholding tax)              1,024         983         4.2
+                                                                                       1,446       1,299        11.3
+
+“nm” denotes not meaningful.
+
+Note:
+(1) For purpose of statutory reporting, cash and cash equivalents excluded restricted cash and fixed deposits with
+    original maturity longer than three months.
+
+                                                                                         Half Year
+  Cash Dividends/Distributions from                                                       30 Sep              YOY
+   Associates/Joint Ventures                                                         2025       2024          Chge
+                                                                                     S$ m       S$ m           %
+                        (1)
+   Telkomsel                                                                           533          558         -4.5
+         (2)
+   AIS                                                                                 347          245         41.7
+               (3)
+   Globe                                                                                 78          79         -2.1
+                  (4)
+   Intouch                                                                               -          111          nm
+            (5)
+   Airtel                                                                              110           67         64.1
+
+Regional associates                                                                   1,067        1,060         0.7
+Other associates
+                                         (6)
+   NetLink NBN Trust/NetLink Trust                                                       26          26          1.2
+   Others                                                                                47          12        300.9
+                                                                                         72          37         94.6
+
+Total (before tax)                                                                    1,140        1,097         3.9
+   Withholding taxes                                                                   (115)        (114)        1.3
+
+Dividends/Distributions received from
+ associates/joint ventures (net of withholding tax)                                   1,024         983          4.2
+
+
+“nm” denotes not meaningful.
+
+--- PAGE 15 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                        Page 12
+
+
+SECTION 1 : GROUP
+Notes: Dividend policy, and receipts after 30 September 2025
+(1) Telkomsel declared a full year ordinary dividend of 100% on its FY2024 core net profit (FY2023: 100%).
+(2) AIS’ dividend policy is to pay dividend at a minimum of 70% of its net profit. AIS declared a full year dividend of
+    90% on its FY2024 net profit (FY2023: 88%).
+(3) Globe’s dividend policy is to pay 60% to 90% of prior year’s core net profit. Globe will pay its next quarterly dividend
+    of PHP 25 per common share in December 2025. The Group’s share of this dividend is approximately S$38
+    million.
+(4) In April 2025, Intouch merged with Gulf Energy to form Gulf Development Public Company Limited, of which
+    Singtel holds an equity stake of 7.7% and will account for it as a “Fair Value Through Other Comprehensive
+    Income” investment.
+(5) Airtel does not have a fixed dividend policy.
+(6) NetLink NBN Trust’s policy is to distribute 100% of its cash available for distribution (CAFD), which includes
+    distributions from its wholly-owned subsidiary NetLink Trust (“NLT”). NLT’s distribution policy is to distribute at
+    least 90% of its distributable income to NetLink NBN Trust after setting aside reserves and provisions for, amongst
+    others, future capital expenditure, debt repayment and working capital as may be required. On 3 November 2025,
+    NetLink NBN Trust declared a distribution of S$0.0271 per unit for its distribution period for the half year ended
+    30 September 2025 which will be payable in November 2025. The Group’s share of this distribution is
+    approximately S$26 million.
+
+
+
+Net cash inflow from operating activities, excluding associates’ dividend receipts, was up a
+strong 47% to S$1.70 billion, primarily from improved operational performance and working
+capital movements. Dividends from the associates also rose, attributed to higher payouts from
+AIS and Airtel, along with a special dividend from SingPost. These inflows were partially offset
+by the absence of a dividend from Intouch. Consequently, total cash flow from operations rose
+27% to S$2.72 billion.
+
+Net cash inflow from investing activities amounted to S$225 million. In the first half of the year,
+the Group received proceeds of S$1.93 billion from the sale of the Group’s 1.2% stake in Airtel,
+as well as S$337 million from the deemed disposal of a 5.8% stake in Nxera8. Cash outflow for
+capital expenditure was up 52% to S$1.28 billion, including Optus’ capital expenditure of S$608
+million (A$726 million). Mobile network investment was S$332 million (A$396 million) in Australia
+and S$126 million in Singapore. Other investing cash outflows included a payment of S$510
+million for a 1.4% stake in AIS, S$104 million for the Group’s proportionate stake in GXS Bank
+Pte. Ltd. and a second tranche payment of S$100 million for the Group’s subscription of
+redeemable non-voting preference shares in the capital of STT GDC Pte. Ltd.
+
+The Group’s free cash flow grew 11% to S$1.45 billion mainly on higher operating cash partially
+offset by higher capital expenditure.
+
+Net cash financing outflow of S$2.35 billion for the first half year were largely payments of
+S$1.65 billion for last financial year’s final dividend, net repayment of borrowings of S$389
+million and net interest payments for borrowings and swaps of S$227 million.
+
+
+
+
+8 Stellar Asia Holdings II Pte. Ltd., a fund managed by global investment firm, Kohlberg Kravis Roberts & Co.
+L.P.(KKR), has committed up to S$1.1 billion for a 20% stake in Nxera.
+
+--- PAGE 16 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                  Page 13
+
+
+SECTION 1 : GROUP
+
+OUTLOOK FOR THE CURRENT FINANCIAL YEAR ENDING 31 MARCH 2026
+
+For the first half of the year ended 30 September 2025, OpCo EBIT grew 13% and would have
+risen 14% in constant currency terms. In September, Optus experienced a serious outage that
+impacted emergency services, and investigations into the outage are currently ongoing.
+
+Taking into consideration the strong first-half growth and uncertainties in Australia as a result of
+the outage, the Group is revising its earlier guidance of high single-digit growth and now expects
+OpCo EBIT for the financial year ending 31 March 2026 to grow between high single digits and
+low double digits9.
+
+Dividends from the regional associates are expected to be S$1.1 billion, up from S$1.0 billion.
+
+Other than the above, the Group affirms its guidance previously issued in May 2025.
+
+Please refer to Appendix 1 for further details on the outlook for the current financial year.
+
+
+
+DIVIDEND
+
+On 11 November 2025, the Board approved an interim ordinary dividend of 8.2 cents (H1
+FY2025: 7.0 cents) per share for the half year ended 30 September 2025, up 17% from the last
+corresponding period. This comprises a core dividend of 6.4 cents (H1 FY2025: 5.6 cents) per
+share and a value realisation dividend of 1.8 cents (H1 FY2025: 1.4 cents) per share, totalling
+S$1.35 billion. The core dividend represented 78% (H1 FY2025: 78%) of underlying net profit
+for the half year ended 30 September 2025.
+
+The interim ordinary dividend of 8.2 cents per share will be paid on 9 December 2025.
+
+
+
+
+9 Based on average exchange rate during FY2025 of AUD1: S$0.8725.
+
+--- PAGE 17 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                            Page 14
+
+
+Section 2: OPTUS
+
+
+                                                 OPTUS
+Optus offers mobile, equipment sales, fixed voice and data, satellite, ICT and managed
+services in Australia.
+
+
+
+SUMMARY INCOME STATEMENT
+For The Half Year Ended 30 September 2025
+                                                                         Half Year
+                                                                          30 Sep                      YoY
+                                                                  2025               2024            Chge
+                                                                  A$m                A$m              %
+
+
+Operating revenue                                                  4,090              4,022           1.7
+Operating expense                                                 (2,971)            (2,985)          -0.5
+                                                                   1,120              1,038           7.9
+Other income                                                            67                 70         -4.1
+EBITDA                                                             1,187              1,107           7.2
+  - margin                                                         29.0%             27.5%
+Depreciation & amortisation                                          (903)             (885)          2.1
+EBIT                                                                 283                223          27.2
+
+                                                                         Half Year
+                                                                          30 Sep                      YoY
+                                                                  2025               2024            Chge
+                                                                  A$m                A$m              %
+
+
+  Incoming                                                            105                103          2.0
+  Outgoing                                                          2,020              1,924          5.0
+Total Mobile Service                                                2,125              2,027          4.8
+  Equipment                                                           681                714          -4.6
+Total Mobile Revenue                                                2,806              2,741          2.4
+
+
+  NBN Broadband                                                       535                520          2.8
+  Fixed Wireless Access ("FWA")                                          92                 88        4.7
+           (1)
+  Others                                                                 30                 33       -10.0
+Total Home Revenue                                                    657                641          2.4
+
+
+Wholesale and Enterprise & Business Fixed                             628                640          -1.8
+
+
+Operating revenue                                                   4,090              4,022          1.7
+
+Note:
+(1) The reduction was mainly attributable to lower revenues from subscription-based TV services and low-margin
+    home installation business upon cessation.
+
+--- PAGE 18 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                              Page 15
+
+
+Section 2: OPTUS
+
+                                                                Half Year
+                                                                 30 Sep                YoY
+                                                         2025               2024       Chge
+                                                         A$m                A$m         %
+
+
+Cost of sales (1)                                         1,139              1,192     -4.4
+Selling & administrative (1)                                570               600      -5.0
+Traffic expenses                                            556               553       0.5
+              (1)
+Staff costs                                                 478               436       9.7
+Repair & maintenance                                        181               167       8.7
+Others                                                       46                37      23.8
+Operating expenses                                        2,971              2,985     -0.5
+
+Note:
+(1) Comparatives have been restated.
+
+
+
+FINANCIAL PERFORMANCE
+
+For The Half Year Ended 30 September 2025
+
+Optus’ EBITDA and EBIT increased 7.2% and 27% respectively in the first half of the year.
+The improved performance was led by growth in mobile, enterprise fixed and network sharing
+revenues. This was partially offset by reductions in equipment sales and project-based satellite
+revenues and higher depreciation and amortisation from spectrum acquired in prior year.
+
+Mobile service revenue grew 4.8%, mainly from postpaid. However, mobile equipment sales
+revenue fell 4.6% due to lower device sales. Consequently, overall Mobile revenue was up
+2.4%.
+
+Home revenue rose 2.4% with NBN and FWA revenue up 2.8% and 4.7% respectively, driven
+by higher ARPU.
+
+Wholesale and Enterprise & Business Fixed revenue declined 1.8%, mainly from lower
+project-based satellite revenue, partially offset by growth in Enterprise managed network
+services and network sharing revenue.
+
+Operating expenses were stable. Cost of sales fell due to reduced device sales, which was
+offset by higher staff costs from lower capitalisation as well as increased repairs and
+maintenance because of software licensing fees.
+
+As at 30 September 2025, Optus has provided for the cost of decommissioning HFC cables
+and related onerous lease contracts, as well as the impairment of certain Optus Sport’s assets.
+These are classified as exceptional losses of the Group (see page 7).
+
+--- PAGE 19 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                              Page 16
+
+
+Section 2: OPTUS
+
+BUSINESS HIGHLIGHTS
+Optus’ mobile customer base increased by 169,000 from a year ago. This was primarily led
+by an increase of 124,000 prepaid customers due to amaysim, while the postpaid customer
+base grew by 30,000. The home customer base was up 8,000, mainly from FWA, partly offset
+by a decline in the NBN base.
+As part of Optus’ strategy to bring its network infrastructure under specialist facilities
+companies and unlock capital to invest in sustainable long-term growth, it announced an
+agreement for the sale and license-back of around 340 mobile towers and rooftop sites to
+Waveconn – an Australian infrastructure operator and established partner.
+Optus accepted an offer from Nine Entertainment Co and Stan to assign the rights to the
+Premier League and Emirates FA Cup for the remainder of the rights’ term. This was a decision
+made to focus more on Optus’ core operations in telecommunications, commitment to
+customers, and to unlock further value for the business in the future.
+In enterprise and business, an Optus-led consortium was announced to build, launch and
+operate a new Australian Low Earth Orbit (LEO) Satellite, with a target launch date of early
+2028. This collaboration marks a significant step forward for Australia's capabilities in space-
+based connectivity and critical space domain awareness.
+
+--- PAGE 20 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                           Page 17
+
+
+SECTION 3 : SINGTEL SINGAPORE
+
+
+                                    SINGTEL SINGAPORE
+
+Singtel Singapore offers mobile, fixed voice and data, pay television, content and digital
+services, ICT as well as equipment sales.
+
+
+SUMMARY INCOME STATEMENT
+For The Half Year Ended 30 September 2025
+
+                                                                         Half Year
+                                                                          30 Sep                     YOY
+                                                                     2025        2024                Chge
+                                                                     S$ m        S$ m                 %
+
+  Operating revenue                                                  1,860            1,877             -0.9
+  Operating expenses                                                (1,206)          (1,183)             2.0
+                                                                       653              694             -5.8
+                   (2)
+  Other income                                                          79                63           26.5
+  EBITDA                                                              732              756              -3.2
+   - margin                                                         39.4%            40.3%
+
+  Depreciation & amortisation                                         (293)            (318)            -7.9
+  EBIT                                                                 440              439              0.3
+
+
+                                                                        Half Year
+                                                                          30 Sep                    YOY
+                                                                     2025        2024               Chge
+                                                                     S$ m       S$ m                  %
+ Mobile service                                                         601             666            -9.7
+ Sale of equipment                                                      263             249             5.6
+  Mobile                                                                864             915            -5.6
+ Data and Internet (3)                                                  653             641             1.8
+ ICT (4)                                                                137             121            13.5
+ Fixed voice                                                             87              93            -6.0
+ Pay TV (5)                                                              62              68            -8.9
+ Others (6)                                                              56              39            44.4
+
+Operating revenue                                                    1,860            1,877            -0.9
+
+
+Notes:
+(1) The figures above are before elimination of intercompany transactions with NCS and Digital InfraCo.
+(2) Included trade foreign currency exchange differences, rental income, gain/loss on disposal of scrap copper
+    and property, plant and equipment, and other miscellaneous recoveries. The net trade foreign exchange gain
+    amounted to S$1 million (H1 FY2025: S$2 million of loss) for the half year ended 30 September 2025.
+(3) Included revenues from home equipment sales, local leased circuits, fixed broadband, Singtel Internet
+    exchange and sales of backhaul/ dark fibre.
+(4) Included revenues from managed services bundled with equipment, hardware and software reselling, data
+    centres and co-location.
+(5) Included TV equipment sales.
+(6) Included revenues from sale of submarine cable stub, mobile network cabling works and facility rentals.
+
+--- PAGE 21 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                          Page 18
+
+
+SECTION 3 : SINGTEL SINGAPORE
+
+                                                                     Half Year
+                                                                       30 Sep                    YOY
+                                                                  2025        2024               Chge
+                                                                  S$ m       S$ m                 %
+ Cost of sales                                                       444              382           16.4
+ Staff costs                                                         236              243           -2.6
+ Selling & administrative                                            219              246          -11.3
+ Traffic expenses                                                    199              210           -5.2
+ Repair & maintenance                                                  96              90            6.8
+ Others                                                                13              13           -2.3
+Operating expenses                                                 1,206           1,183             2.0
+
+
+
+
+FINANCIAL PERFORMANCE
+
+For The Half Year Ended 30 September 2025
+
+Singtel Singapore reported stable operating revenue for the first half of the year despite a
+highly competitive market, with mixed performance across its service segments.
+
+Mobile service revenue fell 9.7%, primarily due to intense price competition and reduced
+roaming, which were partially offset by growth in Internet of Things (IoT) connectivity. The
+decline in roaming revenue was attributable to lower wholesale volume, increased bundling
+of roaming services in mobile plans and heightened eSIM competition.
+
+Equipment sales revenue rose 5.6%, driven by higher sales of devices and accessories, and
+more subscriptions of the Singtel PayLater instalment plan.
+
+Revenue from Data and Internet grew 1.8% from higher international leased circuits and
+broadband service revenues, partially offset by lower domestic leased circuits revenue.
+
+ICT revenue increased 14%, led by managed services bundled with equipment sales. This
+growth was partially offset by lower data centre revenue following the closure of legacy
+facilities.
+
+Other revenue included S$17 million (H1 FY2025: Nil) from the construction and sale of
+submarine cable stub10.
+
+Overall operating expenses increased 2.0%, mainly from higher equipment and hardware
+costs incurred with the increase in sales.
+
+Other income rose 27%, primarily due to NBN grants for the 10 Gbps broadband service
+from April 2025 and a one-off compensation received for a contractual breach. The increases
+were partially offset by lower cable diversion income.
+
+Consequently, EBITDA declined 3.2%. EBIT was stable with lower depreciation due to a
+smaller asset base, although amortisation expense rose following the investment in 700MHz
+spectrum in November 2024.
+
+
+
+
+10 This is a short segment of submarine fibre optic cable that is pre-laid from the cable landing station and
+
+extended into territorial waters.
+
+--- PAGE 22 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                           Page 19
+
+
+SECTION 3 : SINGTEL SINGAPORE
+
+BUSINESS HIGHLIGHTS
+
+Singtel has introduced Priority and Enhanced mobile plans powered by advanced 5G slicing,
+following its 700 MHz spectrum deployment and launch of 5G+. These plans deliver better
+speed and reliability for customers seeking superior connectivity. Over a third of Singtel’s
+postpaid customers have switched to the plans since the introduction in May, reflecting
+strong demand for premium mobile services and Singtel’s differentiated network.
+
+Singtel also partnered with Tencent Games to launch the world’s first commercial network
+slicing deployment for Honor of Kings Cloud, significantly enhancing mobile gaming
+performance. In addition, TxStore, a new Android app store for gamers in Singapore, initially
+featuring over 30 popular titles, including PUBG Mobile, was introduced.
+
+In the enterprise space, Singtel and its partners signed a contract with NEC Corporation in
+July 2025 to build the Asia United Gateway East (AUG East) submarine cable system linking
+Singapore and Japan, with branches to several regional countries. Targeted for completion
+by September 2029, this high-capacity system will boost bandwidth, reduce latency, and
+enhance network diversity and resilience.
+
+Singtel, in partnership with Enterprise Singapore (EnterpriseSG) and the IMDA, introduced
+the Cyber Protect Programme to strengthen the cyber resilience for over 49,000 SMEs as
+part of broader digitisation efforts.
+
+--- PAGE 23 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                          Page 20
+
+
+SECTION 4 : NCS
+
+
+                                                  NCS
+
+NCS is a leading technology services firm in Asia Pacific, partnering with governments and
+enterprises to advance communities through technology. With an approximate 14,000-strong
+team across 56 specialisations, NCS offers differentiated and end-to-end technology
+services via its Gov+, Enterprise and Telco+ groups.
+
+
+SUMMARY INCOME STATEMENT
+For The Half Year Ended 30 September 2025
+
+                                                                Half Year
+                                                                 30 Sep             YOY
+                                                            2025        2024       Chge
+                                                            S$ m       S$ m          %
+  Operating revenue                                          1,520      1,431        6.2
+  Operating expenses                                         (1,322)   (1,267)       4.4
+                                                               198       164        20.1
+               (2)
+  Other income                                                  22             5   392.4
+  EBITDA                                                       220       169        30.1
+  - Margin                                                   14.5%     11.8%
+  - Margin (excluding reselling business)                    17.0%     13.9%
+
+                                  (3)
+  Depreciation & amortisation                                   (36)      (39)       -6.8
+
+  EBIT                                                         184       130        41.2
+
+                                    (4)
+  Operating revenue by SBG
+   Gov+                                                      1,046        964        8.4
+   Enterprise                                                  370        368        0.6
+   Telco+                                                      104         99        5.0
+                                                             1,520      1,431        6.2
+                                            (5)
+  Operating revenue by line of business
+   Applications                                                556       587        -5.2
+   Infrastructure                                              722       640        12.7
+   Cyber                                                       152       127        19.0
+   Engineering                                                  90        77        17.6
+                                                             1,520      1,431        6.2
+
+  Digital, Data, Cloud, Platforms & Cyber as % of
+                            (6)                                51%       51%
+  total operating revenue
+
+--- PAGE 24 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                   Page 21
+
+
+SECTION 4 : NCS
+Notes:
+(1) The above results are based on the standalone results of NCS group, which include revenue earned as a
+    vendor to other entities in the Singtel Group. Certain products and services purchased by these Singtel entities
+    from NCS are subsequently sold to third parties.
+(2) Includes trade foreign exchange differences, rental income, gain/loss on disposal of property, plant and
+    equipment, and other miscellaneous recoveries. For the half year ended 30 September 2025, other income
+    included a one-off credit from a subcontractor as well as net trade foreign exchange gain of S$3 million (H1
+    FY2025: S$2 million of gain).
+(3) Includes amortisation of acquired intangibles of S$6 million (H1 FY2025: S$7 million) for the half year ended
+    30 September 2025.
+(4) SBG refers to Strategic Business Group. Gov+, Enterprise and Telco+ focus on growing NCS’ business in:
+    (a) Public service, Defence and Homeland Security;
+    (b) Healthcare, Transport, Financial, Industrial and Commercial sectors; and
+    (c) Communications, Media and Technology sectors, respectively.
+(5) Applications comprise business application implementation and management, SAP and Microsoft solutions,
+     enterprise application delivery, operational excellence and testing services. Infrastructure comprises
+     enterprise infrastructure management services including architecture, service management, systems and
+     database administration, network integration and management, data centre and business continuity
+     planning, end user computing and service desk operation. Cyber comprises security architecture, threat
+     monitoring, access management, end point and network security. Engineering comprises implementation
+     and management of telecommunications infrastructure, aviation communications, intelligent building
+     systems, secured communications, video technology and analytics, sensors, internet of things (IoT) solutions
+     as well as command and control systems.
+(6) Refers to capabilities in Digital (Digital transformation and digital experience), Data (Data and AI strategy, big
+    data and AI/ML application), Cloud (Cloud strategy and cloud innovation), Platforms (Gen AI, IoT, robotics
+    automation, video intelligence) and Cyber.
+
+                                                                                  Half Year
+                                                                                   30 Sep                  YOY
+                                                                             2025        2024              Chge
+                                                                             S$ m        S$ m               %
+
+   Cost of sales                                                                655            603            8.6
+               (1)
+   Staff costs                                                                  593            597           -0.8
+   Selling & administrative                                                      52             49            6.8
+   Repair, maintenance and others                                                22             17           24.9
+
+   Operating expenses                                                         1,322          1,267            4.4
+
+
+Note:
+(1) Excludes staff under contract with less than one year.
+
+
+FINANCIAL PERFORMANCE
+For The First Half Year Ended 30 September 2025
+
+NCS continued to deliver strong results in the first half of the year. Operating revenue was
+up 6.2%, driven primarily by growth in Gov+ and Telco+ businesses. Demand for core IT
+services, digital resilience, data and Artificial Intelligence (AI) pilots remained robust.
+
+EBITDA and EBIT rose 30% and 41% respectively, reflecting solid operational performance
+underpinned by margin expansion across all business segments, better delivery quality and
+cost optimisation. The results were also lifted by a one-off credit from a sub-contractor.
+
+NCS secured S$1.8 billion in orders in the first half of the year, as a result of new contract
+wins and renewals across various industries.
+
+--- PAGE 25 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                           Page 22
+
+
+SECTION 4 : NCS
+
+BUSINESS HIGHLIGHTS
+
+NCS has announced at its annual flagship Impact Forum a S$130 million investment over
+three years in AI transformation to support enterprises and government agencies in the Asia
+Pacific region. This includes initiatives such as Sunshine.AI, a comprehensive suite of AI
+tools designed to enhance coding, operations, and productivity. It introduced new services
+for Digital Resilience – covering cyber security, data, applications, infrastructure and
+operations.
+
+In addition, NCS has partnered with six global technology leaders, including NVIDIA, Google
+Cloud, and AWS, to advance AI solutions for its clients. It also deepened collaboration with
+research institutions, particularly those working on AI safety and Southeast Asian language
+models.
+
+--- PAGE 26 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                            Page 23
+
+
+SECTION 5 : DIGITAL INFRACO
+
+
+
+                                        DIGITAL INFRACO
+Digital InfraCo provides regional data centre services through Nxera11, satellite services,
+the Paragon platform for 5G multi-access edge compute (MEC) and cloud orchestration, as
+well as AI Cloud Service through RE:AI. Nxera11 has presence in Thailand, Indonesia and
+Malaysia through its associates, namely GSA Holdings Company Limited12, PT Teknologi
+Data Infrastruktur12 and ST Dynamo DC Sdn. Bhd.12 respectively.
+
+
+SUMMARY INCOME STATEMENT
+For The Half Year Ended 30 September 2025
+
+                                                                            Half Year
+                                                                             30 Sep                YOY
+                                                                   2025                 2024       Chge
+                                                                   S$ m                 S$ m        %
+
+                (2)
+  Data Centre                                                              164             169        -2.9
+  Satellite, enterprise platforms and RE:AI                                 52              50         3.2
+  Operating revenue                                                        216             219        -1.5
+
+  Operating expenses                                                  (107)              (111)        -3.2
+
+                                                                           109             109         0.2
+                  (3)
+  Other income                                                              1                  2     -35.5
+
+  EBITDA                                                                   110             111        -0.5
+     - margin                                                       51.0%               50.5%
+
+  Depreciation & amortisation                                          (69)               (72)        -3.8
+
+     EBIT (before associates' contributions)                               41              39          5.8
+
+  Nxera
+                        (2)
+  Operating revenue                                                        164             169        -2.9
+  EBITDA                                                                   92              92          0.7
+     - margin                                                       56.1%               54.1%
+
+  EBIT (before associates' contributions)                                  39              33         18.1
+
+                                       (4)
+  Share of associates' pre-tax losses                                      (3)                 *       nm
+                                       (4)
+  Share of associates' post-tax losses                                     (3)                 *       nm
+
+
+“*” denotes less than +/- S$0.5 million and “nm” denotes not meaningful.
+Notes:
+(1) The figures above are before elimination of intercompany transactions with Singtel Singapore and NCS.
+(2) Included revenue from utilities pass-through.
+(3) Included recoveries and trade foreign exchange differences.
+(4) The associates incurred losses as they are currently in the startup phase.
+
+
+
+
+11 As at 30 September 2025, Singtel owns 85.2% (31 March 2025: 91.0%) of equity interest in Nxera.
+12 Nxera  owns 35.0% of equity interest in both GSA Holdings Company Limited and PT Teknologi Data
+ Infrastruktur, and 49.0% in ST Dynamo DC Sdn. Bhd.
+
+--- PAGE 27 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                            Page 24
+
+
+SECTION 5 : DIGITAL INFRACO
+
+                                                                 Half Year
+                                                                  30 Sep           YOY
+                                                              2025       2024      Chge
+                                                              S$ m       S$ m       %
+
+  Utilities                                                      42         45        -6.6
+  Staff costs                                                    31         26       19.9
+  Selling, administrative and property related expenses          21         24      -11.1
+  Traffic expenses                                                8          9      -11.5
+  Others                                                          5          7      -27.6
+
+  Operating expenses                                            107        111        -3.2
+
+
+
+
+FINANCIAL PERFORMANCE
+
+For The Half Year Ended 30 September 2025
+
+Operating revenue for the first half of the year fell 1.5%, due to a customer reservation fee
+received for DC Tuas in the same period last year which did not recur, as well as a decline
+in project-based satellite deployment services. However, the decreases were partially offset
+by new data centre turn-on and price increases, and the recognition of RE:AI revenue since
+December 2024 quarter. The first phase of RE:AI’s investment in GPUs was fully sold and
+utilised.
+
+Despite lower operating revenue, EBITDA remained stable as operating expenses fell 3.2%
+mainly from lower selling, administrative and property related expenses. The higher staff
+costs were mainly due to increased headcount to support regional business growth.
+
+EBIT increased 5.8% after including lower depreciation and amortisation as certain assets
+reached end-of-life.
+
+--- PAGE 28 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                            Page 25
+
+
+SECTION 5 : DIGITAL INFRACO
+
+BUSINESS HIGHLIGHTS
+
+Nxera has pre-sold more than 50% of its capacity at DC Tuas in Singapore. In Thailand,
+GSA Holdings has pre-sold more than 80% of its capacity in its first data centre, and began
+the construction of its second data centre.
+
+In July 2025, Nxera’s held its first Sustainable AI Data Centre Career Day. During the event,
+Nxera and its industry partners announced plans to train and hire more than 500 people for
+data centre and digital roles in support of Singapore's AI goals.
+
+Nxera won a Bronze award for Innovation in CSR Videos at the 12th Annual Asia-Pacific
+Stevie® Awards.
+
+In August 2025, RE:AI became the first in Asia-Pacific to launch, deploy, and operationalise
+NVIDIA’s GB200 Grace Blackwell Superchips. This milestone positions RE:AI at the forefront
+of regional AI compute innovation, offering faster large-language model inference and better
+energy efficiency. For its pioneering work in scalable and sustainable AI infrastructure,
+RE:AI has received the Southeast Asia GPU-as-a-Service Competitive Strategy Leadership
+Award from Frost & Sullivan.
+
+Paragon was honoured with the Operator Deployment Award at the prestigious FutureNet
+Asia Awards 2025, recognising excellence in network automation and AI implementation.
+
+--- PAGE 29 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                           Page 26
+
+
+SECTION 6: ASSOCIATES / JOINT VENTURES
+
+
+
+                                                ASSOCIATES/ JOINT VENTURES
+
+The Group has presence in Africa, India, Indonesia, the Philippines, and Thailand through its
+associates, Bharti Airtel, Telkomsel, Globe, AIS and Intouch. On 1 April 2025, Intouch was
+merged to form Gulf Development Public Company Limited, of which Singtel holds an equity
+interest of 7.7%.
+
+                                                                             Half Year
+                                  (1)
+Pre-tax profit contribution                                                   30 Sep                YOY
+                                                                         2025        2024           Chge
+                                                                         S$ m         S$ m           %
+Regional associates
+  Telkomsel
+   - operating results                                                        291        354         -18.0
+   - fair value loss                                                            *          *           nm
+                                                                              291        354         -18.0
+       (2)
+  AIS
+   - operating results                                                        267        181          47.5
+   - fair value gain                                                            1          4         -81.6
+                                                                              268        185          44.9
+
+             (3)
+  Globe
+   - operating results                                                        136        154         -11.4
+   - fair value gain                                                            *          3           nm
+                                                                              136        156         -12.7
+  Airtel Group
+                             (3)(4)
+    Bharti Airtel ("Airtel")
+    - operating results (India and South Asia)                                950        733          29.6
+                                        (4)
+    - operating results (Africa)                                               280        221         26.5
+    - net finance costs                                                       (442)      (459)        -3.6
+    - fair value gain/(loss)                                                    35        (14)         nm
+                                                                               823        482         70.8
+                                 (4)
+    Bharti Telecom ("BTL")                                                    (124)      (86)         43.6
+                                                                               699       396          76.7
+
+                                                                             1,394      1,091         27.8
+              (5)
+  Intouch                                                                        -           73          nm
+
+Regional associates                                                          1,394      1,164         19.7
+Other Singtel associates
+                                           (6)
+   NetLink NBN Trust/NetLink Trust ("NLT")                                      27            29      -5.2
+   Nxera's associates                                                           (3)            *       nm
+                    (3)(7)
+   Other associates                                                            (39)          (24)     62.8
+
+                                          (3)
+Singtel share of pre-tax profit                                              1,379      1,169         18.0
+Optus share of pre-tax profit                                                    *             *         nm
+                                         (3)
+Group share of pre-tax profit                                                1,379      1,169         18.0
+                   (5)
+ (excluding Intouch )                                                        1,379      1,095         25.9
+                                        (3)
+Group share of tax expense                                                     480        350         37.2
+Effective tax rate                                                           34.8%      30.0%
+
+--- PAGE 30 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                             Page 27
+
+
+SECTION 6 : ASSOCIATES/ JOINT VENTURES
+                                                                                             Half Year
+                                                                                              30 Sep                              YOY
+                                      (1)
+ Post-tax profit contribution                                                   2025                        2024                  Chge
+                                                                                               (8)                        (8)
+                                                                             S$ m          %             S$ m         %            %
+ Regional associates
+  Telkomsel                                                                     228            17           276           23       -17.4
+        (2)
+  AIS                                                                           215            16           152           13       41.6
+
+              (3)
+  Globe                                                                         113               8         130           11       -13.0
+
+  Airtel Group
+              (3)(4)
+    Airtel
+    - ordinary results (India and South Asia)                                   469                         274                    71.1
+                                    (4)
+    - ordinary results (Africa)                                                     69                          40                 74.6
+                                                                                538                         314                    71.5
+          (4)
+    BTL                                                                         (179)                      (115)                   56.0
+                                                                                359            27           199           17       80.5
+
+                                                                                915            68           757           64       20.9
+               (5)
+  Intouch                                                                            -               -          60          5         nm
+
+                                                                                915            68           817           69       12.0
+Other Singtel associates
+        (6)
+  NLT                                                                               25            2             27          2         -4.9
+  Nxera's associates                                                                (3)           **             *         **         nm
+                       (3)(7)
+  Other associates                                                               (38)           (3)         (24)           (2)     57.4
+
+                                             (3)
+Singtel share of post-tax profit                                                899            66           819           69          9.8
+
+Optus share of post-tax profit                                                       *            **             *         **         nm
+                                            (3)
+Group share of post-tax profit                                                  899            66           819           69        9.8
+(excluding Intouch (5) )                                                        899                         759                    18.5
+
+
+                                                                                               Half Year
+ Post-tax profit contribution                                                                   30 Sep                           YOY
+                         (3)(9)
+ (in constant currency)                                                                    2025          2024                    Chge
+                                                                                          S$ m              S$ m                  %
+
+ Regional associates
+ Group share of pre-tax profit                                                            1,450             1,164                 24.6
+                          (5)
+  (excluding Intouch            )                                                         1,450             1,091                 32.9
+ Group share of post-tax profit                                                            946                  817               15.8
+  (excluding Intouch (5) )                                                                 946                  757               25.0
+
+
+ Associates
+ Group share of pre-tax profit                                                            1,435             1,169                 22.8
+  (excluding Intouch (5) )                                                                1,435             1,095                 31.0
+ Group share of post-tax profit                                                            930                  819               13.5
+  (excluding Intouch (5) )                                                                 930                  759               22.5
+
+
+“nm” denotes not meaningful, "*" denotes less than +/- S$0.5 million and “**” denotes less than +/- 0.05%.
+
+--- PAGE 31 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                               Page 28
+
+
+SECTION 6 : ASSOCIATES/ JOINT VENTURES
+
+Notes:
+(1) The accounts of the associates are prepared based on local accounting standards. Where applicable and
+    material, the accounting policies of the associates have been restated for compliance with the Group’s accounting
+    policies.
+(2) As at 30 September 2025, Singtel holds an equity interest of 24.8% (31 March 2025: 23.3%) in AIS.
+(3) Share of results excluded the Group’s share of the associates’ one-off items which have been classified as
+    exceptional items of the Group.
+(4) As at 30 September 2025, Singtel holds an equity interest of 49.4% (31 March 2025: 49.4%) in BTL and an
+    effective equity interest of 28.1% (31 March 2025: 29.4%) in Airtel. Airtel’s equity interest in Airtel Africa was
+    62.6% (31 March 2025: 62.4%).
+(5) On 1 April 2025, Intouch was merged to form Gulf Development Public Company Limited. Consequently, Singtel
+    ceased to equity account for Intouch’s results with effect from 1 April 2025.
+(6) Singtel holds an equity interest of 24.8% in NetLink NBN Trust, the holding company of NetLink Trust. The share
+    of results included Singtel’s amortisation of deferred gain of S$11 million (H1 FY2025: S$11 million) for the half
+    year ended 30 September 2025 on assets previously transferred to NetLink Trust but excluded the fair value
+    adjustments recorded by NetLink NBN Trust in respect of its acquisition of units in NetLink Trust.
+(7) Included the share of results of GXS Bank, Singapore Post Limited, APT Satellite International Company Limited,
+    Indara Corporation Pty Ltd and Singtel Somerset Pte. Ltd. (“SSPL”, the JV with Lendlease for the development of
+    Comcentre). GXS Bank holds a digital bank license in Singapore. The higher net loss mainly arose from SingPost
+    and SSPL (its loss was equity accounted from April 2025).
+(8) Shows the post-tax underlying profit contribution of the associates to the Group’s underlying net profit.
+(9) Assuming constant exchange rates for the regional currencies (Indian Rupee, Indonesian Rupiah, Philippine
+    Peso and Thai Baht) from the corresponding period ended 30 September 2024.
+
+
+
+FINANCIAL PERFORMANCE AND BUSINESS HIGHLIGHTS
+
+Pre-tax and post-tax contributions from the associates increased 18% and 9.8% respectively.
+Excluding Intouch which ceased to be equity accounted from 1 April 2025 and in constant
+currency terms, pre-tax and post-tax contributions would have increased by 31% and 23%
+respectively. The increase reflected strong performances from Airtel and AIS, despite lower
+contributions from Telkomsel and Globe.
+
+Airtel Group saw robust earnings growth in both India and Africa from strong execution and
+higher mobile tariffs. Bharti Telecom reported a larger net loss due to higher finance costs after
+raising its Airtel stake through borrowings, and increased dividend tax from Airtel’s higher
+payout. AIS posted stronger profit due to revenue growth and effective cost management.
+Telkomsel’s net profit fell due to weaker mobile performance, a capital gain from sale and
+leaseback of indoor infrastructure in the last corresponding period, and higher interest
+expenses. Globe’s earnings were lower due to weak consumer spending, as stable EBITDA
+and increased contributions from its fintech associate were offset by higher depreciation and
+finance charges.
+
+The Group’s combined mobile customer base reached 820 million as at 30 September 2025, up
+32 million from a year ago, driven primarily by Airtel and Globe.
+
+--- PAGE 32 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                             Page 29
+
+
+SECTION 6 : ASSOCIATES/ JOINT VENTURES
+
+PT Telekomunikasi Selular (“Telkomsel”)
+
+Telkomsel is the leading integrated telecommunications operator in Indonesia.
+
+Operating revenue was down 4% due to weaker mobile performance, while IndiHome’s fixed
+broadband remained stable. Mobile revenue was pressured by persistent macroeconomic
+headwinds and the decline in legacy services as more customers switched to OTT messaging
+applications.
+
+Operating expenses declined 3% primarily due to reduced operations and maintenance
+expense. Consequently, EBITDA fell 6%.
+
+Telkomsel’s net profit13 (excluding fair value adjustments for its stake in GoTo) declined 12%,
+mainly because of a capital gain from the sale and leaseback of indoor infrastructure in the last
+corresponding period, and higher interest expenses.
+
+In Singapore Dollar terms, Telkomsel’s post-tax contribution decreased 17% after accounting
+for a 6% depreciation of the Indonesian Rupiah.
+
+Telkomsel's mobile customer base remained stable from a year ago. The company continued to
+focus on acquiring high-quality customers and enhancing customer value through targeted
+cross-selling and upselling.
+
+
+Advanced Info Service (“AIS”)
+
+AIS, a major telecommunications operator in Thailand, is listed on the Stock Exchange of
+Thailand.
+
+AIS reported a strong set of results in the first half of the year with growth across all business
+segments. Core service revenue grew 7%, mainly driven by demand for quality connectivity and
+premium content. Mobile revenue was up from higher ARPU on the back of a rise in high-quality
+customers, and value-added services. Fixed broadband revenue also rose strongly, lifted by
+higher ARPU and an expanded customer base. This performance was attributable to superior
+network, exclusive content offerings and the provision of beyond-connectivity services.
+
+With higher operating revenue and effective cost management, EBITDA rose 9%. After
+accounting for lower network depreciation on a lower asset base partially offset by higher
+amortisation from newly acquired 2100 MHz spectrum, AIS’ net profit rose 34%. In Singapore
+Dollar terms, its post-tax contribution was up a robust 42% after a 5% strengthening of the Thai
+Baht against the Singapore Dollar.
+
+As at 30 September 2025, AIS’ mobile customer base was stable from a year ago. Its 5G
+customer base represented 34% of its total mobile customer base, as 5G network population
+coverage reached 95%. AIS’ fibre customer base expanded 5.3%, supported by quality
+customer acquisition and low churn.
+
+In July 2025, AIS made its first instalment payment of THB 7.95 billion (S$314 million) for the
+2100 MHz spectrum it acquired in June 2025.
+
+13 Excluded fair value gain or loss from revaluation of Telkomsel’s investment in GoTo which was recorded by Singtel
+
+ in equity in accordance with its accounting policy for investment classified under ‘Fair value through other
+ comprehensive income’. Telkomsel records the said fair value gain or loss in its income statement.
+
+--- PAGE 33 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                               Page 30
+
+
+SECTION 6 : ASSOCIATES/ JOINT VENTURES
+
+Globe Telecom, Inc (“Globe”)
+
+Globe is listed on the Philippine Stock Exchange.
+
+Service revenue fell 1% due mainly to weaker mobile performance, but EBITDA was stable with
+effective cost control. The mobile business was negatively impacted by weak consumer
+spending and weather disturbances. However, broadband services, especially fibre, continued
+to grow.
+
+After including higher depreciation from network upgrades, and increased finance charges from
+tower leases, but a higher equity share of profit from Mynt, Globe’s net profit declined 12%. In
+Singapore Dollar terms, its post-tax contribution for the first half year was down 13% as the
+Philippine Peso depreciated 2%.
+
+As at 30 September 2025, Globe’s mobile customer base grew 5.0% from a year ago, propelled
+mainly by prepaid.
+
+
+Airtel Group14
+
+Airtel is listed on the Indian Stock Exchanges - National Stock Exchange and the Bombay Stock
+Exchange. It is a leading integrated telecommunications company with presence in 17 countries
+across Asia and Africa.
+
+
+India and Sri Lanka15 (“India and South Asia”)
+
+Airtel continued to execute well and delivered a solid performance for the first half of the year.
+
+Indus Towers, in which Airtel has an equity interest of 51.0%, was consolidated on a line-by-line
+basis with effect from December 2024 after Airtel gained control.
+
+In India, operating revenue rose 13% and EBITDA was up a strong 15%, assuming Indus
+Towers was consolidated from April 2024.
+
+The revenue increase was led by mobile service revenue growth, supported by higher mobile
+tariffs and an expanded customer base. Airtel's industry-leading ARPU - a key telecom metric -
+rose 10% year-on-year to INR 256 in the September quarter. Airtel Business reported growth
+driven by broad-based improvement across segments. Home broadband revenue grew mainly
+from strong customer additions.
+
+Including higher depreciation and amortisation, the Group’s share of pre-tax operating profit
+(before finance costs and fair value adjustments) from India and South Asia increased 38%.
+
+As at 30 September 2025, Airtel India’s mobile customer base rose 3.6% from a year ago to
+364 million.
+
+
+
+
+14 Airtel’s results as equity accounted by Singtel are based on IFRS.
+15 Airtel’s subsidiary in Sri Lanka was deconsolidated in June 2024.
+
+--- PAGE 34 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                  Page 31
+
+
+SECTION 6 : ASSOCIATES/ JOINT VENTURES
+
+Africa
+
+Airtel Africa Plc, the holding company of Airtel’s African operations, is listed on the London
+Stock Exchange and Nigeria Stock Exchange. Airtel Africa was added to the FTSE 250 index
+and MSCI Small Cap index in 2019, as well as FTSE 100 index in January 2022.
+
+Airtel Africa is a leading provider of telecommunications and mobile money services, with
+operations in 14 countries16 in Africa.
+
+Airtel Africa’s operating revenue and EBITDA rose 26% and 33% respectively, lifted by higher
+earnings at Nigeria due to mobile tariff hikes. Voice and data revenues rose following network
+expansion and higher usage. Airtel Money revenue also rose, mainly from growth in its
+customer base as the distribution network expanded.
+
+After including higher depreciation and amortisation charges from increased investments in
+mobile network, the Group’s share of Airtel Africa’s pre-tax operating profit (before finance costs
+and fair value adjustments) grew 36%.
+
+As at 30 September 2025, Airtel Africa’s mobile customer base rose 11% from a year ago to
+174 million.
+
+
+Airtel Group including Bharti Telecom Ltd (“BTL”)
+
+Airtel, comprising businesses in India and Africa, reported growth in operating revenue, EBITDA
+and EBIT of 17%, 20% and 29% respectively, assuming Indus Towers was consolidated from
+April 2024.
+
+With lower net finance expense mainly due to a fair value gain and lower interest expense, and
+7% depreciation of the Indian Rupee, the Group’s share of overall post-tax profit increased
+72%. Interest expense was lower following repayment of borrowings during the year.
+
+As at 30 September 2025, BTL holds a 40.7% equity stake in Airtel, up from 39.3% a year ago.
+Its net loss widened due to higher finance expenses from borrowings to acquire Airtel shares
+from November 2024 to February 2025, as well as increased dividend tax expense from Airtel’s
+larger payout.
+
+Including BTL, Airtel Group’s total post-tax profit contributions rose 81%, even as the Group’s
+effective equity interest fell from 29.4% to 28.1% following the divestment of 1.2% stake in May
+2025.
+
+As at 30 September 2025, overall mobile customer base increased 5.8% from a year ago to
+reach 538 million.
+
+On 7 November 2025, Singtel sold 0.8% of its direct stake in Airtel for S$1.5 billion via a private
+placement, realising an estimated net gain of S$1.1 billion. Following the completion of the
+divestment, Singtel’s effective economic stake in Airtel is 27.3%, down from 28.1% previously.
+
+
+
+
+16   Namely Nigeria, Chad, Congo B, DRC, Gabon, Madagascar, Niger, Kenya, Malawi, Seychelles, Tanzania,
+     Uganda, Zambia and Rwanda.
+
+--- PAGE 35 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                 Page 32
+
+
+SECTION 6 : ASSOCIATES/ JOINT VENTURES
+
+KEY OPERATIONAL DATA
+
+                                                                       (1)
+                                                              Airtel         Telkomsel       AIS            Globe
+
+Singtel's investment:
+ Year of initial investment                                          2000          2001          1999             1993
+ Effective economic interest (%)                                    28.1%         30.1%         24.8%         46.6% (2)
+ Investment to date                                            S$4.56 bil      S$2.18 bil    S$1.71 bil      S$1.22 bil
+ Closing market share price (3)                                INR 1,878             NA     THB 291 (4)     PHP 1,500
+
+
+ Market capitalisation
+ - Total                                                    S$163.58 bil             NA     S$34.49 bil     S$4.80 bil
+ - Singtel holding                                           S$46.24 bil             NA      S$8.54 bil     S$2.24 bil
+
+Operational Performance :
+ Mobile customer market share, 30 Sep 2025 (5)                      33.5%         47.1%         49.6%           51.4%
+ Market position (6)                                                    #2            #1            #2              #1
+
+ Mobile customers ('000)
+ - Aggregate                                                    538,008         157,587        46,275          63,148
+ - Proportionate                                                133,057          47,434        11,458          29,452
+ Growth in mobile customers (%) (7)                                5.8%           -0.5%             **           5.0%
+
+ Credit ratings
+ - Sovereign (Moody's/ S&P Global)                            Baa3/BBB        Baa2/BBB      Baa1/BBB+      Baa2/BBB+
+ - Company (Moody's/ S&P Global)                              Baa3/BBB-        Baa1/NA       NA/BBB+              NA
+
+
+“**” denotes less than +/- 0.05% and “NA” denotes not applicable.
+
+Notes:
+(1) The mobile customer market share and market position pertain to India market only.
+(2) Singtel has 22.2% interest in Globe’s voting shares.
+(3) Based on closing market price in local currency as of 30 September 2025.
+(4) Based on local market price quoted on the Stock Exchange of Thailand.
+(5) Based on actual or latest data available as of 30 September 2025.
+(6) Based on number of mobile customers and based on actual or latest data available as of 30 September 2025.
+(7) Compared against 30 September 2024 and based on aggregate number of mobile customers.
+
+
+In November 2025, Moody’s Ratings upgraded Airtel’s rating to Baa2 from Baa3.
+
+Please refer to Appendix 7 for the currency rate movements of the regional associates.
+
+--- PAGE 36 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                            Page 33
+
+
+SECTION 7 : PRODUCT INFORMATION
+
+SINGAPORE PRODUCT DRIVERS
+
+                                                                Quarter                         Half Year              YOY
+                                                    30 Sep       30 Jun      30 Sep              30 Sep                Chge
+                                                     2025         2025        2024             2025       2024          %
+
+Mobile
+ Number of mobile customers (000s)                      4,552      4,575       4,606           4,552         4,606     -1.2
+
+ Average revenue per customer per month (1)(2)
+ (S$ per month)                                            23           23          24           24            24      -2.1
+
+ Data usage (GB per month) (3)                             17           17          15           17            14      20.6
+
+ Postpaid external churn per month (4)                   1.4%         1.3%        1.2%         1.3%          1.1%
+
+ Mobile customer market share (5)                       45.4%     45.6%       45.1%           45.4%       45.1%
+
+Notes:
+(1) Based on average number of subscribers, calculated as the simple average of opening and closing number
+    of subscribers.
+(2) Average Revenue Per User (ARPU) includes revenue earned from international telephone calls and excludes
+    wholesale. For prepaid, ARPU is computed net of sales discounts.
+(3) Data usage of postpaid smartphone customers and excludes wholesale.
+(4) Calculated by expressing the number of postpaid subscribers who deactivate or disconnect their service (both
+    voluntary and the Company’s initiated churn) as a percentage of average number of subscribers.
+(5) The mobile customer market share data as at 30 September 2025 was based on management’s estimates.
+
+
+
+                                                                        Quarter                        Half Year           YOY
+                                                             30 Sep     30 Jun       30 Sep             30 Sep             Chge
+                                                              2025        2025        2024            2025       2024       %
+Fixed Broadband
+Fixed broadband lines (000s)                                    692          693         688           692           688      0.6
+
+Pay TV
+Average revenue per residential TV customer per month
+(S$ per month)                                                   33           33          36            33            36      -7.4
+
+--- PAGE 37 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                 Page 34
+
+
+SECTION 7 : PRODUCT INFORMATION
+
+AUSTRALIA PRODUCT DRIVERS
+
+                                                                Quarter                Half Year             YOY
+                                                    30 Sep      30 Jun    30 Sep        30 Sep               Chge
+                                                    2025         2025     2024       2025       2024          %
+
+Mobile
+ Number of mobile customers (000s)
+         (1)
+ Prepaid                                             3,803        3,801    3,679     3,803      3,679              3.4
+          (1)
+ Postpaid                                            5,843        5,820    5,813     5,843      5,813              0.5
+                   (2)
+ Connected devices                                   1,071        1,077    1,056     1,071      1,056              1.4
+ Total                                              10,717       10,698   10,548    10,717     10,548              1.6
+                                              (3)
+ Average revenue per customer per month
+ (A$ per month)
+          (1)
+  Prepaid                                               20          19        19       20           19          2.4
+                   (4)
+  Branded Postpaid                                      50          48        48       49           48          3.1
+                     (2)
+  Connected devices                                     12          13        13       13           13         -2.4
+ Blended                                                34          33        32       33           32          2.8
+
+ Data usage (GB per month) (5)                          22          21        19       22           19         13.8
+                                 (6)
+ Mobile customer market share                        31.1%        31.1%    30.7%    31.1%       30.7%
+                                        (7)
+ Retail postpaid churn rate per month                 1.2%         1.1%     1.3%     1.2%          1.3%
+
+
+
+Notes:
+(1) Comparatives have been restated for the acquisition of Circles.Life customers.
+(2) Defined as data-only SIMs and included customers on both prepaid and postpaid plans.
+(3) Based on average number of customers, calculated as the simple average of opening and closing number of
+    customers.
+(4) Excludes Wholesale MVNOs.
+(5) Based on postpaid handset monthly usage and includes Wholesale and amaysim.
+(6) Based on latest available market share either as at the end of June or December.
+(7) Churn calculation excluded customers transferred from postpaid to prepaid.
+
+
+                                                                Quarter                Half Year            YOY
+                                                    30 Sep      30 Jun    30 Sep        30 Sep              Chge
+                                                     2025        2025      2024       2025     2024          %
+Home
+ Blended Home ARPU (A$)                                    78       77       76         77          75       2.6
+
+                        (1)
+ Home customers (000s)
+ NBN                                                  1,072       1,076    1,080     1,072      1,080       -0.7
+ Fixed Wireless Access (FWA)                            241         239      225       241        225       7.2
+ Total                                                1,313       1,315    1,305     1,313      1,305       0.6
+
+
+
+ Note:
+(1) Referred to retail customers who took up broadband (including fixed/4G/5G Internet) and/or voice.
+
+--- PAGE 38 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                             Page 35
+
+
+SECTION 8: GLOSSARY
+
+ “ACCC”             Australian Competition and Consumer Commission.
+
+ “ACMA”             Australian Communications and Media Authority.
+
+ “AI”               Artificial Intelligence.
+
+ “API”              Application Programming Interface.
+
+ “ARPU”             Average revenue per user.
+
+ “Associate”        Refers to an associate and/or a joint venture company under Singapore Financial Reporting Standards
+                    (International).
+
+ “ATO”              Australian Taxation Office.
+
+ “EI”               Exceptional items, which refer to items of income or expense within profit or loss from ordinary activities
+                    that are of such size, nature or incidence that their separate disclosure is considered necessary to explain
+                    the performance for the financial period.
+
+ “EBIT”             Earnings before interest and tax.
+
+ “EBITDA”           Earnings before interest, tax, depreciation and amortisation, and does not include the share of pre-tax
+                    results of associates.
+
+ “EBITDA margin”    Ratio of EBITDA over operating revenue.
+
+ “EPS”              Earnings per share.
+
+ “Free Cash Flow”   Free cash flow refers to cash flow from operating activities less cash capital expenditure.
+
+ “FWA”              Fixed Wireless Access.
+
+ “GPU”              Graphics Processing Unit.
+
+ “HFC”              Hybrid Fibre-Coaxial.
+
+ “IMDA”             Infocomm Media Development Authority.
+
+ “MOU”              Memorandum Of Understanding.
+
+ “MVNO”             Mobile Virtual Network Operator.
+
+ “NA”               Not applicable.
+
+ “NBN”              National Broadband Network.
+
+ “ND”               Not disclosed.
+
+ “NM”               Not meaningful.
+
+ “NPS”              Net Promoter Score. This is a widely used metric to measure customer experience by scoring the
+                    willingness of customers to recommend a brand following an interaction with the company.
+
+ “Optus”            Singtel Optus Pty Limited, Singtel’s wholly-owned subsidiary.
+
+ “OTT”              Over-the-top.
+
+ “Regional          Comprises Airtel, AIS, Telkomsel and Globe. Intouch was a regional associate before April 2025.
+ associates”
+
+ “SFRS(I)”          Singapore Financial Reporting Standards (International).
+
+ “SMS”              Short message service.
+
+ “SME”              Small and medium-sized enterprises.
+
+ “TIO”              Refers to Telecommunications Industry Ombudsman in Australia.
+
+ “Underlying net    Defined as net profit before exceptional items.
+ profit”
+
+ “VPN”              Virtual Private Network.
+
+--- PAGE 39 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                Appendix 1
+                                                                                                         Page 1 of 1
+
+
+
+
+OUTLOOK FOR THE CURRENT FINANCIAL YEAR ENDING 31 MARCH 2026
+
+
+      OpCo EBIT1 to grow between high single digits and low double digits2.
+
+      Cost savings3 of approximately S$200 million in Singtel Singapore and Optus.
+
+      Dividends from the regional associates are expected to be approximately S$1.1 billion4.
+
+      Total capital expenditure is expected to be around S$2.5 billion. Core capital expenditure is
+       expected to be around S$1.7 billion, comprising A$1.3 billion (S$1.1 billion) for Optus and
+       S$0.6 billion for the rest of the Group. Another S$0.8 billion5 is to be invested in data centres,
+       AI, digitalisation and satellites including a satellite to replace ST-2 by 2028.
+
+
+
+
+1 This refers to EBITDA less depreciation and amortisation charges.
+2 Based on average exchange rate during FY2025 of AUD1: S$0.8725.
+3 Before impact of inflation.
+4 Intouch ceased to be an associate on 1 April 2025. Singtel received S$288 million in dividends from Intouch in
+
+  FY2025.
+5 S$0.6 billion will be funded by external capital partners and advance satellite receipts from customers.
+
+--- PAGE 40 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                      Appendix 2
+                                                                               Page 1 of 3
+
+GROUP OPERATING REVENUE
+                                                                Half Year
+                                                                 30 Sep           YOY
+ By Products and Services                                   2025        2024      Chge
+                                                            S$ m        S$ m       %
+
+  Mobile service (includes international call revenue)      2,379      2,461         -3.3
+  Sale of equipment                                           845        902         -6.3
+ Mobile                                                     3,224      3,363         -4.1
+ Infocomm Technology (ICT)                                  1,963      1,846          6.4
+ Data and Internet                                          1,424      1,480         -3.8
+ Fixed voice                                                  152        156         -2.9
+ Pay television                                                87         97        -10.6
+ Others                                                        61         50         20.8
+ Total                                                      6,910      6,992         -1.2
+
+
+                                                                         Half Year
+                                                                           30 Sep
+ Operating Revenue Mix                                                2025       2024
+                                                                       %           %
+
+  Mobile service (includes international call revenue)                  34.4        35.2
+  Sale of equipment                                                     12.2        12.9
+ Mobile                                                                 46.7        48.1
+ Infocomm Technology (ICT)                                              28.4        26.4
+ Data and Internet                                                      20.6        21.2
+ Fixed voice                                                             2.2         2.2
+ Pay television                                                          1.3         1.4
+ Others                                                                  0.8         0.7
+ Total                                                                 100.0      100.0
+
+--- PAGE 41 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                               Appendix 2
+                                                                                                        Page 2 of 3
+
+GROUP OPERATING EXPENSES
+
+                                                                            Half Year
+                                                                             30 Sep                     YOY
+                                                                        2025        2024                Chge
+                                                                        S$ m        S$ m                 %
+                       (1)(2)
+   Cost of sales                                                         1,974            1,967              0.4
+                 (1)
+   Staff costs                                                           1,316            1,299              1.3
+                            (1)
+   Selling & administrative                                                804              889             -9.6
+   Traffic expenses                                                        672              710             -5.4
+   Repair & maintenance                                                    273              266              2.6
+   Others                                                                   45               41             10.4
+   Total                                                                 5,083            5,172             -1.7
+
+
+                                                                                            Half Year
+                                                                                             30 Sep
+   As a percentage of operating revenue                                                 2025          2024
+                                                                                         %             %
+                       (1)(2)
+   Cost of sales                                                                            28.6           28.1
+                 (1)
+   Staff costs                                                                              19.0           18.6
+                                  (1)
+   Selling & administrative                                                                 11.6           12.7
+                            (1)
+   Traffic expenses                                                                          9.7           10.2
+   Repair & maintenance                                                                      4.0            3.8
+   Others                                                                                    0.6            0.6
+   Total                                                                                    73.5           74.0
+
+Notes:
+(1) Comparatives have been restated.
+(2) Cost of sales included cost of goods sold and direct service costs such as costs of content and programming.
+
+--- PAGE 42 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                 Appendix 2
+                                                                                                          Page 3 of 3
+
+GROUP STAFF COSTS
+
+                                                                                      Half Year
+                                                                                       30 Sep                  YOY
+                                                                                2025             2024          Chge
+                                                                                S$ m             S$m            %
+
+               (1)(2)
+Staff costs
+  Optus                                                                             400            387            3.4
+  NCS                                                                               593            597           -0.8
+  Singtel and other subsidiaries                                                    322            315            2.5
+Group                                                                             1,316          1,299            1.3
+
+
+                                                                                       Half Year               YOY
+                                                                                        30 Sep                 Chge
+                                                                                    2025          2024           %
+
+                                (2)
+ Average number of staff
+
+  Optus                                                                             6,332         6,168            2.7
+  NCS                                                                              10,959        10,986           -0.2
+  Singtel and other subsidiaries                                                    5,791         5,894           -1.7
+         (3)
+ Group                                                                             23,082        23,048            0.1
+
+
+                                       (2)
+ Headcount as at end of period
+  Optus                                                                             6,367         6,195            2.8
+  NCS                                                                              10,996        11,040           -0.4
+  Singtel and other subsidiaries                                                    5,812         5,863           -0.9
+         (3)
+ Group                                                                             23,175        23,098            0.3
+
+Notes:
+(1) Comparatives have been restated.
+(2) Exclude staff under contract of less than one year.
+(3) Headcount for staff deployed in capital projects are included in the table above, though the related staff costs are
+    capitalised as part of the cost of property, plant and equipment.
+
+--- PAGE 43 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                               Appendix 3
+                                                                                        Page 1 of 3
+
+BUSINESS SEGMENT RESULTS
+
+The segments are as follows –
+
+Optus offers mobile, equipment sales, fixed voice and data, satellite, ICT and managed services
+in Australia.
+
+Singtel Singapore offers mobile, fixed voice and data, pay television, content and digital services,
+ICT as well as equipment sales.
+
+NCS provides differentiated and end-to-end technology services via its Gov+, Enterprise and
+Telco+ groups.
+
+Digital InfraCo provides regional data centre services through Nxera, satellite services, the
+Paragon platform for 5G multi-access edge compute (MEC) and cloud orchestration, as well as AI
+Cloud Service through RE:AI.
+
+Corporate comprises the costs of Group functions not allocated to the business segments.
+
+--- PAGE 44 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                            Appendix 3
+                                                                                                     Page 2 of 3
+
+BUSINESS SEGMENT RESULTS
+
+                                                                 Quarter                             YOY
+                                                     30 Sep       30 Jun        30 Sep                     Chge
+                                                                                                                (1)
+                                                       2025          2025        2024         Chge      in cc
+                                                       S$ m          S$ m        S$ m          %           %
+                           (2)
+  Operating revenue
+      Optus                                           1,744         1,679         1,849         -5.6        -0.8
+      Singtel Singapore                                 930           929           944         -1.4        -1.4
+      NCS                                               787           733           725          8.5         9.0
+      Digital InfraCo                                   109           107           111         -1.2        -1.2
+       Less: Intercompany eliminations                  (52)          (56)          (49)         6.3         6.3
+  Group                                               3,518         3,392         3,579         -1.7         0.9
+
+            (2)
+  EBITDA
+     Optus                                              507           487           508         -0.2         5.0
+     Singtel Singapore                                  352           380           371         -5.1        -5.1
+      NCS                                               123            97            85        43.9         43.5
+      Digital InfraCo                                    52             58            56        -7.8        -7.8
+      Corporate                                         (39)           (30)          (37)        5.7         5.7
+       Less: Intercompany eliminations                   (2)            (2)          (14)      -84.6       -84.6
+
+  Group                                                 992           990           970          2.4         5.1
+
+                  (2)(3)
+  OpCo EBIT
+      Optus                                             126           111           110         14.0        20.0
+      Singtel Singapore                                 205           235           209         -2.1        -2.1
+      NCS                                               105            79            65         60.8        60.3
+      Digital InfraCo                                    17            24            21        -15.1       -15.1
+      Corporate                                         (42)          (33)          (39)         6.9         6.9
+       Less: Intercompany eliminations                    1             2           (10)         nm          nm
+
+  Group                                                 412           418           356        15.6         17.6
+
+
+ “nm” denotes not meaningful.
+
+ Notes:
+ (1) Assuming constant exchange rates for the Australian Dollar from the corresponding quarter ended 30 September
+     2024.
+ (2) Based on statutory view, which include transactions with other entities in the Singtel Group.
+ (3) OpCo EBIT is defined as EBITDA less depreciation and amortisation charges.
+
+--- PAGE 45 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                           Appendix 3
+                                                                                                    Page 3 of 3
+
+                                                                      Half Year                  YOY
+                                                                       30 Sep                          Chge
+                                                                                                            (1)
+                                                                 2025          2024       Chge        in cc
+                                                                 S$ m          S$ m        %             %
+                         (2)
+Operating revenue
+   Optus                                                            3,423       3,570        -4.1          1.7
+   Singtel Singapore                                                1,860       1,877        -0.9         -0.9
+   NCS                                                              1,520       1,431         6.2          6.6
+   Digital InfraCo                                                    216         219        -1.5         -1.5
+     Less: Intercompany eliminations                                 (108)       (106)        2.4          2.4
+Group                                                               6,910       6,992        -1.2          1.9
+          (2)
+EBITDA
+   Optus                                                                 993     983          1.0          7.2
+   Singtel Singapore                                                     732     756         -3.2         -3.2
+   NCS                                                                   220     169         30.1         29.6
+   Digital InfraCo                                                       110     111         -0.5         -0.5
+   Corporate                                                             (69)    (62)        11.5         11.5
+     Less: Intercompany eliminations                                      (5)    (10)       -54.5        -54.5
+
+Group                                                               1,982       1,947         1.8          4.9
+
+                (2)(3)
+OpCo EBIT
+
+   Optus                                                                 237     197         20.2         27.2
+   Singtel Singapore                                                     440     439          0.3          0.3
+   NCS                                                                   184     130         41.2         40.4
+   Digital InfraCo                                                        41      39          5.8          5.8
+   Corporate                                                             (75)    (67)        11.8         11.8
+     Less: Intercompany eliminations                                       3          *       nm           nm
+Group                                                                    830     738         12.5         14.3
+
+“*” denotes less than +/- 0.5 million and “nm” denotes not meaningful.
+
+Notes:
+(1) Assuming constant exchange rates for the Australian Dollar from the corresponding period ended 30 September
+    2024.
+(2) Based on statutory view, which include transactions with other entities in the Singtel Group.
+(3) OpCo EBIT is defined as EBITDA less depreciation and amortisation charges.
+
+--- PAGE 46 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                     Appendix 4
+                                                                                              Page 1 of 3
+
+OPTUS FINANCIALS IN AUSTRALIAN DOLLARS
+(BASED ON STATUTORY VIEW)
+
+OPTUS SUMMARY INCOME STATEMENT
+For The Half Year Ended 30 September 2025
+
+                                                                              Half Year
+                                                                               30 Sep            YOY
+                                                                           2025       2024       Chge
+                                                                           A$ m       A$ m        %
+
+ Operating revenue                                                        4,090      4,022          1.7
+
+ Operating expenses                                                       (2,971)   (2,985)         -0.5
+
+ Other income                                                                67        70           -4.1
+
+ EBITDA                                                                   1,187     1,107           7.2
+ - margin                                                                 29.0%     27.5%
+
+ Share of results of joint ventures                                            *         *          nm
+
+ EBITDA and share of results of joint ventures                            1,187      1,107          7.2
+
+ Depreciation & amortisation                                               (903)      (885)         2.1
+
+ EBIT                                                                       283       223          27.2
+
+ Net finance expense                                                       (146)      (137)         7.1
+
+ Profit before exceptional items and tax                                    137        86          59.2
+
+ Taxation                                                                    (38)      (25)        48.5
+
+ Underlying net profit                                                      100        61          63.7
+
+“*” denotes less than +/- A$0.5 million and “nm” denotes not meaningful
+
+--- PAGE 47 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                              Appendix 4
+                                                                                       Page 2 of 3
+
+OPTUS SUMMARY STATEMENTS OF FINANCIAL POSITION
+
+                                                                               As at
+                                                             30 Sep            31 Mar           30 Sep
+                                                             2025              2025              2024
+                                                             A$ m              A$ m             A$ m
+
+Current assets (excluding cash)                                3,028             2,988           3,203
+Cash and cash equivalents                                         87                83              44
+Non-current assets                                            16,619            16,483          16,047
+Total assets                                                  19,734           19,554           19,294
+
+Current liabilities                                            3,868             4,212           4,996
+Non-current liabilities                                        6,940             6,276           5,084
+Total liabilities                                             10,808           10,488           10,080
+
+Net assets                                                     8,926            9,066            9,213
+
+Share capital                                                  5,317             5,317           5,317
+Retained earnings and other reserves                           3,610             3,749           3,897
+
+Equity attributable to shareholders                            8,926            9,066            9,213
+
+
+
+CAPITAL MANAGEMENT
+
+                                                                                  As at
+                                                                 30 Sep          31 Mar          30 Sep
+                                                                    2025          2025           2024
+                                                                 A$ m             A$ m           A$ m
+
+Gross debt
+ Current debt                                                          515               822         1,930
+ Non-current debt                                                     6,499           5,928          4,675
+ Gross debt as reported in statement of financial position            7,014           6,750          6,605
+ Related net hedging liability                                          (34)              5              74
+Hedged gross debt                                                     6,981           6,755          6,679
+Less : Cash and cash equivalents                                        (87)             (83)           (44)
+Net debt                                                              6,894           6,672          6,635
+
+--- PAGE 48 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                    Appendix 4
+                                                                                             Page 3 of 3
+
+OPTUS CASH FLOW STATEMENT
+For The Half Year Ended 30 September 2025
+
+                                                                            Half Year
+                                                                             30 Sep             YOY
+                                                                          2025        2024      Chg
+                                                                          A$ m      A$ m         %
+
+Net cash inflow from operating activities
+ Profit before exceptional items and tax                                    137        86         59.2
+ Non-cash items                                                           1,025     1,006          1.9
+ Operating cash flow before working capital changes                       1,162     1,092          6.4
+ Changes in operating assets and liabilities                                 35      (106)         nm
+ Operating cash flow                                                      1,196       986         21.4
+
+Net cash outflow for investing activities
+ Accrued capital expenditure                                                (618)     (571)        8.4
+ Changes in creditors' balances                                             (108)      (20)      447.7
+ Cash capital expenditure                                                   (726)     (590)       23.0
+ Loan to holding company (1)                                                (214)     (152)       40.7
+ Repayment of loan by holding company (1)                                      4     1,626       -99.8
+ Payment for purchase of spectrum                                            (49)   (1,525)      -96.8
+ Payment for purchase of other intangibles                                   (39)      (21)       83.7
+ Others                                                                        2         3       -28.2
+                                                                          (1,023)     (660)       55.1
+Net cash outflow for financing activities
+ Net increase/(decrease) in loans and bonds                                 192        (19)        nm
+ Lease payments                                                            (192)      (164)       17.3
+ Net decrease in borrowings                                                   *       (182)        nm
+ Net interest paid on borrowings and swaps                                 (150)      (139)        7.3
+ Purchase of Singtel shares                                                 (20)       (12)       74.5
+                                                                           (169)      (333)      -49.1
+Net change in cash and cash equivalents                                       4        (7)         nm
+Optus cash and cash equivalents at beginning                                 83        51         61.7
+Optus cash and cash equivalents at end                                       87        44         97.2
+
+Optus free cash flow                                                        470       395         18.9
+Cash capex to operating revenue                                             18%       15%
+
+“*” denotes less than +/- A$0.5 million and “nm” denotes not meaningful
+
+Note:
+(1) The intercompany amounts are eliminated at Singtel Group level.
+
+--- PAGE 49 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                          Appendix 5
+                                                                                                   Page 1 of 1
+
+GROUP STATEMENTS OF FINANCIAL POSITION
+                                                                            As at
+                                                    30 Sep 2025           31 Mar 2025         30 Sep 2024
+                                                        S$ m                 S$ m                 S$ m
+
+Current assets
+Cash and cash equivalents (1)                                3,365               2,773               2,608
+Trade and other receivables                                  4,795               5,059               4,871
+Inventories                                                    321                 294                 285
+Derivative financial instruments                                 5                  27                  22
+Other assets (2)                                               113                  39                 468
+                                                             8,598               8,191               8,253
+
+Non-current assets
+Property, plant and equipment                               10,513              10,280              10,022
+Right-Of-Use ("ROU") assets                                  2,717               2,701               2,781
+Intangible assets                                            9,468               9,562               9,431
+Associates                                                     288               1,741               2,340
+Joint ventures                                              11,952              12,199              10,401
+Fair value through other comprehensive
+  income ("FVOCI") investments                               2,762                 736                 619
+Deferred tax assets                                            773                 684                 587
+Derivative financial instruments                                37                  94                  69
+Other assets                                                   668                 594                 659
+                                                            39,178              38,592              36,908
+
+Total assets                                                47,776              46,783              45,161
+
+Current liabilities
+Trade and other payables                                     4,638               5,182               4,499
+Advance billings                                               855                 769                 787
+Current tax liabilities                                      1,116                 914                 869
+Interim dividend payable                                         -                   -                 314
+Borrowings (unsecured)                                          51                 996               1,919
+Borrowings (secured)                                           499                 473                 525
+Derivative financial instruments                                 8                  24                  70
+Net deferred gain (3)                                           21                  21                  21
+                                                             7,189               8,379               9,004
+
+Non-current liabilities
+Borrowings (unsecured)                                       7,485               7,144               6,092
+Borrowings (secured)                                         3,354               3,059               3,090
+Derivative financial instruments                               762                 594                 794
+Advance billings                                               552                 565                 494
+Net deferred gain (3)                                          346                 344                 345
+Deferred tax liabilities                                       505                 510                 523
+Other non-current liabilities                                  339                 232                 224
+                                                            13,343              12,448              11,563
+
+Total liabilities                                           20,531              20,827              20,567
+
+Net assets                                                  27,244              25,956              24,594
+
+Share capital and reserves
+Share capital                                                4,573               4,573               4,573
+Reserves                                                    21,508              20,306              18,956
+Equity attributable to shareholders
+ of the Company                                             26,081              24,879              23,529
+Perpetual securities                                         1,013               1,013               1,013
+                                                            27,094              25,891              24,542
+Minority interests                                             151                  65                  53
+Total equity                                                27,244              25,956              24,594
+
+Notes:
+(1) Comprised cash and bank balances, and fixed deposits with original maturity of three months or less.
+(2) Comprised fixed deposits with original maturity of more than three months, and leasehold land and other assets
+    held for sale. The leasehold land was deconsolidated in March 2025.
+(3) Relates to deferred gain on transfer of certain assets to NetLink Trust.
+
+--- PAGE 50 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                                                    Appendix 6
+                                                                                                             Page 1 of 1
+
+GROUP CASH FLOW STATEMENT
+For The Half Year Ended 30 September 2025
+                                                                                   Half Year
+                                                                                    30 Sep                     YOY
+                                                                            2025               2024            Chge
+                                                                            S$ m               S$ m             %
+Net cash inflow from operating activities
+   Profit before exceptional items and tax                                     2,043             1,731            18.0
+   Non-cash items                                                                (65)              204             nm
+   Operating cash flow before working capital changes                          1,977             1,935             2.2
+   Changes in operating assets and liabilities                                  (181)             (701)          -74.2
+                                                                               1,797             1,235            45.5
+   Cash paid to employees under performance share plans                           (1)               (1)          100.0
+   Tax paid on operating activities                                              (96)              (79)           21.3
+   Operating cash flow before dividends from associates                        1,700             1,155            47.1
+   Dividends/Distributions received from associates                            1,140             1,097             3.9
+   Withholding tax paid on dividends received                                   (115)             (114)            1.3
+                                                                               2,724             2,138            27.4
+Net cash inflow/(outflow) for investing activities
+  Accrued capital expenditure                                                  (1,038)            (718)           44.4
+  Changes in creditors' balances                                                 (241)            (120)          100.0
+  Cash capital expenditure                                                     (1,278)            (839)           52.4
+  Deferred proceeds from disposal of subsidiaries,
+     net of cash balances                                                          9                  3          190.3
+  Payment for purchase of spectrum                                               (41)            (1,336)         -96.9
+  Payment for purchase of other intangibles                                      (40)               (26)          54.2
+  Investment in joint ventures/associates                                       (650)               (62)            @
+  Proceeds from disposal of joint ventures                                     1,927                 12             @
+  Proceeds from disposal of FVOCI investments                                     96                 11             @
+  Investment in FVOCI investments                                               (125)               (20)            @
+  Deferred payment for acquisition of subsidiaries,
+     net of cash acquired                                                           (3)            (11)          -76.1
+  Fixed deposits with original maturity longer than three months                     -            (397)            nm
+  Proceeds from fixed deposits with original maturity
+     longer than three months                                                        -                348          nm
+  Loan to associated companies and joint ventures                                  (49)               (13)       289.6
+  Repayment of loan from associated company                                          -                  5          nm
+  Proceeds from disposal of property, plant and equipment                            *                  *          nm
+  Withholding tax paid on interest received on intercompany loans                  (18)               (13)        33.1
+  Contribution from non-controlling interests                                      337                 72        368.1
+  Others                                                                            59                 71        -16.1
+                                                                                   225           (2,195)           nm
+Net cash outflow for financing activities
+  Net decrease in loans and bonds                                                (174)              (18)            @
+  Lease payments                                                                 (215)             (232)          -7.3
+  Net decrease in borrowings                                                     (389)             (250)          55.4
+  Settlement of swap for bonds repaid                                             (51)                -            nm
+  Net interest paid on borrowings and swaps                                      (227)             (222)           2.1
+  Final dividend paid to shareholders                                          (1,651)           (1,305)          26.6
+  Distribution paid on perpetual securities                                       (17)              (17)             **
+  Purchase of performance shares                                                  (17)              (11)          61.9
+  Net changes to other payables                                                     -              (131)           nm
+  Others                                                                            2                 *            nm
+                                                                               (2,350)           (1,936)          21.4
+
+Net increase/(decrease) in cash and cash equivalents                               599           (1,992)           nm
+Exchange effects on cash and cash equivalents                                       (6)              (5)          15.7
+                                                            (1)
+Group cash and cash equivalents at beginning of period                         2,766             4,595           -39.8
+                                                      (1)
+Group cash and cash equivalents at end of period                               3,359             2,598            29.3
+
+Group free cash flow (before associates'
+ dividends/distributions)                                                          422                317         33.1
+   Dividends/Distributions received from associates
+    (net of withholding tax)                                                   1,024                  983          4.2
+Group free cash flow                                                           1,446             1,299            11.3
+Cash capex to operating revenue                                                 18%               12%
+
+
+“*” denotes less than +/- S$0.5 million, “**” denotes less than +/- 0.05%, "@" denotes more than +/- 500% and
+“nm” denotes not meaningful.
+
+Note:
+(1) For purpose of statutory reporting, cash and cash equivalents excluded restricted cash and fixed deposits
+    with original maturity longer than three months.
+
+--- PAGE 51 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                        Appendix 7
+                                                                                 Page 1 of 2
+
+CURRENCY RISK MANAGEMENT AND OTHER MATTERS
+
+The Group maintains a policy to substantially hedge all known foreign currency exposures
+related to commercial commitments or transactions. These commitments or transactions
+include payment of operating expenses, traffic settlement, capital expenditure, interest and
+debt. Translation risks of foreign currency EBITDA and net investments are not hedged
+unless approved by the Finance and Investment Committee.
+
+The Group has borrowings denominated in foreign currencies that have primarily been
+hedged into the functional currency of the respective borrowing entities using cross currency
+swaps in order to reduce the foreign currency exposure on these borrowings. As the hedges
+are perfect, any change in the fair value of the cross currency swaps has minimal impact on
+profit and equity.
+
+Financial instruments such as foreign currency forward contracts and cross currency swaps
+are used only to hedge underlying commercial exposures and are not held or sold for
+speculative purposes. All hedging transactions are reviewed regularly.
+
+
+CREDIT RATINGS
+
+                                                               Singtel            Optus
+ S&P Global Ratings                                           A (stable)        A- (stable)
+ Moody's Investors Service                                   A1 (stable)       A3 (stable)
+
+--- PAGE 52 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                Appendix 7
+                                                                         Page 2 of 2
+
+MAJOR CURRENCY AVERAGE EXCHANGE RATES
+
+1 Australian Dollar buys:                              H1        H2        Full Year
+Derived weighted average exchange rate for:
+Operating revenue
+SGD
+FY2026                                                0.8368
+FY2025                                                0.8876    0.8578       0.8725
+Change (last corresponding period)                    -5.7%
+
+
+
+1 Singapore Dollar buys:                               H1       H2       Full Year
+
+Rupiah
+FY2026                                                12,658
+FY2025                                                11,905   12,048      11,905
+Change (last corresponding period)                      6.3%
+
+Indian Rupee
+FY2026                                                 67.1
+FY2025                                                 62.5      63.7        63.3
+Change (last corresponding period)                     7.4%
+
+Baht
+FY2026                                                  25.3
+FY2025                                                  26.7     25.4        26.0
+Change (last corresponding period)                     -5.2%
+
+Peso
+FY2026                                                 43.9
+FY2025                                                 43.1      43.3        43.1
+Change (last corresponding period)                     1.9%
+
+--- PAGE 53 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                           Appendix 8
+                                                                                    Page 1 of 2
+
+
+PROFORMA INFORMATION
+
+The following tables show unaudited proforma proportionate financial information which has
+been derived from the Income Statements of the Group prepared on a statutory basis.
+
+Proportionate presentation is not required by SFRS(I) and is not intended to replace the
+financial statements prepared in accordance with SFRS(I). However, since the associates
+are not consolidated on a line-by-line basis, proportionate information is provided as
+supplemental data to facilitate a better appreciation of the relative contribution from the
+Group’s operations in Australia, Singapore and other regional markets.
+
+                                                                        Half Year
+                                                                         30 Sep                YOY
+                                                                    2025          2024         Chge
+                                                                    S$ m         S$ m           %
+
+Group operating revenue
+   Optus                                                              3,423        3,570        -4.1
+   Singapore                                                          3,230        3,165         2.1
+   Other overseas subsidiaries                                          257          256         0.2
+                                                                      6,910        6,992        -1.2
+Proportionate share of associates' revenue
+   Regional associates                                                7,488        6,915         8.3
+   Singapore associates                                                 155          251       -38.3
+   Other overseas associates                                             39              48    -18.3
+                                                                      7,682        7,214         6.5
+
+Total proportionate revenue                                          14,592       14,206         2.7
+
+% of overseas revenue to total proportionate revenue                   77%           76%
+
+Group EBITDA
+   Optus                                                                993          983         1.0
+   Singapore                                                           1,001         989         1.2
+   Other overseas subsidiaries                                          (12)         (25)      -53.6
+                                                                       1,982       1,947         1.8
+Proportionate share of associates' EBITDA
+   Regional associates                                                 4,127       3,759         9.8
+   Singapore associates                                                   (8)         28         nm
+   Other overseas associates                                              27             33    -18.2
+                                                                       4,146       3,819         8.6
+
+Total proportionate EBITDA                                             6,128       5,766         6.3
+
+% of overseas EBITDA to total proportionate EBITDA                     84%           82%
+
+Contributions to total proportionate EBITDA
+   Regional associates                                                  67%          65%
+   Australia                                                            16%          17%
+   Singapore                                                            16%          18%
+   Others                                                                  **             **
+                                                                      100%          100%
+
+“nm” denotes not meaningful and “**” denotes less than +/- 0.05%.
+
+--- PAGE 54 ---
+Singapore Telecommunications Ltd And Subsidiary Companies                      Appendix 8
+                                                                               Page 2 of 2
+
+MOBILE CUSTOMER BASE
+
+                                                                Total Number
+Number of mobile customers (000s)                    30 Sep        31 Mar        30 Sep
+                                                      2025          2025          2024
+
+ Singtel                                                4,552         4,536         4,606
+ Optus                                                 10,717        10,706        10,548
+                                                       15,269        15,242        15,154
+Regional Associates
+ Airtel
+  - India                                             364,192       361,593       351,640
+  - Africa                                            173,816       166,053       156,642
+                                                      538,008       527,646       508,282
+ Telkomsel                                            157,587       158,811       158,416
+ AIS                                                   46,275        45,716        46,282
+ Globe                                                 63,148        61,593        60,167
+                                                      805,018       793,766       773,147
+
+Group                                                 820,287       809,008       788,301

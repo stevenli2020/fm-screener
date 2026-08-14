@@ -138,7 +138,7 @@ def test_policy_mapping_and_target_url_preserve_authoritative_order():
     query = parse_qs(urlparse(url).query)
 
     assert mapping.filter_type == "company"
-    assert policy.mappings["A17U"].filter_type == "security"
+    assert policy.mappings["A17U"].filter_type == "securityname"
     assert query["value"] == ["DBS GROUP HOLDINGS LTD"]
     assert "DBS%20GROUP%20HOLDINGS%20LTD" in url
     assert "%2C" in url
@@ -146,6 +146,17 @@ def test_policy_mapping_and_target_url_preserve_authoritative_order():
     assert query["to"] == ["20260812"]
     assert query["ANNC"][0].split(",")[:3] == ["ANNC02", "ANNC03", "ANNC04"]
     assert "PLST" not in query
+
+    security_url = extractor.build_list_url(
+        1,
+        100,
+        mapping=policy.mappings["ME8U"],
+        from_date=date(2026, 8, 11),
+        to_date=date(2026, 8, 12),
+        category_groups={"ANNC": ("ANNC17",)},
+        base_url=policy.base_url,
+    )
+    assert parse_qs(urlparse(security_url).query)["type"] == ["securityname"]
 
 
 def test_load_targets_deduplicates_and_missing_mapping_is_detectable(tmp_path):

@@ -1,0 +1,1168 @@
+--- PAGE 1 ---
+GENTING SINGAPORE LIMITED
+(Company Registration Number: 201818581G)
+AND ITS SUBSIDIARIES
+
+INTERIM FINANCIAL INFORMATION
+For the six months period ended 30 June 2026
+
+--- PAGE 2 ---
+Contents
+
+
+                                                                    Page
+
+Condensed Interim Statement of Comprehensive Income for the Group     1
+
+Condensed Interim Statements of Financial Position                    2
+
+Condensed Interim Statement of Cash Flows for the Group              3-4
+
+Condensed Interim Statements of Changes in Equity                    5-6
+
+Notes to the Condensed Interim Financial Information                 7 - 16
+
+Other Information Required by Listing Rule Appendix 7.2             17 - 22
+
+--- PAGE 3 ---
+CONDENSED INTERIM STATEMENT OF COMPREHENSIVE INCOME FOR THE GROUP
+
+                                                                                           Six months period ended
+                                                                                                    30 June
+                                                                                              2026          2025            Change
+                                                                                 Note         $’000         $’000             %
+
+ Revenue                                                                           4        1,203,560       1,214,500         (1)
+ Cost of sales ^                                                                             (885,484)       (807,606)        10
+ Gross profit                                                                                 318,076         406,894        (22)
+ Other operating income                                                                           159              70        >100
+ Interest income                                                                               22,822          50,447        (55)
+ Administrative expenses                                                                     (113,784)       (121,355)        (6)
+ Selling and distribution expenses                                                            (19,088)        (20,811)        (8)
+ Other operating expenses                                                                      (2,699)        (14,997)       (82)
+ Operating profit                                                                             205,486         300,248        (32)
+ Finance costs                                                                                   (458)           (483)        (5)
+ Share of results of joint venture                                                              2,716           3,046        (11)
+ Profit before taxation                                                            5          207,744         302,811        (31)
+ Taxation                                                                          6          (51,665)        (68,094)       (24)
+ Net profit for the financial period                                                          156,079         234,717        (34)
+
+ Net profit attributable to ordinary shareholders of the Company                              156,079         234,717         (34)
+
+ Other comprehensive (loss)/income, may be reclassified
+  subsequently to profit or loss:
+ Foreign currency exchange differences                                                              (6)            414        NM
+ Reclassification of foreign currency exchange differences                                            -         (2,073)      (100)
+ Other comprehensive loss for the financial period, net of tax                                     (6)         (1,659)       (100)
+ Total comprehensive income for the financial period                                          156,073         233,058         (33)
+
+ Total comprehensive income attributable to ordinary
+  shareholders of the Company                                                                 156,073         233,058         (33)
+
+
+
+                                                                                          Six months period ended
+                                                                                                  30 June
+                                                                                 Note        2026         2025             Change
+                                                                                                                             %
+ Earnings per share attributable to ordinary shareholders of the
+                                                                                   7
+  Company
+
+ Basic earnings per share (cents)                                                                 1.29           1.94        (34)
+
+ Diluted earnings per share (cents)                                                               1.29           1.94        (34)
+
+ NM: Not meaningful
+
+ ^ Included in cost of sales for the six months period ended 30 June 2026 is net impairment on trade receivables (Note 5) amounting to
+   $64,566,000 (six months period ended 30 June 2025: $71,678,000).
+
+
+
+The accompanying notes form an integral part of these condensed interim financial information.
+
+                                                                 1
+
+--- PAGE 4 ---
+CONDENSED INTERIM STATEMENTS OF FINANCIAL POSITION
+                                                                  Group                            Company
+                                                        30 June       31 December           30 June    31 December
+                                                         2026             2025               2026          2025
+                                             Note        $’000            $’000              $’000         $’000
+
+ Non-current assets
+ Property, plant and equipment                 8       5,453,901        5,386,746               1,646          402
+ Intangible assets                                       152,697          159,777                 515          410
+ Interests in joint venture                               85,109           82,393                   -            -
+ Interests in subsidiaries                                     -                -           4,094,560    4,095,384
+ Deferred tax assets                                           5                4                   1            3
+ Financial assets at fair value through
+   profit or loss                              9          47,736           48,149                   -            -
+ Trade and other receivables                                 907            7,498                   -            -
+                                                       5,740,355        5,684,567           4,096,722    4,096,199
+
+ Current assets
+ Inventories                                              58,532           55,920                   -            -
+ Trade and other receivables                             233,666          244,970             299,277       67,084
+ Cash and cash equivalents                             2,948,914        3,200,342           1,501,653    1,717,438
+                                                       3,241,112        3,501,232           1,800,930    1,784,522
+
+ Less: Current liabilities
+ Trade and other payables                                578,742          659,682               7,089       12,825
+ Lease liabilities                            10           1,358            2,199                 835          142
+ Income tax liabilities                                  127,547          121,005               5,585        6,702
+                                                         707,647          782,886              13,509       19,669
+ Net current assets                                    2,533,465        2,718,346           1,787,421    1,764,853
+ Total assets less current liabilities                 8,273,820        8,402,913           5,884,143    5,861,052
+
+ Equity attributable to ordinary
+   shareholders
+ Share capital                                11       5,527,705        5,527,705           5,527,705    5,527,705
+ Treasury shares                              11         (18,951)          (6,498)            (18,951)      (6,498)
+ Other reserves                               12          16,073           17,541               8,659       10,121
+ Retained earnings                                     2,580,472        2,666,668             366,091      329,655
+ Total equity                                          8,105,299        8,205,416           5,883,504    5,860,983
+
+ Non-current liabilities
+ Deferred tax liabilities                                151,402          164,909                   -            -
+ Lease liabilities                            10             120              373                 567            -
+ Provision for retirement gratuities                         118              117                  72           69
+ Other payables                                           16,881           32,098                   -            -
+                                                         168,521          197,497                 639           69
+ Total equity and non-current liabilities              8,273,820        8,402,913           5,884,143    5,861,052
+
+
+
+
+The accompanying notes form an integral part of these condensed interim financial information.
+
+                                                           2
+
+--- PAGE 5 ---
+CONDENSED INTERIM STATEMENT OF CASH FLOWS FOR THE GROUP
+
+                                                                                        Six months period ended
+                                                                                                30 June
+                                                                                        2026              2025
+                                                                                        $’000             $’000
+
+ Profit before taxation for the financial period                                           207,744         302,811
+ Adjustments for:
+ Property, plant and equipment:
+    - Depreciation                                                                         181,345         142,267
+    - Net loss/(gain) on disposals                                                             273              (7)
+    - Written off                                                                              872           4,469
+ Amortisation of intangible assets                                                          19,235          17,685
+ Net impairment on trade receivables                                                        64,566          71,678
+ Write-off of intangible assets                                                                  5               -
+ Fair value (gain)/loss on financial assets at fair value through profit or loss               (32)            931
+ Share-based payment expense                                                                 3,582             378
+ Inventory write-down                                                                           71              76
+ Finance charges                                                                               458             483
+ Unrealised foreign exchange (gain)/loss                                                      (448)         11,154
+ Interest income                                                                           (22,822)        (50,447)
+ Share of results of joint venture                                                          (2,716)         (3,046)
+ Provision/(write-back) of retirement gratuities                                                 1              (6)
+                                                                                           244,390         195,615
+ Operating cash flows before movements in working capital                                  452,134         498,426
+
+ Changes in working capital:
+ Increase in inventories                                                                    (2,683)         (2,370)
+ Increase in trade and other receivables                                                   (50,097)        (96,987)
+ (Decrease)/increase in trade and other payables                                           (35,204)          5,815
+                                                                                           (87,984)        (93,542)
+ Cash generated from operating activities                                                  364,150         404,884
+
+ Interest received                                                                          25,862          53,731
+ Net taxation paid                                                                         (58,632)        (89,553)
+ Net cash generated from operating activities                                              331,380         369,062
+
+
+
+
+The accompanying notes form an integral part of these condensed interim financial information.
+
+                                                                3
+
+--- PAGE 6 ---
+CONDENSED INTERIM STATEMENT OF CASH FLOWS FOR THE GROUP (CONTINUED)
+
+                                                                                         Six months period ended
+                                                                                                 30 June
+                                                                                         2026              2025
+                                                                                         $’000             $’000
+
+ Net cash generated from operating activities                                              331,380          369,062
+
+ Investing activities
+ Property, plant and equipment:
+   - Proceeds from disposals                                                                    51              342
+   - Purchases                                                                            (310,308)        (305,265)
+ Additions of intangible assets                                                            (12,160)         (69,595)
+ Proceeds from disposals of financial assets at fair value through profit or loss                5               72
+ Additions of financial assets at fair value through profit or loss                           (675)          (6,665)
+ Net cash used in investing activities                                                    (323,087)        (381,111)
+
+ Financing activities
+ Repurchase of shares                                                                      (18,508)               -
+ Interest paid                                                                                 (62)             (85)
+ Dividends paid                                                                           (241,761)        (241,658)
+ Repayment of lease liabilities                                                             (1,089)          (1,071)
+ Net cash used in financing activities                                                    (261,420)        (242,814)
+
+ Decrease in cash and cash equivalents                                                    (253,127)        (254,863)
+
+ Beginning of financial period                                                           3,200,342        3,582,878
+ Net outflow                                                                              (253,127)        (254,863)
+ Effects of exchange rate changes                                                            1,699          (11,907)
+ End of financial period                                                                 2,948,914        3,316,108
+
+
+
+
+The accompanying notes form an integral part of these condensed interim financial information.
+
+                                                              4
+
+--- PAGE 7 ---
+CONDENSED INTERIM STATEMENTS OF CHANGES IN EQUITY
+
+                                                  Attributable to ordinary shareholders of the Company
+
+
+
+
+                                                                                                                 Exchange translation
+                                                                                         Performance share
+
+
+
+                                          Share capital        Treasury shares                                                                  Retained earnings
+                                                                                          reserve                 reserve                                                   Total
+ Group
+                                         $’000                $’000                      $’000                   $’000                         $’000                       $’000
+
+
+ As at 1 January 2026                  5,527,705               (6,498)                     10,121                       7,420                 2,666,668                   8,205,416
+ Total comprehensive income/(loss)
+    - Profit for the period                               -                          -                       -                           -     156,079                     156,079
+    - Other comprehensive loss                            -                          -                       -                          (6)                           -              (6)
+ Transactions with owners:
+   Performance share schemes:
+     - Value of employee services                         -                          -         4,079                                     -                            -       4,079
+     - Treasury shares reissued                           -       6,055                     (5,541)                                      -                     (514)                  -
+   Repurchase of shares                                   -   (18,508)                                       -                           -                            -     (18,508)
+   Dividends paid                                         -                          -                       -                           -    (241,761)                   (241,761)
+ Total transactions with owners                           -   (12,453)                      (1,462)                                      -    (242,275)                   (256,190)
+ As at 30 June 2026                    5,527,705              (18,951)                         8,659                    7,414                 2,580,472                   8,105,299
+
+
+ As at 1 January 2025                  5,527,705              (17,268)                     19,061                       9,083                 2,758,996                   8,297,577
+ Total comprehensive income/(loss)
+    - Profit for the period                               -                          -                       -                           -     234,717                     234,717
+    - Other comprehensive loss                            -                          -                       -       (1,659)                                          -      (1,659)
+ Transactions with owners:
+   Performance share schemes:
+     - Value of employee services                         -                          -               855                                 -                            -             855
+     - Treasury shares reissued                           -       8,371                     (9,335)                                      -                          964               -
+   Dividends paid                                         -                          -                       -                           -    (241,658)                   (241,658)
+ Total transactions with owners                           -       8,371                     (8,480)                                      -    (240,694)                   (240,803)
+ As at 30 June 2025                    5,527,705               (8,897)                     10,581                       7,424                 2,753,019                   8,289,832
+
+
+
+
+The accompanying notes form an integral part of these condensed interim financial information.
+
+                                                                                 5
+
+--- PAGE 8 ---
+CONDENSED INTERIM STATEMENTS OF CHANGES IN EQUITY (CONTINUED)
+
+                                             Attributable to ordinary shareholders of the Company
+
+
+
+
+                                                                                               Performance share
+
+
+
+                                                Share capital            Treasury shares                                Retained earnings
+                                                                                                reserve                                               Total
+ Company
+                                               $’000                    $’000                  $’000                   $’000                        $’000
+
+
+ As at 1 January 2026                         5,527,705                    (6,498)                10,121               329,655                      5,860,983
+ Total comprehensive income
+    - Profit for the period                                     -                          -                       -   278,711                       278,711
+ Transactions with owners:
+   Performance share schemes:
+     - Value of employee services                               -                          -          4,079                                    -         4,079
+     - Treasury shares reissued                                 -              6,055                (5,541)                                 (514)               -
+   Repurchase of shares                                         -       (18,508)                                   -                           -      (18,508)
+   Dividends paid                                               -                          -                       -   (241,761)                    (241,761)
+ Total transactions with owners                                 -       (12,453)                    (1,462)            (242,275)                    (256,190)
+ As at 30 June 2026                           5,527,705                 (18,951)                      8,659            366,091                      5,883,504
+
+
+ As at 1 January 2025                         5,527,705                 (17,268)                  19,061               368,409                      5,897,907
+ Total comprehensive income
+    - Profit for the period                                     -                          -                       -   229,998                       229,998
+ Transactions with owners:
+   Performance share schemes:
+     - Value of employee services                               -                          -                 855                               -              855
+     - Treasury shares reissued                                 -              8,371                (9,335)                                 964                 -
+   Dividends paid                                               -                          -                       -   (241,658)                    (241,658)
+ Total transactions with owners                                 -              8,371                (8,480)            (240,694)                    (240,803)
+ As at 30 June 2025                           5,527,705                    (8,897)                10,581               357,713                      5,887,102
+
+
+
+
+The accompanying notes form an integral part of these condensed interim financial information.
+
+                                                                    6
+
+--- PAGE 9 ---
+NOTES TO THE CONDENSED INTERIM FINANCIAL INFORMATION
+
+1.    GENERAL
+
+      Genting Singapore Limited (the “Company”) is listed on the Main Board of Singapore Exchange Securities Trading
+      Limited (“SGX-ST”).
+
+      The address of the Company’s registered office is 10 Sentosa Gateway, Singapore 098270.
+
+      The Company’s principal activity is that of an investment holding company. The principal activities of the Company’s
+      subsidiaries include the construction, development and operation of integrated resort, operation of casinos,
+      provision of sales and marketing support services to leisure and hospitality related businesses and investments.
+
+
+2.    MATERIAL ACCOUNTING POLICIES
+
+2.1   Basis of preparation
+
+      The condensed interim financial information of the Company and its subsidiaries (the “Group”) for the six months
+      period ended 30 June 2026 has been prepared in accordance with Singapore Financial Reporting Standard
+      (International) 1-34 Interim Financial Reporting. The condensed interim financial information should be read in
+      conjunction with the annual financial statements for the financial year ended 31 December 2025, which has been
+      prepared in accordance with Singapore Financial Reporting Standards (International) (“SFRS(I)s”).
+
+      Except for the accounting policies disclosed below, the accounting policies applied are consistent with those of the
+      annual financial statements for the financial year ended 31 December 2025, as described in those annual financial
+      statements.
+
+      Income tax
+
+      Taxes on income in the interim periods are accrued using the effective tax rate that would be applicable to total
+      earnings.
+
+      Interpretations and amendments to published standards effective in 2026
+
+      On 1 January 2026, the Group and the Company have adopted the new or amended SFRS(I)s that are effective
+      for financial period beginning on or after 1 January 2026. The adoption of the new SFRS(I)s did not result in any
+      significant changes to the accounting policies and had no material effect on the amounts reported for the current
+      or prior financial periods.
+
+      There are no other standards that are not yet effective that would be expected to have a material impact on the
+      Group and the Company in the current or foreseeable future reporting periods, except for SFRS (I) 18 Presentation
+      and Disclosure in Financial Statements as the impact on presentation and disclosure are expected to be pervasive,
+      in particular, those related to the consolidated statement of comprehensive income and providing management-
+      defined performance measures within the financial statements. SFRS(I) 18 is effective for annual periods
+      commencing on 1 January 2027 and the Group is currently assessing the impact of applying the new standard on
+      the Group’s consolidated financial statements.
+
+2.2   Critical accounting estimates, assumptions and judgements
+
+      Estimates, assumptions and judgements are continually evaluated and are based on historical experience and
+      other factors, including expectations of future events that are believed to be reasonable under the circumstances.
+      The Group makes estimates and assumptions concerning the future. The resulting accounting estimates will not
+      necessarily equal the related actual results.
+
+
+
+
+                                                          7
+
+--- PAGE 10 ---
+2.    MATERIAL ACCOUNTING POLICIES (CONTINUED)
+
+2.2   Critical accounting estimates, assumptions and judgements (Continued)
+
+      (a) Impairment of trade receivables
+
+          As at 30 June 2026, the Group’s trade receivables (gross) amounted to $614,749,000, majority of which are
+          related to casino debtors. Trade receivables are grouped based on shared credit risk characteristics and days
+          past due, with expected loss rates assessed based on the Group’s historical credit loss experience.
+
+          The Group further evaluates on a case-by-case basis whether the trade receivables are credit-impaired, which
+          will be assessed based on indicators such as changes in financial capability of the debtor, and default or
+          significant delay in payments. As at 30 June 2026, the allowance for impairment on trade receivables was
+          $438,598,000.
+
+      (b) Identification of cash-generating unit (“CGU”) for impairment testing of non-financial assets
+
+          Significant judgement is exercised in determining the Group’s CGUs for the purpose of impairment testing of
+          non-financial assets, including property, plant and equipment and intangible assets, in accordance with SFRS(I)
+          1-36 Impairment of Assets. A CGU is defined as the smallest identifiable group of assets that generates cash
+          inflows that are largely independent of the cash inflows from other assets or groups of assets. In identifying
+          CGUs, the Group considers factors such as the interdependency of cash inflows from its various businesses
+          and how management monitors and makes decisions about continuing or disposing of assets and operations.
+
+          The Group has assessed that the integrated resort in Singapore constitutes a single CGU, as its various
+          businesses operate in an integrated manner. Its assets do not generate largely independent cash inflows and
+          are managed as a whole. This assessment reflects management’s review and monitoring of performance at
+          the integrated resort level, the shared customer base, the use of shared assets and infrastructure, branding
+          and operational integration, and contractual and regulatory constraints that limit the Group’s ability to
+          independently operate or dispose of key businesses.
+
+
+
+
+                                                         8
+
+--- PAGE 11 ---
+3.   SEGMENT INFORMATION
+
+     Group                                           Leisure and Hospitality
+                                                                                             Investments               Total
+                                                  Singapore              Others ^
+                                                     $’000                 $’000                 $’000                 $’000
+     Six months period ended
+       30 June 2026
+     Gaming                                           804,371                       -                     -              804,371
+     Non-gaming                                       388,567                       -                     -              388,567
+     Other revenue                                     10,273                      33                 2,822               13,128
+     Inter-segment revenue                                  -                       -                (2,506)              (2,506)
+     External revenue                               1,203,211                      33                   316            1,203,560
+
+
+     Adjusted EBITDA *                                399,499                    341               (10,077)              389,763
+
+
+     As at 30 June 2026
+     Assets
+     Segment assets                                 7,083,769                 31,993            1,780,591              8,896,353
+     Interests in joint venture                        85,109                      -                    -                 85,109
+     Deferred tax assets                                                                                                       5
+     Consolidated total assets                                                                                         8,981,467
+
+
+     Liabilities
+     Segment liabilities                              585,263                  1,143                 9,335               595,741
+     Lease liabilities                                                                                                     1,478
+     Income tax liabilities                                                                                              127,547
+     Deferred tax liabilities                                                                                            151,402
+     Consolidated total liabilities                                                                                      876,168
+
+     ^ Other leisure and hospitality segment mainly represents other support services.
+
+     * Adjusted EBITDA is based on a measure of adjusted earnings before interest, tax, depreciation, amortisation and share of
+       results of joint venture, excluding the effects of share-based payment, net exchange gain/(loss) relating to investment
+       business and other income/(expenses) which include but not limited to write-off/ gain/(loss) on disposals of property, plant
+       and equipment and intangible assets, fair value gain/(loss) on financial assets at fair value through profit or loss, pre-
+       opening/development expenses and other non-recurring adjustments.
+
+
+
+
+                                                              9
+
+--- PAGE 12 ---
+3.   SEGMENT INFORMATION (CONTINUED)
+
+     A reconciliation of Adjusted EBITDA to profit before taxation is provided as follows:
+
+                                                                                                         Group
+                                                                                                Six months period ended
+                                                                                                        30 June
+                                                                                                  2026           2025
+                                                                                                  $’000          $’000
+
+     Adjusted EBITDA for reportable segments                                                       389,763            423,703
+     Net exchange loss relating to investment business                                                (574)            (6,300)
+     Share-based payment expense                                                                    (3,582)              (378)
+     Depreciation and amortisation                                                                (200,580)          (159,952)
+     Interest income                                                                                22,822             50,447
+     Finance costs                                                                                    (458)              (483)
+     Share of results of joint venture                                                               2,716              3,046
+     Other expenses (net) *                                                                         (2,363)            (7,272)
+     Profit before taxation                                                                        207,744            302,811
+
+     * Other expenses (net) include write-off/ gain/(loss) on disposals of property, plant and equipment and intangible assets, fair
+       value gain/(loss) on financial assets at fair value through profit or loss, pre-opening/development expenses and other non-
+       recurring adjustments.
+
+
+
+4.   REVENUE
+
+                                                                                                            Group
+                                                                                                 Six months period ended
+                                                                                                         30 June
+                                                                                                   2026            2025
+                                                                                                   $’000          $’000
+
+     Gaming                                                                                        804,371            839,443
+     Non-gaming:
+      - Hotel rooms                                                                                107,307             98,425
+      - Attractions                                                                                208,129            204,728
+      - Other non-gaming                                                                            73,131             65,293
+                                                                                                   388,567            368,446
+     Rental income                                                                                  10,501              6,502
+     Others                                                                                            121                109
+                                                                                                 1,203,560          1,214,500
+
+
+
+
+                                                              10
+
+--- PAGE 13 ---
+5.   PROFIT BEFORE TAXATION
+
+     Included in the profit before taxation are the following expenses/(income) by nature:
+
+                                                                                                     Group
+                                                                                            Six months period ended
+                                                                                                     30 June
+                                                                                               2026          2025        Change
+                                                                                               $’000         $’000         %
+
+     Employee benefits:
+       - Salaries and related costs                                                             305,824       292,704       4
+       - Employer’s contribution to defined contribution plan                                    31,732        26,266      21
+       - Provision/(write-back) of retirement gratuities                                              1            (6)     NM
+       - Share-based payment expense                                                              3,582           378     >100
+     Duties and taxes (1)                                                                       172,427       179,307      (4)
+     Depreciation of property, plant and equipment                                              181,345       142,267      27
+     Amortisation of intangible assets                                                           19,235        17,685       9
+     Net impairment on trade receivables                                                         64,566        71,678     (10)
+     Included in other operating income:
+       - Gain on disposal of property, plant and equipment                                               -         (7)    (100)
+       - Fair value gain on financial assets at fair value through profit or loss                      (32)         -      NM
+     Included in other operating expenses:
+       - Write-off of property, plant and equipment                                                 872         4,469      (80)
+       - Write-off of intangible assets                                                               5             -      NM
+       - Loss on disposal of property, plant and equipment                                          273             -      NM
+       - Fair value loss on financial assets at fair value through profit or loss                     -           931     (100)
+       - Net foreign exchange loss                                                                1,549         9,597      (84)
+     Finance charges                                                                                458           483       (5)
+     Inventory write-down                                                                            71            76       (7)
+     Rental expenses on operating leases                                                          1,074           929       16
+     Advertising and promotion                                                                   18,176        20,394      (11)
+     Utilities                                                                                   32,442        28,242       15
+     IT expenses                                                                                 29,314        32,647      (10)
+     Repair and maintenance                                                                      24,648        18,829       31
+     Legal, professional and management fees                                                      9,211         7,291       26
+
+     NM: Not meaningful
+
+     (1)
+           Includes property tax and casino tax that is levied on the casino’s gross gaming revenue.
+
+
+
+
+                                                                11
+
+--- PAGE 14 ---
+6.   TAXATION
+
+     The Group has recognised assets and liabilities for tax based on profit for the six months period ended 30 June
+     2026. Total net liabilities (including current and deferred taxes) amounted to $278,944,000 as at 30 June 2026 (31
+     December 2025: $285,910,000).
+
+     The Group’s deferred tax liabilities arose mainly from accelerated tax depreciation.
+
+     Deferred tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets
+     against current tax liabilities and when the deferred taxes relate to the same tax authority.
+
+
+7.   EARNINGS PER SHARE
+
+     The basic and diluted earnings per ordinary share have been calculated based on Group’s net profit attributable
+     to ordinary shareholders divided by the weighted average number of ordinary shares outstanding.
+
+                                                                                                  Group
+                                                                                         Six months period ended
+                                                                                                 30 June
+                                                                                           2026            2025
+                                                                                          $’000            $’000
+
+     Net profit attributable to ordinary shareholders of the Company                        156,079            234,717
+
+                                                                                                  Group
+                                                                                         Six months period ended
+                                                                                                 30 June
+                                                                                           2026            2025
+                                                                                           ’000            ’000
+
+     Weighted average number of ordinary shares of the Company                          12,081,767          12,079,444
+     Adjustment for:
+         - Share-based compensation plans                                                    8,732               7,993
+     Adjusted weighted average number of ordinary shares of the Company                 12,090,499          12,087,437
+
+     Earnings per share attributable to ordinary shareholders of the Company is as follows:
+
+                                                                                                  Group
+                                                                                         Six months period ended
+                                                                                                 30 June
+                                                                                           2026            2025
+
+     Basic earnings per share (cents)                                                          1.29               1.94
+
+
+     Diluted earnings per share (cents)                                                        1.29               1.94
+
+
+8.   PROPERTY, PLANT AND EQUIPMENT
+
+     During the six months period ended 30 June 2026, the Group acquired property, plant and equipment amounting
+     to $258,249,000 (30 June 2025: $310,666,000), and disposed of property, plant and equipment amounting to
+     $324,000 (30 June 2025: $335,000).
+
+
+
+
+                                                          12
+
+--- PAGE 15 ---
+9.   FINANCIAL ASSETS AT FAIR VALUE THROUGH PROFIT OR LOSS
+
+                                                                                                         Group
+                                                                                               30 June        31 December
+                                                                                                2026              2025
+                                                                                                $’000             $’000
+
+     Unquoted debt securities
+     Non-current                                                                                  47,736           48,149
+
+     Beginning of financial period/year                                                           48,149            53,392
+     Additions                                                                                     2,942             8,497
+     Disposals                                                                                    (2,272)             (614)
+     Fair value gain/(loss)                                                                           32           (14,621)
+     Exchange differences                                                                         (1,115)            1,495
+     End of financial period/year                                                                 47,736            48,149
+
+     The investments in unquoted debt securities represent investments in unquoted investment funds.
+
+     Fair value estimation
+
+     The following table presents the Group’s assets and liabilities measured at fair value and classified by level of the
+     following fair value measurement hierarchy:
+
+     (i)     Quoted prices (unadjusted) in active markets for identical assets or liabilities (Level 1);
+
+     (ii)    Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either
+             directly (i.e. as prices) or indirectly (i.e. derived from prices) (Level 2); and
+
+     (iii)   Inputs for the asset or liability that are not based on observable market data (i.e. unobservable inputs) (Level
+             3).
+
+                                                                  Level 1        Level 2          Level 3         Total
+     Group                                                         $’000          $’000            $’000          $’000
+     30 June 2026
+     Assets
+     Financial assets at fair value through profit or loss                  -              -        47,736         47,736
+
+     31 December 2025
+     Assets
+     Financial assets at fair value through profit or loss                  -              -        48,149         48,149
+
+     There were no transfers between Level 1 and Level 2.
+
+     The Group uses a variety of methods and makes assumptions that are based on market conditions existing at
+     each reporting date. Quoted market prices or dealer quotes for similar instruments are used to estimate fair value
+     for long term debt for disclosure purposes. Other techniques, such as discounted cash flow analysis, are used to
+     determine fair value for the remaining financial instruments.
+
+
+
+
+                                                             13
+
+--- PAGE 16 ---
+9.    FINANCIAL ASSETS AT FAIR VALUE THROUGH PROFIT OR LOSS (CONTINUED)
+
+      If one or more of the significant inputs is not based on observable market data, the instrument is included in Level
+      3. Changing one or more of the unobservable inputs in the valuation technique used for Level 3 instruments will
+      not significantly impact the fair value of these instruments. The assessment of the fair value of unquoted debt
+      securities is performed on a quarterly basis based on the latest available data such as underlying net asset value
+      of the investee entity to approximate the fair value as at reporting date.
+
+
+10.   LEASE LIABILITIES
+
+                                                               Group                             Company
+                                                     30 June       31 December            30 June     31 December
+                                                      2026             2025                2026           2025
+                                                      $’000            $’000               $’000          $’000
+
+      Current                                             1,358            2,199                 835               142
+      Non-current                                           120              373                 567                 -
+      Total                                               1,478            2,572               1,402               142
+
+      Excluding lease liabilities, the Group does not have any borrowings as at 30 June 2026 (31 December 2025: Nil).
+
+
+11.   SHARE CAPITAL AND TREASURY SHARES
+
+                                                          Share capital                        Treasury shares
+                                                  No. of shares       Amount           No. of shares        Amount
+      Group and Company                                ’000            $’000                ’000             $’000
+
+      As at 1 January 2026                           12,094,027       5,527,705               (8,121)           (6,498)
+      Treasury shares reissued                                -               -                7,567             6,055
+      Repurchase of shares                                    -               -              (29,831)          (18,508)
+      As at 30 June 2026                             12,094,027       5,527,705              (30,385)          (18,951)
+
+      As at 1 January 2025                           12,094,027       5,527,705              (21,494)          (17,268)
+      Treasury shares reissued                                -               -               13,373            10,770
+      As at 31 December 2025                         12,094,027       5,527,705               (8,121)           (6,498)
+
+      All issued ordinary shares are fully paid. There is no par value for these ordinary shares.
+
+      There was no change in the Company’s issued and paid-up share capital for the six months period ended 30 June
+      2026.
+
+      As at 30 June 2026, the number of ordinary shares in issue was 12,094,026,824 of which 30,384,550 were held
+      by the Company as treasury shares (30 June 2025: 12,094,026,824 ordinary shares of which 11,111,350 were
+      held as treasury shares).
+
+      The number of treasury shares represented 0.25% (30 June 2025: 0.09%) of the total number of issued shares
+      excluding treasury shares.
+
+      As at 30 June 2026, total number of issued shares (excluding treasury shares) was 12,063,642,274 (31 December
+      2025: 12,085,905,474).
+
+
+
+
+                                                          14
+
+--- PAGE 17 ---
+11.   SHARE CAPITAL AND TREASURY SHARES (CONTINUED)
+
+      The movement in the Company’s treasury shares during the six months period ended 30 June 2026:
+
+                                                                                                           No. of shares
+       As at 1 January 2026                                                                                     8,121,350
+       Treasury shares reissued pursuant to PSS granted to:
+         - Independent Non-Executive Directors of the Company                                                    (500,000)
+         - Employees of the Company                                                                            (1,171,444)
+         - Employees of a subsidiary of the Company                                                            (5,895,556)
+       Repurchase of shares                                                                                    29,830,200
+       As at 30 June 2026                                                                                      30,384,550
+
+
+12.   OTHER RESERVES
+
+                                                                Group                                  Company
+                                                      30 June       31 December              30 June        31 December
+                                                       2026             2025                  2026              2025
+                                                       $’000            $’000                 $’000             $’000
+
+      Performance share reserve                            8,659           10,121               8,659               10,121
+      Exchange translation reserve                         7,414            7,420                   -                    -
+                                                          16,073           17,541               8,659               10,121
+
+      Performance share reserve
+
+      Performance share reserve comprise cumulative fair value of services received from employees measured at the
+      date of grant for unvested equity-settled performance shares under the Genting Singapore Performance Share
+      Scheme (“PSS”).
+
+      On 8 August 2007, the shareholders of the Company approved the PSS for an initial period of up to 7 August 2017.
+      Under the PSS, the Company will deliver shares granted under a performance share award by issuing new shares
+      and/or transferring treasury shares to the participants. The performance share awards represent the right of a
+      participant to receive fully-paid shares free of charge, upon the participant satisfying the criteria set out in the PSS
+      and upon satisfying such criteria as may be imposed. Persons eligible to be participants in the PSS comprise Group
+      executives, Group Executive Directors and Non-Executive Directors, and may include any employees of the Group
+      as may be determined by the Remuneration Committee at its discretion.
+
+      On 21 April 2016, the shareholders of the Company approved the amendments to the rules of the PSS and the
+      extension of the duration of the PSS for a further period of 10 years from 8 August 2017 to 7 August 2027 (both
+      dates inclusive) (the “Extended Period”). During the Extended Period, the total number of shares which may be
+      awarded pursuant to performance share awards granted under the PSS on any date shall not exceed 420,433,143
+      shares and when added to the number of shares issued and/or issuable under the PSS prior to the Extended Period
+      and such other share-based incentives schemes of the Company, shall not exceed 5% of the total number of shares
+      of the Company (excluding treasury shares) from time to time.
+
+      As at 30 June 2026, the number of PSS shares outstanding in the Company was as follows:
+
+          Number of PSS               Number of                                Number of          Number of PSS shares
+                                                         Number of PSS
+       shares outstanding as          PSS shares                               PSS shares           outstanding as at
+                                                         shares vested
+         at 1 January 2026             granted                                   lapsed               30 June 2026
+
+              7,817,000               10,345,000           (7,567,000)           (250,000)               10,345,000
+
+
+
+                                                           15
+
+--- PAGE 18 ---
+13.   DIVIDENDS
+
+                                                                                         Group and Company
+                                                                                       Six months period ended
+                                                                                               30 June
+                                                                                         2026           2025
+                                                                                        $’000           $’000
+
+      Final dividends paid in respect of the previous financial year of
+        2 cents per ordinary share (2025: 2 cents per ordinary share)                    241,761           241,658
+
+
+14.   CAPITAL COMMITMENTS
+
+                                                                                                 Group
+                                                                                       30 June       31 December
+                                                                                        2026             2025
+                                                                                        $’000            $’000
+      Authorised capital expenditure not provided for in the financial statements:
+      Contracted - property, plant and equipment                                       2,949,164         3,083,811
+
+      Resorts World at Sentosa Pte. Ltd. entered into a second supplemental agreement with Sentosa Development
+      Corporation on 3 April 2019, in relation to the construction, development and establishment of an expanded
+      integrated resort, and committed to invest approximately $4.5 billion in a renewal and refresh of the integrated
+      resort.
+
+
+15.   RELATED PARTY DISCLOSURES
+
+      The Company’s immediate holding corporation is Genting Overseas Holdings Limited, a company incorporated in
+      the Isle of Man. The ultimate holding corporation is Genting Berhad, a company incorporated in Malaysia and
+      whose shares are listed on the Bursa Malaysia Securities Berhad.
+
+      In addition to the information disclosed elsewhere in the condensed interim financial information, the following
+      significant transactions took place between the Group and related parties:
+
+                                                                                                Group
+                                                                                       Six months period ended
+                                                                                               30 June
+                                                                                          2026           2025
+                                                                                         $’000           $’000
+      (i)    Sales of goods and/or services to:
+               - Subsidiaries of the ultimate holding corporation                             573                 9
+               - A joint venture                                                              949               768
+               - Other related parties                                                         50                51
+                                                                                            1,572               828
+
+      (ii)   Purchases of goods and/or services from:
+               - A joint venture                                                          (12,894)          (11,659)
+
+
+
+
+                                                           16
+
+--- PAGE 19 ---
+OTHER INFORMATION REQUIRED BY LISTING RULE APPENDIX 7.2
+
+1.    Whether the figures have been audited or reviewed, and in accordance with which auditing standard or
+      practice
+
+      The condensed interim statement of financial position of the Company as at 30 June 2026, the condensed interim
+      statement of changes in equity of the Company for the six months period then ended, the consolidated condensed
+      interim statement of financial position of the Group as at 30 June 2026, the consolidated condensed interim
+      statements of comprehensive income, changes in equity and cash flows of the Group for the six months period
+      then ended, and other explanatory notes (the “condensed interim financial information”) have been reviewed by
+      PricewaterhouseCoopers LLP in accordance with Singapore Standard on Review Engagements 2410 Review of
+      Interim Financial Information Performed by the Independent Auditor of the Entity.
+
+      Please refer to Attachment I for the Report on Review of Condensed Interim Financial Information for the six
+      months period ended 30 June 2026 by PricewaterhouseCoopers LLP.
+
+
+2.    Net asset value
+
+       (Singapore cents)                                30 June 2026                    31 December 2025
+
+       Group                                                 67.2                              67.9
+
+       Company                                               48.8                              48.5
+
+      Net asset value per ordinary share as at 30 June 2026 and 31 December 2025 are calculated based on net assets
+      that are attributable to the ordinary shareholders, divided by the number of issued shares (excluding treasury
+      shares) of the Company at those dates of 12,063,642,274 ordinary shares and 12,085,905,474 ordinary shares
+      respectively.
+
+
+
+
+                                                       17
+
+--- PAGE 20 ---
+3.   Review of Group performance
+
+     (a)    Significant factors that affected the turnover, costs, and earnings of the Group
+
+                                                                                        Six months period ended
+                                                                                                30 June
+                                                                                          2026           2025                Change
+                                                                                          $’000          $’000                 %
+     Revenue
+     Singapore Integrated Resort (“IR”)
+       - Gaming                                                                            804,371            839,443           (4)
+       - Non-gaming                                                                        398,840            374,729            6
+     Others #                                                                                  349                328            6
+                                                                                         1,203,560          1,214,500           (1)
+
+     Results for the period
+     Singapore IR                                                                          399,499             446,788        (11)
+     Others #                                                                               (9,736)            (23,085)       (58)
+     Adjusted EBITDA *                                                                     389,763             423,703         (8)
+     Net exchange loss relating to investment business                                        (574)             (6,300)       (91)
+     Share-based payment expense                                                            (3,582)               (378)       >100
+     Other expenses (net)                                                                   (2,363)             (7,272)       (68)
+     EBITDA                                                                                383,244             409,753         (6)
+     Depreciation and amortisation                                                        (200,580)           (159,952)        25
+     Interest income                                                                        22,822              50,447        (55)
+     Finance costs                                                                            (458)               (483)        (5)
+     Share of results of joint venture                                                       2,716               3,046        (11)
+     Profit before taxation                                                                207,744             302,811        (31)
+     Taxation                                                                              (51,665)            (68,094)       (24)
+     Net profit after taxation                                                             156,079             234,717        (34)
+
+     #
+         Others represent the investment business along with other support services.
+
+     * Adjusted EBITDA is based on a measure of adjusted earnings before interest, tax, depreciation, amortisation and share of
+       results of joint venture, excluding the effects of share-based payment, net exchange gain/(loss) relating to investment business
+       and other income/(expenses) which include but not limited to write-off/ gain/(loss) on disposal of property, plant and equipment
+       and intangible assets, fair value gain/(loss) on financial assets at fair value through profit or loss, pre-opening/development
+       expenses and other non-recurring adjustments.
+
+
+
+
+                                                               18
+
+--- PAGE 21 ---
+3.   Review of Group performance (Continued)
+
+     (a)   Significant factors that affected the turnover, costs, and earnings of the Group (continued)
+
+           The Group continued to make good progress in the second quarter of 2026 as Resorts World Sentosa
+           (“RWS”) advanced its transformation into a refreshed lifestyle destination. Supported by new offerings and
+           operational resilience, business performance improved notwithstanding geopolitical uncertainties. Adjusted
+           earnings before interest, tax, depreciation and amortisation (“Adjusted EBITDA”) for the second quarter was
+           $210.8 million, an improvement of 18% quarter-on-quarter and 12% year-on-year.
+
+           For the first half of 2026, the Group recorded revenue of $1,203.6 million, broadly stable year-on-year, as
+           higher non-gaming revenue partly offset lower gaming revenue at the Singapore IR. Adjusted EBITDA
+           decreased 8% to $389.8 million. Earnings were supported by steady operational progress and continued
+           asset optimisation efforts. However, these were partly offset by higher depreciation from ongoing asset
+           enhancements and lower interest income arising from the decline in prevailing market interest rates.
+
+     (b)   Material factors that affected the cash flow, working capital, assets or liabilities of the Group
+
+           During the financial period, the Group’s cash flow was impacted by ongoing capital expenditure for its RWS
+           2.0 transformation. The refresh of existing assets and construction progress under its expansion plans
+           resulted in significant cash outflows.
+
+           Other than the above and as disclosed in the other notes, there have been no material factors that affected
+           the cash flow, working capital, assets or liabilities of the Group for the six months period ended 30 June 2026.
+
+
+4.   Variance from forecast statement
+
+     No forecast or prospect statement has been disclosed to shareholders.
+
+
+
+
+                                                          19
+
+--- PAGE 22 ---
+5.   Commentary of the significant trends and competitive conditions of the industry in which the Group
+     operates and any known factors or events that may affect the Group in the next reporting period and the
+     next 12 months.
+
+     The Group continues to execute its strategy to strengthen Resorts World Sentosa’s (“RWS”) position as a leading
+     lifestyle destination through the ongoing transformation under RWS 2.0.
+
+     Building on the successful introduction of new offerings such as The Laurus, Illumination’s Minion Land and the
+     WEAVE, and the refreshed Resorts World Convention Centre, the Group is enhancing its hospitality, gaming,
+     lifestyle and attraction offerings to broaden appeal, deepen guest engagement and encourage repeat visitation.
+
+     The transformation of RWS continues to gain momentum. During the period, WEAVE received the Outstanding
+     Retail Experience award at the Singapore Tourism Awards 2026, while Pierre Hermé was recognised by La Liste
+     with the World’s Best Pastry Shop Award. In July, the openings of new-to-market concepts POP BAKERY by POP
+     MART and Bearista-themed Starbucks further enhanced the distinctiveness of a RWS experience.
+
+     The Group continues to advance the enhancements to Hotel Michael, Crockfords Tower, the casino, selected
+     restaurants and key public spaces. These improvements are expected to be introduced progressively over the
+     course of 2027 and 2028.
+
+     While the operating environment remains subject to geopolitical uncertainties, higher travel costs and softer tourism
+     demand, the Group remains focused on driving quality visitation, guest engagement and guest spend through
+     destination-wide activations and programming. Following its “Summer of Treasures” campaign which featured
+     World Cup-themed experiences and appearances by international football stars, RWS will sustain this momentum
+     through its Festival of Thrills campaign from September to November 2026. The programme will include activities
+     centred around the Formula 1 Singapore Grand Prix, family-friendly programme Glowcean at Singapore
+     Oceanarium and Universal Studios Singapore’s signature annual Halloween Horror Nights.
+
+     Management remains focused on disciplined execution, recognising that the transformation of a destination of
+     RWS’ scale requires time for new assets, experiences, connectivity enhancements and supporting infrastructure
+     to work cohesively to realise their full potential.
+
+     The Greater Sentosa Master Plan (“GSMP”), unveiled on 3 July 2026 by the government, sets out plans to
+     strengthen Sentosa and the Greater Southern Waterfront as a connected leisure and lifestyle precinct, with
+     improved connectivity, public spaces and destination offerings to be introduced progressively from the early 2030s.
+     The planned completion of RWS 2.0 in 2030 is well aligned with the broader GSMP timeline, creating mutually
+     reinforcing opportunities and benefits across the wider tourism ecosystem.
+
+     Sustainability remains an integral consideration in the Group’s development strategy. During the period, Resorts
+     World Convention Centre upgraded its BCA Green Mark certification to Platinum Super Low Energy, while Four
+     Points by Sheraton Singapore, Jurong was recertified with BCA Green Mark Platinum, and Pandan Gardens
+     retained its BCA Green Mark Platinum Zero Energy certification. RWS was also conferred the Company of Good
+     – 3 Hearts award by the National Volunteer & Philanthropy Centre, reflecting its continued commitment to
+     sustainable tourism and positive socio-economic impact.
+
+
+
+
+                                                         20
+
+--- PAGE 23 ---
+6.   Dividend information
+
+     (a) Current Financial Period Reported On
+         Whether an interim (final) ordinary dividend has been declared (recommended)?
+
+        Yes.
+
+           Name of dividend                                        Interim
+           Dividend type                                           Cash
+           Dividend amount per share (in cents)                    2 cents per ordinary share
+           Tax rate                                                Tax-exempt (one-tier)
+
+     (b) Corresponding Period of the Immediately Preceding Financial Year
+         Any dividend declared for the corresponding period of the immediately preceding financial year?
+
+         An interim tax-exempt (one-tier) dividend of 2 cents per ordinary share was declared for the six months period
+         ended 30 June 2025 and paid to shareholders on 17 September 2025.
+
+     (c) Date payable
+
+        The interim dividend will be paid on 22 September 2026.
+
+     (d) Record date
+
+        The Register of Members and the Register of Share Transfers of the Company will be closed at 5 p.m. on 28
+        August 2026 until 5 p.m. on 31 August 2026 for the purpose of determining shareholders’ entitlements to the
+        proposed interim dividend in the Company for the financial year ending 31 December 2026.
+
+
+7.   Interested persons transactions (“IPTs”) for the six months period ended 30 June 2026
+
+
+                                                                     Aggregate value of all      Aggregate value of
+                                                                        interested person       all interested person
+                                                                    transactions (excluding           transactions
+                                                                     transactions less than       conducted under
+                                                                           $100,000 and              shareholders'
+                                                                    transactions conducted      mandate pursuant to
+                                                                      under shareholders'       Rule 920 (excluding
+                                             Nature of                mandate pursuant to         transactions less
+     Name of interested persons              relationship                    Rule 920)              than $100,000)
+                                                                              $’000                       $’000
+     Genting Malaysia Berhad Group           An associate of a
+     Sale of Goods and Services              person who is the                571                          2
+                                             Company’s director
+     Purchase of Goods and Services          and controlling                   15                          -
+                                             shareholder
+
+
+
+
+                                                       21
+
+--- PAGE 24 ---
+8.     Board of Directors’ assurance
+
+       As at the date of this announcement, the Board of Directors confirms that, to the best of their knowledge, nothing
+       has come to the attention of the Board of Directors which may render the interim financial results to be false or
+       misleading, in any material aspect.
+
+
+9.     Confirmation that the issuer has procured undertakings from all its directors and executive officers under
+       Rule 720(1)
+
+       The Company has procured undertakings from all its directors and executive officers under Rule 720(1).
+
+
+
+By Order of the Board
+Genting Singapore Limited
+
+
+Liew Lan Hing
+Company Secretary
+
+13 August 2026
+
+
+
+
+                                                         22
+
+--- PAGE 25 ---
+                                                                                                                    Attachment I
+
+The Board of Directors
+Genting Singapore Limited
+10 Sentosa Gateway
+Singapore 098270
+
+
+Report on Review of Condensed Interim Financial Information of Genting Singapore Limited
+
+Dear Sirs
+
+Introduction
+
+We have reviewed the accompanying condensed interim statement of financial position of Genting Singapore Limited (the
+“Company”) as at 30 June 2026, the condensed interim statement of changes in equity of the Company for the six-month
+period then ended, the consolidated condensed interim statement of financial position of the Company and its subsidiaries
+(the “Group”) as at 30 June 2026, the consolidated condensed interim statements of comprehensive income, changes in
+equity and cash flows for the six-month period then ended, and other explanatory notes (the “condensed interim financial
+information”). Management is responsible for the preparation and presentation of this condensed interim financial information
+in accordance with Singapore Financial Reporting Standard (International) 1-34 Interim Financial Reporting. Our
+responsibility is to express a conclusion on this condensed interim financial information based on our review.
+
+Scope of Review
+
+We conducted our review in accordance with Singapore Standard on Review Engagements 2410 Review of Interim Financial
+Information Performed by the Independent Auditor of the Entity. A review of interim financial information consists of making
+inquiries, primarily of persons responsible for financial and accounting matters, and applying analytical and other review
+procedures. A review is substantially less in scope than an audit conducted in accordance with Singapore Standards on
+Auditing and consequently does not enable us to obtain assurance that we would become aware of all significant matters
+that might be identified in an audit. Accordingly, we do not express an audit opinion.
+
+Conclusion
+
+Based on our review, nothing has come to our attention that causes us to believe that the accompanying condensed interim
+financial information is not prepared, in all material respects, in accordance with Singapore Financial Reporting Standard
+(International) 1-34 Interim Financial Reporting.
+
+Restriction on Distribution and Use
+
+This report is intended for the sole benefit and use of the Company and is neither intended to nor may it be relied upon by
+any other party (“Third Party”). Neither this report nor its contents or any part thereof may be distributed to, discussed with
+or otherwise disclosed to any Third Party without our prior written consent. We accept no liability or responsibility to any Third
+Party to whom this report is disclosed or otherwise made available to.
+
+
+
+
+PricewaterhouseCoopers LLP
+Public Accountants and Chartered Accountants
+Singapore, 13 August 2026

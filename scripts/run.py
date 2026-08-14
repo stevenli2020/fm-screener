@@ -86,7 +86,7 @@ def load_filter_policy(path: Path = DEFAULT_FILTERS_PATH) -> FilterPolicy:
         symbol = str(item.get("symbol", "")).strip().upper()
         filter_value = str(item.get("sgx_filter_value", "")).strip()
         filter_type = str(item.get("sgx_filter_type", "")).strip()
-        if not symbol or not filter_value or filter_type not in {"company", "security"}:
+        if not symbol or not filter_value or filter_type not in {"company", "securityname"}:
             raise ValueError(f"invalid SGX universe mapping for {symbol or 'UNKNOWN'}")
         if symbol in mappings:
             raise ValueError(f"duplicate SGX universe mapping: {symbol}")

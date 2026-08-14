@@ -1,0 +1,1175 @@
+--- PAGE 1 ---
+GENTING SINGAPORE LIMITED
+(Company Registration Number: 201818581G)
+AND ITS SUBSIDIARIES
+
+INTERIM FINANCIAL INFORMATION
+For the half year ended 30 June 2022
+
+--- PAGE 2 ---
+Contents
+
+
+                                                                    Page
+
+
+
+Condensed Interim Statement of Comprehensive Income for the Group     1
+
+Condensed Interim Statements of Financial Position                    2
+
+Condensed Interim Statement of Cash Flows for the Group              3-4
+
+Condensed Interim Statements of Changes in Equity                    5-6
+
+Notes to the Condensed Interim Financial Information                 7 - 16
+
+Other Information Required by Listing Rule Appendix 7.2             17 - 22
+
+--- PAGE 3 ---
+CONDENSED INTERIM STATEMENT OF COMPREHENSIVE INCOME FOR THE GROUP
+
+                                                                                      Half year ended
+                                                                                          30 June
+                                                                                    2022           2021      Change
+                                                                       Note         $’000         $’000        %
+
+Revenue                                                                  4           663,136      554,789      20
+Cost of sales                                                                       (463,001)    (346,892)     33
+Gross profit                                                                         200,135      207,897      (4)
+Other operating income                                                                 3,096        3,107      (0)
+Interest income                                                                       12,215        7,943      54
+Administrative expenses                                                              (69,420)     (90,772)    (24)
+Selling and distribution expenses                                                     (8,248)      (6,405)     29
+Other operating expenses                                                             (27,552)        (721)    >100
+Operating profit                                                                     110,226      121,049      (9)
+Finance costs                                                                         (1,393)      (1,832)    (24)
+Share of results of joint venture                                                      1,343          665     >100
+Profit before taxation                                                   5           110,176      119,882     (8)
+Taxation                                                                 6           (25,743)     (31,665)    (19)
+Net profit for the financial period                                                   84,433       88,217      (4)
+
+
+Net profit attributable to ordinary shareholders of the Company                       84,433       88,217     (4)
+
+Other comprehensive income, may be reclassified subsequently
+  to profit or loss:
+Foreign currency exchange differences                                                  4,395        1,744     >100
+Other comprehensive income for the financial period, net of tax                        4,395        1,744     >100
+Total comprehensive income for the financial period                                   88,828       89,961      (1)
+
+Total comprehensive income attributable to ordinary
+ shareholders of the Company                                                          88,828       89,961     (1)
+
+
+
+                                                                                       Half year ended
+                                                                                           30 June
+                                                                       Note          2022          2021      Change
+                                                                                                               %
+Earnings per share attributable to ordinary shareholders of the
+                                                                         7
+ Company
+
+Basic earnings per share (cents)                                                         0.70        0.73      (4)
+
+Diluted earnings per share (cents)                                                       0.70        0.73      (4)
+
+
+
+
+The accompanying notes form an integral part of these condensed interim financial information.
+
+                                                            1
+
+--- PAGE 4 ---
+CONDENSED INTERIM STATEMENTS OF FINANCIAL POSITION
+
+                                                                 Group                             Company
+                                                       30 June       31 December            30 June    31 December
+                                                        2022             2021                2022          2021
+                                            Note        $’000            $’000               $’000         $’000
+
+Non-current assets
+Property, plant and equipment                 8        5,040,111        5,135,856                 555             77
+Intangible assets                                        167,004          107,575                   -              -
+Interests in joint venture                                66,680           65,337                   -              -
+Interests in subsidiaries                                      -                -           3,992,216      3,995,664
+Deferred tax assets                                           24              118                   -              -
+Financial assets at fair value through
+  profit or loss                              9           32,289           33,585                   -              -
+Trade and other receivables                                7,018            7,246             126,318        126,318
+                                                       5,313,126        5,349,717           4,119,089      4,122,059
+
+Current assets
+Inventories                                                42,341          43,195                      -          -
+Trade and other receivables                                61,653          60,877                193,162    253,154
+Financial assets at fair value through
+  profit or loss                              9           10,890           12,554                   -              -
+Cash and cash equivalents                              3,328,445        3,325,582           1,707,186      2,074,179
+                                                       3,443,329        3,442,208           1,900,348      2,327,333
+
+Less: Current liabilities
+Trade and other payables                                 389,165          353,640             101,025        388,160
+Borrowings                                   10          210,051          242,145             206,697        237,232
+Income tax liabilities                                    88,862           78,387               3,973          4,880
+                                                         688,078          674,172             311,695        630,272
+Net current assets                                     2,755,251        2,768,036           1,588,653      1,697,061
+Total assets less current liabilities                  8,068,377        8,117,753           5,707,742      5,819,120
+
+Equity
+Share capital                                11        5,527,705        5,527,705           5,527,705      5,527,705
+Treasury shares                              11          (17,670)         (23,485)            (17,670)       (23,485)
+Other reserves                               12           14,395           16,095               6,965          8,736
+Retained earnings                                      2,338,862        2,374,820             190,467        306,105
+Attributable to ordinary shareholders                  7,863,292        7,895,135           5,707,467      5,819,061
+Non-controlling interests                                      2                2                   -              -
+Total equity                                           7,863,294        7,895,137           5,707,467      5,819,061
+
+Non-current liabilities
+Deferred tax liabilities                                 192,043          209,379                   -              -
+Borrowings                                   10            3,835            5,519                 219              2
+Provision for retirement gratuities                          191              205                  56             57
+Other payables                                             9,014            7,513                   -              -
+                                                         205,083          222,616                 275             59
+Total equity and non-current liabilities               8,068,377        8,117,753           5,707,742      5,819,120
+
+
+
+The accompanying notes form an integral part of these condensed interim financial information.
+
+                                                           2
+
+--- PAGE 5 ---
+CONDENSED INTERIM STATEMENT OF CASH FLOWS FOR THE GROUP
+
+                                                                                           Half year ended
+                                                                                              30 June
+                                                                                       2022              2021
+                                                                                       $’000             $’000
+
+Profit before taxation for the financial period                                         110,176            119,882
+Adjustments for:
+Property, plant and equipment:
+   - Depreciation                                                                       133,098            126,514
+   - Net gain on disposals                                                                  (52)              (802)
+   - Written off                                                                            309                721
+   - Impairment                                                                          23,290                  -
+Amortisation of:
+   - Intangible assets                                                                   13,397             13,181
+   - Borrowing costs                                                                        168                184
+Net reversal of impairment on trade receivables                                          (2,729)           (24,694)
+Fair value loss/(gain) on financial assets at fair value through profit or loss           3,953             (1,294)
+Share-based payment                                                                          49             11,397
+Inventory write-down                                                                         27              1,076
+Finance charges                                                                           1,225              1,648
+Unrealised foreign exchange gain                                                         (3,493)            (1,229)
+Interest income                                                                         (12,215)            (7,943)
+Share of results of joint venture                                                        (1,343)              (665)
+(Write-back)/provision of retirement gratuities                                             (13)                 3
+                                                                                        155,671            118,097
+Operating cash flows before movements in working capital                                265,847            237,979
+
+Changes in working capital:
+Decrease/(increase) in inventories                                                          827             (2,705)
+Decrease in trade and other receivables                                                   5,459             31,437
+Increase/(decrease) in trade and other payables                                           1,368            (10,246)
+                                                                                          7,654             18,486
+Cash generated from operating activities                                                273,501            256,465
+
+Interest received                                                                         8,538              7,980
+Net taxation paid                                                                       (32,507)           (70,041)
+Net cash generated from operating activities                                            249,532            194,404
+
+
+
+
+The accompanying notes form an integral part of these condensed interim financial information.
+
+                                                                3
+
+--- PAGE 6 ---
+CONDENSED INTERIM STATEMENT OF CASH FLOWS FOR THE GROUP (CONTINUED)
+
+                                                                                              Half year ended
+                                                                                                 30 June
+                                                                                          2022              2021
+                                                                                          $’000             $’000
+
+Net cash generated from operating activities                                               249,532           194,404
+
+Investing activities
+Property, plant and equipment:
+  - Proceeds from disposals                                                                     81              4,734
+  - Purchases                                                                              (52,845)          (879,679)
+Additions of intangible assets                                                             (72,825)            (1,262)
+Proceeds from disposal of financial assets at fair value through
+                                                                                                    -           4,660
+  profit or loss
+Net cash used in investing activities                                                     (125,589)          (871,547)
+
+Financing activities
+Interest paid                                                                                 (831)            (1,453)
+Dividends paid                                                                            (120,720)          (120,648)
+Repayment of lease liabilities                                                              (2,538)            (2,288)
+Net cash used in financing activities                                                     (124,089)          (124,389)
+
+Decrease in cash and cash equivalents                                                            (146)       (801,532)
+
+Beginning of financial period                                                            3,325,582          3,994,084
+Net outflow                                                                                   (146)          (801,532)
+Effects of exchange rate changes                                                             3,009              1,046
+End of financial period                                                                  3,328,445          3,193,598
+
+
+
+
+The accompanying notes form an integral part of these condensed interim financial information.
+
+                                                             4
+
+--- PAGE 7 ---
+CONDENSED INTERIM STATEMENTS OF CHANGES IN EQUITY
+
+                                                          Attributable to ordinary shareholders of the Company
+
+
+
+
+                                                                                                                Exchange translation
+                                                                                       Performance share
+
+
+
+                                                                Treasury shares                                                                 Retained earnings
+                                                                                                                                                                                             Non-controlling
+
+
+                                      Share capital                                                              reserve
+                                                                                        reserve                                                                             Subtotal          interests            Total
+Group
+                                   $’000                     $’000                    $’000                    $’000                         $’000                       $’000              $’000               $’000
+
+
+As at 1 January 2022               5,527,705                 (23,485)                  7,176                    8,919                      2,374,820                    7,895,135                         2    7,895,137
+Total comprehensive income
+   - Profit for the period                            -                           -                        -                           -     84,433                       84,433                           -     84,433
+   - Other comprehensive income                       -                           -                        -    4,395                                               -       4,395                          -       4,395
+Transactions with owners:
+  Performance share schemes:
+    - Value of employee services                      -                           -               49                                   -                            -                  49                  -               49
+    - Treasury shares reissued                        -        5,815                  (6,144)                                          -           329                                  -                  -                -
+  Dividends paid                                      -                           -                        -                           -    (120,720)                    (120,720)                         -    (120,720)
+Total transactions with owners                        -        5,815                  (6,095)                                          -    (120,391)                    (120,671)                         -    (120,671)
+As at 30 June 2022                 5,527,705                 (17,670)                  1,081                   13,314                      2,338,862                    7,863,292                         2    7,863,294
+
+
+As at 1 January 2021               5,527,705                 (23,485)                 12,703                    6,514                      2,312,123                    7,835,560                         2    7,835,562
+Total comprehensive income
+   - Profit for the period                            -                           -                        -                           -     88,217                       88,217                           -     88,217
+   - Other comprehensive income                       -                           -                        -    1,744                                               -       1,744                          -       1,744
+Transactions with owners:
+  Performance share schemes:
+    - Value of employee services                      -                           -   11,397                                           -                            -     11,397                           -     11,397
+  Dividends paid                                      -                           -                        -                           -    (120,648)                    (120,648)                         -    (120,648)
+Total transactions with owners                        -                           -   11,397                                           -    (120,648)                    (109,251)                         -    (109,251)
+As at 30 June 2021                 5,527,705                 (23,485)                 24,100                    8,258                      2,279,692                    7,816,270                         2    7,816,272
+
+
+
+
+The accompanying notes form an integral part of these condensed interim financial information.
+
+                                                                                                      5
+
+--- PAGE 8 ---
+CONDENSED INTERIM STATEMENTS OF CHANGES IN EQUITY (CONTINUED)
+
+                                                                     Attributable to ordinary shareholders of the Company
+
+
+
+
+                                                                                                                                  Exchange translation
+                                                                                                         Performance share
+
+
+
+                                                                                  Treasury shares                                                              Retained earnings
+                                                     Share capital                                                                 reserve
+                                                                                                          reserve                                                                           Total
+Company
+                                                  $’000                         $’000                   $’000                    $’000                       $’000                       $’000
+
+
+As at 1 January 2022                              5,527,705                     (23,485)                      7,176               1,560                       306,105                    5,819,061
+Total comprehensive income
+   - Profit for the period                                              -                           -                        -                           -            4,753                   4,753
+   - Other comprehensive income                                         -                           -                        -    4,324                                              -        4,324
+Transactions with owners:
+  Performance share schemes:
+    - Value of employee services                                        -                           -                    49                              -                           -              49
+    - Treasury shares reissued                                          -         5,815                    (6,144)                                       -                         329               -
+  Dividends paid                                                        -                           -                        -                           -   (120,720)                    (120,720)
+Total transactions with owners                                          -         5,815                    (6,095)                                       -   (120,391)                    (120,671)
+As at 30 June 2022                                5,527,705                     (17,670)                      1,081               5,884                       190,467                    5,707,467
+
+
+As at 1 January 2021                              5,527,705                     (23,485)                 12,703                       (652)                   300,684                    5,816,955
+Total comprehensive (loss)/income
+   - Loss for the period                                                -                           -                        -                           -    (19,535)                     (19,535)
+   - Other comprehensive income                                         -                           -                        -    1,488                                              -        1,488
+Transactions with owners:
+  Performance share schemes:
+    - Value of employee services                                        -                           -    11,397                                          -                           -     11,397
+  Dividends paid                                                        -                           -                        -                           -   (120,648)                    (120,648)
+Total transactions with owners                                          -                           -    11,397                                          -   (120,648)                    (109,251)
+As at 30 June 2021                                5,527,705                     (23,485)                 24,100                          836                  160,501                    5,689,657
+
+
+
+
+The accompanying notes form an integral part of these condensed interim financial information.
+
+                                                                            6
+
+--- PAGE 9 ---
+NOTES TO THE CONDENSED INTERIM FINANCIAL INFORMATION
+
+1.     GENERAL
+
+       Genting Singapore Limited (the “Company”) is listed on the Main Board of Singapore Exchange Securities
+       Trading Limited (“SGX-ST”).
+
+       The address of the Company’s registered office is 10 Sentosa Gateway, Resorts World Sentosa, Singapore
+       098270.
+
+       The Company’s principal activity is that of an investment holding company. The principal activities of the
+       Company’s subsidiaries include the construction, development and operation of integrated resort, operation of
+       casinos, provision of sales and marketing support services to leisure and hospitality related businesses and
+       investments.
+
+
+2.     SIGNIFICANT ACCOUNTING POLICIES
+
+2.1    Basis of preparation
+
+       The condensed interim financial information of the Company and its subsidiaries (the “Group”) for the half year
+       ended 30 June 2022 has been prepared in accordance with Singapore Financial Reporting Standard
+       (International) 1-34 Interim Financial Reporting. The condensed interim financial information should be read in
+       conjunction with the annual financial statements for the financial year ended 31 December 2021, which has been
+       prepared in accordance with Singapore Financial Reporting Standards (International) (“SFRS(I)s”).
+
+       Except for the accounting policies disclosed below, the accounting policies applied are consistent with those of
+       the annual financial statements for the financial year ended 31 December 2021, as described in those annual
+       financial statements.
+
+       Income tax
+
+       Taxes on income in the interim periods are accrued using the effective tax rate that would be applicable to total
+       earnings.
+
+       Interpretations and amendments to published standards effective in 2022
+
+       On 1 January 2022, the Group and the Company have adopted the new or amended SFRS(I)s that are effective
+       for financial period beginning on or after 1 January 2022. The adoption of the new SFRS(I)s did not result in any
+       significant changes to the accounting policies and had no material effect on the amounts reported for the current
+       or prior financial periods.
+
+       There are no other standards that are not yet effective that would be expected to have a material impact on the
+       Group and the Company in the current or foreseeable future reporting periods.
+
+ 2.2   Critical accounting estimates, assumptions and judgements
+
+       Estimates, assumptions and judgements are continually evaluated and are based on historical experience and
+       other factors, including expectations of future events that are believed to be reasonable under the circumstances.
+       The Group makes estimates and assumptions concerning the future. The resulting accounting estimates will not
+       necessarily equal the related actual results.
+
+
+
+
+                                                          7
+
+--- PAGE 10 ---
+2.    SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+2.2   Critical accounting estimates, assumptions and judgements (Continued)
+
+      (a)   Taxation
+
+            The Group is subjected to income taxes in numerous jurisdictions in which the Group operates, mainly in
+            Singapore. Significant judgement is required in determining the provision for income taxes that includes
+            the estimate of the amount of the taxability of certain income and the deductibility of certain expenses.
+
+            Where the final tax outcome of tax liabilities is different from the amounts that were initially recorded, such
+            differences will impact the income tax liabilities and deferred tax assets and liabilities (Note 6), where
+            applicable, in the period in which such determination is made.
+
+      (b)   Impairment of trade receivables
+
+            As at 30 June 2022, the Group’s trade receivables (gross) amounted to $103,629,000, majority of which
+            are related to casino debtors. Trade receivables are grouped based on shared credit risk characteristics
+            and days past due, with expected loss rates assessed based on the Group’s historical credit loss
+            experience.
+
+            The Group further evaluates the expected credit loss on customers on a case-by-case basis, which will be
+            assessed based on indicators such as changes in financial capability of the debtor, and default or
+            significant delay in payments. As at 30 June 2022, the allowance for impairment on trade receivables was
+            $68,427,000.
+
+
+
+
+                                                          8
+
+--- PAGE 11 ---
+3.   SEGMENT INFORMATION
+
+     Group                                         Leisure and Hospitality
+                                                                                           Investments            Total
+                                                Singapore              Others ^
+                                                   $’000                 $’000                 $’000              $’000
+     Half year ended 30 June 2022
+     Gaming                                         475,191                      -                     -            475,191
+     Non-gaming                                     176,843                      -                     -            176,843
+     Other revenue                                    6,123                  4,075                 2,106             12,304
+     Inter-segment revenue                                -                      -                (1,202)            (1,202)
+     External revenue                               658,157                  4,075                   904            663,136
+
+
+     Adjusted EBITDA *                              280,332                 (1,107)              (10,494)           268,731
+
+
+     As at 30 June 2022
+     Assets
+     Segment assets                               6,686,018                13,426             1,990,307           8,689,751
+     Interests in joint venture                      66,680                       -                      -           66,680
+     Deferred tax assets                                                                                                 24
+     Consolidated total assets                                                                                    8,756,455
+
+
+     Liabilities
+     Segment liabilities                            389,908                  1,294                 7,168            398,370
+     Borrowings                                                                                                     213,886
+     Income tax liabilities                                                                                          88,862
+     Deferred tax liabilities                                                                                       192,043
+     Consolidated total liabilities                                                                                 893,161
+
+     ^ Other leisure and hospitality segment mainly represents other hospitality and support services.
+
+     * Adjusted EBITDA is based on a measure of adjusted earnings before interest, tax, depreciation, amortisation and share of
+       results of joint venture, excluding the effects of share-based payment, net exchange gain/(loss) relating to investments
+       and other income/(expenses) which include but not limited to impairment/ write-off/ gain/(loss) on disposal of property,
+       plant and equipment, fair value gain/(loss) on financial assets at fair value through profit or loss, pre-opening/
+       development expenses and other non-recurring adjustments.
+
+
+
+
+                                                              9
+
+--- PAGE 12 ---
+3.   SEGMENT INFORMATION (CONTINUED)
+
+     A reconciliation of Adjusted EBITDA to profit before taxation is provided as follows:
+
+                                                                                                          Group
+                                                                                                     Half year ended
+                                                                                                         30 June
+                                                                                                  2022                2021
+                                                                                                  $’000               $’000
+
+     Adjusted EBITDA for reportable segments                                                      268,731            276,109
+     Share-based payment                                                                              (49)           (11,397)
+     Net exchange gain relating to investments                                                      3,369              1,229
+     Depreciation and amortisation                                                               (146,495)          (139,695)
+     Interest income                                                                               12,215              7,943
+     Finance costs                                                                                 (1,393)            (1,832)
+     Share of results of joint venture                                                              1,343                665
+     Impairment on property, plant and equipment                                                  (23,290)                 -
+     Other expenses (net)*                                                                         (4,255)           (13,140)
+     Profit before taxation                                                                       110,176            119,882
+
+     * Other expenses (net) include gain/(loss) on disposal/write-off of property, plant and equipment, fair value gain/(loss) on
+       financial assets at fair value through profit or loss, pre-opening/development expenses and other non-recurring adjustments.
+
+
+
+4.   REVENUE
+
+                                                                                                           Group
+                                                                                                     Half year ended
+                                                                                                         30 June
+                                                                                                  2022             2021
+                                                                                                  $’000           $’000
+
+     Gaming                                                                                       475,191            442,944
+     Non-gaming
+      - Hotel rooms                                                                                63,642             45,320
+      - Attractions                                                                                69,651             30,068
+      - Other non-gaming                                                                           43,550             28,915
+                                                                                                  176,843            104,303
+     Rental income                                                                                  6,657              7,464
+     Hospitality and support services and others                                                    4,445                 78
+                                                                                                  663,136            554,789
+
+
+
+
+                                                             10
+
+--- PAGE 13 ---
+5.   PROFIT BEFORE TAXATION
+
+     Included in the profit before taxation are the following expenses/(income) by nature:
+
+                                                                                                      Group
+                                                                                                Half year ended
+                                                                                                     30 June
+                                                                                               2022          2021      Change
+                                                                                               $’000         $’000       %
+
+     Employee benefits (1):
+       - Salaries and related costs                                                           139,362      115,696       20
+       - Employer's contribution to defined contribution plan                                  16,189       15,020        8
+       - (Write-back)/provision of retirement gratuities                                          (13)           3       NM
+       - Share-based payment                                                                       49       11,397      (100)
+     Duties and taxes (2)                                                                     113,591       92,959       22
+     Depreciation of property, plant and equipment                                            133,098      126,514        5
+     Amortisation of:
+       - Intangible assets                                                                      13,397      13,181        2
+       - Borrowing costs                                                                           168         184       (9)
+     Net reversal of impairment on trade receivables                                            (2,729)    (24,694)     (89)
+     Included in other operating income:
+       - Gain on disposal of property, plant and equipment                                         (52)        (802)     (94)
+       - Fair value gain on financial assets at fair value through profit or loss                    -       (1,294)    (100)
+       - Net foreign exchange gain                                                              (3,039)        (973)    >100
+     Included in other operating expenses:
+       - Write-off of property, plant and equipment                                                309         721      (57)
+       - Impairment of property, plant and equipment                                            23,290           -      NM
+       - Fair value loss on financial assets at fair value through profit or loss                3,953           -      NM
+     Finance charges                                                                             1,225       1,648      (26)
+
+     NM: Not meaningful
+
+     (1)
+           The Group has recognised grant income of $11,969,000 (30 June 2021: $34,794,000) relating mainly to the Jobs Support
+           Scheme which had been set off against the qualifying employee compensation.
+
+     (2)
+           Includes property tax and casino tax that is levied on the casino’s gross gaming revenue.
+
+
+
+
+                                                                11
+
+--- PAGE 14 ---
+6.   TAXATION
+
+     The Group has recognised assets and liabilities for tax based on profit for the half year ended 30 June 2022.
+     Total net liabilities (including current and deferred taxes) amounted to $280,881,000 as at 30 June 2022 (31
+     December 2021: $287,648,000).
+
+     The Group’s deferred tax liabilities arose mainly from accelerated tax depreciation.
+
+     Deferred tax assets are recognised for tax losses and capital allowances carried forward to the extent that the
+     realisation of the related tax benefits through future taxable profits is probable.
+
+     Deferred tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets
+     against current tax liabilities and when the deferred taxes relate to the same tax authority.
+
+
+7.   EARNINGS PER SHARE
+
+     The basic and diluted earnings per ordinary share have been calculated based on Group’s net profit attributable
+     to ordinary shareholders divided by the weighted average number of ordinary shares outstanding.
+
+                                                                                                    Group
+                                                                                               Half year ended
+                                                                                                   30 June
+                                                                                            2022             2021
+                                                                                            $’000            $’000
+
+     Net profit attributable to ordinary shareholders of the Company                         84,433             88,217
+
+                                                                                                    Group
+                                                                                               Half year ended
+                                                                                                   30 June
+                                                                                            2022             2021
+                                                                                            ’000             ’000
+
+     Weighted average number of ordinary shares of the Company                          12,069,956          12,064,805
+     Adjustment for:
+         - Share-based compensation plans                                                   16,726              48,072
+     Adjusted weighted average number of ordinary shares of the Company                 12,086,682          12,112,877
+
+     Earnings per share attributable to ordinary shareholders of the Company is as follows:
+
+                                                                                                   Group
+                                                                                              Half year ended
+                                                                                                  30 June
+                                                                                            2022            2021
+
+
+     Basic earnings per share (cents)                                                           0.70              0.73
+
+
+     Diluted earnings per share (cents)                                                         0.70              0.73
+
+
+
+
+                                                          12
+
+--- PAGE 15 ---
+8.   PROPERTY, PLANT AND EQUIPMENT
+
+     During the half year ended 30 June 2022, the Group acquired assets amounting to $73,430,000 (30 June 2021:
+     $878,164,000), recognised impairment amounting to $23,290,000 (30 June 2021: Nil) and disposed of assets
+     amounting to $29,000 (30 June 2021: $5,380,000).
+
+
+9.   FINANCIAL ASSETS AT FAIR VALUE THROUGH PROFIT OR LOSS
+
+                                                                                                      Group
+                                                                                            30 June        31 December
+                                                                                             2022              2021
+                                                                                             $’000             $’000
+
+     Unquoted debt securities
+     Current                                                                                    10,890           12,554
+     Non-current                                                                                32,289           33,585
+     Total                                                                                      43,179           46,139
+
+     Beginning of financial period/year                                                         46,139           37,916
+     Fair value (loss)/gain recognised in profit or loss                                        (3,953)          26,229
+     Disposals                                                                                       -          (18,581)
+     Exchange differences                                                                          993              575
+     End of financial period/year                                                               43,179           46,139
+
+     The investments in unquoted debt securities represent unquoted investment in a foreign corporation and an
+     investment fund.
+
+     Fair value estimation
+
+     The following table presents the Group’s assets and liabilities measured at fair value and classified by level of the
+     following fair value measurement hierarchy:
+
+     (i)     Quoted prices (unadjusted) in active markets for identical assets or liabilities (Level 1);
+
+     (ii)    Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either
+             directly (i.e. as prices) or indirectly (i.e. derived from prices) (Level 2); and
+
+     (iii)   Inputs for the asset or liability that are not based on observable market data (that is, unobservable inputs)
+             (Level 3).
+
+                                                           Level 1        Level 2           Level 3           Total
+     Group                                                  $’000          $’000             $’000            $’000
+     30 June 2022
+     Assets
+     Financial assets at fair value through profit
+        or loss                                                  -               -              43,179           43,179
+
+     31 December 2021
+     Assets
+     Financial assets at fair value through profit
+        or loss                                                  -               -              46,139           46,139
+
+     There were no transfers between Level 1 and Level 2.
+
+
+                                                            13
+
+--- PAGE 16 ---
+9.    FINANCIAL ASSETS AT FAIR VALUE THROUGH PROFIT OR LOSS (CONTINUED)
+
+      The Group uses a variety of methods and makes assumptions that are based on market conditions existing at
+      each reporting date. Quoted market prices or dealer quotes for similar instruments are used to estimate fair value
+      for long term debt for disclosure purposes. Other techniques, such as discounted cash flow analysis, are used to
+      determine fair value for the remaining financial instruments.
+
+      If one or more of the significant inputs is not based on observable market data, the instrument is included in
+      Level 3. Changing one or more of the unobservable inputs in the valuation technique used for Level 3
+      instruments will not significantly impact the fair value of these instruments. The assessment of the fair value of
+      unquoted debt securities is performed on a quarterly basis based on the latest available data such as underlying
+      net asset value of the investee entity to approximate the fair value as at reporting date.
+
+
+10.   BORROWINGS
+
+                                                                 Group                                  Company
+                                                          30 June    31 December                 30 June     31 December
+                                                           2022          2021                     2022           2021
+                                                           $’000         $’000                    $’000          $’000
+      Amount repayable in one year or
+         less, or on demand
+      Secured borrowings (a)                                   3,678             4,970                  324            57
+      Unsecured borrowings (b)                               206,373           237,175              206,373       237,175
+                                                             210,051           242,145              206,697       237,232
+
+      Amount repayable after one year
+      Secured borrowings (a)                                    3,835            5,519                    219             2
+
+      Total borrowings                                       213,886           247,664              206,916       237,234
+
+      (a)
+            The secured borrowings comprise lease liabilities which are secured over the leased assets.
+      (b)
+            The unsecured borrowings comprise unsubordinated Japanese Yen-denominated bonds.
+
+
+11.   SHARE CAPITAL AND TREASURY SHARES
+
+                                                              Share capital                          Treasury shares
+                                                      No. of shares      Amount               No. of shares      Amount
+      Group and Company                                    ’000           $’000                    ’000           $’000
+
+
+      As at 1 January 2022                               12,094,027         5,527,705                (29,222)     (23,485)
+      Treasury shares reissued                                    -                 -                  7,228        5,815
+      As at 30 June 2022                                 12,094,027         5,527,705                (21,994)     (17,670)
+
+      As at 1 January 2021 and
+       31 December 2021                                  12,094,027         5,527,705                (29,222)     (23,485)
+
+      All issued ordinary shares are fully paid. There is no par value for these ordinary shares.
+
+      There was no change in the Company’s issued and paid-up share capital for the half year ended 30 June 2022.
+
+
+
+
+                                                               14
+
+--- PAGE 17 ---
+11.   SHARE CAPITAL AND TREASURY SHARES (CONTINUED)
+
+      As at 30 June 2022, the number of ordinary shares in issue was 12,094,026,824 of which 21,994,350 were held
+      by the Company as treasury shares (30 June 2021: 12,094,026,824 ordinary shares of which 29,221,850 were
+      held as treasury shares).
+
+      The number of treasury shares represented 0.18% (30 June 2021: 0.24%) of the total number of issued shares
+      excluding treasury shares.
+
+      As at 30 June 2022, total number of issued shares (excluding treasury shares) was 12,072,032,474 (31
+      December 2021: 12,064,804,974).
+
+      The movement in the Company’s treasury shares during the period ended 30 June 2022:
+
+                                                                                                        No. of shares
+      As at 1 January 2022                                                                                 29,221,850
+      Treasury shares reissued pursuant to PSS granted to employees of:
+        - the Company                                                                                       (2,950,000)
+        - subsidiaries of the Company                                                                       (4,277,500)
+      As at 30 June 2022                                                                                    21,994,350
+
+
+12.   OTHER RESERVES
+
+                                                            Group                                  Company
+                                                    30 June     31 December              30 June         31 December
+                                                     2022           2021                  2022               2021
+                                                     $’000          $’000                 $’000              $’000
+
+      Performance share reserve                           1,081            7,176              1,081              7,176
+      Exchange translation reserve                       13,314            8,919              5,884              1,560
+                                                         14,395           16,095              6,965              8,736
+
+      Performance share reserve
+
+      Performance share reserve comprise cumulative fair value of services received from employees measured at the
+      date of grant for unvested equity-settled performance shares under the Genting Singapore Performance Share
+      Scheme (“PSS”).
+
+      On 8 August 2007, the shareholders of the Company approved the PSS for eligible Group executives, Group
+      executive directors and non-executive directors, for an initial period of up to 7 August 2017. Under the PSS, the
+      Company will deliver shares granted under a performance share award by issuing new shares and/or transferring
+      treasury shares to the participants. The performance share awards represent the right of a participant to receive
+      fully-paid shares free of charge, upon the participant satisfying the criteria set out in the PSS and upon satisfying
+      such criteria as may be imposed.
+
+      On 21 April 2016, the shareholders of the Company approved the amendments to the rules of the PSS and the
+      extension of the duration of the PSS for a further period of 10 years from 8 August 2017 to 7 August 2027 (both
+      dates inclusive) (the “Extended Period”). During the Extended Period, the total number of shares which may be
+      awarded pursuant to performance share awards granted under the PSS on any date shall not exceed
+      420,433,143 shares and when added to the number of shares issued and/or issuable under the PSS prior to the
+      Extended Period and such other share-based incentives schemes of the Company, shall not exceed 5% of the
+      total number of shares of the Company (excluding treasury shares) from time to time.
+
+
+
+
+                                                          15
+
+--- PAGE 18 ---
+12.   OTHER RESERVES (CONTINUED)
+
+      As at 30 June 2022, the number of PSS shares outstanding in the Company is as follows:
+
+
+           Number of PSS                                 Number of          Number of         Number of PSS shares
+                                   Number of PSS
+         shares outstanding                              PSS shares         PSS shares          outstanding as at
+                                   shares granted
+         as at 1 January 2022                              vested             lapsed              30 June 2022
+
+               46,540,000                  -              (7,227,500)       (34,625,000)                4,687,500
+
+
+
+13.   DIVIDENDS
+
+                                                                                             Group and Company
+                                                                                               Half year ended
+                                                                                                   30 June
+                                                                                            2022            2021
+                                                                                            $’000           $’000
+
+      Final dividends paid in respect of the previous financial year of
+        1 cent per ordinary share (2021: 1 cent per ordinary share)                         120,720            120,648
+
+
+14.   CAPITAL COMMITMENTS
+
+                                                                                                     Group
+                                                                                           30 June       31 December
+                                                                                            2022             2021
+                                                                                            $'000            $'000
+      Authorised capital expenditure not provided for in the financial statements:
+      Contracted - property, plant and equipment including capital expenditure
+       committed in relation to expansion of integrated resort                             3,527,887          3,556,420
+
+
+15.   RELATED PARTY DISCLOSURES
+
+      The Company’s immediate holding corporation is Genting Overseas Holdings Limited, a company incorporated
+      in the Isle of Man. The ultimate holding corporation is Genting Berhad, a company incorporated in Malaysia and
+      whose shares are listed on the Bursa Malaysia Securities Berhad.
+
+      In addition to the information disclosed elsewhere in the condensed interim financial information, the following
+      significant transactions took place between the Group and related parties:
+
+                                                                                                    Group
+                                                                                               Half year ended
+                                                                                                   30 June
+                                                                                            2022             2021
+                                                                                            $’000            $’000
+      (i)    Sales of goods and/or services to:
+               - A joint venture                                                                667                   372
+               - Other related parties                                                          181                   443
+                                                                                                848                   815
+
+      (ii)   Purchases of goods and/or services from:
+               - A joint venture                                                             (12,787)               (7,278)
+
+
+
+                                                           16
+
+--- PAGE 19 ---
+OTHER INFORMATION REQUIRED BY LISTING RULE APPENDIX 7.2
+
+1.    Whether the figures have been audited or reviewed, and in accordance with which auditing standard or
+      practice
+
+      The condensed interim statement of financial position of the Company as at 30 June 2022, the condensed
+      interim statement of changes in equity of the Company for the half year then ended, the consolidated condensed
+      interim statement of financial position of the Group as at 30 June 2022, the consolidated condensed interim
+      statements of comprehensive income, changes in equity and cash flows of the Group for the half year then
+      ended, and other explanatory notes (the “condensed interim financial information”) have been reviewed by
+      PricewaterhouseCoopers LLP in accordance with Singapore Standard on Review Engagements 2410 Review of
+      Interim Financial Information Performed by the Independent Auditor of the Entity.
+
+      Please refer to Attachment I for the Report on Review of Condensed Interim Financial Information for the half
+      year ended 30 June 2022 by PricewaterhouseCoopers LLP.
+
+
+2.    Net asset value
+
+       (Singapore cents)                               30 June 2022                    31 December 2021
+
+       Group                                                65.1                              65.4
+
+       Company                                              47.3                              48.2
+
+      Net asset value per ordinary share as at 30 June 2022 and 31 December 2021 are calculated based on net
+      assets that are attributable to the ordinary shareholders, divided by the number of issued shares (excluding
+      treasury shares) of the Company at those dates of 12,072,032,474 ordinary shares and 12,064,804,974 ordinary
+      shares respectively.
+
+
+
+
+                                                       17
+
+--- PAGE 20 ---
+3.   Review of Group performance
+
+     (a)    Significant factors that affected the turnover, costs, and earnings of the Group
+
+                                                                                             Half year ended
+                                                                                                 30 June
+                                                                                          2022            2021            Change
+                                                                                          $’000           $’000             %
+     Revenue
+     Singapore Integrated Resort (“IR”)
+       - Gaming                                                                            475,191         442,944           7
+       - Non-gaming                                                                        182,966         110,973           65
+     Others #                                                                                4,979             872          >100
+                                                                                           663,136         554,789           20
+
+     Results for the year
+     Singapore IR                                                                          280,332         288,935            (3)
+     Others #                                                                              (11,601)        (12,826)          (10)
+     Adjusted EBITDA *                                                                     268,731         276,109            (3)
+     Net exchange gain relating to investments                                               3,369           1,229          >100
+     Share-based payment                                                                       (49)        (11,397)         (100)
+     Impairment on property, plant and equipment                                           (23,290)              -           NM
+     Other expenses                                                                         (4,255)        (13,140)          (68)
+     EBITDA                                                                                244,506         252,801            (3)
+     Depreciation and amortisation                                                        (146,495)       (139,695)            5
+     Interest income                                                                        12,215           7,943            54
+     Finance costs                                                                          (1,393)         (1,832)          (24)
+     Share of results of joint venture                                                       1,343             665          >100
+     Profit before taxation                                                                110,176         119,882            (8)
+     Taxation                                                                              (25,743)        (31,665)          (19)
+     Net profit after taxation                                                              84,433          88,217            (4)
+
+     NM: Not meaningful
+     #
+         Others represent the investment business along with other hospitality and support services.
+
+     * Adjusted EBITDA is based on a measure of adjusted earnings before interest, tax, depreciation, amortisation and share of
+       results of joint venture, excluding the effects of share-based payment, net exchange gain/(loss) relating to investments and
+       other income/(expenses) which include but not limited to impairment/ write-off/ gain/(loss) on disposal of property, plant and
+       equipment, fair value gain/(loss) on financial assets at fair value through profit or loss, pre-opening/ development expenses
+       and other non-recurring adjustments.
+
+
+
+
+                                                               18
+
+--- PAGE 21 ---
+3.   Review of Group performance (Continued)
+
+     (a)   Significant factors that affected the turnover, costs, and earnings of the Group (continued)
+
+           While international tourism visitorship remained significantly below pre-pandemic levels due to limited flight
+           capacity, extraordinarily high airfares and varying reopening protocols by our regional markets, the Group
+           has benefited from pent-up demand and made good progress towards recovery in the first half 2022.
+           Substantial lifting of COVID-19 related restrictions also boosted the operating capacity and aided a 20%
+           growth in the Group’s revenue to $663.1 million from the same period previous year. On a hold-normalised
+           basis, the adjusted earnings before interest, tax, depreciation and amortisation (“Adjusted EBITDA”) was
+           $289.0 million, compared to $256.8 million for the same period last year, an increase of 13%. However,
+           higher utility tariffs and increased casino tax rates have impacted the overall profitability.
+
+     (b)   Material factors that affected the cash flow, working capital, assets or liabilities of the Group
+
+           During the financial period, the Casino Regulatory Authority of Singapore has renewed the casino licence
+           of Resorts World at Sentosa Pte. Ltd. for another three years with effect from 6 February 2022, which
+           resulted in an increase in intangible assets.
+
+           Other than the above and as disclosed in the other notes, there have been no material factors that affected
+           the cash flow, working capital, assets or liabilities of the Group for the half year ended 30 June 2022.
+
+
+4.   Variance from forecast statement
+
+     No forecast or prospect statement has been disclosed to shareholders.
+
+
+
+
+                                                         19
+
+--- PAGE 22 ---
+5.   Commentary of the significant trends and competitive conditions of the industry in which the Group
+     operates and any known factors or events that may affect the Group in the next reporting period and the
+     next 12 months.
+
+     Despite the ongoing economic disruptions caused by the COVID-19 pandemic, the Group’s second quarter
+     performance has benefitted from the reopening of international borders and pent-up demand in gaming and
+     integrated resort’s tourism offerings. On a hold-normalised basis, the Adjusted EBITDA grew more than 70% to
+     $182.2 million from the previous quarter.
+
+     Substantial lifting of pandemic related restrictions has boosted the operating capacities of attractions and dining
+     outlets, although attendance across all attractions remained below pre-pandemic levels owing to limited
+     international flight capacity and pricey airfares.
+
+     The lifting of social distancing measures also provided support for the gradual recovery of Meetings, Incentives,
+     Conferences and Exhibitions (MICE) and social events. For the second half of 2022, over 50 key conferences
+     and corporate meetings with more than 100,000 international and local delegates are confirmed, of which about
+     one-third are large scale events. These include the World Ocean Summit Asia Pacific, the Business Network
+     International (BNI) Global Convention, 25th International Conference on Medical Image Computing and
+     Computer Assisted Intervention, Singapore Week of Innovation and Technology (SWITCH), and Singapore
+     International Bunkering Conference and Exhibition (SIBCON).
+
+     As we learned to adapt and live with the pandemic, economic uncertainties and inflationary pressures now
+     indicate a potential recession in the near future. We remain optimistic of our journey to building a resilient
+     recovery of our business. Our immediate concern is ongoing challenges in hiring sufficient number of skilled and
+     talented management and rank and file team members.
+
+     Our expansion project “RWS 2.0” is progressing well. We are embarking on a make-over of our tourism offerings
+     to enhance the integrated resort’s destination appeal to capitalise on the post-pandemic pent-up demand, in
+     particular from the affluent regional market. With refreshed product offerings targeted at the premium market, we
+     are confident that return on invested capital will deliver significant future growth.
+
+     Resorts World Sentosa (“RWS”) broke ground for Minion Land in May 2022 as part of the Universal Studios
+     Singapore’s major expansion programme. The design development and planning permission for the Singapore
+     Oceanarium and its purpose-built Research and Learning Centre are being finalised, paving the way for
+     construction to begin in the second half of 2022. Other refurbishment projects such as remaking of Festive Hotel
+     into a bleisure (business-leisure) and workation (work-vacation) hotel, upgrading of Resorts World Convention
+     Centre and three new dining concepts will commence before the year end.
+
+     Sustainability remains at the heart of the Group’s ESG (Environmental, Social & Corporate Governance)
+     commitments. Transitioning to renewable energy forms an integral part of the Group’s decarbonisation strategy.
+     We aim to accelerate transition to next generation renewable energy which includes solar, wind, tidal and kinetic
+     energy through applied research and test-bedding at RWS properties. These efforts will culminate in attaining our
+     goal of zero energy buildings and carbon neutrality by 2030.
+
+     In May 2022, RWS was conferred the Special Award for Sustainability for the second consecutive year at the
+     Singapore Tourism Awards 2022.
+
+
+
+
+                                                        20
+
+--- PAGE 23 ---
+6.   Dividend information
+
+     (a) Current Financial Period Reported On
+         Whether an interim (final) ordinary dividend has been declared (recommended)?
+
+         Yes.
+
+          Name of dividend                                         Interim
+          Dividend type                                            Cash
+          Dividend amount per share (in cents)                     1 cent per ordinary share
+          Tax rate                                                 Tax-exempt (one-tier)
+
+     (b) Corresponding Period of the Immediately Preceding Financial Year
+         Any dividend declared for the corresponding period of the immediately preceding financial year?
+
+         No interim dividend was declared for the half year ended 30 June 2021.
+
+     (c) Date payable
+
+         The interim dividend will be paid on 20 September 2022.
+
+     (d) Record date
+
+         The Register of Members and the Register of Share Transfers of the Company will be closed at 5 p.m. on 29
+         August 2022 until 5 p.m. on 30 August 2022 for the purpose of determining shareholders’ entitlements to the
+         proposed interim dividend in the Company for the financial year ending 31 December 2022.
+
+
+7.   Interested persons transactions for the half year ended 30 June 2022
+
+
+                                                                    Aggregate value of all     Aggregate value of all
+                                                                       interested person          interested person
+                                                                   transactions (excluding           transactions
+                                                                    transactions less than         conducted under
+                                                                          $100,000 and              shareholders'
+                                                                   transactions conducted       mandate pursuant to
+                                                                     under shareholders'         Rule 920 (excluding
+                                          Nature of                  mandate pursuant to       transactions less than
+     Name of interested persons           relationship                      Rule 920)                  $100,000)
+                                                                             $’000                       $’000
+     Genting Hong Kong Limited Group      An associate of a
+     Sale of Goods and Services           person who is the                    5                         176
+                                          Company’s director
+     Purchase of Goods and Services       and controlling                      -                          -
+                                          shareholder
+
+
+
+
+                                                      21
+
+--- PAGE 24 ---
+8.      Board of Directors’ assurance
+
+        As at the date of this announcement, the Board of Directors confirms that, to the best of their knowledge, nothing
+        has come to the attention of the Board of Directors which may render the interim financial results to be false or
+        misleading, in any material aspect.
+
+
+9.      Confirmation that the issuer has procured undertakings from all its directors and executive officers
+        under Rule 720(1)
+
+        The Company has procured undertakings from all its directors and executive officers under Rule 720(1).
+
+
+
+By Order of the Board
+Genting Singapore Limited
+
+
+Ong Jinq Her
+Company Secretary
+
+12 August 2022
+
+
+
+
+                                                          22
+
+--- PAGE 25 ---
+                                                                                                                 Attachment I
+
+The Board of Directors
+Genting Singapore Limited
+10 Sentosa Gateway
+Resorts World Sentosa
+Singapore 098270
+
+
+Report on Review of Condensed Interim Financial Information of Genting Singapore Limited
+
+Dear Sirs
+
+Introduction
+
+We have reviewed the accompanying condensed interim statement of financial position of Genting Singapore Limited (the
+“Company”) as at 30 June 2022, the condensed interim statement of changes in equity of the Company for the half year
+then ended, the consolidated condensed interim statement of financial position of the Company and its subsidiaries (the
+“Group”) as at 30 June 2022, the consolidated condensed interim statements of comprehensive income, changes in equity
+and cash flows for the half year then ended, and other explanatory notes (the “condensed interim financial information”).
+Management is responsible for the preparation and presentation of this condensed interim financial information in
+accordance with Singapore Financial Reporting Standard (International) 1-34 Interim Financial Reporting. Our
+responsibility is to express a conclusion on this condensed interim financial information based on our review.
+
+Scope of Review
+
+We conducted our review in accordance with Singapore Standard on Review Engagements 2410 Review of Interim
+Financial Information Performed by the Independent Auditor of the Entity. A review of interim financial information consists
+of making inquiries, primarily of persons responsible for financial and accounting matters, and applying analytical and other
+review procedures. A review is substantially less in scope than an audit conducted in accordance with Singapore
+Standards on Auditing and consequently does not enable us to obtain assurance that we would become aware of all
+significant matters that might be identified in an audit. Accordingly, we do not express an audit opinion.
+
+Conclusion
+
+Based on our review, nothing has come to our attention that causes us to believe that the accompanying condensed
+interim financial information is not prepared, in all material respects, in accordance with Singapore Financial Reporting
+Standard (International) 1-34 Interim Financial Reporting.
+
+Restriction on Distribution and Use
+
+This report is intended for the sole benefit and use of the Company and is neither intended to nor may it be relied upon by
+any other party ("Third Party"). Neither this report nor its contents or any part thereof may be distributed to, discussed with
+or otherwise disclosed to any Third Party without our prior written consent. We accept no liability or responsibility to any
+Third Party to whom this report is disclosed or otherwise made available to.
+
+
+
+
+PricewaterhouseCoopers LLP
+Public Accountants and Chartered Accountants
+Singapore, 12 August 2022

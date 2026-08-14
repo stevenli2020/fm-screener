@@ -1,0 +1,1027 @@
+--- PAGE 1 ---
+                          Genting Singapore Limited (Company Registration No. 201818581G)
+                            10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+FINANCIAL STATEMENTS FOR THE FINANCIAL YEAR ENDED 31 DECEMBER 2021
+
+1(a)(i) Statement of Comprehensive Income for the Group
+
+                                                                                  Full year ended
+                                                                                   31 December
+                                                                              2021             2020           Change
+                                                                              $’000            $’000            %
+
+      Revenue                                                                1,067,296         1,063,749         0
+      Cost of sales                                                           (740,434)         (831,893)      (11)
+      Gross profit                                                             326,862           231,856        41
+      Other operating income                                                    29,892            12,204       >100
+      Interest income                                                           17,536            45,546       (61)
+      Administrative expenses                                                 (118,724)         (131,075)       (9)
+      Selling and distribution expenses                                        (16,420)          (17,155)       (4)
+      Other operating expenses                                                 (11,321)          (25,597)      (56)
+      Operating profit                                                         227,825           115,779        97
+      Finance costs                                                             (3,369)           (4,047)      (17)
+      Share of results of joint venture                                          1,854             1,244        49
+      Profit before taxation                                                   226,310           112,976       >100
+      Taxation                                                                 (42,965)          (43,735)       (2)
+      Net profit for the financial year                                       183,345               69,241     >100
+
+
+      Net profit attributable to ordinary shareholders of the Company         183,345               69,241     >100
+
+
+      Other comprehensive income/(loss), may be reclassified subsequently
+        to profit or loss:
+      Foreign currency exchange differences                                      2,405                (781)    NM
+      Other comprehensive income/(loss) for the financial year, net of tax       2,405                (781)    NM
+      Total comprehensive income for the financial year                       185,750               68,460     >100
+
+      Total comprehensive income attributable to ordinary shareholders of
+        the Company                                                           185,750               68,460     >100
+
+      NM: Not meaningful
+
+
+
+
+                                                                 1
+
+--- PAGE 2 ---
+                           Genting Singapore Limited (Company Registration No. 201818581G)
+                             10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+1(a)(i) Statement of Comprehensive Income for the Group (Continued)
+
+                                                                                           Full year ended
+                                                                                            31 December
+                                                                                        2021           2020       Change
+                                                                                                                    %
+       Earnings per share attributable to ordinary
+         shareholders of the Company
+
+       Basic earnings per share (cents)                                                  1.52          0.57        >100
+
+       Diluted earnings per share (cents)                                                1.51          0.57        >100
+
+
+
+1(a)(ii) Notes to the Statement of Comprehensive Income for the Group
+
+       Included in net profit for the financial year are the following charges and credits:
+
+                                                                                           Full year ended
+                                                                                            31 December
+                                                                                        2021           2020       Change
+                                                                                        $’000          $’000        %
+
+       Depreciation of property, plant and equipment                                   (245,046)     (276,384)     (11)
+       Amortisation of:
+          - Intangible assets                                                           (26,526)       (26,027)     2
+          - Borrowing costs                                                                (366)          (379)    (3)
+       Share-based payment write-back/(expense)                                           5,527        (11,131)    NM
+       Net reversal of impairment on trade receivables                                   36,231         22,820     59
+       Included in other operating income:
+          - Gain on disposal of property, plant and equipment                            1,237          1,783      (31)
+          - Fair value gain on financial assets at fair value through profit or loss    26,229          8,273      >100
+          - Net foreign exchange gain                                                    2,387              -       NM
+       Included in other operating expenses:
+          - Write-off of property, plant and equipment                                  (11,321)        (4,567)    >100
+          - Impairment of property, plant and equipment                                       -        (20,076)    (100)
+          - Net foreign exchange loss                                                         -           (954)    (100)
+       Finance charges                                                                   (3,003)        (3,668)     (18)
+       Inventory write-down                                                              (1,544)        (3,417)     (55)
+       Over/(under) provision of tax in prior financial years                             5,625         (8,801)     NM
+
+       NM: Not meaningful
+
+
+
+
+                                                                     2
+
+--- PAGE 3 ---
+                          Genting Singapore Limited (Company Registration No. 201818581G)
+                            10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+1(b)(i) Statements of Financial Position
+
+                                                              Group                            Company
+                                                    31 December   31 December        31 December    31 December
+                                                        2021          2020               2021           2020
+                                                        $’000         $’000              $’000          $’000
+
+       Non-current assets
+       Property, plant and equipment                   5,135,856      4,453,307               77            419
+       Intangible assets                                 107,575        131,293                -              -
+       Interests in joint venture                         65,337         63,483                -              -
+       Interests in subsidiaries                               -               -       3,995,664      3,215,005
+       Deferred tax assets                                   118            111                -              -
+       Financial assets at fair value through
+                                                          33,585         37,916                  -           -
+          profit or loss
+       Trade and other receivables                           7,246        7,431             126,318    388,896
+                                                       5,349,717      4,693,541        4,122,059      3,604,320
+
+       Current assets
+       Inventories                                        43,195         43,784                   -          -
+       Trade and other receivables                        60,877         56,143             253,154    198,423
+       Financial assets at fair value through
+                                                          12,554               -                 -           -
+          profit or loss
+       Cash and cash equivalents                       3,325,582      3,994,084        2,074,179      2,406,853
+                                                       3,442,208      4,094,011        2,327,333      2,605,276
+
+       Less: Current liabilities
+       Trade and other payables                          353,640       343,130              388,160    120,922
+       Borrowings                                        242,145         3,977              237,232        325
+       Income tax liabilities                             78,387       116,142                4,880     15,288
+                                                         674,172       463,249              630,272    136,535
+       Net current assets                              2,768,036      3,630,762        1,697,061      2,468,741
+       Total assets less current liabilities           8,117,753      8,324,303        5,819,120      6,073,061
+
+
+
+
+                                                         3
+
+--- PAGE 4 ---
+                          Genting Singapore Limited (Company Registration No. 201818581G)
+                            10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+1(b)(i) Statements of Financial Position (Continued)
+
+                                                                     Group                                     Company
+                                                           31 December   31 December                 31 December    31 December
+                                                               2021          2020                        2021           2020
+                                                               $’000         $’000                       $’000          $’000
+       Equity
+       Share capital                                            5,527,705          5,527,705               5,527,705       5,527,705
+       Treasury shares                                            (23,485)           (23,485)                (23,485)        (23,485)
+       Other reserves                                              16,095             19,217                   8,736          12,051
+       Retained earnings                                        2,374,820          2,312,123                 306,105         300,684
+       Attributable to ordinary shareholders                    7,895,135          7,835,560               5,819,061       5,816,955
+       Non-controlling interests                                        2                  2                       -               -
+       Total equity                                             7,895,137          7,835,562               5,819,061       5,816,955
+
+       Non-current liabilities
+       Deferred tax liabilities                                   209,379            225,525                       -               -
+       Borrowings                                                   5,519            262,792                       2         256,049
+       Provision for retirement gratuities                            205                205                      57              57
+       Other payables                                               7,513                219                       -               -
+                                                                  222,616            488,741                      59         256,106
+       Total equity and non-current liabilities                 8,117,753          8,324,303               5,819,120       6,073,061
+
+
+
+1(b)(ii) Group’s Borrowings and Debt Securities
+
+
+                                                                                                     31 December        31 December
+                                                                                                         2021               2020
+                                                                                                         $’000              $’000
+       Secured borrowings (1)
+         - Amount repayable in one year or less, or on demand                                                 4,970            3,977
+         - Amount repayable after one year                                                                    5,519            6,802
+                                                                                                             10,489           10,779
+       Unsecured borrowings (2)
+         - Amount repayable in one year or less, or on demand                                               237,175              -
+         - Amount repayable after one year                                                                        -         255,990
+                                                                                                            237,175         255,990
+                                                                                                            247,664         266,769
+
+       (1)
+             The secured borrowings comprise lease liabilities which are secured over the leased assets.
+       (2)
+             The unsecured borrowings comprise unsubordinated Japanese Yen-denominated bonds.
+
+
+
+
+                                                                 4
+
+--- PAGE 5 ---
+                            Genting Singapore Limited (Company Registration No. 201818581G)
+                              10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+1(c) Statement of Cash Flows for the Group
+                                                                                                 Full year ended
+                                                                                                  31 December
+                                                                                          2021                 2020
+                                                                                          $’000                $’000
+
+    Profit before taxation for the financial year                                             226,310          112,976
+    Adjustments for:
+    Property, plant and equipment:
+       - Depreciation                                                                         245,046          276,384
+       - Net gain on disposals                                                                 (1,237)          (1,783)
+       - Written off                                                                           11,321            4,567
+       - Impairment                                                                                 -           20,076
+    Amortisation of:
+       - Intangible assets                                                                     26,526           26,027
+       - Borrowing costs                                                                          366              379
+    Net reversal of impairment on trade receivables                                           (36,231)         (22,820)
+    Fair value gain on financial assets at fair value through profit or loss                  (26,229)          (8,273)
+    Share-based payment (write-back)/expense                                                   (5,527)          11,131
+    Inventory write-down                                                                        1,544            3,417
+    Finance charges                                                                             3,003            3,668
+    Unrealised foreign exchange (gain)/loss                                                    (3,093)           5,120
+    Interest income                                                                           (17,536)         (45,546)
+    Share of results of joint venture                                                          (1,854)          (1,244)
+    Write-back of retirement gratuities                                                             -              (59)
+                                                                                              196,099          271,044
+    Operating cash flows before movements in working capital                                  422,409          384,020
+
+    Changes in working capital:
+    (Increase)/decrease in inventories                                                           (955)           1,494
+    Decrease in trade and other receivables                                                    32,864           77,166
+    Increase/(decrease) in trade and other payables                                             4,698         (138,579)
+                                                                                               36,607          (59,919)
+    Cash generated from operating activities                                                  459,016          324,101
+
+    Interest received                                                                          15,561           65,599
+    Net taxation paid                                                                         (96,858)        (143,190)
+    Net cash generated from operating activities                                              377,719          246,510
+
+
+
+
+                                                                     5
+
+--- PAGE 6 ---
+                           Genting Singapore Limited (Company Registration No. 201818581G)
+                             10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+1(c) Statement of Cash Flows for the Group (Continued)
+
+                                                                                               Full year ended
+                                                                                                31 December
+                                                                                         2021                2020
+                                                                                         $’000               $’000
+
+    Net cash generated from operating activities                                             377,719         246,510
+
+    Investing activities
+    Property, plant and equipment:
+      - Proceeds from disposals                                                             5,189              1,381
+      - Purchases                                                                        (941,966)           (88,295)
+    Additions of intangible assets                                                         (2,808)            (4,440)
+    Proceeds from disposal of financial assets at fair value through profit or loss        18,581            205,630
+    Net cash (used in)/generated from investing activities                               (921,004)           114,276
+
+    Financing activities
+    Interest paid                                                                          (2,435)            (3,056)
+    Dividends paid                                                                       (120,648)          (301,620)
+    Repayment of lease liabilities                                                         (4,686)            (4,875)
+    Net cash used in financing activities                                                (127,769)          (309,551)
+
+    (Decrease)/increase in cash and cash equivalents                                     (671,054)               51,235
+
+    Beginning of financial year                                                         3,994,084          3,947,250
+    Net (outflow)/inflow                                                                 (671,054)            51,235
+    Effects of exchange rate changes                                                        2,552             (4,401)
+    End of financial year                                                               3,325,582          3,994,084
+
+
+
+
+                                                                    6
+
+--- PAGE 7 ---
+                                  Genting Singapore Limited (Company Registration No. 201818581G)
+                                    10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+1(d)(i) Statements of Changes in Equity
+
+                                                               Attributable to ordinary shareholders of the Company
+
+
+
+
+                                                                                                                     Exchange translation
+                                                                                            Performance share
+
+
+
+                                                                     Treasury shares                                                                 Retained earnings
+                                                                                                                                                                                                 Non-controlling
+
+
+                                           Share capital                                                              reserve
+                                                                                             reserve                                                                             Subtotal         interests            Total
+ Group
+                                        $’000                     $’000                    $’000                    $’000                         $’000                       $’000             $’000               $’000
+
+
+ As at 1 January 2021                   5,527,705                 (23,485)                 12,703                    6,514                      2,312,123                    7,835,560                        2    7,835,562
+ Total comprehensive income
+    - Profit for the year                                  -                           -                        -                           -    183,345                      183,345                          -    183,345
+    - Other comprehensive income                           -                           -                        -    2,405                                               -       2,405                         -       2,405
+ Transactions with owners:
+   Performance share schemes:
+     - Value of employee services                          -                           -   (5,527)                                          -                            -      (5,527)                        -      (5,527)
+   Dividends paid                                          -                           -                        -                           -    (120,648)                    (120,648)                        -    (120,648)
+ Total transactions with owners                            -                           -   (5,527)                                          -    (120,648)                    (126,175)                        -    (126,175)
+ As at 31 December 2021                 5,527,705                 (23,485)                  7,176                    8,919                      2,374,820                    7,895,135                        2    7,895,137
+
+
+ As at 1 January 2020                   5,527,705                 (29,541)                  9,479                    7,295                      2,542,651                    8,057,589                        2    8,057,591
+ Total comprehensive income/(loss)
+    - Profit for the year                                  -                           -                        -                           -     69,241                       69,241                          -     69,241
+    - Other comprehensive loss                             -                           -                        -        (781)                                           -         (781)                       -        (781)
+ Transactions with owners:
+   Performance share schemes:
+     - Value of employee services                          -                           -   11,131                                           -                            -     11,131                          -     11,131
+     - Treasury shares reissued                            -        6,056                  (7,907)                                          -       1,851                                   -                  -               -
+   Dividends paid                                          -                           -                        -                           -    (301,620)                    (301,620)                        -    (301,620)
+ Total transactions with owners                            -        6,056                   3,224                                           -    (299,769)                    (290,489)                        -    (290,489)
+ As at 31 December 2020                 5,527,705                 (23,485)                 12,703                    6,514                      2,312,123                    7,835,560                        2    7,835,562
+
+
+
+
+                                                                                                           7
+
+--- PAGE 8 ---
+                                  Genting Singapore Limited (Company Registration No. 201818581G)
+                                    10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+1(d)(i) Statements of Changes in Equity (Continued)
+
+                                                                           Attributable to ordinary shareholders of the Company
+
+
+
+
+                                                                                                                                        Exchange translation
+                                                                                                               Performance share
+
+
+
+                                                                                        Treasury shares                                                          Retained earnings
+                                                           Share capital                                                                 reserve
+                                                                                                                reserve                                                                     Total
+ Company
+                                                         $’000                        $’000                   $’000                    $’000                   $’000                     $’000
+
+
+ As at 1 January 2021                                   5,527,705                     (23,485)                  12,703                       (652)              300,684                  5,816,955
+ Total comprehensive income
+    - Profit for the year                                                     -                           -                        -                    -       126,069                   126,069
+    - Other comprehensive income                                              -                           -                        -      2,212                                      -        2,212
+ Transactions with owners:
+   Performance share schemes:
+     - Value of employee services                                             -                           -      (5,527)                                -                            -      (5,527)
+   Dividends paid                                                             -                           -                        -                    -      (120,648)                  (120,648)
+ Total transactions with owners                                               -                           -      (5,527)                                -      (120,648)                  (126,175)
+ As at 31 December 2021                                 5,527,705                     (23,485)                      7,176                 1,560                 306,105                  5,819,061
+
+
+ As at 1 January 2020                                   5,527,705                     (29,541)                      9,479                               (4)     624,803                  6,132,442
+ Total comprehensive loss
+    - Loss for the year                                                       -                           -                        -                    -       (24,350)                   (24,350)
+    - Other comprehensive loss                                                -                           -                        -         (648)                                   -              (648)
+ Transactions with owners:
+   Performance share schemes:
+     - Value of employee services                                             -                           -     11,131                                  -                            -     11,131
+     - Treasury shares reissued                                               -         6,056                    (7,907)                                -               1,851                          -
+   Dividends paid                                                             -                           -                        -                    -      (301,620)                  (301,620)
+ Total transactions with owners                                               -         6,056                       3,224                               -      (299,769)                  (290,489)
+ As at 31 December 2020                                 5,527,705                     (23,485)                  12,703                       (652)              300,684                  5,816,955
+
+
+
+
+                                                                                  8
+
+--- PAGE 9 ---
+                         Genting Singapore Limited (Company Registration No. 201818581G)
+                           10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+1(d)(ii) Share Capital
+
+       Changes in share capital
+
+                                                        2021                               2020
+                                              Number of          Amount          Number of          Amount
+                                            issued shares         $’000        issued shares         $’000
+         Balance as at 1 January and
+                                           12,094,026,824       5,527,705     12,094,026,824       5,527,705
+          31 December
+
+       There was no change in the Company’s issued and paid-up share capital for the year ended 31
+       December 2021.
+
+       As at 31 December 2021, the number of ordinary shares in issue was 12,094,026,824 of which
+       29,221,850 were held by the Company as treasury shares (31 December 2020: 12,094,026,824
+       ordinary shares of which 29,221,850 were held as treasury shares).
+
+       The number of treasury shares represented 0.24% (31 December 2020: 0.24%) of the total number of
+       issued shares (excluding treasury shares).
+
+       Genting Singapore Performance Share Scheme (“PSS”)
+
+       On 8 August 2007, the shareholders of the Company approved the PSS for eligible Group executives,
+       Group executive directors and non-executive directors, for an initial period of up to 7 August 2017.
+       Under the PSS, the Company will deliver shares granted under a performance share award by issuing
+       new shares and/or transferring treasury shares to the participants. The performance share awards
+       represent the right of a participant to receive fully-paid shares free of charge, upon the participant
+       satisfying the criteria set out in the PSS and upon satisfying such criteria as may be imposed.
+
+       On 21 April 2016, the shareholders of the Company approved the amendments to the rules of the PSS
+       and the extension of the duration of the PSS for a further period of 10 years from 8 August 2017 to 7
+       August 2027 (both dates inclusive) (the “Extended Period”). During the Extended Period, the total
+       number of shares which may be awarded pursuant to performance share awards granted under the
+       PSS on any date shall not exceed 420,433,143 shares and when added to the number of shares
+       issued and/or issuable under the PSS prior to the Extended Period and such other share-based
+       incentives schemes of the Company, shall not exceed 5% of the total number of shares of the
+       Company (excluding treasury shares) from time to time.
+
+       As at 31 December 2021, the number of PSS shares outstanding in the Company is as follows:
+
+           Number of PSS            Number of         Number of        Number of       Number of PSS shares
+         shares outstanding         PSS shares        PSS shares       PSS shares        outstanding as at
+         as at 1 January 2021        granted            vested           lapsed         31 December 2021
+
+              51,161,000             7,765,000              -          (12,386,000)            46,540,000
+
+
+
+
+                                                        9
+
+--- PAGE 10 ---
+                      Genting Singapore Limited (Company Registration No. 201818581G)
+                        10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+1(d)(iii) Number of Issued Shares excluding Treasury Shares
+
+                                                                31 December 2021        31 December 2020
+
+        Total number of issued shares (excluding treasury
+                                                                  12,064,804,974         12,064,804,974
+          shares)
+
+
+1(d)(iv) Treasury Shares
+
+       There were no sales, transfers, cancellation and/or use of treasury shares during the financial year
+       ended 31 December 2021.
+
+
+2.     Whether the figures have been audited or reviewed, and in accordance with which auditing
+       standard or practice
+
+       The statements of financial position as at 31 December 2021 and the statements of comprehensive
+       income, changes in equity and cash flows for the financial year ended 31 December 2021 presented
+       in this announcement have been audited in accordance with Singapore Standards on Auditing. The
+       audited financial statements of the Company and its subsidiaries have been attached to this
+       announcement.
+
+
+3.     Auditors’ report
+
+       Please refer to the audited financial statements of the Company and its subsidiaries, which have been
+       attached to this announcement, for the independent auditor’s report for the financial year ended 31
+       December 2021 by PricewaterhouseCoopers LLP.
+
+
+4.     Accounting policies
+
+       The Group has applied the same accounting policies and methods of computation in the preparation
+       of the financial statements for the current financial year compared with the audited financial
+       statements for the financial year ended 31 December 2020, except for the adoption of the new
+       standards, amendments and interpretations that are mandatory for financial year beginning on or after
+       1 January 2021. The adoption of these new standards, amendments and interpretations has no
+       significant impact to the Group.
+
+
+
+
+                                                     10
+
+--- PAGE 11 ---
+                     Genting Singapore Limited (Company Registration No. 201818581G)
+                       10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+5.   Changes in the accounting policies
+
+     There were no significant changes in the accounting policies and methods of computation as
+     compared to those adopted in the most recently audited financial statements.
+
+
+6.   Earnings per share for the Group
+
+                                                                                        Full year ended
+      (Singapore cents)                                                                  31 December
+                                                                                       2021          2020
+
+      Based on weighted average number of shares in issue                              1.52          0.57
+      On a fully diluted basis                                                         1.51          0.57
+
+     The basic and diluted earnings per ordinary share for the financial year ended 31 December 2021
+     have been calculated based on the Group’s profit attributable to ordinary shareholders of
+     approximately $183,345,000 divided by the weighted average number of ordinary shares of
+     12,064,804,974 and 12,112,276,923 in issue respectively during the financial year.
+
+     The basic and diluted earnings per ordinary share for the financial year ended 31 December 2020
+     have been calculated based on the Group’s profit attributable to ordinary shareholders of
+     approximately $69,241,000 divided by the weighted average number of ordinary shares of
+     12,063,667,361 and 12,109,103,241 in issue respectively during the financial year.
+
+
+7.   Net asset value
+
+      (Singapore cents)                                  31 December 2021              31 December 2020
+      Group                                                     65.4                          64.9
+      Company                                                   48.2                          48.2
+
+
+     Net asset value per ordinary share as at 31 December 2021 and 31 December 2020 are calculated
+     based on net assets that are attributable to the ordinary shareholders, divided by the number of issued
+     shares (excluding treasury shares) of the Company at those dates of 12,064,804,974 ordinary shares
+     and 12,064,804,974 ordinary shares respectively.
+
+
+
+
+                                                   11
+
+--- PAGE 12 ---
+                           Genting Singapore Limited (Company Registration No. 201818581G)
+                             10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+8.   Review of Group performance
+
+     (a) Significant factors that affected the turnover, costs, and earnings of the Group
+
+                                                    Half year ended                 Half year ended                 Full year ended
+                                                     31 December                        30 June                      31 December
+                                               2021        2020    Change            2021      Change         2021         2020     Change
+                                               $’000       $’000     %              $’000        %            $’000        $’000      %
+     Revenue
+     Singapore Integrated Resort (“IR”)
+       - Gaming                               359,651     426,432      (16)         442,944      (19)         802,595       700,816      15
+         - Non-gaming                         147,211     144,733          2        110,973       33          258,184       299,429      (14)
+     Others #                                   5,645      44,336      (87)             872      >100           6,517        63,504      (90)
+                                              512,507     615,501      (17)         554,789       (8)       1,067,296     1,063,749       0
+
+     Results for the year
+     Singapore IR                             183,952     365,460      (50)         288,935      (36)         472,887       445,690       6
+     Others #                                 (12,058)     (5,104)     >100         (12,826)      (6)         (24,884)      (18,677)     33
+     Adjusted EBITDA *                        171,894     360,356      (52)         276,109      (38)         448,003       427,013       5
+     Net exchange gain/(loss) relating
+                                                1,634       (6,582)    NM              1,229      33            2,863         (1,398)    NM
+       to investments
+     Share-based payment write-back/
+                                               16,924        1,695     >100          (11,397)    NM             5,527       (11,131)     NM
+       (expense)
+     Other income/(expenses)                   38,608        3,899     >100          (13,140)    NM            25,468       (41,840)     NM
+     EBITDA                                   229,060     359,368      (36)         252,801       (9)         481,861       372,644      29
+     Depreciation and amortisation           (131,877)    (136,537)    (3)         (139,695)      (6)        (271,572)     (302,411)     (10)
+     Interest income                             9,593     13,407      (28)            7,943      21           17,536        45,546      (61)
+     Finance costs                              (1,537)    (2,000)     (23)           (1,832)    (16)          (3,369)       (4,047)     (17)
+     Share of results of joint venture          1,189         773          54           665       79            1,854         1,244      49
+     Profit before taxation                   106,428     235,011      (55)         119,882      (11)         226,310       112,976     >100
+     Taxation                                 (11,300)    (49,090)     (77)          (31,665)    (64)         (42,965)      (43,735)     (2)
+     Net profit after taxation                 95,128     185,921      (49)          88,217        8          183,345        69,241     >100
+
+
+     NM: Not meaningful
+     #   Others represent the investment business along with other hospitality and support services.
+
+     * Adjusted EBITDA is based on a measure of adjusted earnings before interest, tax, depreciation, amortisation and share of results of
+       joint venture, excluding the effects of share-based payment, net exchange gain/(loss) relating to investments and other
+       income/(expenses) which include but not limited to impairment/ write-off/ gain/(loss) on disposal of property, plant and equipment, fair
+       value gain/(loss) on financial assets at fair value through profit or loss, pre-opening/ development expenses and other non-recurring
+       adjustments.
+
+
+
+
+                                                                      12
+
+--- PAGE 13 ---
+                    Genting Singapore Limited (Company Registration No. 201818581G)
+                      10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+8.   Review of Group performance (Continued)
+
+     (a) Significant factors that affected the turnover, costs, and earnings of the Group (continued)
+
+         The Group posted a significant 49% decline in net profit to $95.1 million in the second half of 2021
+         as compared to the corresponding period last year. Our IR experienced a decrease in visitorship,
+         largely due to an increase in COVID-19 community cases and the recent emergence of the
+         Omicron variant. A series of enhanced safe management measures, such as the reduction in
+         group size for social gathering and prohibition of dining-in at Food and Beverage (F&B)
+         establishments, were introduced to contain the spread of the virus. These had a profound
+         negative impact on our operating capacity and visitor arrivals.
+
+         For the full year ended 31 December 2021, the Group’s revenue and adjusted earnings before
+         interest, tax, depreciation and amortisation (“Adjusted EBITDA”) improved marginally as
+         compared to the previous year as we continue to grapple with the pressure and limitations on our
+         operations arising from the COVID-19 pandemic. We are appreciative of the Singapore
+         Government’s support measures, including the Jobs Support Scheme and the $100
+         SingapoRediscovers vouchers that partially mitigated the negative impact of the COVID-19
+         pandemic on the Group’s financial performance.
+
+     (b) Material factors affecting the cash flow, working capital, assets or liabilities of the Group
+
+         During the financial year, the Group acquired leasehold land for the expansion of its Singapore
+         integrated resort, which resulted in an increase in non-current assets. The acquisition has been
+         included in the purchases of property, plant and equipment amounting to $942.0 million in the
+         Group’s Statement of Cash Flows for the financial year ended 31 December 2021.
+
+         The unsecured and unsubordinated Japanese Yen-denominated bonds issued by the Company
+         are due for repayment in October 2022, and accordingly an amount of $237.2 million has been
+         reclassified from non-current liabilities to current liabilities in the Group’s and Company’s
+         Statements of Financial Position as at 31 December 2021.
+
+         Other than the above and as disclosed in the other notes, there have been no material factors that
+         affected the cash flow, working capital, assets or liabilities of the Group for the financial year
+         ended 31 December 2021.
+
+
+9.   Variance from forecast statement
+
+     No forecast or prospect statement has been disclosed to shareholders.
+
+
+
+
+                                                   13
+
+--- PAGE 14 ---
+                      Genting Singapore Limited (Company Registration No. 201818581G)
+                        10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+10.   Commentary of the significant trends and competitive conditions of the industry in which the
+      Group operates and any known factors or events that may affect the Group in the next
+      reporting period and the next 12 months
+
+      Whilst the COVID-19 pandemic has severely impacted the business of the Group, there are signs that allow
+      us a sense of optimism for the travel and tourism industry. We are hopeful that with further relaxation of
+      Singapore’s COVID-19 related regulations and gradual resumption of mutual vaccinated travel lanes
+      (VTLs), more travellers will return to Singapore in 2022. However, such tourism flow is expected to be
+      mostly small groups of FIT (Free Independent Traveller) leisure and business travellers.
+
+      As we anticipate a gradual return of visitors from our traditional markets over the next two years, we remain
+      resilient and continue to harness opportunities to refresh and build new visitor offerings to emerge stronger
+      from the pandemic for the return of visitors to pre-COVID levels. With this in mind, we are moving forward
+      with our reinvestment and expansion plans at Resorts World Sentosa (“RWS”). The preparation works for
+      Universal Studios Singapore’s new themed zone, Minion Land and the Singapore Oceanarium (“SGO”)
+      have been progressing steadily. The tender for the construction of Minion Land has been awarded. A total
+      amount of about $400 million will be invested in 2022 for RWS 2.0 and related refurbishment works.
+
+      To be expanded by three times the size of the current S.E.A. Aquarium, the SGO with its immersive and
+      multi-sensory storytelling of the evolution of the oceans’ inhabitants will become Singapore’s new tourism
+      icon and an institution to champion marine education and protection of our environment. We are pleased
+      that RWS and National University of Singapore (“NUS”) launched the RWS-NUS Living Laboratory on 5
+      January 2022. With RWS committing S$10 million in funding support, the Living Laboratory places RWS
+      and NUS at the forefront to deliver on Singapore’s long-term goals to achieve sustainable tourism. It also
+      marks the single largest academic-industry partnership focused on biodiversity and energy conservation
+      with direct contribution to the tourism economy and environmental education and sustainability efforts in
+      Singapore’s ESG (Environmental, Social & Corporate Governance) development. We will continue to
+      partner respected and expert stakeholders in our journey to develop our aquarium into an institution well-
+      known for its research and education in marine conservation, sciences and biodiversity.
+
+      The current lull period from the pandemic also presents a window of opportunity to renovate and refresh our
+      hotel offerings. With a total key count of over 1,200 keys, three of our hotels, namely Hard Rock Hotel
+      Singapore, Hotel Michael and Festive Hotel will progressively undergo renovation works starting from the
+      second quarter of 2022. When completed, Festive Hotel will be completely transformed into a bleisure
+      (business-leisure) and workation (work-vacation) hotel with a variety of mobile working spaces and lifestyle
+      offerings. To strengthen RWS’s position as a premier business destination, we will also embark on facility
+      refurbishment and upgrade at our Resorts World Convention Centre.
+
+      In all our developments for RWS 2.0 and major refurbishment works as mentioned above, we are acutely
+      aware of the need to embody into our design a more sustainable environment. We are engaging various
+      stakeholders and consultants to incorporate the latest technology and research to achieve this goal.
+
+      As of December 2021, over 99% of our team members at RWS were fully vaccinated. We are committed to
+      doing our part to ensure a safe and enjoyable environment for guests and our community as a higher
+      volume of overseas visitors return to Singapore.
+
+      The Group is pleased that the Casino Regulatory Authority has renewed RWS’s casino licence for another
+      three years with effect from 6 February 2022. As Singapore’s first integrated resort and a key tourism
+      player, we are committed to upholding the best-in-class social safeguards and promoting responsible
+      gambling at our casino, while continuing to reinvest and expand the IR’s offerings to ensure that RWS
+      remains a world-class destination to support the sustainable recovery of Singapore’s tourism.
+
+
+
+                                                      14
+
+--- PAGE 15 ---
+                     Genting Singapore Limited (Company Registration No. 201818581G)
+                       10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+11.   Dividend
+
+      (a) Final dividend
+
+         The Directors are pleased to propose the payment of a final dividend of 1 cent per ordinary share,
+         in respect of the financial year ended 31 December 2021, subject to the approval of shareholders
+         at the next Annual General Meeting of the Company.
+
+           Name of dividend                                    Final
+           Dividend type                                       Cash
+           Dividend amount per share (in cents)                1 cent per ordinary share
+           Tax rate                                            Tax-exempt (one-tier)
+
+         For the financial year ended 31 December 2020, a tax-exempt (one-tier) final dividend of 1 cent
+         per ordinary share was paid to shareholders on 20 May 2021.
+
+      (b) Date payable
+
+         Subject to approval by the shareholders at the next Annual General Meeting, the payment date of
+         the proposed dividend will be announced at a later date.
+
+      (c) Books closure date
+
+         Subject to approval by the shareholders at the next Annual General Meeting, the books closure
+         date will be announced at a later date.
+
+      (d) Total annual dividend paid
+
+                                                                                    2021               2020
+                                                                                    $’000              $’000
+          Ordinary dividend
+            - Final *                                                                  120,648          120,648
+
+          * 2021 proposed final ordinary dividend is estimated based on number of shares outstanding at the end of
+            the financial year.
+
+
+
+
+                                                     15
+
+--- PAGE 16 ---
+                        Genting Singapore Limited (Company Registration No. 201818581G)
+                          10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+12.   Segment revenue and results
+
+                                                    Leisure and Hospitality
+      Group                                        Singapore       Others *          Investments          Total
+      2021                                           $'000          $'000               $'000             $'000
+
+      Gaming                                            802,595               -                 -           802,595
+      Non-gaming                                        245,748               -                 -           245,748
+      Other revenue                                      12,436           4,284             5,040            21,760
+      Inter-segment revenue                                   -               -            (2,807)           (2,807)
+      External revenue                                1,060,779           4,284             2,233         1,067,296
+
+      Adjusted EBITDA                                  472,887           (4,772)          (20,112)          448,003
+
+      Share of results of joint venture                   1,854                -                 -            1,854
+      Depreciation of property, plant and
+                                                       (243,370)               -           (1,676)         (245,046)
+       equipment
+      Amortisation of intangible assets                 (26,526)               -                 -          (26,526)
+
+      Assets
+      Segment assets                                  6,355,811           8,329        2,362,330          8,726,470
+      Interests in joint venture                         65,337               -                -             65,337
+      Deferred tax assets                                                                                       118
+      Consolidated total assets                                                                           8,791,925
+
+      Segment assets include:
+      Additions to:
+       - Property, plant and equipment                 958,923                 -                9           958,932
+       - Intangible assets                               2,808                 -                -             2,808
+
+      Liabilities
+      Segment liabilities                              351,669            2,411             7,278           361,358
+      Borrowings                                                                                            247,664
+      Income tax liabilities                                                                                 78,387
+      Deferred tax liabilities                                                                              209,379
+      Consolidated total liabilities                                                                        896,788
+
+      * Other leisure and hospitality segment mainly represents other hospitality and support services.
+
+
+
+
+                                                         16
+
+--- PAGE 17 ---
+                        Genting Singapore Limited (Company Registration No. 201818581G)
+                          10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+12.   Segment revenue and results (Continued)
+
+                                                    Leisure and Hospitality
+      Group                                        Singapore       Others *          Investments          Total
+      2020                                           $'000          $'000               $'000             $'000
+
+      Gaming                                            700,816                -                  -         700,816
+      Non-gaming                                        284,519                -                  -         284,519
+      Other revenue                                      14,910           61,225              6,133          82,268
+      Inter-segment revenue                                   -                -             (3,854)         (3,854)
+      External revenue                                1,000,245           61,225              2,279       1,063,749
+
+      Adjusted EBITDA                                  445,690              (936)          (17,741)         427,013
+
+      Share of results of joint venture                   1,244                 -                 -           1,244
+      Depreciation of property, plant and
+                                                       (274,973)                -            (1,411)       (276,384)
+       equipment
+      Amortisation of intangible assets                 (26,027)                -                 -         (26,027)
+
+      Assets
+      Segment assets                                  5,989,622           46,687         2,687,649        8,723,958
+      Interests in joint venture                         63,483                -                 -           63,483
+      Deferred tax assets                                                                                       111
+      Consolidated total assets                                                                           8,787,552
+
+      Segment assets include:
+      Additions to:
+       - Property, plant and equipment                   83,638                 -            2,001           85,639
+       - Intangible assets                                4,440                 -                -            4,440
+
+      Liabilities
+      Segment liabilities                              314,495             1,476            27,583          343,554
+      Borrowings                                                                                            266,769
+      Income tax liabilities                                                                                116,142
+      Deferred tax liabilities                                                                              225,525
+      Consolidated total liabilities                                                                        951,990
+
+      * Other leisure and hospitality segment mainly represents other hospitality and support services.
+
+
+
+
+                                                         17
+
+--- PAGE 18 ---
+                         Genting Singapore Limited (Company Registration No. 201818581G)
+                           10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+12.   Segment revenue and results (Continued)
+
+      A reconciliation of Adjusted EBITDA to profit before taxation is provided as follows:
+
+                                                                                                    Group
+                                                                                           2021              2020
+                                                                                           $’000             $’000
+
+      Adjusted EBITDA for reportable segments                                               448,003          427,013
+      Share-based payment write-back/(expense)                                                5,527          (11,131)
+      Net exchange gain/(loss) relating to investments                                        2,863           (1,398)
+      Depreciation and amortisation                                                        (271,572)        (302,411)
+      Interest income                                                                        17,536           45,546
+      Finance costs                                                                          (3,369)          (4,047)
+      Share of results of joint venture                                                       1,854            1,244
+      Other income/(expenses) (net) (1)                                                      25,468          (41,840)
+      Profit before taxation                                                                226,310          112,976
+
+      (1)   Other income/(expenses) (net) include gain/(loss) on disposal/ impairment/ write-off of property, plant and
+            equipment, fair value gain/(loss) on financial assets at fair value through profit or loss, pre-opening/
+            development expenses and other non-recurring adjustments.
+
+      Geographical information
+
+      The Group operates predominantly in Asia. The main business of the Group is in leisure and
+      hospitality operations in Singapore where the development and operation of an integrated resort
+      contributes most of its revenue. The operations in other geographical areas in the Asia Pacific
+      (excluding Singapore) are sales and marketing services relating to the Group’s leisure and hospitality
+      related businesses and other investments.
+
+      Revenue is classified based on the location in which revenue is derived. Sales between segments are
+      eliminated. Non-current assets exclude deferred tax assets and financial assets at fair value through
+      profit or loss.
+                                                                                                    Group
+                                                                                            2021             2020
+                                                                                            $’000            $’000
+      Revenue
+      Singapore                                                                            1,067,262        1,063,461
+      Asia Pacific (excluding Singapore)                                                          34              288
+                                                                                           1,067,296        1,063,749
+
+      Non-current assets
+      Singapore                                                                            5,315,053        4,651,272
+      Asia Pacific (excluding Singapore)                                                         961            4,242
+                                                                                           5,316,014        4,655,514
+
+
+
+
+                                                         18
+
+--- PAGE 19 ---
+                       Genting Singapore Limited (Company Registration No. 201818581G)
+                         10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+12.   Segment revenue and results (Continued)
+
+      There is no revenue derived from transactions with a single external customer that amounted to 10%
+      or more of the Group’s revenue.
+
+      There is no material change in contributions to turnover and earnings by the business or geographical
+      segments other than as disclosed in Note 8.
+
+
+13.   A breakdown of revenue and net profit for the first and second half of the year is as follows:
+
+                                                                                     2021            2020        Change
+      Group                                                                          $’000           $’000         %
+
+
+      (a) Revenue reported for first half year                                       554,789         448,248       24
+      (b) Net profit/(loss) after tax before deducting non-controlling
+                                                                                      88,217         (116,680)     NM
+            interests reported for first half year
+      (c) Revenue reported for second half year                                      512,507         615,501       (17)
+      (d) Net profit after tax before deducting non-controlling
+                                                                                      95,128         185,921       (49)
+            interests reported for second half year
+
+      NM: Not meaningful
+
+
+14.   Interested persons transactions for the year ended 31 December 2021
+
+
+                                                                          Aggregate value of all   Aggregate value of all
+                                                                             interested person        interested person
+                                                                         transactions (excluding         transactions
+                                                                          transactions less than      conducted under
+                                                                                $100,000 and       shareholders' mandate
+                                                                         transactions conducted     pursuant to Rule 920
+                                                                           under shareholders'            (excluding
+                                              Nature of                    mandate pursuant to     transactions less than
+       Name of interested persons             relationship                        Rule 920)                $100,000)
+                                                                                   $’000                     $’000
+       Genting Hong Kong Limited Group        An associate of a
+       Sale of Goods and Services             person who is the                     15                       683
+                                              Company’s director
+       Purchase of Goods and Services         and controlling                        -                         -
+                                              shareholder
+       International Resort Management
+                                              An associate of a
+          Services Pte. Ltd.
+                                              person who is the
+       Sale of Goods and Services             Company’s director                      7                      130
+       Purchase of Goods and Services         and controlling                         -                        -
+                                              shareholder
+
+
+
+
+                                                             19
+
+--- PAGE 20 ---
+                      Genting Singapore Limited (Company Registration No. 201818581G)
+                        10 Sentosa Gateway, Resorts World Sentosa, Singapore 098270
+
+
+15.    Disclosure of person occupying a managerial position in the issuer or any of its principal
+       subsidiaries who is a relative of a director or chief executive officer or substantial shareholder
+       of the issuer pursuant to Rule 704(13)
+
+       Pursuant to Rule 704(13) of the Listing Manual of the Singapore Exchange Securities Trading Limited,
+       we confirm that none of the persons occupying a managerial position in the Company or any of its
+       principal subsidiaries is a relative of a director or chief executive officer or substantial shareholder of
+       the Company.
+
+
+16.    Confirmation that the issuer has procured undertakings from all its directors and executive
+       officers under Rule 720(1)
+
+       The Company has procured undertakings from all its directors and executive officers under Rule
+       720(1).
+
+
+
+By Order of the Board
+Genting Singapore Limited
+
+
+Liew Lan Hing
+Company Secretary
+
+17 February 2022
+
+
+
+
+                                                      20

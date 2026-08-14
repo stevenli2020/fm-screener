@@ -1,0 +1,1938 @@
+--- PAGE 1 ---
+(Constituted in the Republic of Singapore pursuant to a Trust Deed dated 29 January 2008 (as amended))
+
+
+
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+TABLE OF CONTENTS
+
+  Item No.      Description                                                                              Page No.
+
+       -        Summary Results of Mapletree Industrial Trust Group                                         2
+
+       -        Introduction                                                                                3
+
+     1.1        Consolidated Statement of Profit or Loss                                                   4-5
+
+     1.2        Distribution Statement                                                                      5
+
+     1.3        Consolidated Statement of Comprehensive Income                                              6
+
+     1.4        Statements of Financial Position                                                           7-8
+     1.5        Consolidated Statement of Cash Flows                                                      9 - 10
+
+    1.6(i)      Statements of Movements in Unitholders' Funds - MIT Group                                 11 - 12
+
+    1.6(ii)     Statements of Movements in Unitholders' Funds - MIT                                         13
+
+      2         Notes to the Unaudited Condensed Interim Financial Statements                            14 – 27
+                 Review of Unaudited Condensed Interim Consolidated Financial
+     3.1                                                                                                    28
+                 Statements
+     3.2        Review of Performance                                                                    28 – 30
+
+     3.3        Variance from Previous Forecast / Prospect Statement                                        30
+     3.4        Outlook and Prospects                                                                     31 - 32
+
+     3.5        Distributions                                                                             32 - 34
+
+     3.6        General Mandate relating to Interested Person Transactions                                  34
+     3.7        Confirmation pursuant to Rule 720(1) of the Listing Manual                                  34
+
+     3.8        Confirmation by the Board                                                                   35
+
+
+
+
+                                                                                                                    1
+
+--- PAGE 2 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+SUMMARY RESULTS OF MAPLETREE INDUSTRIAL TRUST GROUP1 (“MIT GROUP”)
+
+                                            1Q              4Q            Variance      1Q          Variance
+                                          FY26/27         FY25/26            %        FY25/26          %
+ Gross revenue (S$’000)2                   162,307         163,759           (0.9)    175,882          (7.7)
+ Net property income (S$’000)     2
+                                           122,275         119,862            2.0     133,615          (8.5)
+ Amount available for distribution
+                                           92,257           91,272            1.1     95,607           (3.5)
+    (S$’000)2
+ - to Perpetual securities holders          3,466            3,078           12.6      2,356           47.1
+ - to Unitholders                          88,791           88,194            0.7     93,251           (4.8)
+ No. of units in issue (‘000)             2,855,003      2,854,187             *     2,851,726          0.1
+ Distribution per unit (“DPU”)
+                                             3.11            3.09             0.6       3.27           (4.9)
+   (cents)
+* Less than 0.1%
+
+Notes:
+
+1.   MIT Group comprises Mapletree Industrial Trust (“MIT”) and its subsidiaries.
+
+2.   Gross revenue and net property income do not include MIT’s interests in the North American joint venture with
+     Mapletree Investments Pte Ltd (“MIPL”), which is equity accounted. Amount available for distribution includes
+     distribution declared by the joint venture.
+
+
+
+
+                                                                                                                2
+
+--- PAGE 3 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+INTRODUCTION
+
+
+MIT is a real estate investment trust listed on the Main Board of Singapore Exchange. The principal
+activity of MIT and its subsidiaries (the “Group”) is to invest in income-producing real estate used
+primarily for industrial purposes in Singapore and as data centres worldwide beyond Singapore, as well
+as real estate-related assets, with the primary objective of achieving sustainable returns from rental
+income and long-term capital growth.
+
+On 11 May 2026, MIT completed the redemption of all the outstanding S$300,000,000 3.15% perpetual
+securities (“Series 002 Perpetual Securities”).
+
+On 22 June 2026, the Group completed the divestment of Philadelphia Data Centre at 2000 Kubach
+Road, Philadelphia, Pennsylvania located in the United States of America at a sale price of US$14.5
+million (approximately S$18.6 million).
+
+As at 30 June 2026, MIT’s total assets under management was S$8.3 billion, which comprised 54
+properties in North America (including 13 data centres held through the joint venture with Mapletree
+Investments Pte Ltd), 79 properties in Singapore and two properties in Japan.
+
+MIT’s distribution policy is to distribute at least 90.0% of its taxable income, comprising substantially
+rental income from the letting of its investment properties and related property services income after
+deduction of allowable expenses, as well as interest income from the periodic placement of cash
+surpluses in bank deposits.
+
+
+
+
+                                                                                                       3
+
+--- PAGE 4 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+1.1 CONSOLIDATED STATEMENT OF PROFIT OR LOSS
+
+                                                        1Q            1Q
+                                                      FY26/27       FY25/26       Variance
+                                                      (S$’000)      (S$’000)         %
+
+ Gross revenue                                           162,307       175,882          (7.7)
+ Property operating expenses                             (40,032)      (42,267)         (5.3)
+ Net property income                                     122,275       133,615          (8.5)
+ Interest income                                              167           323        (48.3)
+ Borrowing costs                                         (18,500)      (24,527)        (24.6)
+ Manager's management fees
+ - Base fees                                              (9,301)      (10,438)        (10.9)
+ - Performance fees                                       (4,366)       (4,854)        (10.1)
+ Trustee's fees                                             (236)         (256)         (7.8)
+ Other trust expenses                                     (1,215)       (1,101)          10.4
+ Net foreign exchange gain/(loss)                              43       (1,222)            **
+ Net change in fair value of financial derivatives1         (159)         2,490            **
+ Net change in fair value of investment properties2             -         3,020       (100.0)
+ (Loss)/gain on divestment of investment property           (174)         1,929            **
+ Share of profit of a joint venture                         5,953         7,647        (22.2)
+ Profit for the period before tax                         94,487       106,626         (11.4)
+ Income tax expense                                       (3,504)       (5,441)        (35.6)
+  - Current income tax expense                              (319)       (2,047)        (84.4)
+  - Deferred tax expense3                                 (3,185)       (3,394)         (6.2)
+ Profit for the period                                    90,983       101,185         (10.1)
+ Attributable to:
+ Unitholders                                              87,465        98,777         (11.5)
+ Perpetual securities holders4                             3,466         2,356           47.1
+ Non-controlling interest5                                    52            52              -
+ Profit for the period                                    90,983       101,185         (10.1)
+
+ Earnings per unit – basic and diluted (cents)               3.06          3.46        (11.6)
+
+** Not meaningful
+
+
+
+
+                                                                                                4
+
+--- PAGE 5 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+1.1 CONSOLIDATED STATEMENT OF PROFIT OR LOSS (continued)
+
+Notes:
+
+1.   These reflect the fair value changes of the non-hedge accounting portion of interest rate swaps and currency
+     forwards. The Group enters into interest rate swaps and currency forwards to manage its exposure to interest
+     rate risks and currency risks.
+
+2.   Included in FY25/26 net change in fair value of investment properties is the fair value change in investment
+     properties amounting to S$3,020,000 recognised in relation to the divestment of three industrial properties in
+     Singapore for a total consideration of S$535.3 million (the “Singapore Portfolio Divestment”) and realised on
+     15 August 2025.
+
+3.   Relates to deferred tax expense recognised on operations and investment properties of the North American
+     portfolio and Japan portfolio in accordance with the accounting standards.
+
+4.   The Series 002 Perpetual Securities have no fixed redemption date, with the redemption at the sole option of
+     MIT on 11 May 2026 and on each distribution payment date thereafter and will bear an initial rate of distribution
+     of 3.15% per annum for the first five years. MIT has redeemed all outstanding Series 002 Perpetual Securities
+     on 11 May 2026.
+
+     The Series 006 Perpetual Securities have no fixed redemption date, with redemption at the sole option of MIT
+     on 4 March 2031 and on each distribution payment date thereafter, and will bear an initial rate of distribution of
+     3.25% per annum for the first five years. Distributions shall be payable semi-annually in arrears on 4 March
+     and 4 September in each year, at the discretion of MIT, and any unpaid distributions will be non-cumulative.
+
+5.   This represents 1.53% effective interest in Yuri TMK.
+
+
+1.2 DISTRIBUTION STATEMENT
+
+                                                               1Q                   1Q
+                                                             FY26/27              FY25/26              Variance
+                                                             (S$’000)             (S$’000)                %
+
+ Profit for the period attributable to
+                                                                   87,465               98,777                (11.5)
+  Unitholders
+ Adjustment for net effect of non-tax chargeable
+                                                                  (4,528)             (10,971)                (58.7)
+  items and other adjustments1
+ Cash distribution declared by joint venture                        5,854                5,445                   7.5
+ Amount available for distribution to
+                                                                   88,791               93,251                 (4.8)
+   Unitholders
+
+
+Note:
+
+1.   Non-tax chargeable items and other adjustments include share of joint venture’s results, adjustments for rental
+     incentives, deferred tax, management fees paid/payable in units, trustee’s fees, financing related costs, net
+     change in fair value of financial derivatives and investment properties, and other adjustments.
+
+
+
+
+                                                                                                                       5
+
+--- PAGE 6 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+1.3 CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+
+                                                                1Q              1Q
+                                                              FY26/27         FY25/26         Variance
+                                                              (S$’000)        (S$’000)           %
+
+ Profit for the period                                            90,983         101,185          (10.1)
+ Other comprehensive income:
+ Items that may be reclassified subsequently to
+    profit or loss:
+ Cash flow hedges:
+  - Fair value gain, net of tax                                     6,011             56         >100.0
+  - Reclassification of hedging reserve to profit or loss         (6,275)       (10,951)          (42.7)
+ Share of hedging reserve of a joint venture                        2,326        (3,425)              **
+ Net currency translation differences relating to financial
+    statements of a foreign joint venture and foreign              3,023        (54,557)              **
+    subsidiaries
+ Net currency translation differences relating to monetary
+   items forming part of net investment in foreign                   798        (15,349)              **
+   operation
+ Net currency translation differences on hedge of net
+                                                                     320           4,925          (93.5)
+    investment in foreign operation
+ Other comprehensive income, net of tax                            6,203        (79,301)              **
+ Total comprehensive income                                       97,186          21,884         >100.0
+
+
+ Total comprehensive income attributable to:
+
+ Unitholders                                                      93,668          19,507         >100.0
+ Perpetual securities holders                                      3,466           2,356           47.1
+ Non-controlling interest                                                52              21      >100.0
+                                                                  97,186          21,884         >100.0
+
+** Not meaningful
+
+
+
+
+                                                                                                           6
+
+--- PAGE 7 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+1.4 STATEMENTS OF FINANCIAL POSITION
+
+                                          MIT Group                        MIT
+                                    30 June      31 March      30 June           31 March
+                                      2026          2026         2026              2026
+                                    (S$’000)      (S$’000)     (S$’000)          (S$’000)
+ASSETS
+Current assets
+Cash and cash equivalents             95,700        95,213        26,818            24,287
+Trade and other receivables           15,864        17,664        30,665            33,453
+Other assets                           1,441         2,966            58               176
+Derivative financial instruments1      2,719         4,196           942             2,156
+Total current assets                 115,724       120,039        58,483            60,072
+
+Non-current assets
+Investment properties               7,283,438     7,286,280    3,483,892         3,482,579
+Plant and equipment                       155           167          155               167
+Investments in:
+ - subsidiaries                             -             -    1,542,675         1,545,189
+ - a joint venture                    508,534       505,151      394,377           394,377
+Loans to subsidiaries2                      -             -      270,312           270,345
+Derivative financial instruments1      25,977        23,789          211               264
+Other assets                            3,206         3,213            -                 -
+Total non-current assets            7,821,310     7,818,600    5,691,622         5,692,921
+Total assets                        7,937,034     7,938,639    5,750,105         5,752,993
+LIABILITIES
+Current liabilities
+Trade and other payables3            122,268       130,177       60,453             68,227
+Borrowings                           471,820       394,747      111,487                482
+Loans from a subsidiary                    -             -       49,991             49,987
+Derivative financial instruments1        644           639          644                636
+Current income tax liabilities           727         3,149            -                  -
+Total current liabilities            595,459       528,712      222,575            119,332
+Non-current liabilities
+Other payables                         58,290        56,664      50,691             49,067
+Borrowings                          2,179,189     1,959,014     293,755             97,832
+Loans from a subsidiary                     -             -     256,808            257,061
+Deferred tax liabilities4             152,204       148,215           -                  -
+Total non-current liabilities       2,389,683     2,163,893     601,254            403,960
+Total liabilities                   2,985,142     2,692,605     823,829            523,292
+NET ASSETS                          4,951,892     5,246,034    4,926,276         5,229,701
+
+EQUITY
+Units in issue and to be issued     4,174,571     4,172,972    4,174,571         4,172,972
+Reserves                              (63,254)      (69,457)           -                 -
+Retained earnings                     538,406       539,135      452,088           455,892
+Total Unitholders’ funds            4,649,723     4,642,650    4,626,659         4,628,864
+Perpetual securities                  299,617       600,837      299,617           600,837
+Non-controlling interests                2,552         2,547           -                 -
+Total equity                        4,951,892     5,246,034    4,926,276         5,229,701
+
+UNITS IN ISSUE AND TO BE ISSUED
+                                    2,855,828     2,855,003    2,855,828         2,855,003
+ (‘000)
+
+NET ASSET VALUE PER UNIT (S$)            1.63          1.63         1.62              1.62
+
+
+
+                                                                                             7
+
+--- PAGE 8 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+1.4 STATEMENTS OF FINANCIAL POSITION (continued)
+Notes:
+
+1.   Derivative financial instruments reflect the fair value of interest rate swaps and currency forwards entered by
+     the Group and MIT to manage interest rate risks and currency risks.
+
+2.   Includes MIT’s loans to subsidiaries, net of allowance for impairment, which are intended to be a long-term
+     source of funding for the respective entities.
+
+3.   Includes an outstanding payable to Trustee amounting to S$88,000 and S$89,000 as at 30 June 2026 and 31
+     March 2026 respectively.
+
+4.   Deferred tax liabilities relate to tax exposure from (i) changes in fair value of investment properties; (ii)
+     accelerated tax depreciation, and (iii) changes in fair value of derivative financial instruments.
+
+
+
+
+                                                                                                                  8
+
+--- PAGE 9 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+1.5 CONSOLIDATED STATEMENT OF CASH FLOWS
+
+                                                            1Q                1Q
+                                                          FY26/27           FY25/26
+                                                          (S$’000)          (S$’000)
+Cash flows from operating activities
+Profit for the period                                           90,983           101,185
+Adjustments for:
+- Amortisation of rental incentives                             (1,351)           (1,068)
+- Depreciation                                                       12                11
+- Interest income                                                 (167)             (323)
+- Borrowing costs                                               18,500            24,527
+- Manager's management fees payable in units                      1,599             1,681
+- Bad debts written off                                              60                 -
+- Reversal of provision for impairment of trade
+                                                                     (25)              (8)
+   receivables
+- Income tax expense                                              3,504             5,441
+- Net unrealised foreign exchange loss                               23             2,616
+- Net change in fair value of financial derivatives                 159           (2,490)
+- Net change in fair value of investment properties                   -           (3,020)
+- Loss/(gain) on divestment of investment property                  174           (1,929)
+- Share of profit of a joint venture                            (5,953)           (7,647)
+                                                               107,518           118,976
+
+Changes in working capital
+- Trade and other receivables                                   (1,159)             (655)
+- Trade and other payables                                     (17,293)          (20,295)
+- Other assets                                                    1,532             1,813
+Cash generated from operations                                   90,598            99,839
+
+Interest received                                                   171               328
+Income tax paid                                                 (2,941)           (3,198)
+Net cash generated from operating activities                    87,828            96,969
+
+
+Cash flows from investing activities
+Additions to investment properties                              (1,564)          (47,764)
+Purchase of plant & equipment                                         -             (187)
+Proceeds from divestment of investment property, net of
+                                                                17,672            14,829
+  divestment cost
+Distributions received from a joint venture                      5,664             5,986
+Net cash generated from/(used in) investing
+                                                                21,772           (27,136)
+  activities
+
+
+
+
+                                                                                             9
+
+--- PAGE 10 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+1.5 CONSOLIDATED STATEMENT OF CASH FLOWS (continued)
+
+                                                                  1Q               1Q
+                                                                FY26/27          FY25/26
+                                                               (S$’000)         (S$’000)
+
+ Cash flows from financing activities
+ Repayment of bank loans                                           (225,229)        (460,943)
+ Payment of financing related costs                                     (170)          (1,331)
+ Gross proceeds from bank loans                                      520,063          514,268
+ Redemption of perpetual securities                                (300,000)                 -
+ Capital return to non-controlling interests                             (47)             (55)
+ Distribution to Unitholders                                        (88,194)         (95,791)
+ Interest paid                                                        (9,696)        (16,101)
+ Payment of lease liabilities1                                        (1,207)          (1,237)
+ Distribution to perpetual securities holders                         (4,686)          (4,686)
+ Net cash used in financing activities                             (109,166)         (65,876)
+
+ Net increase in cash and cash equivalents                                434           3,957
+ Cash and cash equivalents at beginning of financial
+                                                                     95,213          107,626
+   period
+ Effects of currency translation on balances held in
+                                                                          53          (2,338)
+   foreign currencies
+ Cash and cash equivalents at end of financial period                95,700          109,245
+
+Note:
+
+1.   Includes payment of finance cost for lease liabilities.
+
+
+
+
+                                                                                             10
+
+--- PAGE 11 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+1.6(i)    STATEMENT OF MOVEMENTS IN UNITHOLDERS’ FUNDS (MIT GROUP)
+
+                                                     Attributable to Unitholders
+                                         Units    Foreign
+                                       in issue currency                                  Total                        Non-
+                                      and to be translation Hedging Retained           unitholders’       Perpetual controlling   Total
+                                        issued    reserve reserve earnings                funds           securities interests   equity
+                                      (S$’000) (S$’000) (S$’000) (S$’000)                (S$’000)          (S$’000)  (S$’000)   (S$’000)
+ MIT Group
+ At 1 April 2026                      4,172,972    (84,069)   14,612    539,135           4,642,650        600,837      2,547 5,246,034
+
+ Total comprehensive income
+  for the period
+ Profit for the period                        -           -         -     87,465             87,465           3,466        52      90,983
+
+ Other comprehensive income:
+ Items that may be reclassified
+   to profit or loss:
+ Cash flow hedges:
+ - Fair value gain, net of tax                -           -    6,011               -          6,011               -          -      6,011
+ - Reclassification of hedging
+                                              -           -   (6,275)              -         (6,275)              -          -     (6,275)
+     reserve to profit or loss
+ Share of hedging reserve of a
+                                              -           -    2,326               -          2,326               -          -      2,326
+   joint venture
+ Share of currency translation
+   differences of a foreign joint             -      3,023          -              -          3,023               -          -      3,023
+   venture and foreign subsidiaries
+ Net translation differences
+                                              -        798          -              -            798               -          -        798
+   relating to shareholder’s loan
+ Net currency translation
+   differences on hedges of net               -        320          -              -            320               -          -        320
+   investment in foreign operations
+ Total other comprehensive
+                                              -      4,141     2,062               -          6,203               -          -      6,203
+   income, net of tax
+ Total comprehensive income
+   for the period, net of tax                 -      4,141     2,062      87,465             93,668           3,466        52      97,186
+
+ Transactions with equity
+  holders, recognised directly in
+  equity
+
+ Contributions by and
+  distributions to equity holders
+ New units to be issued arising
+  from settlement of management           1,599           -         -          -              1,599               -          -      1,599
+  fees
+ Redemption of perpetual
+  securities                                  -           -         -          -                      -   (300,000)          -   (300,000)
+ Distributions to unitholders                 -           -         -   (88,194)            (88,194)              -          -    (88,194)
+ Distributions to perpetual                   -           -         -          -                      -     (4,686)          -     (4,686)
+  securities holders
+ Capital redemption to non-
+  controlling interests                       -           -         -          -                      -           -       (47)        (47)
+ Total contribution by and
+  distributions to equity holders
+                                          1,599           -         -   (88,194)            (86,595)      (304,686)       (47)   (391,328)
+ Total transactions with equity
+  holders
+                                          1,599           -         -   (88,194)            (86,595)      (304,686)       (47)   (391,328)
+
+
+ At 30 June 2026                      4,174,571    (79,928)   16,674    538,406           4,649,723        299,617      2,552 4,951,892
+
+
+
+
+                                                                                                                                           11
+
+--- PAGE 12 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+1.6(i)    STATEMENT OF MOVEMENTS IN UNITHOLDERS’ FUNDS (MIT GROUP) (continued)
+
+                                                       Attributable to Unitholders
+                                           Units    Foreign
+                                         in issue currency                          Total                Non-
+                                        and to be translation Hedging Retained unitholders’ Perpetual controlling   Total
+                                          issued    reserve     reserve earnings    funds   securities interests   equity
+                                        (S$’000) (S$’000)       (S$’000) (S$’000)  (S$’000)  (S$’000)  (S$’000)   (S$’000)
+ MIT Group
+ At 1 April 2025                        4,164,546   (20,177)    45,222    698,146    4,887,737   301,802   2,916 5,192,455
+
+ Total comprehensive income
+  for the period
+ Profit for the period                          -          -          -    98,777      98,777      2,356      52   101,185
+
+ Other comprehensive income:
+ Items that may be reclassified
+   to profit or loss:
+ Cash flow hedges:
+ - Fair value gain/(loss), net of tax           -          -        56           -         56          -       -        56
+ - Reclassification of hedging
+                                                -          -   (10,951)          -    (10,951)         -       -   (10,951)
+     reserve to profit or loss
+ Share of hedging reserve of a
+                                                -          -    (3,425)          -     (3,425)         -       -    (3,425)
+   joint venture
+ Share of currency translation
+   differences of a foreign joint               -   (54,526)          -          -    (54,526)         -    (31)   (54,557)
+   venture and foreign subsidiaries
+ Net translation differences relating
+                                                -   (15,349)          -          -    (15,349)         -       -   (15,349)
+   to shareholder’s loan
+ Net currency translation
+   differences on hedges of net                 -     4,925           -          -      4,925          -       -     4,925
+   investment in foreign operations
+ Total other comprehensive
+                                                -   (64,950)   (14,320)          -    (79,270)         -    (31)   (79,301)
+   income, net of tax
+ Total comprehensive income
+   for the period, net of tax                   -   (64,950)   (14,320)    98,777      19,507      2,356      21    21,884
+
+ Transactions with equity
+  holders, recognised directly in
+  equity
+
+ Contributions by and
+   distributions to equity holders
+ New units issued and to be issued
+   arising from:
+ - Settlement of management fees           3,339           -          -          -      3,339          -       -     3,339
+ Issue expenses                              123           -          -          -        123          -       -       123
+ Distributions to unitholders                   -          -          -   (95,791)    (95,791)         -       -   (95,791)
+ Distributions to perpetual
+  securities holders                            -          -          -          -           -   (4,686)       -    (4,686)
+ Capital redemption to non-
+  controlling interests                         -          -          -          -           -         -    (55)       (55)
+ Total contribution by and
+  distributions to equity holders
+                                           3,462           -          -   (95,791)    (92,329)   (4,686)    (55)   (97,070)
+ Total transactions with equity
+  holders
+                                           3,462           -          -   (95,791)    (92,329)   (4,686)    (55)   (97,070)
+
+
+ At 30 June 2025                        4,168,008   (85,127)    30,902    701,132    4,814,915   299,472   2,882 5,117,269
+
+
+
+
+                                                                                                                             12
+
+--- PAGE 13 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+1.6(ii) STATEMENT OF MOVEMENTS IN UNITHOLDERS’ FUNDS (MIT)
+                                                                         Attributable to Unitholders
+                                                               Units                                       Total
+                                                          in issue and    Hedging        Retained       unitholders’   Perpetual      Total
+                                                          to be issued     reserve       earnings          funds       securities    equity
+                                                            (S$’000)      (S$’000)       (S$’000)        (S$’000)       (S$’000)    (S$’000)
+MIT
+At 1 April 2026                                              4,172,972               -      455,892        4,628,864     600,837    5,229,701
+
+Total comprehensive income for the period
+Profit for the period                                                -               -       84,390           84,390        3,466      87,856
+
+Other comprehensive income:
+Items that may be reclassified to profit or loss
+Cash flow hedges:
+- Fair value gain, net of tax                                        -              31              -             31            -          31
+- Reclassification of hedging reserve to profit or loss              -            (31)              -           (31)            -        (31)
+Total other comprehensive income, net of tax                         -               -              -              -            -           -
+Total comprehensive income for the period, net
+                                                                     -               -       84,390           84,390        3,466      87,856
+  of tax
+
+Transactions with equity holders, recognised
+ directly in equity
+
+Contributions by and distributions to equity
+ holders
+New units to be issued arising from settlement of
+                                                                 1,599               -              -          1,599            -       1,599
+ management fees
+Redeemption of perpetual securities                                  -               -            -                -    (300,000)   (300,000)
+Distributions to unitholders                                         -               -     (88,194)         (88,194)            -    (88,194)
+Distributions to pepetual securities holders                         -               -            -                -      (4,686)     (4,686)
+Total contribution by and distributions to equity
+                                                                 1,599               -     (88,194)         (86,595)    (304,686)   (391,281)
+ holders
+Total transactions with equity holders                           1,599               -     (88,194)         (86,595)    (304,686)   (391,281)
+
+At 30 June 2026                                              4,174,571               -      452,088        4,626,659     299,617    4,926,276
+
+At 1 April 2025                                              4,164,546            514       581,742        4,746,802     301,802    5,048,604
+
+
+Total comprehensive income for the period
+Profit for the period                                                -               -       75,081           75,081        2,356      77,437
+
+Other comprehensive income:
+Items that may be reclassified to profit or loss
+Cash flow hedges:
+- Fair value gain, net of tax                                        -              2               -              2            -           2
+- Reclassification of hedging reserve to profit or loss              -          (132)               -          (132)            -       (132)
+Total other comprehensive income, net of tax                         -          (130)               -          (130)            -       (130)
+Total comprehensive income for the period, net
+                                                                     -          (130)        75,081           74,951        2,356      77,307
+  of tax
+
+Transactions with equity holders, recognised
+ directly in equity
+
+Contributions by and distributions to equity
+  holders
+New units issued and to be issued arising from:
+- Settlement of management fees                                  3,339               -            -            3,339            -       3,339
+Issue expenses                                                     123               -            -              123            -         123
+Distributions to unitholders                                         -               -     (95,791)         (95,791)            -    (95,791)
+Distributions to perpetual securities holders                        -               -            -                -      (4,686)     (4,686)
+Total contribution by and distributions to equity                                    -
+                                                                 3,462                     (95,791)         (92,329)      (4,686)    (97,015)
+  holders
+Total transactions with equity holders                           3,462               -     (95,791)         (92,329)      (4,686)    (97,015)
+
+At 30 June 2025                                              4,168,008            384       561,032        4,729,424     299,472    5,028,896
+
+
+
+
+                                                                                                                                                13
+
+--- PAGE 14 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+2     NOTES TO THE UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+
+2.1   Basis of preparation
+
+      The condensed interim financial statements for the three months ended 30 June 2026 have been
+      prepared in accordance with SFRS(I) 1-34 Interim Financial Reporting issued by the Accounting
+      Standards Committee. The financial statements do not include all the information required for a
+      complete set of financial statements. However, selected explanatory notes are included to explain
+      events and transactions that are significant for an understanding of the changes in the Group’s
+      financial position and performance of the Group since the last annual financial statements for the
+      financial year ended 31 March 2026.
+
+      The accounting policies adopted are consistent with those of the previous financial year which
+      were prepared in accordance with SFRS(I)s, except for the adoption of new and amended
+      standards as set out in Note 2.2.
+
+      The condensed interim financial statements are presented in Singapore Dollars (“S$”), which is
+      MIT’s functional currency, and rounded to the nearest thousand.
+
+      The preparation of the condensed interim financial statements in conformity with SFRS(I) requires
+      management to exercise its judgement in the process of applying the Group’s accounting policies.
+      It also requires the use of certain critical accounting estimates and assumptions. The area
+      involving a higher degree of judgment, where assumptions and estimates are significant, is the
+      fair valuation of investment properties as disclosed in Note 2.9.
+
+
+2.2   New and amended standards adopted by the Group
+
+      The accounting policies and methods of computation applied in the financial statements for the
+      current reporting period are consistent with those used in the audited financial statements for the
+      financial year ended 31 March 2026.
+
+      The Group has adopted new and revised SFRS(I)s and SFRS(I) Interpretations and amendments
+      to SFRS(I)s that are mandatory for application from 1 April 2026. The adoption of these SFRS(I)s
+      and SFRS(I) Interpretations and amendments to SFRS(I)s did not result in material changes to
+      the Group’s accounting policies and has no material effect on the amounts reported for the current
+      financial period.
+
+
+
+
+                                                                                                      14
+
+--- PAGE 15 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+2.3   Gross revenue
+
+                                                                      1Q                    1Q
+                                                                    FY26/27               FY25/26
+                                                                    (S$’000)              (S$’000)
+
+      Rental income and service charges                                    155,433                168,332
+      Other operating income                                                 6,874                  7,550
+      Gross revenue                                                        162,307                175,882
+
+      Gross revenue is generated by the Group’s investment properties.
+
+      Other operating income comprises car park revenue and other income attributable to the
+      operations of the investment properties.
+
+      MIT Group’s revenue is derived in Asia and North America. Details of disaggregation of revenue
+      by geographical area are disclosed in Note 2.4.
+
+
+2.4   Segment information
+
+      The Manager considers the business from a business segment perspective, managing and
+      monitoring the business based on property types and geographies.
+
+      The Manager assesses the performance of the operating segments based on a measure of Net
+      Property Income. Interest income and borrowing costs (excluding finance cost on lease liabilities)
+      are not allocated to segments, as the treasury activities are centrally managed by the Manager.
+      In addition, the Manager monitors the non-financial assets as well as financial assets directly
+      attributable to each segment when assessing segment performance.
+
+      Segment results, assets and liabilities include items directly attributable to a segment.
+
+
+
+
+                                                                                                       15
+
+--- PAGE 16 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+2.4   Segment information (continued)
+
+      The segment information for the reportable segments for the three months ended 30 June 2026
+      is as follows:
+
+
+                                                                  Hi-Tech
+                                                                 Buildings
+                                                                       and      General
+                                             Data         Data   Business     Industrial
+      Asset segment                        Centres    Centres       Space     Buildings
+                                                         North
+      Geography                                Asia   America    Singapore    Singapore       Total
+                                           (S$’000)   (S$’000)     (S$’000)     (S$’000)   (S$’000)
+      Gross revenue                          11,988     53,378       39,156       57,785    162,307
+
+      Net property income                   10,986     36,362       29,077       45,850    122,275
+      Interest income                                                                           167
+      Borrowing costs                                                                      (18,500)
+      Manager's management fees                                                            (13,667)
+      Trustee’s fees                                                                          (236)
+      Other trust expenses                                                                  (1,215)
+      Net foreign exchange gain                                                                  43
+      Net change in fair value of
+                                                                                              (159)
+         financial derivatives
+      Loss on divestment of
+                                                  -      (174)            -            -      (174)
+        investment property
+      Share of profit of a joint venture          -     5,953             -            -      5,953
+      Profit before income tax                                                              94,487
+      Current income tax                       (29)      (290)            -            -      (319)
+      Deferred tax                            (562)    (2,623)            -            -    (3,185)
+      Profit after income tax                                                               90,983
+
+
+
+
+                                                                                                16
+
+--- PAGE 17 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+2.4   Segment information (continued)
+
+
+                                                                              Hi-Tech
+                                                                             Buildings
+                                                                                   and         General
+                                                  Data            Data       Business        Industrial
+      Asset segment                             Centres        Centres          space        Buildings
+                                                                 North
+      Geography                                     Asia       America      Singapore       Singapore             Total
+                                                (S$’000)       (S$’000)       (S$’000)        (S$’000)         (S$’000)
+      Other segment items
+      Additions to investment
+                                                      539         7,462               69          1,223           9,293
+        properties
+      Segment assets
+      -Investment properties                     892,892     2,835,123       1,533,662       2,021,761      7,283,4381
+      -Investment in a joint venture                   -       508,534               -               -         508,534
+      -Other non-current assets                    3,206             -               -               -           3,206
+      -Trade receivables                               -           490             212             696           1,398
+                                                                                                             7,796,576
+      Unallocated assets*                                                                                      140,458
+      Consolidated total assets                                                                              7,937,034
+
+      Segment liabilities                         71,271       169,054           31,029          75,200       346,5542
+      Unallocated liabilities**                                                                              2,638,588
+      Consolidated total
+                                                                                                             2,985,142
+       liabilities
+
+      * Unallocated assets include cash and cash equivalents, other receivables, other current assets, derivative
+      financial instruments and plant and equipment.
+
+      ** Unallocated liabilities include trade and other payables, borrowings and derivative financial instruments.
+
+      Notes:
+
+      1. Includes Right of Use (“ROU”) assets of S$101.1 million and assets corresponding to Asset Retirement
+         Obligation (“ARO”) of S$1.8 million.
+
+      2. Lease liabilities were included under segment liabilities.
+
+
+
+
+                                                                                                                      17
+
+--- PAGE 18 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+2.4   Segment information (continued)
+
+      The segment information for the reportable segments for the three months ended 30 June 2025
+      is as follows:
+
+
+                                                                  Hi-Tech
+                                                                 Buildings
+                                                                       and      General
+                                             Data         Data   Business     Industrial
+      Asset segment                        Centres    Centres       Space     Buildings
+                                                         North
+      Geography                                Asia   America    Singapore    Singapore       Total
+                                           (S$’000)   (S$’000)     (S$’000)     (S$’000)   (S$’000)
+      Gross revenue                         13,537      57,836       48,523       55,986    175,882
+
+      Net property income                   11,658     41,741       35,863       44,353    133,615
+      Interest income                                                                           323
+      Borrowing costs                                                                      (24,527)
+      Manager's management fees                                                            (15,292)
+      Trustee’s fees                                                                          (256)
+      Other trust expenses                                                                  (1,101)
+      Net foreign exchange loss                                                             (1,222)
+      Net change in fair value of
+                                                                                             2,490
+        financial derivatives
+      Net change in fair value of
+                                                  -          -       3,020             -     3,020
+        investment properties
+      Gain on divestment of
+                                                  -     1,929             -            -     1,929
+        investment property
+      Share of profit of a joint venture          -     7,647             -            -      7,647
+      Profit before income tax                                                             106,626
+      Current income tax                       (58)    (1,989)            -            -    (2,047)
+      Deferred tax                            (493)    (2,901)            -            -    (3,394)
+      Profit after income tax                                                              101,185
+
+
+
+
+                                                                                                18
+
+--- PAGE 19 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+2.4   Segment information (continued)
+
+
+                                                                             Hi-Tech
+                                                                            Buildings
+                                                                               and           General
+                                                Data            Data        Business        Industrial
+      Asset segment                            Centres        Centres         space         Buildings
+                                                               North
+      Geography                                 Asia          America       Singapore       Singapore          Total
+                                              (S$’000)        (S$’000)       (S$’000)        (S$’000)        (S$’000)
+      Other segment items
+      Acquisitions of and additions to
+                                                 39,392          10,253         10,741                 -        60,386
+        investment properties
+      Segment assets
+      -Investment properties                    955,057      2,965,851       1,535,960       1,998,598      7,455,4661
+      -Investment properties held for
+                                                         -              -      535,300                 -       535,300
+        sale
+      -Investments in a joint venture                  -       500,947                -               -        500,947
+      -Other non-current assets                    3,564             -                -               -          3,564
+      -Trade receivables                             849         1,520              190           1,099          3,658
+                                                                                                             8,498,935
+      Unallocated assets*                                                                                      172,684
+      Consolidated total assets                                                                              8,671,619
+
+      Segment liabilities                        75,450        139,822          36,869          67,744        319,8852
+      Unallocated liabilities**                                                                             3,234,465
+      Consolidated total
+                                                                                                            3,554,350
+       liabilities
+
+      * Unallocated assets include cash and cash equivalents, other receivables, other current assets, derivative
+      financial instruments and plant and equipment.
+
+      ** Unallocated liabilities include trade and other payables, borrowings and derivative financial instruments.
+
+      Notes:
+
+      1. Includes ROU assets of S$101.3 million and assets corresponding to ARO of S$1.4 million.
+
+      2. Lease liabilities were included under segment liabilities.
+
+
+
+
+                                                                                                                      19
+
+--- PAGE 20 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+2.5   Profit before tax
+
+                                                       1Q                1Q
+                                                     FY26/27           FY25/26               Variance
+                                                     (S$’000)          (S$’000)                 %
+
+       Property operating expenses include:
+       - Reversal of provision for impairment of
+                                                                25                 8               >100.0
+         trade receivables
+       - Bad debts written off                                (60)                  -                    **
+       - Depreciation                                         (12)               (11)                   9.1
+
+
+
+       Borrowing costs include:
+       - Interest on borrowings                          (17,505)            (23,493)               (25.5)
+       - Finance cost on lease liabilities                  (829)               (834)                (0.6)
+
+      ** Not meaningful
+
+2.6   Related party transactions
+
+      Other than as disclosed elsewhere in the condensed interim financial statements, significant
+      related party transactions carried out on terms agreed between parties are as follows:
+
+                                                        MIT Group                         MIT
+                                                     1Q          1Q              1Q               1Q
+                                                   FY26/27     FY25/26         FY26/27          FY25/26
+                                                   (S$’000)    (S$’000)        (S$’000)         (S$’000)
+
+       Acquisition and divestment fees
+                                                         92           541               92           541
+        paid/payable to the Manager
+       Marketing commission paid/payable to
+                                                      1,711          2,312         1,435            1,442
+        the Property Managers
+       Property and lease management fees
+                                                      4,526          5,037         2,781            3,015
+        paid/payable to the Property Managers
+       Other products and service fees
+                                                      1,979          2,731         1,637            2,411
+        paid/payable to related parties
+       Rental and other related income
+        received/receivable from related              4,150          5,119         1,787            1,826
+        parties
+
+2.7   Taxation
+
+      The Group calculates the income tax expense using the tax rate that would be applicable to the
+      expected total annual earnings. Accordingly, the major components of income tax expense are
+      disclosed in the consolidated statement of profit or loss.
+
+
+
+
+                                                                                                        20
+
+--- PAGE 21 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+2.8   Earnings Per Unit ("EPU") and Distribution Per Unit ("DPU")
+
+                                                                                           1Q                   1Q
+                                                                                         FY26/27              FY25/26
+       Weighted average number of units1 used in
+                                                                                         2,854,671,488       2,851,361,211
+        calculation of Basic EPU
+       Effects of management fees payable in units3                                           824,584                848,721
+       Weighted average number of units used in
+                                                                                         2,855,496,072       2,852,209,932
+         calculation of Diluted EPU
+       Earnings per unit (“EPU”) – Basic and Diluted2
+       Based on the weighted average number of units in                                            3.06                   3.46
+         issue (cents)
+
+       No. of units in issue at end of period                                            2,855,003,431       2,851,726,300
+       Distribution per unit (“DPU”)
+       Based on number of units in issue at end of each                                            3.11                   3.27
+         relevant period (cents)
+      Notes:
+
+      1. Weighted average number of units has been adjusted to take into account the new units issued as part payment of
+          base fee to the Manager.
+
+      2. The EPU was calculated using the total profit after tax and the weighted average number of units in issue during the
+          respective periods. The Diluted EPU was calculated based on profit for the period attributable to Unitholders divided
+          by the weighted average number of units in issue and to be issued (in lieu of management fees) during the period.
+
+      3. As management fees payable in units for the current financial period will be issued after the distribution record date,
+          these units will not be entitled to the distribution for the current period.
+
+
+
+
+                                                                                                                            21
+
+--- PAGE 22 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+2.9   Investment properties
+
+      MIT’s investment properties are held for long-term rental yields and capital appreciation, including
+      the right-of-use relating to leasehold land. Investment properties are stated at fair value based on
+      valuations performed by independent professional valuers annually at the end of financial year,
+      or whenever there is any objective evidence or indication that these investment properties may
+      require revaluation.
+
+      The fair values are generally derived using one or more of the following methods – income
+      capitalisation, discounted cash flow and sales comparison approach. Key unobservable inputs
+      applied in these valuation methods to derive fair values are capitalisation rate, discount rate,
+      terminal capitalisation rate and average price per square foot. All investment properties within
+      MIT and the Group’s portfolio are classified within Level 3 of the fair value hierarchy, where fair
+      values are determined based on significant unobservable inputs.
+
+                                                                        MIT Group                   MIT
+                                                                         (S$’000)                 (S$’000)
+           30 June 2026
+           Balance as at 1 April 2026                                       7,286,280                  3,482,579
+           Additions during the period                                           9,293                     1,313
+           Divestments during the period                                      (17,846)1                        -
+           Currency translation difference                                       5,711                         -
+           Balance as at 30 June 2026                                       7,283,438                  3,483,892
+
+           31 March 2026
+           Balance as at 1 April 2025                                       8,080,101                  3,975,646
+           Additions during the year                                           79,2832                    14,190
+           Net change in fair value                                          (127,715)                    28,043
+           Divestments during the year                                      (548,200)3                  (535,300)
+           Currency translation difference                                   (197,189)                          -
+           Balance as at 31 March 2026                                      7,286,280                  3,482,579
+
+
+      Notes:
+
+      1.    On 22 June 2026, the Group completed the divestment of Philadelphia Data Centre at 2000 Kubach
+            Road, Philadelphia, Pennsylvania located in the United States of America at a sale price of US$14.5
+            million (approximately S$18.6 million).
+
+      2.    Includes the final phase of fitting-out works for Osaka Data Centre as at 31 March 2026.
+
+      3.    On 10 May 2025, MIT group completed the divestment of 2775 Northwoods Parkway, Norcross, Georgia
+            located in the United States at a sale price of US$11.8 million (approximately S$15.3 million).
+
+            On 15 August 2025, MIT completed the divestment of three investment properties, namely, The Strategy,
+            The Synergy and Woodlands Central located in Singapore at a sale price of S$535.3 million.
+
+      The carrying value of the Group’s investment properties were based on the independent valuation
+      as at 31 March 2026 and taking into account expenditure capitalised during the three-month
+      period and translation differences. The carrying values of the investment properties as at 30 June
+      2026 were internally assessed by the Manager, after considering the operating performance of
+      the properties and the business environment. Based on the review, there is no indication of
+      significant changes affecting the value of the MIT portfolio. The fair value of investment properties
+      in local currency has not materially changed from the most recent valuation conducted as at 31
+      March 2026.
+
+
+
+
+                                                                                                                22
+
+--- PAGE 23 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+2.10   Borrowings
+
+                                             MIT Group                             MIT
+                                      30 June        31 March       30 June              31 March
+                                        2026           2026           2026                 2026
+                                      (S$’000)       (S$’000)       (S$’000)             (S$’000)
+       Current
+       Bank loans (unsecured)           420,837        343,879        111,000                       -
+       Less: Transaction cost to be
+                                          (558)          (654)                 -                    -
+         amortised1
+                                        420,279        343,225        111,000                       -
+       Lease liabilities                  1,550          1,535            487                  482
+       Medium term note
+                                         50,000         50,000                 -                    -
+        (unsecured)
+       Less: Transaction cost to be
+                                             (9)           (13)                -                    -
+         amortised1
+                                         49,991         49,987                 -                    -
+       Loans from a subsidiary                 -                -      50,000               50,000
+       Less: Transaction cost to be
+                                               -                -          (9)                 (13)
+         amortised1
+                                               -                -      49,991               49,987
+       Borrowings - Current             471,820        394,747        161,478               50,469
+       Non-current
+       Bank loans (unsecured)         1,747,675      1,527,127        282,850               86,900
+       Less: Transaction cost to be
+                                         (4,448)        (4,928)          (868)                (965)
+         amortised1
+                                      1,743,227      1,522,199        281,982               85,935
+       TMK Bond (secured)  2
+                                         80,169         80,333                 -                    -
+       Less: Transaction cost to be
+                                          (177)          (187)                 -                    -
+         amortised1
+                                         79,992         80,146                 -                    -
+       Medium term notes
+                                        257,279        257,549                 -                    -
+        (unsecured)
+       Less: Transaction cost to be
+                                          (471)          (488)                 -                    -
+         amortised1
+                                        256,808        257,061                 -                    -
+       Lease liabilities                 99,162         99,608         11,773               11,897
+       Loans from a subsidiary                 -                -     257,279              257,549
+       Less: Transaction cost to be
+                                               -                -        (471)                (488)
+         amortised1
+                                               -                -     256,808              257,061
+       Borrowings – Non-current       2,179,189      1,959,014        550,563              354,893
+       Total borrowings               2,651,009      2,353,761        712,041              405,362
+
+       Represented by:
+       Bank loans, TMK bond and
+                                      2,550,297      2,252,618        392,982               85,935
+         medium term notes
+       Lease liabilities                100,712        101,143         12,260               12,379
+       Loans from a subsidiary                 -                -     306,799              307,048
+                                      2,651,009      2,353,761        712,041              405,362
+
+
+
+
+                                                                                                    23
+
+--- PAGE 24 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+2.10 Borrowings (continued)
+
+     Notes:
+
+     1. Related transaction costs are amortised over the tenors of bank loan facilities, TMK bond and medium term
+        notes (“MTN”).
+
+     2. The TMK bond is subject to a statutory lien over the investment property of Yuri TMK, with carrying amount of
+        S$474,794,000 as at 30 June 2026 (31 March 2026: S$475,218,000) pursuant to Article 128 of SPC Law.
+
+     (a)      Carrying amount and fair value of non-current borrowings
+
+     The carrying amounts of the borrowings approximate their fair values except for the following
+     fixed rate non-current borrowings:
+
+                                                  Carrying amounts                         Fair value
+                                               30 June       31 March               30 June         31 March
+                                                 2026           2026                  2026             2026
+                                               (S$’000)       (S$’000)              (S$’000)         (S$’000)
+         MIT Group
+         Bank loans                            331,475             332,153          310,309             312,426
+         TMK Bond                               80,169              80,333           74,882              75,371
+         Medium term notes*                    257,279             257,549          242,486             247,808
+
+     As at 30 June 2026, the current portion of the medium term note amounting to S$50.0 million (31
+     *
+
+     March 2026: S$50.0 million) approximate its fair value of S$50.7 million (31 March 2026: S$50.9
+     million).
+
+     The fair values are within Level 2 of the fair value hierarchy.
+
+     (b)      Ratios
+
+                                                                             MIT Group
+                                                               30 June                         31 March
+                                                                2026                             2026
+         Aggregate leverage1                                               37.5%                             34.0%
+         Interest coverage ratio (times)2                                     4.0                               4.0
+
+     Notes:
+
+     1. Lease liabilities, right-of-use assets and asset retirement obligation assets were included when computing net
+           debt and total deposited property value respectively.
+
+     2. Computed by dividing the trailing MIT Group and proportionate share of joint venture’s 12 months earnings
+           before interest, tax, depreciation, and amortisation (“EBITDA”) by the trailing MIT Group and proportionate
+           share of joint venture’s 12 months’ interest expense, borrowing-related fees and distributions on perpetual
+           securities.
+
+
+
+
+                                                                                                                  24
+
+--- PAGE 25 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+2.10 Borrowings (continued)
+
+     (b)      Ratios (continued)
+
+     As at 30 June 2026, the aggregate leverage ratio increased by 3.5 percentage point from 34.0%
+     as at 31 March 2026 to 37.5%. The interest coverage ratio for the trailing 12 months remains at
+     4.0 times. Both ratios are within the regulatory limits set by the Monetary Authority of Singapore
+     (“MAS”).
+
+     The Manager reviews these ratios on a regular basis as part of its risk management process
+     together with prudent capital management to balance the risks and costs in the uncertain
+     macroeconomic environment.
+
+     In accordance with the MAS’s revised Code on Collective Investment Schemes dated 28
+     November 2024, the sensitivity test for interest coverage ratio (“ICR”) is computed in the table
+     below.
+
+                                                                         MIT Group
+                                                                                               Assuming a
+                                                                       Assuming a            100 basis points
+                                                  30 June            10% decrease in            increase in
+                                                   2026                 EBITDA                interest rates1
+      Interest coverage ratio (times)2              4.0                    3.6                      3.2
+
+     Notes:
+
+     1. Assuming 100 basis points increase in the weighted average interest rate of all hedged and unhedged debts
+        and the perpetual securities.
+
+     2. Computed by dividing the trailing MIT Group and proportionate share of joint venture’s 12 months earnings
+        before interest, tax, depreciation, and amortisation (“EBITDA”) by the trailing MIT Group and proportionate
+        share of joint venture’s 12 months’ interest expense, borrowing-related fees and distributions on perpetual
+        securities.
+
+
+
+
+                                                                                                               25
+
+--- PAGE 26 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+2.11 Derivative financial instruments
+
+     The assets and liabilities recognised and measured at fair value and classified by level of the
+     following fair value measurement hierarchy are presented as follows:
+
+     (i)    Level 1: quoted prices (unadjusted) in active markets for identical assets or liabilities;
+
+     (ii)   Level 2: inputs other than quoted prices included within Level 1 that are observable for the
+            asset or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices); and
+
+     (iii) Level 3: inputs for the asset or liability that are not based on observable market data
+           (unobservable inputs).
+
+     Derivative financial instruments
+
+     The fair values of financial instruments that are not traded in an active market are determined by
+     using valuation techniques. The fair values of currency forwards are based on valuations provided
+     by the banks. The fair values of interest rate swaps are calculated as the present value of the
+     estimated future cash flows discounted at actively quoted interest rates.
+
+                                                     MIT Group                             MIT
+                                               30 June      31 March            30 June          31 March
+                                                 2026         2026                2026             2026
+                                               (S$’000)     (S$’000)            (S$’000)         (S$’000)
+     Level 2
+     Assets
+     Derivative financial instruments
+     - Interest rate swaps                       27,551           26,678               8            1,113
+     - Currency forwards                          1,145            1,307           1,145            1,307
+                                                 28,696           27,985           1,153            2,420
+     Liabilities
+     Derivative financial instruments
+     - Interest rate swaps                           10                3              10                -
+     - Currency forwards                            634              636             634              636
+                                                    644              639             644              636
+
+
+
+
+                                                                                                            26
+
+--- PAGE 27 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+2.12 Units in issue and to be issued
+
+     Movement in the number of units issued and to be issued is as follows:
+
+                                                                                 1Q                         1Q
+                                                                               FY26/27                    FY25/26
+
+       Balance as at beginning of the period                                  2,854,187,030             2,850,935,273
+       New Units issued
+       Settlement of manager’s management fees1                                     816,401                   791,027
+       Total Units in issue at end of the period2                             2,855,003,431             2,851,726,300
+
+       Units to be issued
+       Manager’s management fees payable in units                                     824,584                   848,721
+       Total Units in issue and to be issued at end of
+                                                                              2,855,828,015             2,852,575,021
+        the period
+
+     Notes:
+
+     1. The Manager has elected, in accordance with the Trust Deed, for new units to be issued as part payment of
+         base fees to the Manager.
+
+     2. There were no convertibles, treasury units and units held by MIT and its subsidiaries as at 30 June 2026 and
+         30 June 2025.
+
+2.13 Net Asset Value ("NAV") and Net Tangible Asset (“NTA”) Per Unit
+
+                                                      MIT Group                                     MIT
+                                                30 June       31 March                 30 June            31 March
+                                                 2026           2026                    2026                2026
+       NAV and NTA per unit (S$)1                       1.63                1.63                1.62               1.62
+
+     Notes:
+
+     1. Net tangible asset per unit was the same as net asset value per unit as there were no intangible assets as at
+        the reporting dates. NAV and NTA per unit are computed based on the net asset value and net total asset
+        attributable to unitholders funds divided by the total units in issue and the units to be issued at the end of each
+        reporting period.
+
+2.14 Event occurring after the reporting period
+
+     Subsequent to the reporting period, the Manager announced a distribution of 3.11 cents per unit
+     for the period from 1 April 2026 to 30 June 2026.
+
+
+
+
+                                                                                                                       27
+
+--- PAGE 28 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+3     OTHER INFORMATION
+
+3.1   Review of unaudited condensed interim consolidated financial statements
+
+      The interim consolidated financial position of Mapletree Industrial Trust and its subsidiaries as at
+      30 June 2026 and the related statement of profit or loss, statement of other comprehensive
+      income, distribution statement and statement of cash flows for the three months and financial
+      year ended, statement of financial position of MIT as at 30 June 2026 and explanatory notes have
+      not been audited or reviewed by the auditors.
+
+3.2   Review of performance
+
+      (a) 1QFY26/27 versus 1QFY25/26
+
+      Gross revenue for 1QFY26/27 was S$162.3 million, 7.7% (or S$13.6 million) lower compared to
+      the corresponding quarter last year. The lower gross revenue was mainly attributed to the
+      absence of income from the Singapore Portfolio Divestment in August 2025, the non-renewal of
+      leases in the North American (“NA”) Portfolio and the depreciation of USD and JPY against SGD.
+      The decrease was offset by higher revenue from new leases and renewals from the Singapore
+      (“SG”) Portfolio and completion of the final phase of fitting-out works at the Osaka Data Centre in
+      May 2025.
+
+      Property operating expenses decreased to S$40.0 million, 5.3% (or S$2.2 million) lower than the
+      corresponding quarter last year. This was largely due to the lower property operating expenses
+      with the Singapore Portfolio Divestment, offset by higher property operating expenses from the
+      NA Portfolio. As a result, the net property income for 1QFY26/27 dipped year-on-year by 8.5%
+      (or S$11.3 million) to S$122.3 million.
+
+      Borrowing costs decreased to S$18.5 million, 24.6% (or S$6.0 million) lower compared to the
+      corresponding quarter last year. The decrease is mainly due to the repayment of loans with net
+      proceeds from the Singapore Portfolio Divestment in August 2025, partial effects of temporary
+      loan repayment with proceeds from the issuance of perpetual securities in March 2026 and lower
+      interest on unhedged floating rate loans, offset by impact of higher interest cost on repricing of
+      matured interest rate swaps.
+
+      Cash distribution declared by joint venture was S$5.9 million, 7.5% (or S$0.4 million) higher
+      compared to 1QFY25/26 mainly due to higher revenue from rental escalation across various
+      properties and lower taxes offset by higher interest costs from the repricing of matured interest
+      rate swaps.
+
+      After taking into account the distribution adjustments and higher distributions to perpetual
+      securities’ holder, distribution to Unitholders in 1QFY26/27 was S$88.8 million, 4.8% (or S$4.5
+      million) lower than the corresponding quarter last year due to lower operational cash NPI offset
+      by lower borrowing cost.
+
+      Accordingly, distribution per unit (“DPU”) for 1QFY26/27 was 3.11 cents, 4.9% lower than 3.27
+      cents in 1QFY25/26.
+
+
+
+
+                                                                                                       28
+
+--- PAGE 29 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+3.2   Review of performance (continued)
+
+      (b) 1QFY26/27 versus 4QFY25/26
+                                                      1Q             4Q
+                                                    FY26/27        FY25/26        Variance
+                                                    (S$’000)       (S$’000)          %
+
+      Gross revenue                                    162,307        163,759          (0.9)
+      Property operating expenses                      (40,032)       (43,897)         (8.8)
+      Net property income                              122,275        119,862            2.0
+      Interest income                                       167            203        (17.7)
+      Borrowing costs                                  (18,500)       (18,723)         (1.2)
+      Manager's management fees
+      - Base fees                                       (9,301)        (9,456)         (1.6)
+      - Performance fees                                (4,366)        (4,370)         (0.1)
+      Trustee's fees                                      (236)          (236)             -
+      Other trust expenses                              (1,215)          (778)          56.2
+      Net foreign exchange gain                              43          5,024        (99.1)
+      Net change in fair value of financial
+                                                          (159)          (875)        (81.8)
+         derivatives
+      Net change in fair value of investment
+                                                               -     (134,505)       (100.0)
+         properties
+      Loss on divestment of investment property,
+                                                          (174)               -           **
+         net of divestment cost
+      Share of profit of a joint venture                  5,953          7,635        (22.0)
+      Profit/(Loss) for the period before tax           94,487        (36,219)            **
+      Income tax expense                                (3,504)       (26,125)        (86.6)
+       - Current income tax                               (319)        (1,715)        (81.4)
+       - Deferred tax                                   (3,185)       (24,410)        (87.0)
+      Profit/(Loss) for the period                      90,983        (62,344)            **
+
+
+      Attributable to:
+      Unitholders                                       87,465        (65,457)           **
+      Perpetual securities holders                       3,466           3,078         12.6
+      Non-controlling interest                              52              35         48.6
+      Profit/(Loss) for the period                      90,983        (62,344)           **
+
+      Profit for the period attributable to
+                                                        87,465        (65,457)            **
+        Unitholders
+      Net effects of chargeable items and other
+                                                        (4,528)       147,987             **
+        adjustments
+      Cash distribution declared by joint venture        5,854          5,664           3.4
+      Amount available for distribution to
+                                                        88,791         88,194           0.7
+       Unitholders
+      Distribution per unit (cents)                       3.11           3.09           0.6
+       ** Not meaningful
+
+
+
+
+                                                                                             29
+
+--- PAGE 30 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+3.2   Review of performance (continued)
+
+      (c) 1QFY26/27 versus 4QFY25/26 (continued)
+
+      Gross revenue for 1QFY26/27 was S$162.3 million, 0.9% (or S$1.5 million) lower compared to
+      4QFY25/26 mainly due to the non-renewal of leases from the NA Portfolio, offset by new and
+      renewal leases at the SG Portfolio.
+
+      The property operating expenses were S$40.0 million, 8.8% (or S$3.9 million) lower than
+      4QFY25/26, primarily due to lower property maintenance costs with the absence of cyclical repair
+      and maintenance works. Correspondingly, net property income for 1QFY26/27 increased by 2.0%
+      (or S$2.4 million) to S$122.3 million.
+
+      Borrowing costs decreased marginally by 1.2% (or S$0.2 million) to S$18.5 million in 1QFY26/27.
+      The decrease is largely attributed to interest savings from repayment of loans offset by higher
+      interest expense from matured interest rate swaps which were locked in at lower rates.
+
+      Cash distribution declared by joint venture in 1QFY26/27 was S$5.9 million, 3.4% (or S$0.2 million)
+      higher compared to 4QFY25/26, mainly due to lower taxes.
+
+      After taking into account the distribution adjustments, distribution to Unitholders in 1QFY26/27
+      was S$88.8 million, 0.7% (or S$0.6 million) higher than 4QFY25/26. Distribution per unit for
+      1QFY26/27 was 3.11 cents, 0.6% higher than 3.09 cents in 4QFY25/26.
+
+      (c) Statement of Financial Position
+
+      30 June 2026 versus 31 March 2026
+
+      Total assets decreased marginally by S$1.6 million to S$7,937.0 million as at 30 June 2026
+      mainly due to divestment of a property in North America in June 2026, offset by an appreciation
+      of USD against SGD, additional costs capitalised into investment properties largely at North
+      America Portfolio and the increase in the fair value of derivative financial assets.
+
+      Total liabilities increased by 10.9% (or S$292.5 million) to S$2,985.1 million mainly due to
+      borrowings drawn down for the redemption of Series 002 Perpetual Securities in May 2026.
+
+      Correspondingly, net assets decreased by 5.6% from S$5,246.0 million as at 31 March 2026 to
+      S$4,951.9 million as at 30 June 2026. Net assets per unit remained at S$1.63 as at 30 June 2026.
+
+      MIT reported a net current liabilities position as at 30 June 2026 mainly due to the reclassification
+      of non-current borrowings which will mature within a year from reporting date. The Group has
+      sufficient banking facilities available to refinance the remaining current borrowings and meet its
+      current obligations as and when they fall due.
+
+
+3.3   Variance from Previous Forecast / Prospect Statement
+
+      MIT has not disclosed any financial forecast.
+
+
+
+
+                                                                                                       30
+
+--- PAGE 31 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+3.4     Commentary on the competitive conditions of the industry in which the group operates
+        and any known factors or events that may affect the group in the next reporting and the
+        next 12 months
+
+        The conflict in the Middle East had triggered sharp increases in energy prices, renewed
+        inflationary pressures and fuelled expectations of tighter monetary policy. Global growth is
+        projected to slow from 2.9% in 2025 to 2.5% in 2026, the lowest rate since the COVID-19
+        pandemic, amid weaker prospects for economies dependent on energy imports and those directly
+        affected by the conflict in the Middle East 1 . Intensifying downside risks, such as a renewed
+        escalation of hostilities, prolonged disruptions to flows of energy and other commodity supplies
+        and persistent trade policy uncertainty dominate the outlook.
+
+        Singapore and Japan Portfolio would continue to underpin the stability of MIT. As noted previously,
+        the confirmed non-renewal of leases within the North American Portfolio in FY26/27 and higher
+        borrowing cost from the repricing of maturing interest rate swaps, which were previously locked
+        in at lower rates, are expected to affect MIT’s business performance in the near term.
+
+        The Manager will continue its leasing efforts to improve occupancies, particularly in North
+        America. Active lease management, cost containment and prudent capital management remain
+        as the Manager’s focus to balance the risks and costs in the uncertain macroeconomic
+        environment. The Manager will undertake targeted divestments of S$500 million to S$600 million
+        in North America to enhance MIT’s financial flexibility and redeploy capital into assets that can
+        provide sustainable growth. The Manager will continue to explore opportunities in both data
+        centre and broader industrial sectors.
+
+        Singapore
+
+        The Ministry of Trade and Industry had maintained Singapore’s GDP growth forecast for 2026 at
+        “2.0 to 4.0%” 2 in view of the better-than-expected performance of the Singapore economy in the
+        first quarter, although downside risks had risen significantly as a result of the Middle Eastern
+        conflict. Singapore’s external demand outlook for the year had weakened compared to the
+        assessment in February 2026, as global economic outlook deteriorated with the onset of the
+        conflict. Disruptions to the supply of energy and other key inputs such as fertiliser and aluminium
+        had driven up inflationary pressures, and was expected to weigh on global economic activity for
+        the rest of the year. Nonetheless, AI-related demand has remained robust and should continue
+        to support the growth of regional economies throughout the year.
+
+        According to advance estimates from the Ministry of Trade and Industry on 14 July 2026 3 the
+        Singapore economy grew by 5.7% year-on-year (“Y-o-Y”) in the second quarter of 2026
+        (“2Q2026”), easing from the 6.3% growth in the previous quarter. The manufacturing sector grew
+        robustly by 12.2% Y-o-Y in 2Q2026, accelerating from the 8.0% expansion in the previous quarter.
+        Growth during the quarter was largely driven by output increases in the electronics and precision
+        engineering clusters on account of strong AI-related demand for semiconductors and
+        semiconductor manufacturing equipment respectively.
+
+
+
+
+1 World Bank Group, Global Economic Prospects, June 2026.
+2 Ministry of Trade and Industry, MTI Maintains 2026 GDP Growth Forecast at “2.0 to 4.0 Per Cent”, 25 May 2026.
+3 Ministry of Trade and Industry, Singapore’s GDP Grew by 5.7 Per Cent in the Second Quarter of 2026, 14 July 2026.
+
+
+
+                                                                                                                      31
+
+--- PAGE 32 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+
+3.4     Commentary on the competitive conditions of the industry in which the group operates
+        and any known factors or events that may affect the group in the next reporting and the
+        next 12 months (continued)
+
+       North America
+
+       According to CBRE 4 , data centre capacity across the four largest markets in North America
+       (Northern Virginia, Atlanta, Dallas and Chicago) increased by 33% YoY in Q1 2026. While growth
+       slowed down from 43% a year ago, overall vacancy fell to 0.9% across the four largest markets,
+       mainly driven by AI startups, neoclouds and hyperscalers.
+
+       While power availability remains a major constraint to data centre development, utilities
+       companies, such as Dominion Energy in Northern Virginia have been investing in transmission
+       infrastructure to support demand. Meanwhile, local opposition to new data centre development
+       and zoning challenges are increasingly having an impact on delivery timelines, pushing
+       developers to consider projects in secondary markets.
+
+       Japan
+
+       According to CBRE 5 , Japan's data centre market continues to expand, supported by robust
+       demand from cloud service providers and hyperscalers. Greater Tokyo is the largest data centre
+       market in Asia Pacific, with 1,086 megawatts (“MW”) of live capacity as at end of March 2026,
+       while Greater Osaka continues to see increasing development activity due to comparatively better
+       power availability. Hyperscale demand has expanded steadily over the past three years and now
+       accounts for approximately 60 – 70% of total capacity demand.
+
+       CBRE notes that occupancy levels across both new and stabilised assets remain high, with new
+       supply in Greater Tokyo in 2025 being largely pre-leased. Power constraints in Greater Tokyo
+       continue to limit new supply, resulting in more operators with large-scale requirements (200 –
+       300MW) considering locations outside traditional data centre clusters.
+
+
+3.5     Distributions
+
+        (a) Current financial period
+
+              Any distributions declared for the current financial period?         Yes
+
+              Name of distribution:          66th distribution for the period from 1 April 2026 to 30 June 2026
+
+              Distribution types:            Income / Capital / Tax-exempt income
+
+              Distribution rate:             Period from 1 April 2026 to 30 June 2026
+                                             Taxable Income: 2.30 cents per unit
+                                             Tax-exempt Income: 0.26 cent per unit
+                                             Capital Distribution: 0.55 cent per unit
+
+              Par value of units:            Not applicable
+
+
+
+
+4 Global Data Center Trends June 2026.
+5 CBRE: Asia Pacific Data Centre Trends & Outlook, May 2026.
+
+
+
+                                                                                                              32
+
+--- PAGE 33 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+3.5   Distributions (continued)
+
+      (a) Current financial period (continued)
+
+          Tax rate:                Taxable Income Distribution
+                                   Qualifying investors and individuals (other than those who hold their
+                                   units through a partnership) will generally receive pre-tax
+                                   distributions. These distributions are exempt from tax in the hands
+                                   of individuals unless such distributions are derived through a
+                                   Singapore partnership or from the carrying on of a trade, business
+                                   or profession.
+
+                                   Qualifying non-resident non-individual investors and qualifying non-
+                                   resident funds will receive their distributions after deduction of tax
+                                   at the rate of 10%.
+
+                                   All other investors will receive their distributions after deduction of
+                                   tax at the rate of 17%.
+
+                                   Capital Distribution
+                                   Capital Distribution represents a return of capital to Unitholders for
+                                   Singapore income tax purposes. The amount of capital distribution
+                                   will reduce the cost of MIT Units for Singapore income tax purposes.
+                                   For Unitholders who are liable to Singapore income tax on profits
+                                   from sale of MIT Units, the reduced cost base of their MIT Units will
+                                   be used to calculate the taxable trading gains when the MIT Units
+                                   are disposed of.
+
+                                   Tax-Exempt Income Distribution
+                                   Tax-Exempt Income Distribution is exempt from tax in the hands of
+                                   all Unitholders.
+
+       (b) Corresponding period of the preceding financial period
+
+           Any distributions declared for the corresponding period of the immediate preceding financial
+           period?                  Yes
+
+           Name of distribution:   62nd distribution for the period from 1 April 2025 to 30 June 2025
+
+           Distribution types:     Income / Capital / Tax-exempt income
+
+           Distribution rate:      Period from 1 April 2025 to 30 June 2025
+                                   Taxable Income: 2.50 cents per unit
+                                   Tax-exempt Income: 0.21 cent per unit
+                                   Capital Distribution: 0.56 cent per unit
+
+           Par value of units:     Not applicable
+
+
+
+
+                                                                                                       33
+
+--- PAGE 34 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+3.5   Distributions (continued)
+
+       (b) Corresponding period of the preceding financial period (continued)
+
+           Tax rate:              Taxable Income Distribution
+                                  Qualifying investors and individuals (other than those who hold their
+                                  units through a partnership) will generally receive pre-tax
+                                  distributions. These distributions are exempt from tax in the hands
+                                  of individuals unless such distributions are derived through a
+                                  Singapore partnership or from the carrying on of a trade, business
+                                  or profession.
+
+                                  Qualifying non-resident non-individual investors and qualifying non-
+                                  resident funds will receive their distributions after deduction of tax
+                                  at the rate of 10%.
+
+                                  All other investors will receive their distributions after deduction of
+                                  tax at the rate of 17%.
+
+                                  Capital Distribution
+                                  Capital Distribution represents a return of capital to Unitholders for
+                                  Singapore income tax purposes. The amount of capital distribution
+                                  will reduce the cost of MIT Units for Singapore income tax purposes.
+                                  For Unitholders who are liable to Singapore income tax on profits
+                                  from sale of MIT Units, the reduced cost base of their MIT Units will
+                                  be used to calculate the taxable trading gains when the MIT Units
+                                  are disposed of.
+
+                                  Tax-Exempt Income Distribution
+                                  Tax-Exempt Income Distribution is exempt from tax in the hands of
+                                  all Unitholders.
+
+
+       (c) Date payable:          7 September 2026
+
+       (d) Record date:           31 July 2026
+
+
+3.6   If the Group has obtained a general mandate from shareholders for Interested Person
+      Transactions (“IPT”), the aggregate value of each transaction as required under Rule
+      920(1)(a)(ii). If no IPT mandate has been obtained, a statement to that effect.
+
+      MIT Group has not obtained a general mandate from Unitholders for any Interested Person
+      Transactions.
+
+3.7   Confirmation pursuant to Rule 720(1) of the Listing Manual
+
+      The Manager confirms that it has procured undertakings from all its directors and executive
+      officers, in the form set out in Appendix 7.7 under Rule 720(1) of the Listing Manual.
+
+
+
+
+                                                                                                      34
+
+--- PAGE 35 ---
+MAPLETREE INDUSTRIAL TRUST UNAUDITED CONDENSED INTERIM FINANCIAL STATEMENTS
+AND DISTRIBUTION ANNOUNCEMENT FOR THE FINANCIAL PERIOD FROM 1 APRIL 2026 TO 30
+JUNE 2026
+
+
+3.8   Confirmation by the Board
+
+      The Board of Directors of the Manager has confirmed that, to the best of their knowledge, nothing
+      has come to their attention which may render these financial results to be false or misleading in
+      any material respect.
+
+
+
+       This release may contain forward-looking statements that involve risks and uncertainties.
+       Future performance, outcomes and results may differ materially from those expressed in
+       forward-looking statements as a result of a number of risks, uncertainties and assumptions.
+       Representative examples of these factors include (without limitation) general industry and
+       economic conditions, interest rate trends, cost of capital and capital availability, competition
+       from other companies and venues for the sale/ distribution of goods and services, shifts in
+       customer demands, customers and partners, changes in operating expenses, including
+       employees’ wages, benefits and training, governmental and public policy changes and the
+       continued availability of financing in the amounts and the terms necessary to support future
+       business. You are cautioned not to place undue reliance on these forward-looking statements,
+       which are based on current view of management of future events.
+
+
+      By Order of the Board
+
+      Wan Kwong Weng
+      Joint Company Secretary
+      Mapletree Industrial Trust Management Ltd.
+      (Company Registration No. 201015667D)
+      As Manager of Mapletree Industrial Trust
+
+      23 July 2026
+
+
+
+
+                                                                                                     35

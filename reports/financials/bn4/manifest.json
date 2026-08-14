@@ -1,0 +1,202 @@
+{
+  "schema_version": 2,
+  "updated_at": "2026-08-14T16:18:38.253662+08:00",
+  "queried_date_range": {
+    "from_date": "2021-08-14",
+    "to_date": "2026-08-14"
+  },
+  "last_collection": {
+    "status": "success",
+    "symbol": "BN4",
+    "from_date": "2021-08-14",
+    "to_date": "2026-08-14",
+    "announcements_found": 6,
+    "announcements_downloaded": 6,
+    "attachments_downloaded": 6,
+    "skipped_existing": 0,
+    "requests_attempted": 7,
+    "failures": 0,
+    "filter_mismatch": false,
+    "manifest": "reports/financials/bn4/manifest.json",
+    "failure_log": "reports/financials/bn4/failures.jsonl",
+    "requested_from_date": "2021-08-14",
+    "requested_to_date": "2026-08-14",
+    "completed_at": "2026-08-14T16:18:38.247509+08:00"
+  },
+  "records": [
+    {
+      "symbol": "BN4",
+      "source_id": "GUC8RK99Y44BG67E",
+      "title": "Financial Statements and Related Announcement::Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2026-07-30",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/GUC8RK99Y44BG67E/",
+      "attachments": [
+        {
+          "name": "1. MREL_Keppel Ltd. 1H2026 Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/GUC8RK99Y44BG67E/897861_1.%20MREL_Keppel%20Ltd.%201H2026%20Financial%20Statements.pdf",
+          "url": "reports/financials/bn4/2026/01-897861_1. MREL_Keppel Ltd. 1H2026 Financial Statements.pdf",
+          "local_path": "reports/financials/bn4/2026/01-897861_1. MREL_Keppel Ltd. 1H2026 Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1090432,
+          "sha256": "f6f4d997ca9a9f386d6c3ffe4efa5d89fcb3d30d383574ddb71e1501655a3dc5",
+          "retrieved_at": "2026-08-14T08:18:19.846638+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/bn4/2026/01-897861_1. MREL_Keppel Ltd. 1H2026 Financial Statements.txt",
+            "page_count": 55,
+            "pages_with_text": 55,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:18:21.113146+08:00"
+    },
+    {
+      "symbol": "BN4",
+      "source_id": "GL98J6NZZ09CQKJN",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2026-02-05",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/GL98J6NZZ09CQKJN/",
+      "attachments": [
+        {
+          "name": "MREL_1. Keppel Ltd. 2H25 and FY25 Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/GL98J6NZZ09CQKJN/874191_MREL_1.%20Keppel%20Ltd.%202H25%20and%20FY25%20Financial%20Statements.pdf",
+          "url": "reports/financials/bn4/2026/01-874191_MREL_1. Keppel Ltd. 2H25 and FY25 Financial Statements.pdf",
+          "local_path": "reports/financials/bn4/2026/01-874191_MREL_1. Keppel Ltd. 2H25 and FY25 Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 742680,
+          "sha256": "cf10b7b86f37953b71dd4554d952f9df9d41f0c14b8adb0dad774e7665ec1397",
+          "retrieved_at": "2026-08-14T08:18:23.044664+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/bn4/2026/01-874191_MREL_1. Keppel Ltd. 2H25 and FY25 Financial Statements.txt",
+            "page_count": 66,
+            "pages_with_text": 66,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:18:23.970697+08:00"
+    },
+    {
+      "symbol": "BN4",
+      "source_id": "5BNS44EJA3VFLV5R",
+      "title": "Financial Statements and Related Announcement::Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2025-07-31",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/5BNS44EJA3VFLV5R/",
+      "attachments": [
+        {
+          "name": "MREL_1. Keppel Ltd. 1H25 Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/5BNS44EJA3VFLV5R/853806_MREL_1.%20Keppel%20Ltd.%201H25%20Financial%20Statements.pdf",
+          "url": "reports/financials/bn4/2025/01-853806_MREL_1. Keppel Ltd. 1H25 Financial Statements.pdf",
+          "local_path": "reports/financials/bn4/2025/01-853806_MREL_1. Keppel Ltd. 1H25 Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1164960,
+          "sha256": "13339f330092f5aff9b3ae4fef86237b5b81119687f6a0a0b5efdce337e23a8c",
+          "retrieved_at": "2026-08-14T08:18:26.310970+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/bn4/2025/01-853806_MREL_1. Keppel Ltd. 1H25 Financial Statements.txt",
+            "page_count": 52,
+            "pages_with_text": 51,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:18:27.573586+08:00"
+    },
+    {
+      "symbol": "BN4",
+      "source_id": "2E01WTMGE8ALI60P",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2025-02-05",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/2E01WTMGE8ALI60P/",
+      "attachments": [
+        {
+          "name": "MREL_1. Keppel Ltd. 2H24 and FY24 Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/2E01WTMGE8ALI60P/832182_MREL_1.%20Keppel%20Ltd.%202H24%20and%20FY24%20Financial%20Statements.pdf",
+          "url": "reports/financials/bn4/2025/01-832182_MREL_1. Keppel Ltd. 2H24 and FY24 Financial Statements.pdf",
+          "local_path": "reports/financials/bn4/2025/01-832182_MREL_1. Keppel Ltd. 2H24 and FY24 Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 910604,
+          "sha256": "255d6f94ccfb285c92d8c6676c0ac83cffbdb0dcf314053803b24af2b8912802",
+          "retrieved_at": "2026-08-14T08:18:29.466077+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/bn4/2025/01-832182_MREL_1. Keppel Ltd. 2H24 and FY24 Financial Statements.txt",
+            "page_count": 61,
+            "pages_with_text": 61,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:18:30.601308+08:00"
+    },
+    {
+      "symbol": "BN4",
+      "source_id": "AFJMUUPR7Z14WQ0B",
+      "title": "Financial Statements and Related Announcement::Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2024-08-01",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/AFJMUUPR7Z14WQ0B/",
+      "attachments": [
+        {
+          "name": "MREL_1. Keppel Ltd. 1H24 Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/AFJMUUPR7Z14WQ0B/813826_MREL_1.%20Keppel%20Ltd.%201H24%20Financial%20Statements.pdf",
+          "url": "reports/financials/bn4/2024/01-813826_MREL_1. Keppel Ltd. 1H24 Financial Statements.pdf",
+          "local_path": "reports/financials/bn4/2024/01-813826_MREL_1. Keppel Ltd. 1H24 Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 888623,
+          "sha256": "4ab60ab21ce1c66c97a7bb52787e108c93af90546039ee8c7a4bb4479fa1a5f2",
+          "retrieved_at": "2026-08-14T08:18:32.899021+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/bn4/2024/01-813826_MREL_1. Keppel Ltd. 1H24 Financial Statements.txt",
+            "page_count": 50,
+            "pages_with_text": 50,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:18:33.819757+08:00"
+    },
+    {
+      "symbol": "BN4",
+      "source_id": "AD5ZWAF3BKLHT99W",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2024-02-01",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/AD5ZWAF3BKLHT99W/",
+      "attachments": [
+        {
+          "name": "MREL_1. Keppel Ltd. 2H23 _ FY23 Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/AD5ZWAF3BKLHT99W/785521_MREL_1.%20Keppel%20Ltd.%202H23%20_%20FY23%20Financial%20Statements.pdf",
+          "url": "reports/financials/bn4/2024/01-785521_MREL_1. Keppel Ltd. 2H23 _ FY23 Financial Statements.pdf",
+          "local_path": "reports/financials/bn4/2024/01-785521_MREL_1. Keppel Ltd. 2H23 _ FY23 Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1854541,
+          "sha256": "99583e1534ae02248be033b890d883a9c00729b02a3c2c45b7cfeecfd12be35f",
+          "retrieved_at": "2026-08-14T08:18:35.789383+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/bn4/2024/01-785521_MREL_1. Keppel Ltd. 2H23 _ FY23 Financial Statements.txt",
+            "page_count": 64,
+            "pages_with_text": 64,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:18:37.136693+08:00"
+    }
+  ]
+}

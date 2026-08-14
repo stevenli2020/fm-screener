@@ -1,0 +1,2130 @@
+{
+  "schema_version": 2,
+  "updated_at": "2026-08-14T19:42:15.820771+08:00",
+  "queried_date_range": {
+    "from_date": "2021-08-14",
+    "to_date": "2026-08-14"
+  },
+  "last_collection": {
+    "status": "success",
+    "symbol": "Z74",
+    "from_date": "2021-08-14",
+    "to_date": "2026-08-14",
+    "announcements_found": 11,
+    "announcements_downloaded": 11,
+    "attachments_downloaded": 55,
+    "attachments_archived": 22,
+    "primary_financial_statements": 11,
+    "supplementary_financial_analysis": 11,
+    "rejected_non_reports": 33,
+    "needs_review": 0,
+    "announcements_without_attachments": 0,
+    "skipped_existing": 0,
+    "requests_attempted": 12,
+    "failures": 0,
+    "filter_mismatch": false,
+    "manifest": "reports/financials/z74/manifest.json",
+    "failure_log": "reports/financials/z74/failures.jsonl",
+    "requested_from_date": "2021-08-14",
+    "requested_to_date": "2026-08-14",
+    "completed_at": "2026-08-14T19:42:15.817802+08:00"
+  },
+  "records": [
+    {
+      "symbol": "Z74",
+      "source_id": "7DAX544PTU347WL1",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2026-05-21",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/7DAX544PTU347WL1/",
+      "attachments": [
+        {
+          "name": "FY26-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/7DAX544PTU347WL1/889649_FY26-CCIFS.pdf",
+          "url": "reports/financials/z74/2026/2026-05-21_7DAX544PTU347WL1_01-889649_FY26-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2026/2026-05-21_7DAX544PTU347WL1_01-889649_FY26-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 437716,
+          "sha256": "6c43eb9953fd97bd6a3af7ac42e6d2bc3f5433180f74a1e933bc51b9112fc149",
+          "retrieved_at": "2026-08-14T11:40:38.825715+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2026/2026-05-21_7DAX544PTU347WL1_01-889649_FY26-CCIFS.txt",
+            "page_count": 47,
+            "pages_with_text": 47,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "FY26-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/7DAX544PTU347WL1/889652_FY26-MDA.pdf",
+          "url": "reports/financials/z74/2026/2026-05-21_7DAX544PTU347WL1_04-889652_FY26-MDA.pdf",
+          "local_path": "reports/financials/z74/2026/2026-05-21_7DAX544PTU347WL1_04-889652_FY26-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 702333,
+          "sha256": "468ebc36c8958ae0327bc2310ab7a60a30584c7d4e0c78bbb6f67d6cead44141",
+          "retrieved_at": "2026-08-14T11:40:42.098619+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2026/2026-05-21_7DAX544PTU347WL1_04-889652_FY26-MDA.txt",
+            "page_count": 55,
+            "pages_with_text": 55,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "FY26-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/7DAX544PTU347WL1/889649_FY26-CCIFS.pdf",
+          "url": "reports/financials/z74/2026/2026-05-21_7DAX544PTU347WL1_01-889649_FY26-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2026/2026-05-21_7DAX544PTU347WL1_01-889649_FY26-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 437716,
+          "sha256": "6c43eb9953fd97bd6a3af7ac42e6d2bc3f5433180f74a1e933bc51b9112fc149",
+          "retrieved_at": "2026-08-14T11:40:38.825715+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2026/2026-05-21_7DAX544PTU347WL1_01-889649_FY26-CCIFS.txt",
+            "page_count": 47,
+            "pages_with_text": 47,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "FY26-NR-Singtel.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/7DAX544PTU347WL1/889650_FY26-NR-Singtel.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/7DAX544PTU347WL1/889650_FY26-NR-Singtel.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 349930,
+          "sha256": "955d1d2312ced3ffd152678a77297cfa99fd1328d5c3d0cdde6e52896afb768d",
+          "retrieved_at": "2026-08-14T11:40:39.995420+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 6,
+            "pages_with_text": 6,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "news_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "FY26-MR-Optus.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/7DAX544PTU347WL1/889651_FY26-MR-Optus.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/7DAX544PTU347WL1/889651_FY26-MR-Optus.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 111494,
+          "sha256": "abecc972cd2aa085febf45e6ec4bc506adb3b2ca99285e2f2dd1bae710705c0e",
+          "retrieved_at": "2026-08-14T11:40:40.860232+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 4,
+            "pages_with_text": 4,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "media_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "FY26-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/7DAX544PTU347WL1/889652_FY26-MDA.pdf",
+          "url": "reports/financials/z74/2026/2026-05-21_7DAX544PTU347WL1_04-889652_FY26-MDA.pdf",
+          "local_path": "reports/financials/z74/2026/2026-05-21_7DAX544PTU347WL1_04-889652_FY26-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 702333,
+          "sha256": "468ebc36c8958ae0327bc2310ab7a60a30584c7d4e0c78bbb6f67d6cead44141",
+          "retrieved_at": "2026-08-14T11:40:42.098619+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2026/2026-05-21_7DAX544PTU347WL1_04-889652_FY26-MDA.txt",
+            "page_count": 55,
+            "pages_with_text": 55,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        },
+        {
+          "name": "FY26 slides.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/7DAX544PTU347WL1/889653_FY26%20slides.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/7DAX544PTU347WL1/889653_FY26%20slides.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 4662076,
+          "sha256": "4cd7a4ebac941145af73d8db81c8ed12f9af6693d6c752e199e9dde2261c050d",
+          "retrieved_at": "2026-08-14T11:40:44.976177+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 28,
+            "pages_with_text": 28,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "results_presentation"
+          ],
+          "reason": "Document identifies itself as a presentation or slide deck",
+          "retained": false
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:40:45.833150+08:00"
+    },
+    {
+      "symbol": "Z74",
+      "source_id": "BPQU81DZASZ5ODQ0",
+      "title": "Financial Statements and Related Announcement::Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2025-11-12",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/BPQU81DZASZ5ODQ0/",
+      "attachments": [
+        {
+          "name": "3. H1FY26-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/BPQU81DZASZ5ODQ0/866670_3.%20H1FY26-MDA.pdf",
+          "url": "reports/financials/z74/2025/2025-11-12_BPQU81DZASZ5ODQ0_03-866670_3. H1FY26-MDA.pdf",
+          "local_path": "reports/financials/z74/2025/2025-11-12_BPQU81DZASZ5ODQ0_03-866670_3. H1FY26-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 488306,
+          "sha256": "02dd05bc65045a834a2190da2fc0c99b91cb432629ab7377de895632ae271bfa",
+          "retrieved_at": "2026-08-14T11:40:49.401336+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2025/2025-11-12_BPQU81DZASZ5ODQ0_03-866670_3. H1FY26-MDA.txt",
+            "page_count": 54,
+            "pages_with_text": 54,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        },
+        {
+          "name": "4. H1FY26-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/BPQU81DZASZ5ODQ0/866671_4.%20H1FY26-CCIFS.pdf",
+          "url": "reports/financials/z74/2025/2025-11-12_BPQU81DZASZ5ODQ0_04-866671_4. H1FY26-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2025/2025-11-12_BPQU81DZASZ5ODQ0_04-866671_4. H1FY26-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 320764,
+          "sha256": "49601b3711caff00ce6fb1cb9cb99464adc320edb2ad40542e259a9e0c4d2798",
+          "retrieved_at": "2026-08-14T11:40:50.712934+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2025/2025-11-12_BPQU81DZASZ5ODQ0_04-866671_4. H1FY26-CCIFS.txt",
+            "page_count": 35,
+            "pages_with_text": 35,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "1. H1FY26-NR-Singtel.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/BPQU81DZASZ5ODQ0/866668_1.%20H1FY26-NR-Singtel.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/BPQU81DZASZ5ODQ0/866668_1.%20H1FY26-NR-Singtel.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 154103,
+          "sha256": "0cb0d8ad0c5966051cae30adecb55334595e293eb9abdd266abf0de8c7075bc0",
+          "retrieved_at": "2026-08-14T11:40:47.504693+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 5,
+            "pages_with_text": 5,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "news_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "2. H1FY26-MS Optus.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/BPQU81DZASZ5ODQ0/866669_2.%20H1FY26-MS%20Optus.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/BPQU81DZASZ5ODQ0/866669_2.%20H1FY26-MS%20Optus.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 323785,
+          "sha256": "11d8b190db4bbc95658641a681d1ea7487fa6e1d013eb7aadcbad3c170611b04",
+          "retrieved_at": "2026-08-14T11:40:48.482276+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 3,
+            "pages_with_text": 1,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "medium",
+          "signals": [
+            "release_filename"
+          ],
+          "reason": "Filename indicates release/presentation and core statement content is absent",
+          "retained": false
+        },
+        {
+          "name": "3. H1FY26-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/BPQU81DZASZ5ODQ0/866670_3.%20H1FY26-MDA.pdf",
+          "url": "reports/financials/z74/2025/2025-11-12_BPQU81DZASZ5ODQ0_03-866670_3. H1FY26-MDA.pdf",
+          "local_path": "reports/financials/z74/2025/2025-11-12_BPQU81DZASZ5ODQ0_03-866670_3. H1FY26-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 488306,
+          "sha256": "02dd05bc65045a834a2190da2fc0c99b91cb432629ab7377de895632ae271bfa",
+          "retrieved_at": "2026-08-14T11:40:49.401336+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2025/2025-11-12_BPQU81DZASZ5ODQ0_03-866670_3. H1FY26-MDA.txt",
+            "page_count": 54,
+            "pages_with_text": 54,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        },
+        {
+          "name": "4. H1FY26-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/BPQU81DZASZ5ODQ0/866671_4.%20H1FY26-CCIFS.pdf",
+          "url": "reports/financials/z74/2025/2025-11-12_BPQU81DZASZ5ODQ0_04-866671_4. H1FY26-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2025/2025-11-12_BPQU81DZASZ5ODQ0_04-866671_4. H1FY26-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 320764,
+          "sha256": "49601b3711caff00ce6fb1cb9cb99464adc320edb2ad40542e259a9e0c4d2798",
+          "retrieved_at": "2026-08-14T11:40:50.712934+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2025/2025-11-12_BPQU81DZASZ5ODQ0_04-866671_4. H1FY26-CCIFS.txt",
+            "page_count": 35,
+            "pages_with_text": 35,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "5. H1FY26-slides.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/BPQU81DZASZ5ODQ0/866672_5.%20H1FY26-slides.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/BPQU81DZASZ5ODQ0/866672_5.%20H1FY26-slides.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1583287,
+          "sha256": "3de55bec0480b85856f36c04edeab5267a440b75bfb6731f04f205a58c2d351d",
+          "retrieved_at": "2026-08-14T11:40:52.139174+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 15,
+            "pages_with_text": 15,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "results_presentation"
+          ],
+          "reason": "Document identifies itself as a presentation or slide deck",
+          "retained": false
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:40:52.695569+08:00"
+    },
+    {
+      "symbol": "Z74",
+      "source_id": "E338G2QBE46MMW9R",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2025-05-22",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/E338G2QBE46MMW9R/",
+      "attachments": [
+        {
+          "name": "FY25-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/E338G2QBE46MMW9R/846363_FY25-CCIFS.pdf",
+          "url": "reports/financials/z74/2025/2025-05-22_E338G2QBE46MMW9R_01-846363_FY25-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2025/2025-05-22_E338G2QBE46MMW9R_01-846363_FY25-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 407953,
+          "sha256": "7554bb822d7de0d0c32cede208dc740d5c08e7ab6486007db49f16963c343635",
+          "retrieved_at": "2026-08-14T11:40:54.396101+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2025/2025-05-22_E338G2QBE46MMW9R_01-846363_FY25-CCIFS.txt",
+            "page_count": 46,
+            "pages_with_text": 46,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "FY25-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/E338G2QBE46MMW9R/846366_FY25-MDA.pdf",
+          "url": "reports/financials/z74/2025/2025-05-22_E338G2QBE46MMW9R_04-846366_FY25-MDA.pdf",
+          "local_path": "reports/financials/z74/2025/2025-05-22_E338G2QBE46MMW9R_04-846366_FY25-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 514758,
+          "sha256": "94ca9797343389cb1b40ed3052d0016df479056a067a9b473b2891669fea7913",
+          "retrieved_at": "2026-08-14T11:40:57.431707+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2025/2025-05-22_E338G2QBE46MMW9R_04-846366_FY25-MDA.txt",
+            "page_count": 57,
+            "pages_with_text": 57,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "FY25-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/E338G2QBE46MMW9R/846363_FY25-CCIFS.pdf",
+          "url": "reports/financials/z74/2025/2025-05-22_E338G2QBE46MMW9R_01-846363_FY25-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2025/2025-05-22_E338G2QBE46MMW9R_01-846363_FY25-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 407953,
+          "sha256": "7554bb822d7de0d0c32cede208dc740d5c08e7ab6486007db49f16963c343635",
+          "retrieved_at": "2026-08-14T11:40:54.396101+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2025/2025-05-22_E338G2QBE46MMW9R_01-846363_FY25-CCIFS.txt",
+            "page_count": 46,
+            "pages_with_text": 46,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "FY25-NR-Singtel.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/E338G2QBE46MMW9R/846364_FY25-NR-Singtel.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/E338G2QBE46MMW9R/846364_FY25-NR-Singtel.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 186760,
+          "sha256": "dae5c600ce73788f003816e15c49de2d0afc821c2b282c5afdab976e5c323be8",
+          "retrieved_at": "2026-08-14T11:40:55.435547+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 6,
+            "pages_with_text": 6,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "news_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "FY25-MR-Optus.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/E338G2QBE46MMW9R/846365_FY25-MR-Optus.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/E338G2QBE46MMW9R/846365_FY25-MR-Optus.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 345628,
+          "sha256": "a7807cc5bfee21445a575499f8b5b1d856a27f449f3daf30174fff83d57fa4ec",
+          "retrieved_at": "2026-08-14T11:40:56.254154+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 2,
+            "pages_with_text": 0,
+            "quality": "no_extractable_text"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "medium",
+          "signals": [
+            "release_filename",
+            "primary_statement_present_in_same_announcement"
+          ],
+          "reason": "Unreadable attachment has a release/presentation filename and the announcement separately contains a proven primary statement",
+          "retained": false
+        },
+        {
+          "name": "FY25-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/E338G2QBE46MMW9R/846366_FY25-MDA.pdf",
+          "url": "reports/financials/z74/2025/2025-05-22_E338G2QBE46MMW9R_04-846366_FY25-MDA.pdf",
+          "local_path": "reports/financials/z74/2025/2025-05-22_E338G2QBE46MMW9R_04-846366_FY25-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 514758,
+          "sha256": "94ca9797343389cb1b40ed3052d0016df479056a067a9b473b2891669fea7913",
+          "retrieved_at": "2026-08-14T11:40:57.431707+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2025/2025-05-22_E338G2QBE46MMW9R_04-846366_FY25-MDA.txt",
+            "page_count": 57,
+            "pages_with_text": 57,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        },
+        {
+          "name": "FY25-slides.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/E338G2QBE46MMW9R/846367_FY25-slides.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/E338G2QBE46MMW9R/846367_FY25-slides.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 2152853,
+          "sha256": "70c7d9677cdc7b432efe5360557a1872aad0e55a0090641b5e0649e5c78f3f05",
+          "retrieved_at": "2026-08-14T11:40:59.257523+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 25,
+            "pages_with_text": 25,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "results_presentation"
+          ],
+          "reason": "Document identifies itself as a presentation or slide deck",
+          "retained": false
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:41:00.956568+08:00"
+    },
+    {
+      "symbol": "Z74",
+      "source_id": "ZLU1KH45PMP8G6LY",
+      "title": "REPL::Financial Statements and Related Announcement::Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2024-11-13",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/ZLU1KH45PMP8G6LY/",
+      "attachments": [
+        {
+          "name": "Halfyear-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/ZLU1KH45PMP8G6LY/825022_Halfyear-CCIFS.pdf",
+          "url": "reports/financials/z74/2024/2024-11-13_ZLU1KH45PMP8G6LY_01-825022_Halfyear-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2024/2024-11-13_ZLU1KH45PMP8G6LY_01-825022_Halfyear-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 322859,
+          "sha256": "3eece6d9e279349651b854eb8279846be4121dc9773d7db511acf700697cb4b6",
+          "retrieved_at": "2026-08-14T11:41:02.777692+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2024/2024-11-13_ZLU1KH45PMP8G6LY_01-825022_Halfyear-CCIFS.txt",
+            "page_count": 36,
+            "pages_with_text": 36,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/ZLU1KH45PMP8G6LY/825025_Halfyear-MDA.pdf",
+          "url": "reports/financials/z74/2024/2024-11-13_ZLU1KH45PMP8G6LY_04-825025_Halfyear-MDA.pdf",
+          "local_path": "reports/financials/z74/2024/2024-11-13_ZLU1KH45PMP8G6LY_04-825025_Halfyear-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 497129,
+          "sha256": "d5095c1d048cb0ea64bdef7ba05c02873fc2576c56ab1c6927db7aa1a2e12edd",
+          "retrieved_at": "2026-08-14T11:41:06.593687+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2024/2024-11-13_ZLU1KH45PMP8G6LY_04-825025_Halfyear-MDA.txt",
+            "page_count": 55,
+            "pages_with_text": 55,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "Halfyear-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/ZLU1KH45PMP8G6LY/825022_Halfyear-CCIFS.pdf",
+          "url": "reports/financials/z74/2024/2024-11-13_ZLU1KH45PMP8G6LY_01-825022_Halfyear-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2024/2024-11-13_ZLU1KH45PMP8G6LY_01-825022_Halfyear-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 322859,
+          "sha256": "3eece6d9e279349651b854eb8279846be4121dc9773d7db511acf700697cb4b6",
+          "retrieved_at": "2026-08-14T11:41:02.777692+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2024/2024-11-13_ZLU1KH45PMP8G6LY_01-825022_Halfyear-CCIFS.txt",
+            "page_count": 36,
+            "pages_with_text": 36,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-NR-Singtel.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/ZLU1KH45PMP8G6LY/825023_Halfyear-NR-Singtel.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZLU1KH45PMP8G6LY/825023_Halfyear-NR-Singtel.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 170452,
+          "sha256": "6fd7c82141e58ec72b0679a9462d175f899fcba96483f8dcefbb1dce4cad68b8",
+          "retrieved_at": "2026-08-14T11:41:03.949487+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 6,
+            "pages_with_text": 6,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "news_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "Halfyear-MR-Optus.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/ZLU1KH45PMP8G6LY/825024_Halfyear-MR-Optus.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZLU1KH45PMP8G6LY/825024_Halfyear-MR-Optus.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 396755,
+          "sha256": "877ebc1ff5abe870c3156bfb3f999d6563f0d0745ac5a1dbaf9e332cd50812a3",
+          "retrieved_at": "2026-08-14T11:41:05.345429+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 2,
+            "pages_with_text": 2,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "medium",
+          "signals": [
+            "release_filename"
+          ],
+          "reason": "Filename indicates release/presentation and core statement content is absent",
+          "retained": false
+        },
+        {
+          "name": "Halfyear-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/ZLU1KH45PMP8G6LY/825025_Halfyear-MDA.pdf",
+          "url": "reports/financials/z74/2024/2024-11-13_ZLU1KH45PMP8G6LY_04-825025_Halfyear-MDA.pdf",
+          "local_path": "reports/financials/z74/2024/2024-11-13_ZLU1KH45PMP8G6LY_04-825025_Halfyear-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 497129,
+          "sha256": "d5095c1d048cb0ea64bdef7ba05c02873fc2576c56ab1c6927db7aa1a2e12edd",
+          "retrieved_at": "2026-08-14T11:41:06.593687+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2024/2024-11-13_ZLU1KH45PMP8G6LY_04-825025_Halfyear-MDA.txt",
+            "page_count": 55,
+            "pages_with_text": 55,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-Slides-revised.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/ZLU1KH45PMP8G6LY/825026_Halfyear-Slides-revised.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZLU1KH45PMP8G6LY/825026_Halfyear-Slides-revised.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 2360888,
+          "sha256": "70c48c614e08a194cff82b8a484388c9026396b065fbefe853fc14b5c0a4b58c",
+          "retrieved_at": "2026-08-14T11:41:08.834332+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 14,
+            "pages_with_text": 13,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "results_presentation"
+          ],
+          "reason": "Document identifies itself as a presentation or slide deck",
+          "retained": false
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:41:09.469217+08:00"
+    },
+    {
+      "symbol": "Z74",
+      "source_id": "XN4S7TESPM1LC4ZZ",
+      "title": "Financial Statements and Related Announcement::Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2024-11-13",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/XN4S7TESPM1LC4ZZ/",
+      "attachments": [
+        {
+          "name": "Halfyear-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/XN4S7TESPM1LC4ZZ/824991_Halfyear-CCIFS.pdf",
+          "url": "reports/financials/z74/2024/2024-11-13_XN4S7TESPM1LC4ZZ_01-824991_Halfyear-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2024/2024-11-13_XN4S7TESPM1LC4ZZ_01-824991_Halfyear-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 322859,
+          "sha256": "3eece6d9e279349651b854eb8279846be4121dc9773d7db511acf700697cb4b6",
+          "retrieved_at": "2026-08-14T11:41:11.316773+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2024/2024-11-13_XN4S7TESPM1LC4ZZ_01-824991_Halfyear-CCIFS.txt",
+            "page_count": 36,
+            "pages_with_text": 36,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/XN4S7TESPM1LC4ZZ/824994_Halfyear-MDA.pdf",
+          "url": "reports/financials/z74/2024/2024-11-13_XN4S7TESPM1LC4ZZ_04-824994_Halfyear-MDA.pdf",
+          "local_path": "reports/financials/z74/2024/2024-11-13_XN4S7TESPM1LC4ZZ_04-824994_Halfyear-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 497129,
+          "sha256": "d5095c1d048cb0ea64bdef7ba05c02873fc2576c56ab1c6927db7aa1a2e12edd",
+          "retrieved_at": "2026-08-14T11:41:15.215920+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2024/2024-11-13_XN4S7TESPM1LC4ZZ_04-824994_Halfyear-MDA.txt",
+            "page_count": 55,
+            "pages_with_text": 55,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "Halfyear-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/XN4S7TESPM1LC4ZZ/824991_Halfyear-CCIFS.pdf",
+          "url": "reports/financials/z74/2024/2024-11-13_XN4S7TESPM1LC4ZZ_01-824991_Halfyear-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2024/2024-11-13_XN4S7TESPM1LC4ZZ_01-824991_Halfyear-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 322859,
+          "sha256": "3eece6d9e279349651b854eb8279846be4121dc9773d7db511acf700697cb4b6",
+          "retrieved_at": "2026-08-14T11:41:11.316773+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2024/2024-11-13_XN4S7TESPM1LC4ZZ_01-824991_Halfyear-CCIFS.txt",
+            "page_count": 36,
+            "pages_with_text": 36,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-NR-Singtel.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/XN4S7TESPM1LC4ZZ/824992_Halfyear-NR-Singtel.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/XN4S7TESPM1LC4ZZ/824992_Halfyear-NR-Singtel.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 170452,
+          "sha256": "6fd7c82141e58ec72b0679a9462d175f899fcba96483f8dcefbb1dce4cad68b8",
+          "retrieved_at": "2026-08-14T11:41:12.562257+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 6,
+            "pages_with_text": 6,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "news_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "Halfyear-MR-Optus.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/XN4S7TESPM1LC4ZZ/824993_Halfyear-MR-Optus.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/XN4S7TESPM1LC4ZZ/824993_Halfyear-MR-Optus.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 396755,
+          "sha256": "877ebc1ff5abe870c3156bfb3f999d6563f0d0745ac5a1dbaf9e332cd50812a3",
+          "retrieved_at": "2026-08-14T11:41:13.684674+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 2,
+            "pages_with_text": 2,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "medium",
+          "signals": [
+            "release_filename"
+          ],
+          "reason": "Filename indicates release/presentation and core statement content is absent",
+          "retained": false
+        },
+        {
+          "name": "Halfyear-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/XN4S7TESPM1LC4ZZ/824994_Halfyear-MDA.pdf",
+          "url": "reports/financials/z74/2024/2024-11-13_XN4S7TESPM1LC4ZZ_04-824994_Halfyear-MDA.pdf",
+          "local_path": "reports/financials/z74/2024/2024-11-13_XN4S7TESPM1LC4ZZ_04-824994_Halfyear-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 497129,
+          "sha256": "d5095c1d048cb0ea64bdef7ba05c02873fc2576c56ab1c6927db7aa1a2e12edd",
+          "retrieved_at": "2026-08-14T11:41:15.215920+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2024/2024-11-13_XN4S7TESPM1LC4ZZ_04-824994_Halfyear-MDA.txt",
+            "page_count": 55,
+            "pages_with_text": 55,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-Slides.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/XN4S7TESPM1LC4ZZ/824995_Halfyear-Slides.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/XN4S7TESPM1LC4ZZ/824995_Halfyear-Slides.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1959335,
+          "sha256": "983ffaa4aff1970e69cb09c8132ab3c4eb623d422194060158467167f35f8807",
+          "retrieved_at": "2026-08-14T11:41:17.560808+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 14,
+            "pages_with_text": 13,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "results_presentation"
+          ],
+          "reason": "Document identifies itself as a presentation or slide deck",
+          "retained": false
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:41:19.129067+08:00"
+    },
+    {
+      "symbol": "Z74",
+      "source_id": "0EX9U5BZPAMKWJVY",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2024-05-23",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/0EX9U5BZPAMKWJVY/",
+      "attachments": [
+        {
+          "name": "2HFY24-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/0EX9U5BZPAMKWJVY/804229_2HFY24-CCIFS.pdf",
+          "url": "reports/financials/z74/2024/2024-05-23_0EX9U5BZPAMKWJVY_01-804229_2HFY24-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2024/2024-05-23_0EX9U5BZPAMKWJVY_01-804229_2HFY24-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 413148,
+          "sha256": "07966e6c575bc4abed9a93c25c9d09e75e017bb792a2e2a3fbd86ec367c515d5",
+          "retrieved_at": "2026-08-14T11:41:21.218747+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2024/2024-05-23_0EX9U5BZPAMKWJVY_01-804229_2HFY24-CCIFS.txt",
+            "page_count": 49,
+            "pages_with_text": 49,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "2HFY24-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/0EX9U5BZPAMKWJVY/804232_2HFY24-MDA.pdf",
+          "url": "reports/financials/z74/2024/2024-05-23_0EX9U5BZPAMKWJVY_04-804232_2HFY24-MDA.pdf",
+          "local_path": "reports/financials/z74/2024/2024-05-23_0EX9U5BZPAMKWJVY_04-804232_2HFY24-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 515147,
+          "sha256": "df525fd7e49aafc1bbe0b4b5499375cf29a78c4f89c0d6647da7189323e1663d",
+          "retrieved_at": "2026-08-14T11:41:24.330837+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2024/2024-05-23_0EX9U5BZPAMKWJVY_04-804232_2HFY24-MDA.txt",
+            "page_count": 58,
+            "pages_with_text": 58,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "2HFY24-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/0EX9U5BZPAMKWJVY/804229_2HFY24-CCIFS.pdf",
+          "url": "reports/financials/z74/2024/2024-05-23_0EX9U5BZPAMKWJVY_01-804229_2HFY24-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2024/2024-05-23_0EX9U5BZPAMKWJVY_01-804229_2HFY24-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 413148,
+          "sha256": "07966e6c575bc4abed9a93c25c9d09e75e017bb792a2e2a3fbd86ec367c515d5",
+          "retrieved_at": "2026-08-14T11:41:21.218747+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2024/2024-05-23_0EX9U5BZPAMKWJVY_01-804229_2HFY24-CCIFS.txt",
+            "page_count": 49,
+            "pages_with_text": 49,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "2HFY24-NR-Singtel.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/0EX9U5BZPAMKWJVY/804230_2HFY24-NR-Singtel.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/0EX9U5BZPAMKWJVY/804230_2HFY24-NR-Singtel.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 182367,
+          "sha256": "e5a43e63aa980a4117c3dc8fe9d7445340d9c6b14b2cf78ed572c5fe38f3641e",
+          "retrieved_at": "2026-08-14T11:41:22.349655+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 6,
+            "pages_with_text": 6,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "news_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "2HFY24-MR-Optus.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/0EX9U5BZPAMKWJVY/804231_2HFY24-MR-Optus.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/0EX9U5BZPAMKWJVY/804231_2HFY24-MR-Optus.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 200810,
+          "sha256": "6b5e0d02de6e602df14e70f1202eb746cc0424258d6dc689ea7931626cadedde",
+          "retrieved_at": "2026-08-14T11:41:23.322508+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 2,
+            "pages_with_text": 2,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "media_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "2HFY24-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/0EX9U5BZPAMKWJVY/804232_2HFY24-MDA.pdf",
+          "url": "reports/financials/z74/2024/2024-05-23_0EX9U5BZPAMKWJVY_04-804232_2HFY24-MDA.pdf",
+          "local_path": "reports/financials/z74/2024/2024-05-23_0EX9U5BZPAMKWJVY_04-804232_2HFY24-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 515147,
+          "sha256": "df525fd7e49aafc1bbe0b4b5499375cf29a78c4f89c0d6647da7189323e1663d",
+          "retrieved_at": "2026-08-14T11:41:24.330837+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2024/2024-05-23_0EX9U5BZPAMKWJVY_04-804232_2HFY24-MDA.txt",
+            "page_count": 58,
+            "pages_with_text": 58,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        },
+        {
+          "name": "2HFY24-Slides.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/0EX9U5BZPAMKWJVY/804233_2HFY24-Slides.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/0EX9U5BZPAMKWJVY/804233_2HFY24-Slides.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 2230016,
+          "sha256": "2a95614350564219d463dc62f56efdfdc553c4430e918667f687b0a1bee581bb",
+          "retrieved_at": "2026-08-14T11:41:26.579251+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 28,
+            "pages_with_text": 27,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "results_presentation"
+          ],
+          "reason": "Document identifies itself as a presentation or slide deck",
+          "retained": false
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:41:27.925772+08:00"
+    },
+    {
+      "symbol": "Z74",
+      "source_id": "JI1Y1WFY6RJ0I5RP",
+      "title": "Financial Statements and Related Announcement::Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2023-11-09",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/JI1Y1WFY6RJ0I5RP/",
+      "attachments": [
+        {
+          "name": "Halfyear-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/JI1Y1WFY6RJ0I5RP/777547_Halfyear-CCIFS.pdf",
+          "url": "reports/financials/z74/2023/2023-11-09_JI1Y1WFY6RJ0I5RP_01-777547_Halfyear-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2023/2023-11-09_JI1Y1WFY6RJ0I5RP_01-777547_Halfyear-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 340850,
+          "sha256": "563b5f0d4054f0dcabb6848f34cc4864f90cd9dac6791b11caeac3ac6c600a96",
+          "retrieved_at": "2026-08-14T11:41:29.768017+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2023/2023-11-09_JI1Y1WFY6RJ0I5RP_01-777547_Halfyear-CCIFS.txt",
+            "page_count": 37,
+            "pages_with_text": 37,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/JI1Y1WFY6RJ0I5RP/777550_Halfyear-MDA.pdf",
+          "url": "reports/financials/z74/2023/2023-11-09_JI1Y1WFY6RJ0I5RP_04-777550_Halfyear-MDA.pdf",
+          "local_path": "reports/financials/z74/2023/2023-11-09_JI1Y1WFY6RJ0I5RP_04-777550_Halfyear-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 472906,
+          "sha256": "0c05a056da16a58e7b82e9fce2f018a2d36644c8937d06afea4db9363b796a96",
+          "retrieved_at": "2026-08-14T11:41:32.629236+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2023/2023-11-09_JI1Y1WFY6RJ0I5RP_04-777550_Halfyear-MDA.txt",
+            "page_count": 57,
+            "pages_with_text": 57,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "Halfyear-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/JI1Y1WFY6RJ0I5RP/777547_Halfyear-CCIFS.pdf",
+          "url": "reports/financials/z74/2023/2023-11-09_JI1Y1WFY6RJ0I5RP_01-777547_Halfyear-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2023/2023-11-09_JI1Y1WFY6RJ0I5RP_01-777547_Halfyear-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 340850,
+          "sha256": "563b5f0d4054f0dcabb6848f34cc4864f90cd9dac6791b11caeac3ac6c600a96",
+          "retrieved_at": "2026-08-14T11:41:29.768017+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2023/2023-11-09_JI1Y1WFY6RJ0I5RP_01-777547_Halfyear-CCIFS.txt",
+            "page_count": 37,
+            "pages_with_text": 37,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-NR-Singtel.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/JI1Y1WFY6RJ0I5RP/777548_Halfyear-NR-Singtel.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/JI1Y1WFY6RJ0I5RP/777548_Halfyear-NR-Singtel.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 157985,
+          "sha256": "1dcbd223cdf9d113331f27fab889a296a82a68dccc19b757b90f3d845370a465",
+          "retrieved_at": "2026-08-14T11:41:30.734805+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 5,
+            "pages_with_text": 5,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "news_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "Halfyear-MR-Optus.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/JI1Y1WFY6RJ0I5RP/777549_Halfyear-MR-Optus.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/JI1Y1WFY6RJ0I5RP/777549_Halfyear-MR-Optus.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 159100,
+          "sha256": "41cdf1234f6310f3bd090a4619869135f4c96c588b0e502caefeb86d2926b69e",
+          "retrieved_at": "2026-08-14T11:41:31.654246+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 2,
+            "pages_with_text": 2,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "medium",
+          "signals": [
+            "release_filename"
+          ],
+          "reason": "Filename indicates release/presentation and core statement content is absent",
+          "retained": false
+        },
+        {
+          "name": "Halfyear-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/JI1Y1WFY6RJ0I5RP/777550_Halfyear-MDA.pdf",
+          "url": "reports/financials/z74/2023/2023-11-09_JI1Y1WFY6RJ0I5RP_04-777550_Halfyear-MDA.pdf",
+          "local_path": "reports/financials/z74/2023/2023-11-09_JI1Y1WFY6RJ0I5RP_04-777550_Halfyear-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 472906,
+          "sha256": "0c05a056da16a58e7b82e9fce2f018a2d36644c8937d06afea4db9363b796a96",
+          "retrieved_at": "2026-08-14T11:41:32.629236+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2023/2023-11-09_JI1Y1WFY6RJ0I5RP_04-777550_Halfyear-MDA.txt",
+            "page_count": 57,
+            "pages_with_text": 57,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-Slides.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/JI1Y1WFY6RJ0I5RP/777551_Halfyear-Slides.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/JI1Y1WFY6RJ0I5RP/777551_Halfyear-Slides.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1910659,
+          "sha256": "0e1d339c58d252f60b4221f41ee90e517d374302f40470df21852c6868579176",
+          "retrieved_at": "2026-08-14T11:41:34.709909+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 21,
+            "pages_with_text": 20,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "results_presentation"
+          ],
+          "reason": "Document identifies itself as a presentation or slide deck",
+          "retained": false
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:41:36.066629+08:00"
+    },
+    {
+      "symbol": "Z74",
+      "source_id": "L8NDR7DGA7VBISR2",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2023-05-25",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/L8NDR7DGA7VBISR2/",
+      "attachments": [
+        {
+          "name": "2HFY23-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/L8NDR7DGA7VBISR2/760368_2HFY23-CCIFS.pdf",
+          "url": "reports/financials/z74/2023/2023-05-25_L8NDR7DGA7VBISR2_01-760368_2HFY23-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2023/2023-05-25_L8NDR7DGA7VBISR2_01-760368_2HFY23-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 583256,
+          "sha256": "c4eec94c22d9e09020cfa3fda1becca9c80d4bff463c6e73a40b3ed1b767a7e0",
+          "retrieved_at": "2026-08-14T11:41:38.077710+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2023/2023-05-25_L8NDR7DGA7VBISR2_01-760368_2HFY23-CCIFS.txt",
+            "page_count": 52,
+            "pages_with_text": 52,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "2HFY23-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/L8NDR7DGA7VBISR2/760371_2HFY23-MDA.pdf",
+          "url": "reports/financials/z74/2023/2023-05-25_L8NDR7DGA7VBISR2_04-760371_2HFY23-MDA.pdf",
+          "local_path": "reports/financials/z74/2023/2023-05-25_L8NDR7DGA7VBISR2_04-760371_2HFY23-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 777286,
+          "sha256": "96a395fc07122438a02d24036cf69fefad1578a8e7546773d99608c237ff689f",
+          "retrieved_at": "2026-08-14T11:41:41.576685+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2023/2023-05-25_L8NDR7DGA7VBISR2_04-760371_2HFY23-MDA.txt",
+            "page_count": 63,
+            "pages_with_text": 63,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "2HFY23-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/L8NDR7DGA7VBISR2/760368_2HFY23-CCIFS.pdf",
+          "url": "reports/financials/z74/2023/2023-05-25_L8NDR7DGA7VBISR2_01-760368_2HFY23-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2023/2023-05-25_L8NDR7DGA7VBISR2_01-760368_2HFY23-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 583256,
+          "sha256": "c4eec94c22d9e09020cfa3fda1becca9c80d4bff463c6e73a40b3ed1b767a7e0",
+          "retrieved_at": "2026-08-14T11:41:38.077710+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2023/2023-05-25_L8NDR7DGA7VBISR2_01-760368_2HFY23-CCIFS.txt",
+            "page_count": 52,
+            "pages_with_text": 52,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "2HFY23-NR-Singtel.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/L8NDR7DGA7VBISR2/760369_2HFY23-NR-Singtel.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/L8NDR7DGA7VBISR2/760369_2HFY23-NR-Singtel.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 168790,
+          "sha256": "10a3dcfe921575166af05992d84a346e78df8cadb8eb179ab1d7be6376730e5b",
+          "retrieved_at": "2026-08-14T11:41:39.391804+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 5,
+            "pages_with_text": 5,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "news_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "2HFY23-MR-Optus.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/L8NDR7DGA7VBISR2/760370_2HFY23-MR-Optus.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/L8NDR7DGA7VBISR2/760370_2HFY23-MR-Optus.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 132387,
+          "sha256": "8e39887087141001ea13cc9e57d9af1cf412d8f7035f25df27153173f5195083",
+          "retrieved_at": "2026-08-14T11:41:40.448112+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 3,
+            "pages_with_text": 3,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "medium",
+          "signals": [
+            "release_filename"
+          ],
+          "reason": "Filename indicates release/presentation and core statement content is absent",
+          "retained": false
+        },
+        {
+          "name": "2HFY23-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/L8NDR7DGA7VBISR2/760371_2HFY23-MDA.pdf",
+          "url": "reports/financials/z74/2023/2023-05-25_L8NDR7DGA7VBISR2_04-760371_2HFY23-MDA.pdf",
+          "local_path": "reports/financials/z74/2023/2023-05-25_L8NDR7DGA7VBISR2_04-760371_2HFY23-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 777286,
+          "sha256": "96a395fc07122438a02d24036cf69fefad1578a8e7546773d99608c237ff689f",
+          "retrieved_at": "2026-08-14T11:41:41.576685+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2023/2023-05-25_L8NDR7DGA7VBISR2_04-760371_2HFY23-MDA.txt",
+            "page_count": 63,
+            "pages_with_text": 63,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        },
+        {
+          "name": "2HFY23-Slides.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/L8NDR7DGA7VBISR2/760372_2HFY23-Slides.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/L8NDR7DGA7VBISR2/760372_2HFY23-Slides.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 2684703,
+          "sha256": "213151fea9dc5c00bf6c05522a99c980c875c7d031c9fb2c277b955e818fe599",
+          "retrieved_at": "2026-08-14T11:41:44.671834+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 27,
+            "pages_with_text": 26,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "medium",
+          "signals": [
+            "financial_position",
+            "cash_flow",
+            "presentation_filename"
+          ],
+          "reason": "Filename indicates release/presentation and core statement content is absent",
+          "retained": false
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:41:45.470139+08:00"
+    },
+    {
+      "symbol": "Z74",
+      "source_id": "MLZ5KL95O4G6KS6L",
+      "title": "Financial Statements and Related Announcement::Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2022-11-10",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/MLZ5KL95O4G6KS6L/",
+      "attachments": [
+        {
+          "name": "Halfyear-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/MLZ5KL95O4G6KS6L/738125_Halfyear-CCIFS.pdf",
+          "url": "reports/financials/z74/2022/2022-11-10_MLZ5KL95O4G6KS6L_01-738125_Halfyear-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2022/2022-11-10_MLZ5KL95O4G6KS6L_01-738125_Halfyear-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 354697,
+          "sha256": "017388bae305da050ff02d7be8158b13cebf79734f6e10b6827e144a5ea3c4a8",
+          "retrieved_at": "2026-08-14T11:41:47.402556+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2022/2022-11-10_MLZ5KL95O4G6KS6L_01-738125_Halfyear-CCIFS.txt",
+            "page_count": 38,
+            "pages_with_text": 38,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/MLZ5KL95O4G6KS6L/738128_Halfyear-MDA.pdf",
+          "url": "reports/financials/z74/2022/2022-11-10_MLZ5KL95O4G6KS6L_04-738128_Halfyear-MDA.pdf",
+          "local_path": "reports/financials/z74/2022/2022-11-10_MLZ5KL95O4G6KS6L_04-738128_Halfyear-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 481458,
+          "sha256": "a4034e75534de0d1c41416620bc51fb6f760416fbb35a1643cace31ee5cd0a71",
+          "retrieved_at": "2026-08-14T11:41:50.713555+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2022/2022-11-10_MLZ5KL95O4G6KS6L_04-738128_Halfyear-MDA.txt",
+            "page_count": 62,
+            "pages_with_text": 62,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "Halfyear-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/MLZ5KL95O4G6KS6L/738125_Halfyear-CCIFS.pdf",
+          "url": "reports/financials/z74/2022/2022-11-10_MLZ5KL95O4G6KS6L_01-738125_Halfyear-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2022/2022-11-10_MLZ5KL95O4G6KS6L_01-738125_Halfyear-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 354697,
+          "sha256": "017388bae305da050ff02d7be8158b13cebf79734f6e10b6827e144a5ea3c4a8",
+          "retrieved_at": "2026-08-14T11:41:47.402556+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2022/2022-11-10_MLZ5KL95O4G6KS6L_01-738125_Halfyear-CCIFS.txt",
+            "page_count": 38,
+            "pages_with_text": 38,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-NR-Singtel.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/MLZ5KL95O4G6KS6L/738126_Halfyear-NR-Singtel.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/MLZ5KL95O4G6KS6L/738126_Halfyear-NR-Singtel.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 137771,
+          "sha256": "9f7ea62048bc63631ded40f6f808e2e649910d2f270568763ce4e2ef6a4e44d9",
+          "retrieved_at": "2026-08-14T11:41:48.665671+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 5,
+            "pages_with_text": 5,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "news_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "Halfyear-MR-Optus.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/MLZ5KL95O4G6KS6L/738127_Halfyear-MR-Optus.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/MLZ5KL95O4G6KS6L/738127_Halfyear-MR-Optus.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 169468,
+          "sha256": "6f22024991992c6e611e03e0a8b30e14ca2aa22eceb3a3f616ceb248dea15a7d",
+          "retrieved_at": "2026-08-14T11:41:49.731124+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 3,
+            "pages_with_text": 3,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "media_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "Halfyear-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/MLZ5KL95O4G6KS6L/738128_Halfyear-MDA.pdf",
+          "url": "reports/financials/z74/2022/2022-11-10_MLZ5KL95O4G6KS6L_04-738128_Halfyear-MDA.pdf",
+          "local_path": "reports/financials/z74/2022/2022-11-10_MLZ5KL95O4G6KS6L_04-738128_Halfyear-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 481458,
+          "sha256": "a4034e75534de0d1c41416620bc51fb6f760416fbb35a1643cace31ee5cd0a71",
+          "retrieved_at": "2026-08-14T11:41:50.713555+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2022/2022-11-10_MLZ5KL95O4G6KS6L_04-738128_Halfyear-MDA.txt",
+            "page_count": 62,
+            "pages_with_text": 62,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-Slides.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/MLZ5KL95O4G6KS6L/738129_Halfyear-Slides.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/MLZ5KL95O4G6KS6L/738129_Halfyear-Slides.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 2567760,
+          "sha256": "39dd054198ff4a38496d90952e4cea2fe9314e91c20c4683a70a7d652393c7c4",
+          "retrieved_at": "2026-08-14T11:41:53.475056+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 23,
+            "pages_with_text": 22,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "medium",
+          "signals": [
+            "financial_position",
+            "cash_flow",
+            "presentation_filename"
+          ],
+          "reason": "Filename indicates release/presentation and core statement content is absent",
+          "retained": false
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:41:54.205793+08:00"
+    },
+    {
+      "symbol": "Z74",
+      "source_id": "NLAVW1RFYH3HS4H1",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2022-05-27",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/NLAVW1RFYH3HS4H1/",
+      "attachments": [
+        {
+          "name": "2HFY22-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/NLAVW1RFYH3HS4H1/718804_2HFY22-CCIFS.pdf",
+          "url": "reports/financials/z74/2022/2022-05-27_NLAVW1RFYH3HS4H1_01-718804_2HFY22-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2022/2022-05-27_NLAVW1RFYH3HS4H1_01-718804_2HFY22-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 406166,
+          "sha256": "cd6f0f99d34b4aae5c8daad006f8aeecb9a0a7504837cea44871e0970ec30c96",
+          "retrieved_at": "2026-08-14T11:41:55.986000+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2022/2022-05-27_NLAVW1RFYH3HS4H1_01-718804_2HFY22-CCIFS.txt",
+            "page_count": 48,
+            "pages_with_text": 48,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "2HFY22-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/NLAVW1RFYH3HS4H1/718807_2HFY22-MDA.pdf",
+          "url": "reports/financials/z74/2022/2022-05-27_NLAVW1RFYH3HS4H1_04-718807_2HFY22-MDA.pdf",
+          "local_path": "reports/financials/z74/2022/2022-05-27_NLAVW1RFYH3HS4H1_04-718807_2HFY22-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 505718,
+          "sha256": "4b416a5663ea83a2300f2ff4536b1cf27b2c468750256752eb7693770ed2fc4d",
+          "retrieved_at": "2026-08-14T11:42:00.245340+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2022/2022-05-27_NLAVW1RFYH3HS4H1_04-718807_2HFY22-MDA.txt",
+            "page_count": 60,
+            "pages_with_text": 60,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "2HFY22-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/NLAVW1RFYH3HS4H1/718804_2HFY22-CCIFS.pdf",
+          "url": "reports/financials/z74/2022/2022-05-27_NLAVW1RFYH3HS4H1_01-718804_2HFY22-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2022/2022-05-27_NLAVW1RFYH3HS4H1_01-718804_2HFY22-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 406166,
+          "sha256": "cd6f0f99d34b4aae5c8daad006f8aeecb9a0a7504837cea44871e0970ec30c96",
+          "retrieved_at": "2026-08-14T11:41:55.986000+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2022/2022-05-27_NLAVW1RFYH3HS4H1_01-718804_2HFY22-CCIFS.txt",
+            "page_count": 48,
+            "pages_with_text": 48,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "2HFY22-NR-Singtel.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/NLAVW1RFYH3HS4H1/718805_2HFY22-NR-Singtel.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/NLAVW1RFYH3HS4H1/718805_2HFY22-NR-Singtel.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 177005,
+          "sha256": "16f13ddfd4a2a0099183f3902029f1bc055b951891f678d2ee878e7dc42a7f50",
+          "retrieved_at": "2026-08-14T11:41:57.009558+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 5,
+            "pages_with_text": 5,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "medium",
+          "signals": [
+            "financial_position",
+            "cash_flow",
+            "release_filename"
+          ],
+          "reason": "Filename indicates release/presentation and core statement content is absent",
+          "retained": false
+        },
+        {
+          "name": "2HFY22-MR-Optus.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/NLAVW1RFYH3HS4H1/718806_2HFY22-MR-Optus.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/NLAVW1RFYH3HS4H1/718806_2HFY22-MR-Optus.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 255460,
+          "sha256": "ccbda44792da5d41d64c1204e0a3ba0bfe33028dd8a1e06e4d6255b66b7b8904",
+          "retrieved_at": "2026-08-14T11:41:58.098687+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 3,
+            "pages_with_text": 3,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "media_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "2HFY22-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/NLAVW1RFYH3HS4H1/718807_2HFY22-MDA.pdf",
+          "url": "reports/financials/z74/2022/2022-05-27_NLAVW1RFYH3HS4H1_04-718807_2HFY22-MDA.pdf",
+          "local_path": "reports/financials/z74/2022/2022-05-27_NLAVW1RFYH3HS4H1_04-718807_2HFY22-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 505718,
+          "sha256": "4b416a5663ea83a2300f2ff4536b1cf27b2c468750256752eb7693770ed2fc4d",
+          "retrieved_at": "2026-08-14T11:42:00.245340+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2022/2022-05-27_NLAVW1RFYH3HS4H1_04-718807_2HFY22-MDA.txt",
+            "page_count": 60,
+            "pages_with_text": 60,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        },
+        {
+          "name": "2HFY22-Slides.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/NLAVW1RFYH3HS4H1/718808_2HFY22-Slides.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/NLAVW1RFYH3HS4H1/718808_2HFY22-Slides.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1487070,
+          "sha256": "daef86640de99d8ae3ec4b9b082a252defa9ecec771d5a13d4c68c33aba8d1ea",
+          "retrieved_at": "2026-08-14T11:42:02.241267+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 23,
+            "pages_with_text": 23,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "results_presentation"
+          ],
+          "reason": "Document identifies itself as a presentation or slide deck",
+          "retained": false
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:42:02.993697+08:00"
+    },
+    {
+      "symbol": "Z74",
+      "source_id": "8D9NAMYW3STN3VNU",
+      "title": "Financial Statements and Related Announcement::Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2021-11-11",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/8D9NAMYW3STN3VNU/",
+      "attachments": [
+        {
+          "name": "Halfyear-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/8D9NAMYW3STN3VNU/690274_Halfyear-CCIFS.pdf",
+          "url": "reports/financials/z74/2021/2021-11-11_8D9NAMYW3STN3VNU_01-690274_Halfyear-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2021/2021-11-11_8D9NAMYW3STN3VNU_01-690274_Halfyear-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 554301,
+          "sha256": "1d6cca6f488c3b98c27cbb521c098bf264bea5d76a02dafde22d21df6bf5d92d",
+          "retrieved_at": "2026-08-14T11:42:05.172822+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2021/2021-11-11_8D9NAMYW3STN3VNU_01-690274_Halfyear-CCIFS.txt",
+            "page_count": 35,
+            "pages_with_text": 35,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/8D9NAMYW3STN3VNU/690277_Halfyear-MDA.pdf",
+          "url": "reports/financials/z74/2021/2021-11-11_8D9NAMYW3STN3VNU_04-690277_Halfyear-MDA.pdf",
+          "local_path": "reports/financials/z74/2021/2021-11-11_8D9NAMYW3STN3VNU_04-690277_Halfyear-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1275615,
+          "sha256": "37f1aec9897cce212019aef0a83a4130e1f6705347dcd25dc91aeadb4823368b",
+          "retrieved_at": "2026-08-14T11:42:11.375154+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2021/2021-11-11_8D9NAMYW3STN3VNU_04-690277_Halfyear-MDA.txt",
+            "page_count": 62,
+            "pages_with_text": 62,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "Halfyear-CCIFS.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/8D9NAMYW3STN3VNU/690274_Halfyear-CCIFS.pdf",
+          "url": "reports/financials/z74/2021/2021-11-11_8D9NAMYW3STN3VNU_01-690274_Halfyear-CCIFS.pdf",
+          "local_path": "reports/financials/z74/2021/2021-11-11_8D9NAMYW3STN3VNU_01-690274_Halfyear-CCIFS.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 554301,
+          "sha256": "1d6cca6f488c3b98c27cbb521c098bf264bea5d76a02dafde22d21df6bf5d92d",
+          "retrieved_at": "2026-08-14T11:42:05.172822+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2021/2021-11-11_8D9NAMYW3STN3VNU_01-690274_Halfyear-CCIFS.txt",
+            "page_count": 35,
+            "pages_with_text": 35,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-NR-Singtel.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/8D9NAMYW3STN3VNU/690275_Halfyear-NR-Singtel.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/8D9NAMYW3STN3VNU/690275_Halfyear-NR-Singtel.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 444729,
+          "sha256": "4a05d74d40d9558ebf432fba170c2e0613727eaefc6b91ee09553f2c1681c0d4",
+          "retrieved_at": "2026-08-14T11:42:06.721005+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 5,
+            "pages_with_text": 5,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "news_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "Halfyear-MR-Optus.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/8D9NAMYW3STN3VNU/690276_Halfyear-MR-Optus.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/8D9NAMYW3STN3VNU/690276_Halfyear-MR-Optus.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 158187,
+          "sha256": "8f368fea628988c9e39e157041a74fcf9fcc3fa04f699d72624ca04cd89f2053",
+          "retrieved_at": "2026-08-14T11:42:10.120936+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 2,
+            "pages_with_text": 2,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "medium",
+          "signals": [
+            "release_filename"
+          ],
+          "reason": "Filename indicates release/presentation and core statement content is absent",
+          "retained": false
+        },
+        {
+          "name": "Halfyear-MDA.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/8D9NAMYW3STN3VNU/690277_Halfyear-MDA.pdf",
+          "url": "reports/financials/z74/2021/2021-11-11_8D9NAMYW3STN3VNU_04-690277_Halfyear-MDA.pdf",
+          "local_path": "reports/financials/z74/2021/2021-11-11_8D9NAMYW3STN3VNU_04-690277_Halfyear-MDA.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1275615,
+          "sha256": "37f1aec9897cce212019aef0a83a4130e1f6705347dcd25dc91aeadb4823368b",
+          "retrieved_at": "2026-08-14T11:42:11.375154+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/z74/2021/2021-11-11_8D9NAMYW3STN3VNU_04-690277_Halfyear-MDA.txt",
+            "page_count": 62,
+            "pages_with_text": 62,
+            "quality": "text_present"
+          },
+          "classification": "supplementary_financial_analysis",
+          "confidence": "high",
+          "signals": [
+            "management_discussion_analysis"
+          ],
+          "reason": "Document is management discussion or operating and financial analysis",
+          "retained": true
+        },
+        {
+          "name": "Halfyear-Slides.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/8D9NAMYW3STN3VNU/690278_Halfyear-Slides.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/8D9NAMYW3STN3VNU/690278_Halfyear-Slides.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 2587216,
+          "sha256": "9227b3b814e3d963c8fcb00879611b5f2322cd25e2147a87c6865211c05ed837",
+          "retrieved_at": "2026-08-14T11:42:14.253886+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 20,
+            "pages_with_text": 20,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "results_presentation"
+          ],
+          "reason": "Document identifies itself as a presentation or slide deck",
+          "retained": false
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:42:14.976176+08:00"
+    }
+  ]
+}

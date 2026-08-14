@@ -1,0 +1,551 @@
+{
+  "schema_version": 2,
+  "updated_at": "2026-08-14T16:29:23.007342+08:00",
+  "queried_date_range": {
+    "from_date": "2021-08-14",
+    "to_date": "2026-08-14"
+  },
+  "last_collection": {
+    "status": "success",
+    "symbol": "ME8U",
+    "from_date": "2021-08-14",
+    "to_date": "2026-08-14",
+    "announcements_found": 20,
+    "announcements_downloaded": 0,
+    "attachments_downloaded": 0,
+    "skipped_existing": 18,
+    "skipped_attachment_name": 2,
+    "requests_attempted": 3,
+    "failures": 0,
+    "filter_mismatch": false,
+    "manifest": "reports/financials/me8u/manifest.json",
+    "failure_log": "reports/financials/me8u/failures.jsonl",
+    "requested_from_date": "2021-08-14",
+    "requested_to_date": "2026-08-14",
+    "completed_at": "2026-08-14T16:29:23.001882+08:00"
+  },
+  "records": [
+    {
+      "symbol": "ME8U",
+      "source_id": "R5Y2AEYP92O1GJUO",
+      "title": "Financial Statements and Related Announcement::First Quarter Results",
+      "category": "Financial Statements",
+      "published_date": "2026-07-23",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/R5Y2AEYP92O1GJUO/",
+      "attachments": [
+        {
+          "name": "20260723_1QFY26 Results_Financial Statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/R5Y2AEYP92O1GJUO/897168_20260723_1QFY26%20Results_Financial%20Statement.pdf",
+          "url": "reports/financials/me8u/2026/01-897168_20260723_1QFY26 Results_Financial Statement.pdf",
+          "local_path": "reports/financials/me8u/2026/01-897168_20260723_1QFY26 Results_Financial Statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 907921,
+          "sha256": "1da06ab0c380126989ab98ad50abd900f1c7ca2cf13aab602ffdc5229e65c718",
+          "retrieved_at": "2026-08-14T08:26:30.945475+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2026/01-897168_20260723_1QFY26 Results_Financial Statement.txt",
+            "page_count": 35,
+            "pages_with_text": 35,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:26:31.514891+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "B5K5LXJU7I2F5UP8",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2026-04-28",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/B5K5LXJU7I2F5UP8/",
+      "attachments": [
+        {
+          "name": "20260428_4QFY25 Results_Financial Statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/B5K5LXJU7I2F5UP8/886484_20260428_4QFY25%20Results_Financial%20Statement.pdf",
+          "url": "reports/financials/me8u/2026/01-886484_20260428_4QFY25 Results_Financial Statement.pdf",
+          "local_path": "reports/financials/me8u/2026/01-886484_20260428_4QFY25 Results_Financial Statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 925329,
+          "sha256": "30ae5df1d796525212f3ab7e7df1c6ab810ced69eae965fddde08dda2046d784",
+          "retrieved_at": "2026-08-14T08:26:33.422896+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2026/01-886484_20260428_4QFY25 Results_Financial Statement.txt",
+            "page_count": 41,
+            "pages_with_text": 41,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:26:34.708983+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "DTWN63KVPUMG2FJ7",
+      "title": "Financial Statements and Related Announcement::Third Quarter Results",
+      "category": "Financial Statements",
+      "published_date": "2026-01-28",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/DTWN63KVPUMG2FJ7/",
+      "attachments": [
+        {
+          "name": "20260128_3QFY25 Results_Financial Statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/DTWN63KVPUMG2FJ7/873390_20260128_3QFY25%20Results_Financial%20Statement.pdf",
+          "url": "reports/financials/me8u/2026/01-873390_20260128_3QFY25 Results_Financial Statement.pdf",
+          "local_path": "reports/financials/me8u/2026/01-873390_20260128_3QFY25 Results_Financial Statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 768770,
+          "sha256": "d6530b51805e773e04bdca78cdb0658a23d586f30ab4349e2d8cd586c9816268",
+          "retrieved_at": "2026-08-14T08:26:36.643260+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2026/01-873390_20260128_3QFY25 Results_Financial Statement.txt",
+            "page_count": 40,
+            "pages_with_text": 40,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:26:37.905776+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "GSS4AQL4MB7TOW9L",
+      "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2025-10-29",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/GSS4AQL4MB7TOW9L/",
+      "attachments": [
+        {
+          "name": "20251029_2QFY25 Results_Financial Statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/GSS4AQL4MB7TOW9L/865316_20251029_2QFY25%20Results_Financial%20Statement.pdf",
+          "url": "reports/financials/me8u/2025/01-865316_20251029_2QFY25 Results_Financial Statement.pdf",
+          "local_path": "reports/financials/me8u/2025/01-865316_20251029_2QFY25 Results_Financial Statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1065189,
+          "sha256": "0129c89bb1fb389c518f6cd6938d0c415780bdbbfe307703bd09bb0adac1624e",
+          "retrieved_at": "2026-08-14T08:26:39.954514+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2025/01-865316_20251029_2QFY25 Results_Financial Statement.txt",
+            "page_count": 40,
+            "pages_with_text": 40,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:26:40.660973+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "SRXKKPUNGMZB8LW5",
+      "title": "Financial Statements and Related Announcement::First Quarter Results",
+      "category": "Financial Statements",
+      "published_date": "2025-07-28",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/SRXKKPUNGMZB8LW5/",
+      "attachments": [
+        {
+          "name": "20250728_1QFY25 Results_Financial Statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/SRXKKPUNGMZB8LW5/853321_20250728_1QFY25%20Results_Financial%20Statement.pdf",
+          "url": "reports/financials/me8u/2025/01-853321_20250728_1QFY25 Results_Financial Statement.pdf",
+          "local_path": "reports/financials/me8u/2025/01-853321_20250728_1QFY25 Results_Financial Statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 930545,
+          "sha256": "c617d56fc06dcdf59038aae5005956c779477912a53effd25be26fa0817b7aa0",
+          "retrieved_at": "2026-08-14T08:26:42.274525+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2025/01-853321_20250728_1QFY25 Results_Financial Statement.txt",
+            "page_count": 34,
+            "pages_with_text": 34,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:26:42.966467+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "UEWVIFWWTWSVGZPJ",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2025-04-30",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/UEWVIFWWTWSVGZPJ/",
+      "attachments": [
+        {
+          "name": "20250430_4QFY24 Results_Financial Statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/UEWVIFWWTWSVGZPJ/844031_20250430_4QFY24%20Results_Financial%20Statement.pdf",
+          "url": "reports/financials/me8u/2025/01-844031_20250430_4QFY24 Results_Financial Statement.pdf",
+          "local_path": "reports/financials/me8u/2025/01-844031_20250430_4QFY24 Results_Financial Statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 971214,
+          "sha256": "7add2249389525b235be1a168045c05e35ad41c9071014fe5dcda71d0190d508",
+          "retrieved_at": "2026-08-14T08:26:45.303505+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2025/01-844031_20250430_4QFY24 Results_Financial Statement.txt",
+            "page_count": 38,
+            "pages_with_text": 38,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:26:45.958541+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "TP2APY2SFX9F9J8K",
+      "title": "Financial Statements and Related Announcement::Third Quarter Results",
+      "category": "Financial Statements",
+      "published_date": "2025-01-22",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/TP2APY2SFX9F9J8K/",
+      "attachments": [
+        {
+          "name": "20250122_3QFY24 Results_Financial Statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/TP2APY2SFX9F9J8K/831078_20250122_3QFY24%20Results_Financial%20Statement.pdf",
+          "url": "reports/financials/me8u/2025/01-831078_20250122_3QFY24 Results_Financial Statement.pdf",
+          "local_path": "reports/financials/me8u/2025/01-831078_20250122_3QFY24 Results_Financial Statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 623626,
+          "sha256": "36aa97b24b9a3a3f714ddfe152caeae3f7867413a7e109c5925726559cf06400",
+          "retrieved_at": "2026-08-14T08:26:49.364299+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2025/01-831078_20250122_3QFY24 Results_Financial Statement.txt",
+            "page_count": 35,
+            "pages_with_text": 35,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:26:50.248707+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "GDVPK04CPBBTDDOF",
+      "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2024-10-29",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/GDVPK04CPBBTDDOF/",
+      "attachments": [
+        {
+          "name": "20241029_2QFY24 Results_Financial Statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/GDVPK04CPBBTDDOF/823421_20241029_2QFY24%20Results_Financial%20Statement.pdf",
+          "url": "reports/financials/me8u/2024/01-823421_20241029_2QFY24 Results_Financial Statement.pdf",
+          "local_path": "reports/financials/me8u/2024/01-823421_20241029_2QFY24 Results_Financial Statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 610060,
+          "sha256": "b1889fe9f390bdecf9b506fa065ec8c021573b2974e0369694bfe05c86e96b65",
+          "retrieved_at": "2026-08-14T08:26:52.077740+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2024/01-823421_20241029_2QFY24 Results_Financial Statement.txt",
+            "page_count": 35,
+            "pages_with_text": 35,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:26:52.878454+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "5HHDYZDXRZ1T2WS2",
+      "title": "Financial Statements and Related Announcement::First Quarter Results",
+      "category": "Financial Statements",
+      "published_date": "2024-07-25",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/5HHDYZDXRZ1T2WS2/",
+      "attachments": [
+        {
+          "name": "20240725_1QFY2425 Results_Financial statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/5HHDYZDXRZ1T2WS2/812870_20240725_1QFY2425%20Results_Financial%20statement.pdf",
+          "url": "reports/financials/me8u/2024/01-812870_20240725_1QFY2425 Results_Financial statement.pdf",
+          "local_path": "reports/financials/me8u/2024/01-812870_20240725_1QFY2425 Results_Financial statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 527830,
+          "sha256": "446041a662ee9a02d7b93e7de96bfce09a6eaae58fbbd1c8b3a065f0718a4440",
+          "retrieved_at": "2026-08-14T08:26:54.729106+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2024/01-812870_20240725_1QFY2425 Results_Financial statement.txt",
+            "page_count": 34,
+            "pages_with_text": 34,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:26:55.493093+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "NQSZVPQP955RXR74",
+      "title": "Financial Statements and Related Announcement::Third Quarter Results",
+      "category": "Financial Statements",
+      "published_date": "2024-01-25",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/NQSZVPQP955RXR74/",
+      "attachments": [
+        {
+          "name": "20230125_3QFY2324 Results_Financial statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/NQSZVPQP955RXR74/783883_20230125_3QFY2324%20Results_Financial%20statement.pdf",
+          "url": "reports/financials/me8u/2024/01-783883_20230125_3QFY2324 Results_Financial statement.pdf",
+          "local_path": "reports/financials/me8u/2024/01-783883_20230125_3QFY2324 Results_Financial statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 619659,
+          "sha256": "6ecb502a566a6860b1ac93423e85bd7c20cfeb6c9622d03a747cfae1917c57b0",
+          "retrieved_at": "2026-08-14T08:26:58.253110+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2024/01-783883_20230125_3QFY2324 Results_Financial statement.txt",
+            "page_count": 34,
+            "pages_with_text": 34,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:26:59.104626+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "T39T97ZVYU19FI4I",
+      "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2023-10-25",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/T39T97ZVYU19FI4I/",
+      "attachments": [
+        {
+          "name": "20231025_2QFY2324 Results_Financial statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/T39T97ZVYU19FI4I/775833_20231025_2QFY2324%20Results_Financial%20statement.pdf",
+          "url": "reports/financials/me8u/2023/01-775833_20231025_2QFY2324 Results_Financial statement.pdf",
+          "local_path": "reports/financials/me8u/2023/01-775833_20231025_2QFY2324 Results_Financial statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 623994,
+          "sha256": "430b3810ffbc3261b6bb49a5ba98c65e69055a22e1432a1e89ac688f1a8614d7",
+          "retrieved_at": "2026-08-14T08:27:00.821511+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2023/01-775833_20231025_2QFY2324 Results_Financial statement.txt",
+            "page_count": 34,
+            "pages_with_text": 34,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:27:01.621401+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "C4ILJDLM5J29HJ25",
+      "title": "Financial Statements and Related Announcement::First Quarter Results",
+      "category": "Financial Statements",
+      "published_date": "2023-07-26",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/C4ILJDLM5J29HJ25/",
+      "attachments": [
+        {
+          "name": "20230726_1QFY2324 Results_Financial statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/C4ILJDLM5J29HJ25/766522_20230726_1QFY2324%20Results_Financial%20statement.pdf",
+          "url": "reports/financials/me8u/2023/01-766522_20230726_1QFY2324 Results_Financial statement.pdf",
+          "local_path": "reports/financials/me8u/2023/01-766522_20230726_1QFY2324 Results_Financial statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 533864,
+          "sha256": "2ffd6b95d26624ea45e942f4ef63732693d842400786c78b74a574e4938f6b94",
+          "retrieved_at": "2026-08-14T08:27:03.437590+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2023/01-766522_20230726_1QFY2324 Results_Financial statement.txt",
+            "page_count": 33,
+            "pages_with_text": 33,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:27:04.193194+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "GZ4F6IHQ1CLCZHUV",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2023-04-27",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/GZ4F6IHQ1CLCZHUV/",
+      "attachments": [
+        {
+          "name": "20230427_4QFY2223 Results_Financial Statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/GZ4F6IHQ1CLCZHUV/756777_20230427_4QFY2223%20Results_Financial%20Statement.pdf",
+          "url": "reports/financials/me8u/2023/01-756777_20230427_4QFY2223 Results_Financial Statement.pdf",
+          "local_path": "reports/financials/me8u/2023/01-756777_20230427_4QFY2223 Results_Financial Statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 675307,
+          "sha256": "f2ea5165d5058c094739d01b7265c9024c22a89b4ea79333189a90cbca0bf722",
+          "retrieved_at": "2026-08-14T08:27:06.102330+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2023/01-756777_20230427_4QFY2223 Results_Financial Statement.txt",
+            "page_count": 38,
+            "pages_with_text": 38,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:27:07.019848+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "N8G6DPJLLMURPH70",
+      "title": "Financial Statements and Related Announcement::Third Quarter Results",
+      "category": "Financial Statements",
+      "published_date": "2023-01-26",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/N8G6DPJLLMURPH70/",
+      "attachments": [
+        {
+          "name": "20230126_3QFY22 Results_Financial Statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/N8G6DPJLLMURPH70/744869_20230126_3QFY22%20Results_Financial%20Statement.pdf",
+          "url": "reports/financials/me8u/2023/01-744869_20230126_3QFY22 Results_Financial Statement.pdf",
+          "local_path": "reports/financials/me8u/2023/01-744869_20230126_3QFY22 Results_Financial Statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 611529,
+          "sha256": "3f42904f734cca3efe5b31cf506b0d633e2ca63f393a42d7067c4a8d960ac3dc",
+          "retrieved_at": "2026-08-14T08:27:08.876826+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2023/01-744869_20230126_3QFY22 Results_Financial Statement.txt",
+            "page_count": 34,
+            "pages_with_text": 34,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:27:09.667339+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "0GFLEMU8V6ABLSC3",
+      "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2022-10-26",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/0GFLEMU8V6ABLSC3/",
+      "attachments": [
+        {
+          "name": "20221026_2QFY22 Results_Financial Statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/0GFLEMU8V6ABLSC3/735511_20221026_2QFY22%20Results_Financial%20Statement.pdf",
+          "url": "reports/financials/me8u/2022/01-735511_20221026_2QFY22 Results_Financial Statement.pdf",
+          "local_path": "reports/financials/me8u/2022/01-735511_20221026_2QFY22 Results_Financial Statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 605363,
+          "sha256": "c4d9b8af60bb0714d737b1c91b814eaeff636a91e0a65d66010891b05bf1e78a",
+          "retrieved_at": "2026-08-14T08:27:11.546702+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2022/01-735511_20221026_2QFY22 Results_Financial Statement.txt",
+            "page_count": 33,
+            "pages_with_text": 33,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:27:12.318675+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "VJQ27M3GC4B1T2CL",
+      "title": "Financial Statements and Related Announcement::First Quarter Results",
+      "category": "Financial Statements",
+      "published_date": "2022-07-25",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/VJQ27M3GC4B1T2CL/",
+      "attachments": [
+        {
+          "name": "20220725_1QFY22 Results_Financial Statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/VJQ27M3GC4B1T2CL/724609_20220725_1QFY22%20Results_Financial%20Statement.pdf",
+          "url": "reports/financials/me8u/2022/01-724609_20220725_1QFY22 Results_Financial Statement.pdf",
+          "local_path": "reports/financials/me8u/2022/01-724609_20220725_1QFY22 Results_Financial Statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 706701,
+          "sha256": "11abd8fb6e1f21d8b2bbdea2b238c97a000f38299ef103e514f83575df69fad9",
+          "retrieved_at": "2026-08-14T08:27:13.992009+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2022/01-724609_20220725_1QFY22 Results_Financial Statement.txt",
+            "page_count": 32,
+            "pages_with_text": 32,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:27:14.863427+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "27EELLLIOVZK7IM6",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2022-04-26",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/27EELLLIOVZK7IM6/",
+      "attachments": [
+        {
+          "name": "20220426_4QFY21 Results_Financial Statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/27EELLLIOVZK7IM6/714018_20220426_4QFY21%20Results_Financial%20Statement.pdf",
+          "url": "reports/financials/me8u/2022/01-714018_20220426_4QFY21 Results_Financial Statement.pdf",
+          "local_path": "reports/financials/me8u/2022/01-714018_20220426_4QFY21 Results_Financial Statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 814931,
+          "sha256": "2af3730754125e60427933023679884f383aef6660044b1160458c40849e63c0",
+          "retrieved_at": "2026-08-14T08:27:16.843235+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2022/01-714018_20220426_4QFY21 Results_Financial Statement.txt",
+            "page_count": 37,
+            "pages_with_text": 37,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:27:17.785477+08:00"
+    },
+    {
+      "symbol": "ME8U",
+      "source_id": "BMGD7E7P5SI9C5K7",
+      "title": "Financial Statements and Related Announcement::Third Quarter Results",
+      "category": "Financial Statements",
+      "published_date": "2022-01-25",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/BMGD7E7P5SI9C5K7/",
+      "attachments": [
+        {
+          "name": "20220125_3QFY21 Results_Financial Statement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/BMGD7E7P5SI9C5K7/698861_20220125_3QFY21%20Results_Financial%20Statement.pdf",
+          "url": "reports/financials/me8u/2022/01-698861_20220125_3QFY21 Results_Financial Statement.pdf",
+          "local_path": "reports/financials/me8u/2022/01-698861_20220125_3QFY21 Results_Financial Statement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 735595,
+          "sha256": "3e9024f16d891094e5bfec04011217cc9b7e40777a740d1afff93928feb5aab2",
+          "retrieved_at": "2026-08-14T08:27:19.523086+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/me8u/2022/01-698861_20220125_3QFY21 Results_Financial Statement.txt",
+            "page_count": 32,
+            "pages_with_text": 32,
+            "quality": "text_present"
+          }
+        }
+      ],
+      "retrieved_at": "2026-08-14T16:27:20.499740+08:00"
+    }
+  ]
+}

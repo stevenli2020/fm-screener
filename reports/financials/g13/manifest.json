@@ -1,0 +1,1070 @@
+{
+  "schema_version": 2,
+  "updated_at": "2026-08-14T19:48:48.428295+08:00",
+  "queried_date_range": {
+    "from_date": "2021-08-14",
+    "to_date": "2026-08-14"
+  },
+  "last_collection": {
+    "status": "success",
+    "symbol": "G13",
+    "from_date": "2021-08-14",
+    "to_date": "2026-08-14",
+    "announcements_found": 10,
+    "announcements_downloaded": 1,
+    "attachments_downloaded": 1,
+    "attachments_archived": 1,
+    "primary_financial_statements": 1,
+    "supplementary_financial_analysis": 0,
+    "rejected_non_reports": 0,
+    "needs_review": 0,
+    "announcements_without_attachments": 0,
+    "skipped_existing": 9,
+    "requests_attempted": 2,
+    "failures": 0,
+    "filter_mismatch": false,
+    "manifest": "reports/financials/g13/manifest.json",
+    "failure_log": "reports/financials/g13/failures.jsonl",
+    "requested_from_date": "2021-08-14",
+    "requested_to_date": "2026-08-14",
+    "completed_at": "2026-08-14T19:48:48.425246+08:00"
+  },
+  "records": [
+    {
+      "symbol": "G13",
+      "source_id": "MERE7XGMFNREKFK4",
+      "title": "Financial Statements and Related Announcement::Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2026-08-13",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/MERE7XGMFNREKFK4/",
+      "attachments": [
+        {
+          "name": "2. GENS 1H2026 SGX Results Announcement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/MERE7XGMFNREKFK4/900902_2.%20GENS%201H2026%20SGX%20Results%20Announcement.pdf",
+          "url": "reports/financials/g13/2026/2026-08-13_MERE7XGMFNREKFK4_02-900902_2. GENS 1H2026 SGX Results Announcement.pdf",
+          "local_path": "reports/financials/g13/2026/2026-08-13_MERE7XGMFNREKFK4_02-900902_2. GENS 1H2026 SGX Results Announcement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 627849,
+          "sha256": "3b7f3ce3ebc648f419b5077c85386673cfa8d10d6025dfc8e6c437fad6144a77",
+          "retrieved_at": "2026-08-14T11:46:49.516132+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2026/2026-08-13_MERE7XGMFNREKFK4_02-900902_2. GENS 1H2026 SGX Results Announcement.txt",
+            "page_count": 25,
+            "pages_with_text": 25,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "1. GENS 1H2026 Press Release.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/MERE7XGMFNREKFK4/900901_1.%20GENS%201H2026%20Press%20Release.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/MERE7XGMFNREKFK4/900901_1.%20GENS%201H2026%20Press%20Release.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 255372,
+          "sha256": "0b4690b26539bde77e923c632dbca9bb363cd0fb8e9e6dcf0861127c2c22f94e",
+          "retrieved_at": "2026-08-14T11:46:48.512251+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 3,
+            "pages_with_text": 3,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "press_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "2. GENS 1H2026 SGX Results Announcement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/MERE7XGMFNREKFK4/900902_2.%20GENS%201H2026%20SGX%20Results%20Announcement.pdf",
+          "url": "reports/financials/g13/2026/2026-08-13_MERE7XGMFNREKFK4_02-900902_2. GENS 1H2026 SGX Results Announcement.pdf",
+          "local_path": "reports/financials/g13/2026/2026-08-13_MERE7XGMFNREKFK4_02-900902_2. GENS 1H2026 SGX Results Announcement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 627849,
+          "sha256": "3b7f3ce3ebc648f419b5077c85386673cfa8d10d6025dfc8e6c437fad6144a77",
+          "retrieved_at": "2026-08-14T11:46:49.516132+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2026/2026-08-13_MERE7XGMFNREKFK4_02-900902_2. GENS 1H2026 SGX Results Announcement.txt",
+            "page_count": 25,
+            "pages_with_text": 25,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:46:50.093017+08:00"
+    },
+    {
+      "symbol": "G13",
+      "source_id": "A7CVA3KL4JFGECGT",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2026-02-24",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/A7CVA3KL4JFGECGT/",
+      "attachments": [
+        {
+          "name": "2. GENS FY2025 SGX Results Announcement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/A7CVA3KL4JFGECGT/875733_2.%20GENS%20FY2025%20SGX%20Results%20Announcement.pdf",
+          "url": "reports/financials/g13/2026/2026-02-24_A7CVA3KL4JFGECGT_02-875733_2. GENS FY2025 SGX Results Announcement.pdf",
+          "local_path": "reports/financials/g13/2026/2026-02-24_A7CVA3KL4JFGECGT_02-875733_2. GENS FY2025 SGX Results Announcement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 658606,
+          "sha256": "8cd408f63b9723ea8836cb463c2407954ee51e49d59333e2264060da4e8b1c2a",
+          "retrieved_at": "2026-08-14T11:46:52.610616+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2026/2026-02-24_A7CVA3KL4JFGECGT_02-875733_2. GENS FY2025 SGX Results Announcement.txt",
+            "page_count": 19,
+            "pages_with_text": 19,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "3. GENS FY2025 Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/A7CVA3KL4JFGECGT/875734_3.%20GENS%20FY2025%20Financial%20Statements.pdf",
+          "url": "reports/financials/g13/2026/2026-02-24_A7CVA3KL4JFGECGT_03-875734_3. GENS FY2025 Financial Statements.pdf",
+          "local_path": "reports/financials/g13/2026/2026-02-24_A7CVA3KL4JFGECGT_03-875734_3. GENS FY2025 Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1016708,
+          "sha256": "3b624cd5a98687b3125607e2253acc5f20655625c70428010aabea9d3359bf4a",
+          "retrieved_at": "2026-08-14T11:46:53.923290+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2026/2026-02-24_A7CVA3KL4JFGECGT_03-875734_3. GENS FY2025 Financial Statements.txt",
+            "page_count": 73,
+            "pages_with_text": 73,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "1. GENS - Press Release - Genting Singapore Reports FY2025 Results.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/A7CVA3KL4JFGECGT/875732_1.%20GENS%20-%20Press%20Release%20-%20Genting%20Singapore%20Reports%20FY2025%20Results.pdf",
+          "url": "https://links.sgx.com/1.0.0/corporate-announcements/A7CVA3KL4JFGECGT/875732_1.%20GENS%20-%20Press%20Release%20-%20Genting%20Singapore%20Reports%20FY2025%20Results.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 253164,
+          "sha256": "bd7bdbf898cae9a56da5d97af05763166a2daab14b9b145a44ca5c67744e510c",
+          "retrieved_at": "2026-08-14T11:46:51.666285+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "page_count": 3,
+            "pages_with_text": 3,
+            "quality": "text_present"
+          },
+          "classification": "presentation_or_release",
+          "confidence": "high",
+          "signals": [
+            "press_release"
+          ],
+          "reason": "Document identifies itself as a news, media, or press release",
+          "retained": false
+        },
+        {
+          "name": "2. GENS FY2025 SGX Results Announcement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/A7CVA3KL4JFGECGT/875733_2.%20GENS%20FY2025%20SGX%20Results%20Announcement.pdf",
+          "url": "reports/financials/g13/2026/2026-02-24_A7CVA3KL4JFGECGT_02-875733_2. GENS FY2025 SGX Results Announcement.pdf",
+          "local_path": "reports/financials/g13/2026/2026-02-24_A7CVA3KL4JFGECGT_02-875733_2. GENS FY2025 SGX Results Announcement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 658606,
+          "sha256": "8cd408f63b9723ea8836cb463c2407954ee51e49d59333e2264060da4e8b1c2a",
+          "retrieved_at": "2026-08-14T11:46:52.610616+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2026/2026-02-24_A7CVA3KL4JFGECGT_02-875733_2. GENS FY2025 SGX Results Announcement.txt",
+            "page_count": 19,
+            "pages_with_text": 19,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "3. GENS FY2025 Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/A7CVA3KL4JFGECGT/875734_3.%20GENS%20FY2025%20Financial%20Statements.pdf",
+          "url": "reports/financials/g13/2026/2026-02-24_A7CVA3KL4JFGECGT_03-875734_3. GENS FY2025 Financial Statements.pdf",
+          "local_path": "reports/financials/g13/2026/2026-02-24_A7CVA3KL4JFGECGT_03-875734_3. GENS FY2025 Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1016708,
+          "sha256": "3b624cd5a98687b3125607e2253acc5f20655625c70428010aabea9d3359bf4a",
+          "retrieved_at": "2026-08-14T11:46:53.923290+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2026/2026-02-24_A7CVA3KL4JFGECGT_03-875734_3. GENS FY2025 Financial Statements.txt",
+            "page_count": 73,
+            "pages_with_text": 73,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:46:55.098053+08:00"
+    },
+    {
+      "symbol": "G13",
+      "source_id": "ICQRGNBFANVDT4A4",
+      "title": "Financial Statements and Related Announcement::Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2025-08-07",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/ICQRGNBFANVDT4A4/",
+      "attachments": [
+        {
+          "name": "GENS 1H2025 SGX Results Announcement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/ICQRGNBFANVDT4A4/854607_GENS%201H2025%20SGX%20Results%20Announcement.pdf",
+          "url": "reports/financials/g13/2025/2025-08-07_ICQRGNBFANVDT4A4_01-854607_GENS 1H2025 SGX Results Announcement.pdf",
+          "local_path": "reports/financials/g13/2025/2025-08-07_ICQRGNBFANVDT4A4_01-854607_GENS 1H2025 SGX Results Announcement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 525623,
+          "sha256": "aaa8f2913955d4e032af7c1be4f9dff3f1b0519448c5db2532152d8bac90a453",
+          "retrieved_at": "2026-08-14T11:46:56.633048+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2025/2025-08-07_ICQRGNBFANVDT4A4_01-854607_GENS 1H2025 SGX Results Announcement.txt",
+            "page_count": 24,
+            "pages_with_text": 24,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "GENS 1H2025 SGX Results Announcement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/ICQRGNBFANVDT4A4/854607_GENS%201H2025%20SGX%20Results%20Announcement.pdf",
+          "url": "reports/financials/g13/2025/2025-08-07_ICQRGNBFANVDT4A4_01-854607_GENS 1H2025 SGX Results Announcement.pdf",
+          "local_path": "reports/financials/g13/2025/2025-08-07_ICQRGNBFANVDT4A4_01-854607_GENS 1H2025 SGX Results Announcement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 525623,
+          "sha256": "aaa8f2913955d4e032af7c1be4f9dff3f1b0519448c5db2532152d8bac90a453",
+          "retrieved_at": "2026-08-14T11:46:56.633048+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2025/2025-08-07_ICQRGNBFANVDT4A4_01-854607_GENS 1H2025 SGX Results Announcement.txt",
+            "page_count": 24,
+            "pages_with_text": 24,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:46:57.144515+08:00"
+    },
+    {
+      "symbol": "G13",
+      "source_id": "8RBGVLYDW6LJNJ2H",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2025-02-20",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/8RBGVLYDW6LJNJ2H/",
+      "attachments": [
+        {
+          "name": "GENS SGX announcement FY2024.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/8RBGVLYDW6LJNJ2H/833645_GENS%20SGX%20announcement%20FY2024.pdf",
+          "url": "reports/financials/g13/2025/2025-02-20_8RBGVLYDW6LJNJ2H_01-833645_GENS SGX announcement FY2024.pdf",
+          "local_path": "reports/financials/g13/2025/2025-02-20_8RBGVLYDW6LJNJ2H_01-833645_GENS SGX announcement FY2024.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 518396,
+          "sha256": "37180aa471a6a9a8a920b5a009beeaa47b57becfa1a9106fc22a649046830e33",
+          "retrieved_at": "2026-08-14T11:46:58.810057+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2025/2025-02-20_8RBGVLYDW6LJNJ2H_01-833645_GENS SGX announcement FY2024.txt",
+            "page_count": 20,
+            "pages_with_text": 20,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "GENS FY2024 Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/8RBGVLYDW6LJNJ2H/833646_GENS%20FY2024%20Financial%20Statements.pdf",
+          "url": "reports/financials/g13/2025/2025-02-20_8RBGVLYDW6LJNJ2H_02-833646_GENS FY2024 Financial Statements.pdf",
+          "local_path": "reports/financials/g13/2025/2025-02-20_8RBGVLYDW6LJNJ2H_02-833646_GENS FY2024 Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1089943,
+          "sha256": "d716480d65c6d0407cfe58524ec193839c492a63092b45dc7fd50ed1d6115543",
+          "retrieved_at": "2026-08-14T11:47:00.500352+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2025/2025-02-20_8RBGVLYDW6LJNJ2H_02-833646_GENS FY2024 Financial Statements.txt",
+            "page_count": 73,
+            "pages_with_text": 73,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "GENS SGX announcement FY2024.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/8RBGVLYDW6LJNJ2H/833645_GENS%20SGX%20announcement%20FY2024.pdf",
+          "url": "reports/financials/g13/2025/2025-02-20_8RBGVLYDW6LJNJ2H_01-833645_GENS SGX announcement FY2024.pdf",
+          "local_path": "reports/financials/g13/2025/2025-02-20_8RBGVLYDW6LJNJ2H_01-833645_GENS SGX announcement FY2024.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 518396,
+          "sha256": "37180aa471a6a9a8a920b5a009beeaa47b57becfa1a9106fc22a649046830e33",
+          "retrieved_at": "2026-08-14T11:46:58.810057+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2025/2025-02-20_8RBGVLYDW6LJNJ2H_01-833645_GENS SGX announcement FY2024.txt",
+            "page_count": 20,
+            "pages_with_text": 20,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "GENS FY2024 Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/8RBGVLYDW6LJNJ2H/833646_GENS%20FY2024%20Financial%20Statements.pdf",
+          "url": "reports/financials/g13/2025/2025-02-20_8RBGVLYDW6LJNJ2H_02-833646_GENS FY2024 Financial Statements.pdf",
+          "local_path": "reports/financials/g13/2025/2025-02-20_8RBGVLYDW6LJNJ2H_02-833646_GENS FY2024 Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1089943,
+          "sha256": "d716480d65c6d0407cfe58524ec193839c492a63092b45dc7fd50ed1d6115543",
+          "retrieved_at": "2026-08-14T11:47:00.500352+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2025/2025-02-20_8RBGVLYDW6LJNJ2H_02-833646_GENS FY2024 Financial Statements.txt",
+            "page_count": 73,
+            "pages_with_text": 73,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:47:01.410674+08:00"
+    },
+    {
+      "symbol": "G13",
+      "source_id": "S65WO5N3WX1EWJYV",
+      "title": "Financial Statements and Related Announcement::Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2024-08-14",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/S65WO5N3WX1EWJYV/",
+      "attachments": [
+        {
+          "name": "GENS 1H2024 SGX Results Announcement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/S65WO5N3WX1EWJYV/815634_GENS%201H2024%20SGX%20Results%20Announcement.pdf",
+          "url": "reports/financials/g13/2024/2024-08-14_S65WO5N3WX1EWJYV_01-815634_GENS 1H2024 SGX Results Announcement.pdf",
+          "local_path": "reports/financials/g13/2024/2024-08-14_S65WO5N3WX1EWJYV_01-815634_GENS 1H2024 SGX Results Announcement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 499699,
+          "sha256": "2d7dd5216d296108b7d3d251b82a7fe894d891c2515ea503eb3607fa4449d071",
+          "retrieved_at": "2026-08-14T11:47:02.938521+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2024/2024-08-14_S65WO5N3WX1EWJYV_01-815634_GENS 1H2024 SGX Results Announcement.txt",
+            "page_count": 24,
+            "pages_with_text": 24,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "GENS 1H2024 SGX Results Announcement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/S65WO5N3WX1EWJYV/815634_GENS%201H2024%20SGX%20Results%20Announcement.pdf",
+          "url": "reports/financials/g13/2024/2024-08-14_S65WO5N3WX1EWJYV_01-815634_GENS 1H2024 SGX Results Announcement.pdf",
+          "local_path": "reports/financials/g13/2024/2024-08-14_S65WO5N3WX1EWJYV_01-815634_GENS 1H2024 SGX Results Announcement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 499699,
+          "sha256": "2d7dd5216d296108b7d3d251b82a7fe894d891c2515ea503eb3607fa4449d071",
+          "retrieved_at": "2026-08-14T11:47:02.938521+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2024/2024-08-14_S65WO5N3WX1EWJYV_01-815634_GENS 1H2024 SGX Results Announcement.txt",
+            "page_count": 24,
+            "pages_with_text": 24,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:47:03.372048+08:00"
+    },
+    {
+      "symbol": "G13",
+      "source_id": "UT59NO2FRN36LJ4M",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2024-02-22",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/UT59NO2FRN36LJ4M/",
+      "attachments": [
+        {
+          "name": "GENS SGX announcement FY2023.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/UT59NO2FRN36LJ4M/787302_GENS%20SGX%20announcement%20FY2023.pdf",
+          "url": "reports/financials/g13/2024/2024-02-22_UT59NO2FRN36LJ4M_01-787302_GENS SGX announcement FY2023.pdf",
+          "local_path": "reports/financials/g13/2024/2024-02-22_UT59NO2FRN36LJ4M_01-787302_GENS SGX announcement FY2023.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 558304,
+          "sha256": "4004efe23bd447c143aa17a37de8ded2e3ad3954480b07ffc2ce564611131041",
+          "retrieved_at": "2026-08-14T11:47:05.428545+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2024/2024-02-22_UT59NO2FRN36LJ4M_01-787302_GENS SGX announcement FY2023.txt",
+            "page_count": 20,
+            "pages_with_text": 20,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "GENS FY2023 Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/UT59NO2FRN36LJ4M/787303_GENS%20FY2023%20Financial%20Statements.pdf",
+          "url": "reports/financials/g13/2024/2024-02-22_UT59NO2FRN36LJ4M_02-787303_GENS FY2023 Financial Statements.pdf",
+          "local_path": "reports/financials/g13/2024/2024-02-22_UT59NO2FRN36LJ4M_02-787303_GENS FY2023 Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1108314,
+          "sha256": "842e9c0d33cdc1a9bdd07de06b69e552e3109289263ce4f5d4583c6133ad1971",
+          "retrieved_at": "2026-08-14T11:47:06.677118+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2024/2024-02-22_UT59NO2FRN36LJ4M_02-787303_GENS FY2023 Financial Statements.txt",
+            "page_count": 74,
+            "pages_with_text": 74,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "GENS SGX announcement FY2023.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/UT59NO2FRN36LJ4M/787302_GENS%20SGX%20announcement%20FY2023.pdf",
+          "url": "reports/financials/g13/2024/2024-02-22_UT59NO2FRN36LJ4M_01-787302_GENS SGX announcement FY2023.pdf",
+          "local_path": "reports/financials/g13/2024/2024-02-22_UT59NO2FRN36LJ4M_01-787302_GENS SGX announcement FY2023.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 558304,
+          "sha256": "4004efe23bd447c143aa17a37de8ded2e3ad3954480b07ffc2ce564611131041",
+          "retrieved_at": "2026-08-14T11:47:05.428545+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2024/2024-02-22_UT59NO2FRN36LJ4M_01-787302_GENS SGX announcement FY2023.txt",
+            "page_count": 20,
+            "pages_with_text": 20,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "GENS FY2023 Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/UT59NO2FRN36LJ4M/787303_GENS%20FY2023%20Financial%20Statements.pdf",
+          "url": "reports/financials/g13/2024/2024-02-22_UT59NO2FRN36LJ4M_02-787303_GENS FY2023 Financial Statements.pdf",
+          "local_path": "reports/financials/g13/2024/2024-02-22_UT59NO2FRN36LJ4M_02-787303_GENS FY2023 Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1108314,
+          "sha256": "842e9c0d33cdc1a9bdd07de06b69e552e3109289263ce4f5d4583c6133ad1971",
+          "retrieved_at": "2026-08-14T11:47:06.677118+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2024/2024-02-22_UT59NO2FRN36LJ4M_02-787303_GENS FY2023 Financial Statements.txt",
+            "page_count": 74,
+            "pages_with_text": 74,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:47:08.034957+08:00"
+    },
+    {
+      "symbol": "G13",
+      "source_id": "YV53YK9BLAN2K664",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2023-02-20",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/YV53YK9BLAN2K664/",
+      "attachments": [
+        {
+          "name": "GENS SGX announcement FY2022.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/YV53YK9BLAN2K664/747038_GENS%20SGX%20announcement%20FY2022.pdf",
+          "url": "reports/financials/g13/2023/2023-02-20_YV53YK9BLAN2K664_01-747038_GENS SGX announcement FY2022.pdf",
+          "local_path": "reports/financials/g13/2023/2023-02-20_YV53YK9BLAN2K664_01-747038_GENS SGX announcement FY2022.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 555276,
+          "sha256": "fd38b84442938c7d1f7e19479226314149d1c658028e2ab87241b2d8454540a2",
+          "retrieved_at": "2026-08-14T11:48:11.742457+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2023/2023-02-20_YV53YK9BLAN2K664_01-747038_GENS SGX announcement FY2022.txt",
+            "page_count": 20,
+            "pages_with_text": 20,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "GENS FY2022 Audited Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/YV53YK9BLAN2K664/747039_GENS%20FY2022%20Audited%20Financial%20Statements.pdf",
+          "url": "reports/financials/g13/2023/2023-02-20_YV53YK9BLAN2K664_02-747039_GENS FY2022 Audited Financial Statements.pdf",
+          "local_path": "reports/financials/g13/2023/2023-02-20_YV53YK9BLAN2K664_02-747039_GENS FY2022 Audited Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1104350,
+          "sha256": "c0a51c148e0887f258a043ccf4af3819118ffd1cfc95a51b409072ba2a5400ed",
+          "retrieved_at": "2026-08-14T11:48:12.965155+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2023/2023-02-20_YV53YK9BLAN2K664_02-747039_GENS FY2022 Audited Financial Statements.txt",
+            "page_count": 74,
+            "pages_with_text": 74,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "GENS SGX announcement FY2022.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/YV53YK9BLAN2K664/747038_GENS%20SGX%20announcement%20FY2022.pdf",
+          "url": "reports/financials/g13/2023/2023-02-20_YV53YK9BLAN2K664_01-747038_GENS SGX announcement FY2022.pdf",
+          "local_path": "reports/financials/g13/2023/2023-02-20_YV53YK9BLAN2K664_01-747038_GENS SGX announcement FY2022.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 555276,
+          "sha256": "fd38b84442938c7d1f7e19479226314149d1c658028e2ab87241b2d8454540a2",
+          "retrieved_at": "2026-08-14T11:48:11.742457+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2023/2023-02-20_YV53YK9BLAN2K664_01-747038_GENS SGX announcement FY2022.txt",
+            "page_count": 20,
+            "pages_with_text": 20,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "GENS FY2022 Audited Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/YV53YK9BLAN2K664/747039_GENS%20FY2022%20Audited%20Financial%20Statements.pdf",
+          "url": "reports/financials/g13/2023/2023-02-20_YV53YK9BLAN2K664_02-747039_GENS FY2022 Audited Financial Statements.pdf",
+          "local_path": "reports/financials/g13/2023/2023-02-20_YV53YK9BLAN2K664_02-747039_GENS FY2022 Audited Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1104350,
+          "sha256": "c0a51c148e0887f258a043ccf4af3819118ffd1cfc95a51b409072ba2a5400ed",
+          "retrieved_at": "2026-08-14T11:48:12.965155+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2023/2023-02-20_YV53YK9BLAN2K664_02-747039_GENS FY2022 Audited Financial Statements.txt",
+            "page_count": 74,
+            "pages_with_text": 74,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:48:13.903386+08:00"
+    },
+    {
+      "symbol": "G13",
+      "source_id": "3R51HO9BNXSVKL3Y",
+      "title": "Financial Statements and Related Announcement::Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2022-08-12",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/3R51HO9BNXSVKL3Y/",
+      "attachments": [
+        {
+          "name": "GENS 1HFY2022 SGX Results Anncmt.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/3R51HO9BNXSVKL3Y/728218_GENS%201HFY2022%20SGX%20Results%20Anncmt.pdf",
+          "url": "reports/financials/g13/2022/2022-08-12_3R51HO9BNXSVKL3Y_01-728218_GENS 1HFY2022 SGX Results Anncmt.pdf",
+          "local_path": "reports/financials/g13/2022/2022-08-12_3R51HO9BNXSVKL3Y_01-728218_GENS 1HFY2022 SGX Results Anncmt.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 508903,
+          "sha256": "d65b1e0670e8811460f1fea29eb6963c80d15b157af01cfb3c87d5062a74684b",
+          "retrieved_at": "2026-08-14T11:48:15.382516+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2022/2022-08-12_3R51HO9BNXSVKL3Y_01-728218_GENS 1HFY2022 SGX Results Anncmt.txt",
+            "page_count": 25,
+            "pages_with_text": 25,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "GENS 1HFY2022 SGX Results Anncmt.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/3R51HO9BNXSVKL3Y/728218_GENS%201HFY2022%20SGX%20Results%20Anncmt.pdf",
+          "url": "reports/financials/g13/2022/2022-08-12_3R51HO9BNXSVKL3Y_01-728218_GENS 1HFY2022 SGX Results Anncmt.pdf",
+          "local_path": "reports/financials/g13/2022/2022-08-12_3R51HO9BNXSVKL3Y_01-728218_GENS 1HFY2022 SGX Results Anncmt.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 508903,
+          "sha256": "d65b1e0670e8811460f1fea29eb6963c80d15b157af01cfb3c87d5062a74684b",
+          "retrieved_at": "2026-08-14T11:48:15.382516+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2022/2022-08-12_3R51HO9BNXSVKL3Y_01-728218_GENS 1HFY2022 SGX Results Anncmt.txt",
+            "page_count": 25,
+            "pages_with_text": 25,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:48:15.862923+08:00"
+    },
+    {
+      "symbol": "G13",
+      "source_id": "Z59EQKAR5PFS8DEC",
+      "title": "Financial Statements and Related Announcement::Full Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2022-02-17",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/Z59EQKAR5PFS8DEC/",
+      "attachments": [
+        {
+          "name": "GENS SGX announcement FY2021.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/Z59EQKAR5PFS8DEC/702389_GENS%20SGX%20announcement%20FY2021.pdf",
+          "url": "reports/financials/g13/2022/2022-02-17_Z59EQKAR5PFS8DEC_01-702389_GENS SGX announcement FY2021.pdf",
+          "local_path": "reports/financials/g13/2022/2022-02-17_Z59EQKAR5PFS8DEC_01-702389_GENS SGX announcement FY2021.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1002054,
+          "sha256": "8d73bc93e425ff075189b6d830d2112ba899823c7064c8b964bf755f01fa4173",
+          "retrieved_at": "2026-08-14T11:48:17.646330+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2022/2022-02-17_Z59EQKAR5PFS8DEC_01-702389_GENS SGX announcement FY2021.txt",
+            "page_count": 20,
+            "pages_with_text": 20,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "GENS FY2021 Audited Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/Z59EQKAR5PFS8DEC/702390_GENS%20FY2021%20Audited%20Financial%20Statements.pdf",
+          "url": "reports/financials/g13/2022/2022-02-17_Z59EQKAR5PFS8DEC_02-702390_GENS FY2021 Audited Financial Statements.pdf",
+          "local_path": "reports/financials/g13/2022/2022-02-17_Z59EQKAR5PFS8DEC_02-702390_GENS FY2021 Audited Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1445086,
+          "sha256": "297f85074ddf6901086506eea4a659a715bbe7d2696bc4402ed201e104b64806",
+          "retrieved_at": "2026-08-14T11:48:18.872781+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2022/2022-02-17_Z59EQKAR5PFS8DEC_02-702390_GENS FY2021 Audited Financial Statements.txt",
+            "page_count": 74,
+            "pages_with_text": 74,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "GENS SGX announcement FY2021.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/Z59EQKAR5PFS8DEC/702389_GENS%20SGX%20announcement%20FY2021.pdf",
+          "url": "reports/financials/g13/2022/2022-02-17_Z59EQKAR5PFS8DEC_01-702389_GENS SGX announcement FY2021.pdf",
+          "local_path": "reports/financials/g13/2022/2022-02-17_Z59EQKAR5PFS8DEC_01-702389_GENS SGX announcement FY2021.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1002054,
+          "sha256": "8d73bc93e425ff075189b6d830d2112ba899823c7064c8b964bf755f01fa4173",
+          "retrieved_at": "2026-08-14T11:48:17.646330+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2022/2022-02-17_Z59EQKAR5PFS8DEC_01-702389_GENS SGX announcement FY2021.txt",
+            "page_count": 20,
+            "pages_with_text": 20,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        },
+        {
+          "name": "GENS FY2021 Audited Financial Statements.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/Z59EQKAR5PFS8DEC/702390_GENS%20FY2021%20Audited%20Financial%20Statements.pdf",
+          "url": "reports/financials/g13/2022/2022-02-17_Z59EQKAR5PFS8DEC_02-702390_GENS FY2021 Audited Financial Statements.pdf",
+          "local_path": "reports/financials/g13/2022/2022-02-17_Z59EQKAR5PFS8DEC_02-702390_GENS FY2021 Audited Financial Statements.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 1445086,
+          "sha256": "297f85074ddf6901086506eea4a659a715bbe7d2696bc4402ed201e104b64806",
+          "retrieved_at": "2026-08-14T11:48:18.872781+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2022/2022-02-17_Z59EQKAR5PFS8DEC_02-702390_GENS FY2021 Audited Financial Statements.txt",
+            "page_count": 74,
+            "pages_with_text": 74,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity",
+            "financial_notes"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:48:19.807602+08:00"
+    },
+    {
+      "symbol": "G13",
+      "source_id": "T1EST7NEFDH1YTCM",
+      "title": "Financial Statements and Related Announcement::Half Yearly Results",
+      "category": "Financial Statements",
+      "published_date": "2023-08-10",
+      "announcement_url": "https://links.sgx.com/1.0.0/corporate-announcements/T1EST7NEFDH1YTCM/",
+      "attachments": [
+        {
+          "name": "GENS 1H2023 SGX Results Announcement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/T1EST7NEFDH1YTCM/768407_GENS%201H2023%20SGX%20Results%20Announcement.pdf",
+          "url": "reports/financials/g13/2023/2023-08-10_T1EST7NEFDH1YTCM_01-768407_GENS 1H2023 SGX Results Announcement.pdf",
+          "local_path": "reports/financials/g13/2023/2023-08-10_T1EST7NEFDH1YTCM_01-768407_GENS 1H2023 SGX Results Announcement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 544106,
+          "sha256": "74a03a770ce94f88c0ed135b5e3f3442c51b5d087a254c6ee63c5e6b66c3cfdf",
+          "retrieved_at": "2026-08-14T11:48:47.156127+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2023/2023-08-10_T1EST7NEFDH1YTCM_01-768407_GENS 1H2023 SGX Results Announcement.txt",
+            "page_count": 25,
+            "pages_with_text": 25,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "attachment_decisions": [
+        {
+          "name": "GENS 1H2023 SGX Results Announcement.pdf",
+          "source_url": "https://links.sgx.com/1.0.0/corporate-announcements/T1EST7NEFDH1YTCM/768407_GENS%201H2023%20SGX%20Results%20Announcement.pdf",
+          "url": "reports/financials/g13/2023/2023-08-10_T1EST7NEFDH1YTCM_01-768407_GENS 1H2023 SGX Results Announcement.pdf",
+          "local_path": "reports/financials/g13/2023/2023-08-10_T1EST7NEFDH1YTCM_01-768407_GENS 1H2023 SGX Results Announcement.pdf",
+          "cache_status": "cached",
+          "content_type": "application/pdf",
+          "bytes": 544106,
+          "sha256": "74a03a770ce94f88c0ed135b5e3f3442c51b5d087a254c6ee63c5e6b66c3cfdf",
+          "retrieved_at": "2026-08-14T11:48:47.156127+00:00",
+          "text_extraction": {
+            "status": "extracted",
+            "text_path": "reports/financials/g13/2023/2023-08-10_T1EST7NEFDH1YTCM_01-768407_GENS 1H2023 SGX Results Announcement.txt",
+            "page_count": 25,
+            "pages_with_text": 25,
+            "quality": "text_present"
+          },
+          "classification": "primary_financial_statement",
+          "confidence": "high",
+          "signals": [
+            "income_statement",
+            "financial_position",
+            "cash_flow",
+            "changes_in_equity"
+          ],
+          "reason": "Document contains at least three core financial-statement sections",
+          "retained": true
+        }
+      ],
+      "processing_status": "archived",
+      "retrieved_at": "2026-08-14T19:48:47.605830+08:00"
+    }
+  ]
+}

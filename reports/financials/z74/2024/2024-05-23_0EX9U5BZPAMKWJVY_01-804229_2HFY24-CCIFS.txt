@@ -1,0 +1,2496 @@
+--- PAGE 1 ---
+             SINGAPORE TELECOMMUNICATIONS LIMITED
+                   AND SUBSIDIARY COMPANIES
+
+
+
+       CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS
+        FOR THE SECOND HALF YEAR AND FINANCIAL YEAR ENDED
+                          31 MARCH 2024
+
+
+
+
+Contents                                                                          Page
+
+Consolidated income statement ………………………………………………..……..                              1
+Consolidated statement of comprehensive income ………………………….……..                      2
+Statements of financial position (Group and Company) ………………..................       3
+Statements of changes in equity (Group and Company) …………………………..                    5
+Consolidated statement of cash flows ………………………………………………..                          13
+Selected notes to the financial statements ……….………………..........................    17
+Dividends ……………………………………………………………………….............                                 29
+Subsequent event……………………………………………………………………….                                       40
+Independent auditors’ report ………….……………………………………………….                              42
+
+--- PAGE 2 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                   1
+
+
+
+CONSOLIDATED INCOME STATEMENT
+For the second half year and financial year ended 31 March 2024
+
+
+                                                         Second Half                         Year
+                                                            31 Mar                          31 Mar
+                                                       2024        2023               2024          2023
+                                                      S$ Mil     S$ Mil              S$ Mil        S$ Mil
+ Group                                       Notes (Unaudited) (Unaudited)         (Audited)     (Audited)
+
+ Operating revenue                                       7,099.2       7,365.5       14,127.5     14,624.4
+ Operating expenses                            2        (5,381.6)     (5,677.8)     (10,749.9)   (11,133.6)
+ Other income                                  3            92.4         120.7          219.3        195.1
+                                                         1,810.0       1,808.4        3,596.9        3,685.9
+ Depreciation and amortisation                 4        (1,236.7)     (1,275.6)      (2,444.0)    (2,574.1)
+                                                           573.3         532.8        1,152.9        1,111.8
+ Exceptional items                             5        (2,442.4)        (66.1)      (1,250.3)         18.7
+ (Loss)/ Profit on operating activities                 (1,869.1)        466.7          (97.4)       1,130.5
+ Share of results of associates and
+  joint ventures                               6           685.5         871.8        1,361.5        1,826.8
+ Net (loss)/ profit before interest,
+  investment income (net) and tax                       (1,183.6)      1,338.5        1,264.1        2,957.3
+ Interest and investment income (net)          7            56.9          46.4          141.3           56.9
+ Finance costs                                 8          (231.4)       (209.1)        (444.2)        (415.8)
+ Net (loss)/ profit before tax                          (1,358.1)      1,175.8          961.2        2,598.4
+ Tax credit/ (expense)                         9            21.0        (116.8)        (157.7)        (364.9)
+ Net (loss)/ profit after tax                           (1,337.1)      1,059.0          803.5        2,233.5
+
+ Attributable to:
+ Shareholders of the Company                            (1,341.4)      1,055.4          795.0        2,225.1
+ Non-controlling interests                                   4.3           3.6            8.5            8.4
+                                                        (1,337.1)      1,059.0          803.5        2,233.5
+
+ Earnings per share attributable
+   to shareholders of the Company
+  - basic                                      11        (8.13¢)         6.39¢          4.82¢        13.48¢
+  - diluted                                    11        (8.14¢)         6.35¢          4.75¢        13.40¢
+
+
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 3 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                  2
+
+
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+For the second half year and financial year ended 31 March 2024
+
+                                                              Second Half                        Year
+                                                                 31 Mar                         31 Mar
+ Group                                                      2024        2023             2024          2023
+                                                           S$ Mil      S$ Mil           S$ Mil        S$ Mil
+                                                        (Unaudited) (Unaudited)       (Audited)     (Audited)
+
+
+ Net (loss)/ profit after tax                              (1,337.1)      1,059.0         803.5          2,233.5
+
+ Other comprehensive (loss)/ income
+ Items that may be reclassified subsequently
+   to income statement:
+   Exchange differences arising from translation
+    of foreign operations and other currency
+    translation differences                                  (322.0)       (810.5)       (610.1)     (1,803.9)
+
+   Reclassification of translation loss to income
+    statement on deconsolidation of subsidiaries               29.8           5.0          29.8            39.6
+
+   Reclassification of translation loss to income
+    statement on dilution of interest in joint
+    ventures                                                   64.3           3.9         127.1           164.9
+
+   Cash flow hedges
+    - Fair value changes                                      (58.3)       (271.9)         22.9            (33.0)
+    - Tax effects                                               2.8          (2.0)         (6.6)           (31.7)
+                                                              (55.5)       (273.9)         16.3            (64.7)
+
+     - Fair value changes transferred
+        to income statement                                    30.5         264.4         (83.7)            7.7
+     - Tax effects                                              3.3          18.7           4.7            22.0
+                                                               33.8         283.1         (79.0)           29.7
+
+                                                              (21.7)          9.2         (62.7)           (35.0)
+   Share of other comprehensive income/ (loss)
+    of associates and joint ventures                           28.1        (104.6)         68.0            (86.8)
+
+   Reclassification of share of other comprehensive
+    gain of joint ventures to income statement on
+    dilution of interest in joint ventures                    (26.8)         (2.1)        (33.5)           (91.2)
+
+ Items that will not be reclassified subsequently
+   to income statement:
+   Fair value changes on Fair Value through Other
+    Comprehensive Income ("FVOCI") investments                (62.0)        (65.3)        115.2           (116.9)
+
+
+ Other comprehensive loss, net of tax                        (310.3)       (964.4)       (366.2)     (1,929.3)
+
+ Total comprehensive (loss)/ income                        (1,647.4)         94.6         437.3           304.2
+
+ Attributable to:
+ Shareholders of the Company                               (1,651.2)         91.2         429.1           296.5
+ Non-controlling interests                                      3.8           3.4           8.2             7.7
+
+                                                           (1,647.4)         94.6         437.3           304.2
+
+
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 4 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                  3
+
+
+STATEMENTS OF FINANCIAL POSITION
+As at 31 March 2024
+
+
+                                                            Group                         Company
+                                                     As at          As at           As at         As at
+                                                   31 Mar 24      31 Mar 23       31 Mar 24     31 Mar 23
+                                                     S$ Mil         S$ Mil          S$ Mil        S$ Mil
+                                          Notes    (Audited)      (Audited)       (Audited)     (Audited)
+
+
+ Current assets
+ Cash and cash equivalents                            4,605.2        1,667.9            444.5          228.6
+ Trade and other receivables                          5,005.7        5,012.8            375.5          442.4
+ Due from subsidiaries                                     -              -           3,568.7        1,482.1
+ Inventories                                            301.4          346.2             61.5           52.0
+ Derivative financial instruments                        29.2           69.4              0.6            0.1
+ Other assets                                           418.6        1,486.5             21.5             -
+                                                     10,360.1        8,582.8          4,472.3        2,205.2
+
+ Non-current assets
+ Property, plant and equipment                       10,046.5       10,384.6         1,903.9         1,852.4
+ Right-of-use assets                                  2,824.2        3,000.1           401.6           462.0
+ Intangible assets                                    8,227.0       10,989.5              -               -
+ Subsidiaries                                              -              -         18,611.1        20,101.6
+ Joint ventures                                      10,538.4        9,415.4             1.1             1.1
+ Associates                                           2,219.5        2,372.7            24.7            24.7
+ Fair value through other comprehensive
+  income ("FVOCI") investments                          604.9          733.7              -               -
+ Derivative financial instruments                       161.1          157.7            25.9            23.4
+ Deferred tax assets                                    600.1          305.4              -               -
+ Other assets                                           616.7          588.1            56.4            83.9
+                                                     35,838.4       37,947.2        21,024.7        22,549.1
+
+ Total assets                                        46,198.5       46,530.0        25,497.0        24,754.3
+
+
+ Current liabilities
+ Trade and other payables                             5,406.2        5,309.9          1,237.8          927.3
+ Due to subsidiaries                                       -              -           2,519.5        1,973.5
+ Advance billings                                       750.7          793.9             99.5           96.6
+ Current tax liabilities                                887.0          731.0             34.5           35.6
+ Borrowings (unsecured)                    13            24.0          471.1               -              -
+ Borrowings (secured)                      13           545.7          511.6             62.3           58.7
+ Derivative financial instruments                        14.8           48.2             10.6            2.3
+ Net deferred gain                                       21.0           20.8               -              -
+ Dividend payable                                          -           412.6               -           412.6
+                                                      7,649.4        8,299.1          3,964.2        3,506.6
+
+
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 5 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                               4
+
+
+
+STATEMENTS OF FINANCIAL POSITION
+As at 31 March 2024
+
+
+                                                           Group                          Company
+                                                    As at         As at             As at         As at
+                                                  31 Mar 24     31 Mar 23         31 Mar 24    31 Mar 23
+                                                    S$ Mil        S$ Mil            S$ Mil       S$ Mil
+                                       Notes      (Audited)     (Audited)         (Audited)    (Audited)
+
+
+ Non-current liabilities
+ Advance billings                                      503.0           425.5           363.6        255.3
+ Borrowings (unsecured)                  13          8,225.3         7,142.4           668.1        668.7
+ Borrowings (secured)                    13          3,104.6         2,768.2           336.8        372.8
+ Derivative financial instruments                      649.3           729.2           206.3        197.5
+ Net deferred gain                                     344.6           345.7              -            -
+ Deferred tax liabilities                              539.7           542.5           271.7        257.3
+ Other non-current liabilities                         217.9           263.1            39.2         36.2
+                                                    13,584.4        12,216.6         1,885.7      1,787.8
+
+ Total liabilities                                  21,233.8        20,515.7         5,849.9      5,294.4
+
+ Net assets                                         24,964.7        26,014.3        19,647.1     19,459.9
+
+ Share capital and reserves
+ Share capital                           16          4,573.1         4,573.1         4,573.1      4,573.1
+ Reserves                                           19,341.9        20,419.2        15,074.0     14,886.8
+ Equity attributable to shareholders
+  of the Company                                    23,915.0        24,992.3        19,647.1     19,459.9
+ Perpetual securities                                1,012.7         1,012.6              -            -
+                                                    24,927.7        26,004.9        19,647.1     19,459.9
+ Non-controlling interests                              37.0            16.2              -            -
+ Other reserve                                            -             (6.8)             -            -
+ Total equity                                       24,964.7        26,014.3        19,647.1     19,459.9
+
+
+
+
+ The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 6 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                                                                                                    5
+
+
+STATEMENTS OF CHANGES IN EQUITY
+For the second half year ended 31 March 2024
+
+                                                                        Attributable to shareholders of the Company
+                                                                            Currency                                                                                        Non-
+                                               Share     Treasury Capital Translation Hedging Fair Value Retained   Other           Total       Perpetual    Total       controlling    Total
+                                                                (1)                  (2)                                   (3)
+ Group - 2024                                  Capital   Shares     Reserve Reserve      Reserve Reserve Earnings Reserves                      Securities                Interests    Equity
+ (Unaudited)                                   S$ Mil     S$ Mil     S$ Mil   S$ Mil      S$ Mil  S$ Mil  S$ Mil    S$ Mil          S$ Mil       S$ Mil      S$ Mil         S$ Mil     S$ Mil
+
+ Balance as at 1 October 2023                  4,573.1       (14.0)   (69.5)   (3,975.1)   (134.6)   225.2    26,054.8    (480.1)   26,179.8      1,012.7    27,192.5          18.2    27,210.7
+
+ Changes in equity for the period
+ Distribution paid on perpetual securities          -           -       -            -         -        -          2.7        -          2.7        (16.5)      (13.8)           -        (13.8)
+ Accrued perpetual securities distribution          -           -       -            -         -        -        (16.5)       -        (16.5)        16.5          -             -           -
+ Performance shares purchased by the Company        -        (18.3)     -            -         -        -           -         -        (18.3)          -        (18.3)           -        (18.3)
+ Equity-settled share based payment                 -           -     17.4           -         -        -           -         -         17.4           -         17.4            -         17.4
+ Cash paid to employees under
+   performance share plans                          -           -      (0.1)         -         -        -             -       -         (0.1)          -         (0.1)           -         (0.1)
+ Reclassification from Capital Reserve to
+   Retained Earnings                                -           -     (28.6)         -         -        -         28.6        -             -          -             -           -           -
+ Goodwill reclassified on dilution of
+    equity interest in joint venture                -           -        -           -         -        -        (19.3)    19.3             -          -             -           -           -
+ Reclassfication from Other Reserves to
+   Retained Earnings                                -           -        -           -         -        -        (27.7)    27.7           -            -           -             -           -
+ Dividend paid to non-controlling interests         -           -        -           -         -        -           -        -            -            -           -           (6.5)       (6.5)
+ Interim dividend paid                              -           -        -           -         -        -       (858.3)      -        (858.3)          -       (858.3)           -       (858.3)
+ Contribution from non-controlling interests        -           -        -           -         -        -           -     259.5        259.5           -        259.5          21.5       281.0
+ Reclassification due to disposal of
+    FVOCI Investments                               -           -        -           -         -      38.0       (38.0)      -            -            -           -             -           -
+                                                    -        (18.3)   (11.3)         -         -      38.0      (928.5)   306.5       (613.6)          -       (613.6)         15.0      (598.6)
+ Total comprehensive (loss)/ income
+  for the period                                    -           -        -       (227.4)    (21.7)   (62.0)   (1,341.4)      1.3    (1,651.2)          -     (1,651.2)          3.8    (1,647.4)
+
+ Balance as at 31 March 2024                   4,573.1       (32.3)   (80.8)   (4,202.5)   (156.3)   201.2    23,784.9    (172.3)   23,915.0      1,012.7    24,927.7          37.0    24,964.7
+
+
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 7 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                                                                                                                     6
+
+
+STATEMENTS OF CHANGES IN EQUITY
+For the second half year ended 31 March 2024
+
+                                                                          Attributable to shareholders of the Company
+                                                                              Currency                                                                                        Non-
+                                                 Share     Treasury Capital Translation Hedging Fair Value Retained  Other            Total       Perpetual    Total       controlling Other          Total
+ Group - 2023                                    Capital   Shares (1) Reserve Reserve (2) Reserve Reserve Earnings Reserves (3)                   Securities                Interests Reserve
+                                                                                                                                                                                               (4)
+                                                                                                                                                                                                      Equity
+ (Unaudited)                                     S$ Mil      S$ Mil    S$ Mil   S$ Mil     S$ Mil S$ Mil    S$ Mil   S$ Mil           S$ Mil       S$ Mil      S$ Mil         S$ Mil    S$ Mil        S$ Mil
+
+ Balance as at 1 October 2022                    4,573.1      (22.5)   (73.0)    (2,948.2)   (102.8)    96.5    25,402.4    (433.4)   26,492.1      1,012.7    27,504.8         19.7         (15.8)   27,508.7
+
+ Changes in equity for the period
+ Distribution paid on perpetual securities            -          -        -            -         -        -          2.8        -          2.8        (16.6)      (13.8)           -            -        (13.8)
+ Accrued perpetual securities distribution            -          -        -            -         -        -        (16.5)       -        (16.5)        16.5          -             -            -           -
+ Performance shares purchased by the Company          -        (9.4)      -            -         -        -           -         -         (9.4)          -         (9.4)           -            -         (9.4)
+ Performance shares vested                            -         0.1     (0.1)          -         -        -           -         -           -            -           -             -            -           -
+ Equity-settled share based payment                   -          -      17.1           -         -        -           -         -         17.1           -         17.1            -            -         17.1
+ Performance shares purchased by Singtel Optus
+    Pty Limited ("Optus") and vested                  -          -      (0.3)          -         -        -             -       -         (0.3)          -         (0.3)           -            -         (0.3)
+ Goodwill reclassified on dilution of
+    equity interest in joint venture                  -          -        -            -         -        -         (1.0)      1.0          -            -           -             -            -           -
+ Dividend paid to non-controlling interests           -          -        -            -         -        -           -         -           -            -           -           (6.9)          -         (6.9)
+ Interim dividend paid                                -          -        -            -         -        -       (759.2)       -       (759.2)          -       (759.2)           -            -       (759.2)
+ Special dividend paid                                -          -        -            -         -        -       (412.6)       -       (412.6)          -       (412.6)           -            -       (412.6)
+ Special dividend payable                             -          -        -            -         -        -       (412.6)       -       (412.6)          -       (412.6)           -            -       (412.6)
+ Capital reduction by subsidiary with
+   non-controlling interests                          -          -        -            -         -        -             -     (0.3)       (0.3)          -         (0.3)           -            -         (0.3)
+ Reclassification due to disposal of
+    FVOCI Investments                                 -          -        -            -         -       1.7        (1.7)       -           -            -           -             -            -           -
+ Fair value change of a put option liability          -          -        -            -         -        -           -         -           -            -           -             -           9.0         9.0
+                                                      -        (9.3)    16.7           -         -       1.7    (1,600.8)      0.7    (1,591.0)        (0.1)   (1,591.1)         (6.9)         9.0    (1,589.0)
+ Total comprehensive (loss)/ income
+  for the period                                      -          -        -        (801.4)      9.2    (65.3)    1,055.4    (106.7)       91.2           -         91.2           3.4           -        94.6
+
+ Balance as at 31 March 2023                     4,573.1      (31.8)   (56.3)    (3,749.6)    (93.6)    32.9    24,857.0    (539.4)   24,992.3      1,012.6    26,004.9         16.2          (6.8)   26,014.3
+
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 8 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                                                                        7
+
+
+STATEMENTS OF CHANGES IN EQUITY
+For the second half year ended 31 March 2024
+
+
+                                                               Share          Treasury          Capital       Hedging       Retained       Other        Total
+ Company - 2024                                                Capital        Shares (1)        Reserve       Reserve       Earnings      Reserve       Equity
+ (Unaudited)                                                   S$ Mil           S$ Mil           S$ Mil        S$ Mil        S$ Mil        S$ Mil       S$ Mil
+
+ Balance as at 1 October 2023                                     4,573.1            (11.4)          88.3          56.9       14,360.4              -    19,067.3
+
+ Changes in equity for the period
+
+ Performance shares purchased by the Company                             -           (18.3)            -                -           -            -          (18.3)
+ Equity-settled share based payment                                      -              -            11.8               -           -            -           11.8
+ Cash paid to employees under performance share plans                    -              -            (0.1)              -           -            -           (0.1)
+ Deemed return of capital from a subsidiary                              -              -              -                -           -         311.6         311.6
+ Interim dividend paid                                                   -              -              -                -       (858.3)          -         (858.3)
+                                                                         -           (18.3)          11.7               -       (858.3)       311.6        (553.3)
+ Total comprehensive (loss)/ income for the period                       -                 -              -        (37.2)      1,170.3              -     1,133.1
+
+ Balance as at 31 March 2024                                      4,573.1            (29.7)         100.0          19.7       14,672.4        311.6      19,647.1
+
+
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 9 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                                                                                   8
+
+
+STATEMENTS OF CHANGES IN EQUITY
+For the second half year ended 31 March 2024
+
+
+                                                                          Share           Treasury         Capital          Hedging          Retained           Total
+ Company - 2023                                                           Capital         Shares (1)       Reserve          Reserve          Earnings           Equity
+ (Unaudited)                                                              S$ Mil           S$ Mil           S$ Mil           S$ Mil           S$ Mil            S$ Mil
+
+ Balance as at 1 October 2022                                                 4,573.1            (19.8)           86.0              57.2         16,143.6          20,840.1
+
+ Changes in equity for the period
+ Performance shares purchased by the Company                                        -              (9.4)            -                 -                -                (9.4)
+ Equity-settled share based payment                                                 -                -            11.5                -                -                11.5
+ Interim dividend paid                                                              -                -              -                 -            (759.2)            (759.2)
+ Special dividend paid                                                              -                -              -                 -            (412.6)            (412.6)
+ Special dividend payable                                                           -                -              -                 -            (412.6)            (412.6)
+                                                                                    -              (9.4)          11.5                -          (1,584.4)          (1,582.3)
+ Total comprehensive (loss)/ income for the period                                  -                  -             -             (24.9)           227.0             202.1
+
+ Balance as at 31 March 2023                                                  4,573.1            (29.2)           97.5              32.3         14,786.2          19,459.9
+
+
+
+Notes:
+(1) ‘Treasury Shares’ are accounted for in accordance with Singapore Financial Reporting Standards (International) (“SFRS(I)”) 1-32, Financial Instruments: Presentation.
+(2) ‘Currency Translation Reserve’ relates mainly to the translation of the net assets of foreign subsidiaries, associates and joint ventures of the Group denominated mainly in
+    Australian Dollar, Indian Rupee, Indonesian Rupiah, Philippine Peso, Thai Baht and United States Dollar.
+(3) ‘Other Reserves’ relate mainly to goodwill on acquisitions completed prior to 1 April 2001, the share of other comprehensive income or loss of the associates and joint
+    ventures and transactions with non-controlling interests.
+(4) This amount relates to a reserve for an obligation arising from a put option written with the non-controlling shareholder of a subsidiary.
+
+
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 10 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                                                                                                                                     9
+
+
+STATEMENTS OF CHANGES IN EQUITY
+For the financial year ended 31 March 2024
+
+                                                                             Attributable to shareholders of the Company
+                                                                                Currency                                                                                                   Non-
+                                               Share     Treasury Capital Translation Hedging Fair Value          Retained          Other        Total        Perpetual     Total       controlling     Other          Total
+                                                                 (1)                  (2)                                                  (3)                                                                 (4)
+ Group - 2024                                  Capital   Shares      Reserve Reserve      Reserve Reserve         Earnings        Reserves                    Securities                 Interests    Reserve         Equity
+ (Audited)                                     S$ Mil      S$ Mil     S$ Mil   S$ Mil      S$ Mil  S$ Mil          S$ Mil           S$ Mil       S$ Mil         S$ Mil     S$ Mil          S$ Mil       S$ Mil        S$ Mil
+
+ Balance as at 1 April 2023                    4,573.1      (31.8)    (56.3)      (3,749.6)    (93.6)      32.9     24,857.0          (539.4)    24,992.3       1,012.6    26,004.9           16.2            (6.8)   26,014.3
+
+ Changes in equity for the year
+ Distribution paid on perpetual securities          -           -        -              -         -          -            5.6             -           5.6         (33.0)      (27.4)              -             -        (27.4)
+ Accrued perpetual securities distribution          -           -        -              -         -          -          (33.1)            -         (33.1)         33.1          -                -             -           -
+ Performance shares purchased by
+    the Company                                     -       (21.3)       -              -         -          -               -            -         (21.3)           -        (21.3)              -             -        (21.3)
+ Performance shares purchased by the
+   Company on behalf of subsidiaries                -        (4.1)       -              -         -          -               -            -         (4.1)            -        (4.1)               -             -         (4.1)
+ Performance shares vested                          -        24.9     (24.9)            -         -          -               -            -           -              -          -                 -             -           -
+ Equity-settled share based payment                 -          -       36.4             -         -          -               -            -         36.4             -        36.4                -             -         36.4
+ Cash paid to employees under
+    performance share plans                         -           -      (0.1)            -         -          -               -            -          (0.1)           -         (0.1)              -             -         (0.1)
+ Performance shares purchased by
+    Optus and vested                                -           -      (7.3)            -         -          -               -            -          (7.3)           -         (7.3)              -             -         (7.3)
+ Reclassification from Capital Reserve to
+    Retained Earnings                               -           -     (28.6)            -         -          -             28.6           -               -          -              -             -             -           -
+ Goodwill reclassified on dilution of
+     equity interest in joint venture               -           -        -              -         -          -          (22.1)          22.1              -          -              -           -               -           -
+ Dividend paid to non-controlling interests         -           -        -              -         -          -             -              -               -          -              -         (6.5)             -         (6.5)
+ Reclassification from Other Reserves to
+   Retained Earnings                                -           -        -              -         -          -         (59.5)           59.5           -             -           -              -               -           -
+ Final dividend paid                                -           -        -              -         -          -        (875.0)             -        (875.0)           -       (875.0)            -               -       (875.0)
+ Interim dividend paid                              -           -        -              -         -          -        (858.3)             -        (858.3)           -       (858.3)            -               -       (858.3)
+ Acquisition of non-controlling interests           -           -        -              -         -          -            -             (8.5)        (8.5)           -         (8.5)          (2.4)            6.8        (4.1)
+ Contribution from non-controlling interests        -           -        -              -         -          -            -            259.5        259.5            -        259.5           21.5              -        281.0
+ Reclassification due to disposal of
+   FVOCI investments                                -           -        -              -         -        53.1         (53.1)            -            -             -           -              -               -           -
+ Others                                             -           -        -              -         -          -           (0.2)            -          (0.2)           -         (0.2)            -               -         (0.2)
+                                                    -         (0.5)   (24.5)            -         -        53.1      (1,867.1)         332.6     (1,506.4)          0.1    (1,506.3)          12.6             6.8    (1,486.9)
+ Total comprehensive (loss)/ income
+  for the year                                      -           -        -          (452.9)    (62.7)    115.2         795.0            34.5       429.1             -       429.1             8.2              -       437.3
+
+ Balance as at 31 March 2024                   4,573.1      (32.3)    (80.8)      (4,202.5)   (156.3)    201.2      23,784.9          (172.3)    23,915.0       1,012.7    24,927.7           37.0              -     24,964.7
+
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 11 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                                                                                                                                10
+
+
+STATEMENTS OF CHANGES IN EQUITY
+For the financial year ended 31 March 2024
+
+                                                                             Attributable to shareholders of the Company
+                                                                                 Currency                                                                                                    Non-
+                                                   Share     Treasury Capital Translation Hedging Fair Value       Retained           Other        Total       Perpetual     Total       controlling     Other          Total
+                                                                     (1)                  (2)                                                (3)                                                                (4)
+ Group - 2023                                      Capital   Shares      Reserve Reserve      Reserve Reserve      Earnings         Reserves                   Securities                 Interests    Reserve         Equity
+ (Audited)                                         S$ Mil      S$ Mil     S$ Mil   S$ Mil      S$ Mil  S$ Mil       S$ Mil            S$ Mil       S$ Mil        S$ Mil     S$ Mil          S$ Mil       S$ Mil        S$ Mil
+
+ Balance as at 1 April 2022                        4,573.1      (25.5)    (22.3)   (2,150.9)    (58.6)    159.6      25,075.5           (439.3)    27,111.6      1,012.6    28,124.2           16.6           (31.5)   28,109.3
+
+ Changes in equity for the year
+
+ Distribution paid on perpetual securities              -           -        -           -         -         -               5.6            -           5.6        (33.0)      (27.4)            -               -        (27.4)
+ Accrued perpetual securities distribution              -           -        -           -         -         -             (33.0)           -         (33.0)        33.0          -              -               -           -
+ Performance shares purchased by
+    the Company                                         -       (24.7)       -           -         -         -                -             -         (24.7)          -        (24.7)            -               -        (24.7)
+ Performance shares purchased by the
+   Company on behalf of subsidiaries                    -        (3.9)       -           -         -         -                -             -          (3.9)          -         (3.9)            -               -        (3.9)
+                                             (5)
+ Performance shares purchased by Trust                  -        (0.6)       -           -         -         -                -             -          (0.6)          -         (0.6)            -               -        (0.6)
+ Performance shares vested                              -        22.9     (22.9)         -         -         -                -             -            -            -           -              -               -          -
+ Equity-settled share based payment                     -          -       31.9          -         -         -                -             -          31.9           -         31.9             -               -        31.9
+ Cash paid to employees under
+    performance share plans                             -           -      (0.2)         -         -         -                -             -          (0.2)          -         (0.2)            -               -         (0.2)
+ Performance shares purchased by
+    Optus and vested                                    -           -      (7.3)         -         -         -                -             -          (7.3)          -         (7.3)            -               -         (7.3)
+ Goodwill reclassified on dilution of
+     equity interest in joint venture                   -           -        -           -         -         -          (84.6)            84.6           -            -           -              -               -           -
+ Dividend paid to non-controlling interests             -           -        -           -         -         -             -                -            -            -           -            (6.9)             -         (6.9)
+ Final dividend paid                                    -           -        -           -         -         -         (792.5)              -        (792.5)          -       (792.5)            -               -       (792.5)
+ Interim dividend paid                                  -           -        -           -         -         -         (759.2)              -        (759.2)          -       (759.2)            -               -       (759.2)
+ Special dividend paid                                  -           -        -           -         -         -         (412.6)              -        (412.6)          -       (412.6)            -               -       (412.6)
+ Special dividend payable                               -           -        -           -         -         -         (412.6)              -        (412.6)          -       (412.6)            -               -       (412.6)
+ Acquistion of non-controlling interests                -           -        -           -         -         -             -              (6.7)        (6.7)          -         (6.7)          (1.2)           15.7         7.8
+ Reclassification due to disposal of
+   FVOCI investments                                    -           -        -           -         -       (9.8)             9.8            -              -          -              -           -               -           -
+ Reclassification from Capital Reserve to
+   Retained Earnings                                    -           -     (35.5)         -         -         -           35.5               -            -            -           -              -               -           -
+ Fair value change of a put option liability            -           -        -           -         -         -             -                -            -            -           -              -              9.0         9.0
+                                                        -         (6.3)   (34.0)         -         -       (9.8)     (2,443.6)            77.9     (2,415.8)          -     (2,415.8)          (8.1)           24.7    (2,399.2)
+ Total comprehensive (loss)/ income
+  for the year                                          -           -        -     (1,598.7)    (35.0)   (116.9)      2,225.1           (178.0)      296.5            -       296.5             7.7              -       304.2
+
+ Balance as at 31 March 2023                       4,573.1      (31.8)    (56.3)   (3,749.6)    (93.6)     32.9      24,857.0           (539.4)    24,992.3      1,012.6    26,004.9           16.2            (6.8)   26,014.3
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 12 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                                                                      11
+
+
+STATEMENTS OF CHANGES IN EQUITY
+For the financial year ended 31 March 2024
+
+
+                                                              Share          Treasury            Capital       Hedging       Retained        Other        Total
+ Company - 2024                                               Capital        Shares (1)         Reserve        Reserve       Earnings       Reserve       Equity
+ (Audited)                                                    S$ Mil           S$ Mil            S$ Mil         S$ Mil        S$ Mil         S$ Mil       S$ Mil
+
+ Balance as at 1 April 2023                                      4,573.1            (29.2)             97.5          32.3      14,786.2               -    19,459.9
+
+ Changes in equity for the year
+ Performance shares purchased by the Company                            -           (21.3)               -               -            -             -          (21.3)
+ Performance shares vested                                              -            20.8             (20.8)             -            -             -             -
+ Equity-settled share based payment                                     -              -               23.4              -            -             -           23.4
+ Cash paid to employees under performance share plans                   -              -               (0.1)             -            -             -           (0.1)
+ Final dividend paid                                                    -              -                 -               -        (875.0)           -         (875.0)
+ Interim dividend paid                                                  -              -                 -               -        (858.3)           -         (858.3)
+ Deemed return of capital from a subsidiary                             -              -                 -               -            -          311.6         311.6
+ Others                                                                 -              -                 -               -          (0.2)           -           (0.2)
+                                                                        -            (0.5)              2.5              -      (1,733.5)        311.6      (1,419.9)
+ Total comprehensive (loss)/income for the year                         -                 -                -        (12.6)      1,619.7               -      1,607.1
+
+ Balance as at 31 March 2024                                     4,573.1            (29.7)           100.0           19.7      14,672.4          311.6     19,647.1
+
+
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 13 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                                                                                12
+
+
+STATEMENTS OF CHANGES IN EQUITY
+For the financial year ended 31 March 2024
+
+
+                                                                        Share         Treasury         Capital       Hedging        Fair Value       Retained       Total
+                                                                                             (1)
+ Company - 2023                                                         Capital       Shares           Reserve       Reserve         Reserve         Earnings       Equity
+ (Audited)                                                              S$ Mil         S$ Mil           S$ Mil        S$ Mil          S$ Mil          S$ Mil        S$ Mil
+
+ Balance as at 1 April 2022                                                4,573.1           (16.9)         86.9            19.5             1.8       15,854.5       20,518.9
+
+ Changes in equity for the year
+ Performance shares purchased by the Company                                      -          (24.7)            -               -              -               -           (24.7)
+ Performance shares vested                                                        -           12.4          (12.4)             -              -               -              -
+ Equity-settled share based payment                                               -             -            23.2              -              -               -            23.2
+ Cash paid to employees under performance share plans                             -             -            (0.2)             -              -               -            (0.2)
+ Final dividend paid                                                              -             -              -               -              -           (792.5)        (792.5)
+ Interim dividend paid                                                            -             -              -               -              -           (759.2)        (759.2)
+ Special dividend paid                                                            -             -              -               -              -           (412.6)        (412.6)
+ Special dividend payable                                                         -             -              -               -              -           (412.6)        (412.6)
+ Reclassification due to disposal of FVOCI investment                             -             -              -               -            (1.8)            1.8             -
+                                                                                  -          (12.3)          10.6              -            (1.8)       (2,375.1)      (2,378.6)
+ Total comprehensive income for the year                                          -                -             -          12.8                 -      1,306.8        1,319.6
+
+ Balance as at 31 March 2023                                               4,573.1           (29.2)         97.5            32.3                 -     14,786.2       19,459.9
+
+Notes:
+(1) ‘Treasury Shares’ are accounted for in accordance with SFRS(I) 1-32, Financial Instruments: Presentation.
+(2) ‘Currency Translation Reserve’ relates mainly to the translation of the net assets of foreign subsidiaries, associates and joint ventures of the Group denominated mainly in
+    Australian Dollar, Indian Rupee, Indonesian Rupiah, Philippine Peso, Thai Baht and United States Dollar.
+(3) ‘Other Reserves’ relate mainly to goodwill on acquisitions completed prior to 1 April 2001, the share of other comprehensive income or loss of the associates and joint
+    ventures and transactions with non-controlling interests.
+(4) This amount relates to a reserve for an obligation arising from a put option written with the non-controlling shareholder of a subsidiary.
+(5) DBS Trustee Limited was the trustee of a trust established to administer the performance share plans. The trust was terminated during the financial year.
+
+
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 14 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                      13
+
+
+CONSOLIDATED STATEMENT OF CASH FLOWS
+For the second half year and financial year ended 31 March 2024
+
+                                                                 Second Half                          Year
+                                                                     31 Mar                          31 Mar
+                                                               2024          2023          2024             2023
+                                                              S$ Mil        S$ Mil        S$ Mil           S$ Mil
+ Group                                                      (Unaudited) (Unaudited)     (Audited)        (Audited)
+
+ Cash Flows from Operating Activities
+ Net (loss)/ profit before tax                                 (1,358.1)    1,175.8         961.2             2,598.4
+ Adjustments for
+  Depreciation and amortisation                                 1,236.7     1,275.6       2,444.0             2,574.1
+  Exceptional items                                             2,393.2         5.2       1,180.3               (87.0)
+  Interest and investment income (net)                            (56.9)      (46.4)       (141.3)              (56.9)
+  Finance costs                                                   231.4       209.1         444.2               415.8
+  Share of results of associates and
+    joint ventures (post-tax)                                    (685.5)     (871.8)     (1,361.5)        (1,826.8)
+  Other non-cash items                                             15.8        13.6          34.4             28.9
+                                                                3,134.7       585.3       2,600.1          1,048.1
+ Operating cash flow before working
+  capital changes                                               1,776.6     1,761.1       3,561.3             3,646.5
+ Changes in operating assets and liabilities
+ Trade and other receivables                                      174.0       (71.9)            29.2            (16.4)
+ Trade and other payables                                         504.5       169.3             19.5             47.1
+ Inventories                                                      (15.2)        6.5             36.0           (101.0)
+ Cash generated from operations                                 2,439.9     1,865.0       3,646.0             3,576.2
+ Payment to employees in cash under
+   performance share plans                                         (0.1)          -             (0.1)            (0.2)
+ Dividends received from associates and
+   joint ventures                                                 113.4       388.7       1,413.4             1,546.5
+ Income tax and withholding tax paid                             (100.5)     (137.8)       (341.3)             (346.7)
+
+ Net cash generated from operating activities                   2,452.7     2,115.9       4,718.0             4,775.8
+
+ Cash Flows from Investing Activities
+ Investment in Singapore Treasury bills                             -       (1,372.0)            -        (1,372.0)
+ Payment for purchase of property, plant
+   and equipment                                               (1,072.7)    (1,097.8)    (2,149.5)        (2,162.4)
+ Purchase of intangible assets                                    (72.0)       (31.2)      (213.0)          (118.3)
+ Fixed deposits with original maturity more than
+   three months                                                   (21.5)     (100.2)     (1,008.6)             (100.2)
+ Investment in associates/ joint ventures (Note 1)                (18.8)     (205.6)       (265.9)             (679.2)
+ Payment for acquisition of FVOCI investments (Note 2)            (11.7)      (11.8)        (27.6)              (72.0)
+ Proceeds from investment in Singapore Treasury bills                -           -        1,400.0                  -
+ Proceeds from fixed deposits with original maturity more
+   than three months                                              770.0           -       1,087.0                  -
+ Proceeds from disposal of joint ventures (Note 3)                936.6          6.9        936.6             2,539.8
+ Contribution from non-controlling interests (Note 4)             282.2                     282.2                  -
+ Proceeds from sale of FVOCI investments (Note 5)                 154.2          8.8        163.0                25.2
+ (Payments)/ Proceeds from disposal of subsidiaries,
+   net of cash balances (Note 6)                                        -      (11.4)                -         250.7
+ Payment/ Deferred payment for acquisition of
+   subsidiaries, net of cash acquired (Note 7)                     (1.5)          -             (8.5)          (558.0)
+ Balance carried forward                                          944.8     (2,814.3)       195.7         (2,246.4)
+
+
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 15 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                    14
+
+
+CONSOLIDATED STATEMENT OF CASH FLOWS
+For the second half year and financial year ended 31 March 2024
+
+                                                                   Second Half                      Year
+                                                                      31 Mar                       31 Mar
+                                                                2024          2023         2024             2023
+                                                               S$ Mil        S$ Mil       S$ Mil           S$ Mil
+ Group                                                       (Unaudited) (Unaudited)    (Audited)        (Audited)
+
+ Cash Flows from Investing Activities (continued)
+ Balance brought forward                                          944.8     (2,814.3)       195.7           (2,246.4)
+ Interest received                                                 49.0         34.9             86.1           41.2
+ Withholding tax paid on intra-group interest income              (12.8)       (10.8)           (24.4)         (16.1)
+ Investment income received from FVOCI investments                  3.1          4.5              9.6           10.7
+ Payment for acquisition of non-controlling interests                -          (0.9)            (6.9)          (6.7)
+ Loan to associates                                                (9.9)          -              (9.9)         (95.8)
+ Repayment of loan from an associate                               11.8           -              11.8             -
+ Proceeds from sale of property, plant and equipment                3.6           -              26.5            1.9
+ Others                                                           (58.5)        10.8            (41.2)           9.5
+
+ Net cash generated from/ (used in) investing activities          931.1     (2,775.8)       247.3           (2,301.7)
+ Cash Flows from Financing Activities
+ Proceeds from term loans                                       1,440.5       821.6        2,713.0           1,056.6
+ Repayment of term loans                                         (698.1)     (277.4)      (1,544.2)           (514.2)
+ Proceeds from bond issue                                            -           -           354.8             267.3
+ Repayment of bonds                                                  -       (258.3)        (437.7)         (1,033.9)
+ Proceeds from other borrowings                                     6.8        18.5           18.4              33.5
+ Repayment of other borrowings                                     (9.8)       (9.4)         (24.8)            (16.9)
+ Lease payments                                                  (186.8)     (222.0)        (417.4)           (433.7)
+  Net proceeds from/ (repayment of) borrowings                    552.6        73.0          662.1           (641.3)
+ Final dividend paid to shareholders of the Company                  -           -          (875.0)          (792.5)
+ Interim dividend paid to shareholders of the Company            (858.3)     (759.2)        (858.3)          (759.2)
+ Special dividend paid to shareholders of the Company                -       (412.6)        (412.8)          (412.6)
+ Net interest paid on borrowings and swaps                       (218.0)     (191.4)        (416.7)          (389.6)
+ Net change to other payables                                        -        131.2             -             131.2
+ Distribution paid on perpetual securities                        (16.5)      (16.6)         (33.0)           (33.0)
+ Settlement of swaps for bonds repaid                                -          8.3             -               8.3
+ Purchase of performance shares                                   (18.3)       (9.7)         (32.7)           (36.5)
+ Dividend paid to non-controlling interests                        (6.5)       (6.9)          (6.5)            (6.9)
+ Others                                                           (21.9)        1.4          (19.8)            (9.1)
+ Net cash used in financing activities                           (586.9)    (1,182.5)     (1,992.7)         (2,941.2)
+
+ Net change in cash and cash equivalents                        2,796.9     (1,842.4)      2,972.6           (467.1)
+ Exchange effects on cash and cash equivalents                    (16.8)       (12.7)        (21.7)           (37.4)
+ Cash and cash equivalents at beginning of period/ year         1,815.0      3,499.3       1,644.2          2,148.7
+ Cash and cash equivalents at end of period/ year (Note 8)      4,595.1     1,644.2        4,595.1          1,644.2
+
+
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 16 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                         15
+
+
+NOTES TO THE CONSOLIDATED STATEMENT OF CASH FLOWS
+For the second half year and financial year ended 31 March 2024
+
+
+Note (1):      Investment in associates/ joint ventures
+
+      (a)      In the current financial year, the Group completed the subscription of new shares in PT
+               Telekomunikasi Selular (“Telkomsel”) for S$247 million. With the completion of the
+               subscription, the Group holds an equity interest of 30.1% in Telkomsel.
+
+
+      (b)      In the previous financial year, the Group completed the subscription of the followings:
+
+               (i)    90 million new ordinary shares of its associate, Indara Corporation Pty Ltd
+                      (“Indara”), for S$120 million. Following the subscription, the Group’s effective
+                      shareholding interest in Indara was reduced from 30% to 18%.
+
+               (ii)   Globe Telecom, Inc.’s rights issue, which represented the Group’s full rights
+                      entitlement for its pro-rata stake of 46.8%, for S$196 million.
+
+               The Group also acquired 3.8% equity interest of Intouch Holdings Public Company
+               Limited for S$330 million.
+
+
+Note (2):      Payment for acquisition of FVOCI investments
+
+               In the previous financial year, the Group’s investment in FVOCI investments included
+               the acquisition of an additional 6.1% stake in an Indonesian Bank, PT Super Bank
+               Indonesia of S$52 million.
+
+
+Note (3):      Proceeds from disposal of joint ventures
+
+               In the current financial year, the Group sold 0.8% of its direct stake in Bharti Airtel
+               Limited (“Airtel”) for a net consideration of S$937 million. Following the divestment, the
+               Group’s effective economic interest in Airtel reduced from 29.7% to 28.9%.
+
+               In the previous financial year, the Group sold 3.3% of its direct stake in Airtel to Bharti
+               Telecom Limited (3.2%) and third parties (0.1%) for a net consideration of S$2.53
+               billion. Following the divestments, the Group’s effective economic interest in Airtel
+               reduced from 31.3% to 29.5%.
+
+
+Note (4):      Contribution from non-controlling interests
+
+               In the current financial year, Stellar Asia Holdings II Pte. Ltd. (“Stellar”), a fund
+               managed by global investment firm, Kohlberg Kravis Roberts & Co. L.P., entered into
+               an agreement to commit up to S$1.1 billion for a 20% stake in Nxera Holdings Pte. Ltd.
+               (“Nxera”) (formerly known as ST Dynamo Investment Holdings Pte. Ltd.), the holding
+               company for Singtel’s regional data centre business. Nxera has since issued new
+               redeemable convertible preference shares to Stellar for a net consideration of S$282
+               million, representing a 6.0% stake in Nxera.
+
+
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 17 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                           16
+
+
+NOTES TO THE CONSOLIDATED STATEMENT OF CASH FLOWS
+For the second half year and financial year ended 31 March 2024
+
+
+Note (5):      Proceeds from sale of FVOCI investments
+
+               In the current financial year, the Group sold its remaining 3.9% stake in Airtel Africa plc
+               for S$247 million, of which S$148 million has been received.
+
+
+Note (6):      Proceeds from disposal of subsidiaries
+
+               In the previous financial year, the Group completed the sale of 100% equity interest in
+               Amobee Asia Pte. Ltd., Amobee, Inc. and Amobee ANZ Pty Ltd. The total proceeds
+               from the sale, net of cash disposed, was S$252 million.
+
+
+Note (7):      Payment for acquisition of subsidiaries
+
+               In the previous financial year, the Group completed the acquisitions of 100% stakes in
+               Dialog Pty Ltd and Row TopCo Pty Ltd for considerations of S$313 million and S$266
+               million respectively.
+
+
+Note (8):      For the purposes of the consolidated cash flow statement, cash and cash equivalents
+               comprised:
+
+                                                                                     As at 31 Mar
+                 Group                                                            2024          2023
+                 (Audited)                                                       S$ Mil        S$ Mil
+
+                 Fixed deposits                                                    3,202.6       1,013.7
+                 Cash and bank balances                                            1,402.6         654.2
+                 Cash and cash equivalents in the Consolidated
+                  Statement of Financial Position                                  4,605.2       1,667.9
+                 Less: Restricted cash                                                (10.1)       (23.7)
+                 Cash and cash equivalents in the Consolidated
+                  Statement of Cash Flows                                          4,595.1       1,644.2
+
+               Cash and cash equivalents in the Consolidated Statement of Financial Position
+               included restricted cash relating to the provision of mobile money remittance and
+               payment services in Singapore.
+
+
+
+
+The accompanying notes on pages 17 to 40 form an integral part of these financial statements.
+
+--- PAGE 18 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                             17
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+1.     BASIS OF PREPARATION
+
+       The Group prepares its condensed consolidated interim financial statements in accordance
+       with Singapore Financial Reporting Standard (International) (“SFRS(I)”) 1-34 Interim Financial
+       Reporting. The condensed consolidated interim financial statements do not include all the
+       information required for a complete set of financial statements. However, selected
+       explanatory notes are included to explain events and transactions that are significant to an
+       understanding of the changes in the Group’s financial position and performance of the Group
+       since the most recent audited financial statements for the year ended 31 March 2023.
+
+       The same accounting policies and methods of computation have been applied in the
+       preparation of the financial statements for the current period as the most recent audited
+       financial statements for the year ended, and as at, 31 March 2023, except for the mandatory
+       adoption of new standards effective as of 1 April 2023. The adoption of the new standards has
+       no significant impact on the condensed consolidated interim financial statements.
+
+
+2.     OPERATING EXPENSES
+
+       The income statement included the following items -
+
+                                                             Second Half                    Year
+                                                                 31 Mar                    31 Mar
+                                                           2024          2023          2024          2023
+                                                          S$ Mil        S$ Mil        S$ Mil        S$ Mil
+         Group                                          (Unaudited) (Unaudited)     (Audited)     (Audited)
+
+         Impairment of trade receivables                      44.2        33.2           88.2          86.3
+         (Writeback)/ Allowance for inventory
+          obsolescence (net)                                  (1.0)        6.9            1.7           7.5
+
+
+
+
+3.     OTHER INCOME
+
+       Other income included the following items –
+
+
+                                                               Second Half                   Year
+                                                                   31 Mar                   31 Mar
+                                                             2024          2023         2024         2023
+                                                            S$ Mil        S$ Mil       S$ Mil       S$ Mil
+         Group                                            (Unaudited) (Unaudited)    (Audited)    (Audited)
+
+         Rental income                                           1.1         1.8           3.0          3.7
+         Net exchange gains/ (losses)                            0.4        (0.7)         (0.9)        (5.5)
+         Net (losses)/ gains on disposal of property,
+         plant and equipment                                    (0.3)        3.7           0.1          2.9
+
+--- PAGE 19 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                                   18
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+4.     DEPRECIATION AND AMORTISATION
+
+                                                                 Second Half                                  Year
+                                                                     31 Mar                                  31 Mar
+                                                               2024          2023                       2024            2023
+                                                              S$ Mil        S$ Mil                     S$ Mil          S$ Mil
+         Group                                              (Unaudited) (Unaudited)                  (Audited)       (Audited)
+
+         Depreciation of property, plant and
+          equipment                                               891.3              917.9             1,753.6         1,842.7
+         Depreciation of right-of-use assets                      204.7              203.8               409.1           419.3
+         Amortisation of intangibles                              140.7              153.9               281.3           312.1
+
+                                                                1,236.7             1,275.6            2,444.0         2,574.1
+
+5.     EXCEPTIONAL ITEMS
+
+                                                                            Second Half                           Year
+                                                                                31 Mar                           31 Mar
+                                                                          2024          2023               2024          2023
+                                                                         S$ Mil        S$ Mil             S$ Mil        S$ Mil
+         Group                                                         (Unaudited) (Unaudited)          (Audited)     (Audited)
+
+         Exceptional gains
+          Gain on partial disposal of direct stake in a
+            joint venture (1)                                               794.4               -           794.4         1,013.5
+          Gain on dilution of interest in associate and
+            joint ventures                                                   55.9             18.1        1,327.4           324.8
+          Other gains                                                        20.5              8.0           33.6             8.0
+                                                                            870.8             26.1        2,155.4         1,346.3
+         Exceptional losses
+          Impairment of goodwill (see Note 5.1)                          (2,604.2)           -           (2,604.2)        (1,003.7)
+          Impairment of property, plant and equipment (see Note 5.1)       (512.8)           -             (512.8)              -
+          Costs related to network outage in Australia                      (53.5)           -              (53.5)              -
+          Loss on disposal of subsidiaries (2)                              (48.1)         (9.7)           (105.3)           (40.5)
+          Staff restructuring costs                                         (40.0)        (12.2)            (60.8)           (19.6)
+          Release of goodwill in joint ventures                             (14.8)        (24.7)            (21.6)           (65.6)
+          Costs related to cyber attacks in Australia                          -             -                 -            (142.0)
+          Impairment of investment in an associate                             -             -                 -              (5.9)
+          Loss on disposal of joint ventures                                   -           (4.5)               -              (4.5)
+          Others                                                            (39.8)        (41.1)            (47.5)           (45.8)
+                                                                         (3,313.2)        (92.2)         (3,405.7)        (1,327.6)
+
+                                                                         (2,442.4)        (66.1)         (1,250.3)           18.7
+
+       Notes:
+       (1) The Group partially sold its direct stakes of 0.8% and 3.3% in Bharti Airtel Limited (“Airtel”) in
+           March 2024 and September 2022 respectively.
+       (2) Trustwave Holdings, Inc. (“Trustwave”) and Amobee Inc. were sold in January 2024 and
+           September 2022 respectively.
+
+--- PAGE 20 ---
+ SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                 19
+
+
+ SELECTED NOTES TO THE FINANCIAL STATEMENTS
+ For the second half year and financial year ended 31 March 2024
+
+
+5.      EXCEPTIONAL ITEMS (CONTINUED)
+
+5.1     Impairments
+
+        In line with the overall decline that was witnessed in the Australian enterprise market, Optus
+        has been reporting steep declines in fixed carriage revenue due to churn and price erosion,
+        which has led to lower recovery value. As a result, the Group recorded non-cash impairment
+        charges of S$513 million (2023: Nil) mainly on its enterprise fixed access network assets in
+        Australia.
+
+        As part of the Singtel Group’s review of its investments, the recovery value of Optus Group
+        was assessed to be below its carrying value as at 31 March 2024. This reflected a range of
+        factors including weaker prospects in the enterprise market, increased cost of capital and the
+        softer macroeconomic outlook in Australia partly offset by the benefit from the regional Multi-
+        Operator Core Network (MOCN) agreement which Optus has entered into with TPG Telecom.
+        Consequently, the Group recorded a non-cash impairment provision of S$2.0 billion on the
+        goodwill of Optus. The Group also recorded a non-cash impairment provision for goodwill of
+        S$340 million for the Asia Pacific Cyber Security Business mainly from general business
+        weakness on lower corporate spending. In addition, a non-cash impairment provision of
+        S$280 million (A$320 million) was recorded for goodwill of NCS (Australia) due mainly to
+        higher cost of capital.
+
+
+ 6.     SHARE OF RESULTS OF ASSOCIATES AND JOINT VENTURES
+
+                                                                Second Half                      Year
+                                                                   31 Mar                       31 Mar
+                                                              2024        2023             2024         2023
+                                                             S$ Mil      S$ Mil           S$ Mil       S$ Mil
+          Group                                            (Unaudited) (Unaudited)      (Audited)    (Audited)
+
+
+          Share of ordinary results                            1,143.1      1,130.4       2,338.1        2,287.1
+          Share of tax of ordinary results                      (318.7)      (323.8)       (656.9)        (668.3)
+          Share of exceptional items (post-tax) (1)             (138.9)        65.2        (319.7)         208.0
+
+                                                                 685.5        871.8       1,361.5        1,826.8
+
+        Notes:
+        (1) Comprised share of exceptional items of Airtel, PT Telekomunikasi Selular (“Telkomsel”), Globe
+            Telecom, Inc. (“Globe”) and Singapore Post Limited (“SingPost”).
+
+            (a) Airtel’s exceptional items included fair value losses from currency devaluations in Africa as well
+                as from revaluations of its foreign currency convertible bonds. In the previous financial year,
+                Airtel’s exceptional items included a fair value gain on revaluation of its foreign currency
+                convertible bonds and recognition of a deferred tax asset in Africa, partly offset by its share of
+                joint venture’s significant receivable provision.
+            (b) Telkomsel’s exceptional items in the previous financial year comprised gains from the sale of
+                telecommunication towers.
+            (c) Globe’s exceptional items comprised gains from the sale of telecommunication towers for both
+                financial years.
+            (d) SingPost’s exceptional items in the previous financial year included a fair value loss on its put
+                option liability.
+
+--- PAGE 21 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                   20
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+7.     INTEREST AND INVESTMENT INCOME (NET)
+
+                                                                   Second Half                    Year
+                                                                      31 Mar                     31 Mar
+                                                                 2024        2023           2024          2023
+                                                                S$ Mil      S$ Mil         S$ Mil        S$ Mil
+         Group                                                (Unaudited) (Unaudited)    (Audited)     (Audited)
+
+         Interest income from
+          - bank deposits                                           49.9       32.5           90.2          40.3
+          - Singapore Treasury bills                                  -        14.3           13.7          14.3
+          - others                                                   2.5        4.2            6.5           6.3
+                                                                    52.4       51.0          110.4          60.9
+         Gross dividends and other investment income                 3.1        8.9           10.0           0.5
+         Fair value (losses)/ gains on fair value hedges
+         - hedged items                                            (31.2)       27.3           (9.1)        123.4
+         - hedging instruments                                      31.0       (27.8)           8.3        (122.6)
+                                                                    (0.2)       (0.5)          (0.8)          0.8
+         Fair value gains/ (losses) on cash flow hedges
+         - hedged items                                             30.5      264.4          (83.7)           7.7
+         - hedging instruments                                     (30.5)    (264.4)          83.7           (7.7)
+                                                                      -          -              -              -
+         Other fair value losses                                    (1.2)      (0.2)          (2.6)          (3.4)
+         Other foreign exchange gain/ (losses)                       2.8      (12.8)          24.3           (1.9)
+
+                                                                    56.9       46.4          141.3          56.9
+
+
+
+8.     FINANCE COSTS
+
+                                                                Second Half                     Year
+                                                                   31 Mar                      31 Mar
+                                                              2024        2023             2024           2023
+                                                             S$ Mil      S$ Mil           S$ Mil         S$ Mil
+         Group                                             (Unaudited) (Unaudited)      (Audited)      (Audited)
+
+         Interest expense on
+          - bonds                                              121.4        120.7           246.8          250.7
+          - bank loans                                          36.1          7.3            51.3           11.3
+          - lease liabilities                                   67.0         68.9           134.3          138.7
+                                                               224.5        196.9           432.4          400.7
+         Less : Amounts capitalised                             (2.7)        (2.0)           (5.0)          (3.6)
+                                                               221.8        194.9           427.4          397.1
+         Financing related costs                                20.0         21.3            36.0           36.4
+         Effects of hedging using interest
+           rate swaps                                           (10.4)       (7.1)          (19.2)         (17.7)
+
+                                                               231.4        209.1           444.2          415.8
+
+--- PAGE 22 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                          21
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+9.     TAX (CREDIT)/ EXPENSE
+
+                                                                  Second Half                              Year
+                                                                     31 Mar                               31 Mar
+                                                                2024        2023                  2024            2023
+                                                               S$ Mil      S$ Mil                S$ Mil          S$ Mil
+         Group                                               (Unaudited) (Unaudited)           (Audited)       (Audited)
+
+         Current and deferred tax (credit)/ expense
+          attributable to current period/ year's profits            (48.6)            60.9           17.8          214.1
+         Current and deferred tax adjustments
+          in respect of prior years                                  3.1               0.6               2.9        (2.8)
+         Withholding taxes on dividend income
+          from associate and joint ventures                         24.5              55.3          137.0          153.6
+
+                                                                    (21.0)        116.8             157.7          364.9
+
+
+10.    BREAKDOWN OF SALES
+
+                                                                                       Year
+                                                                              31 Mar 24    31 Mar 23
+                                                                               S$ Mil       S$ Mil
+         Group                                                               (Unaudited) (Unaudited)           % change
+
+         Sales reported for first half year                                     7,028.3          7,258.9            -3.2%
+         Operating profit after tax before deducting
+          non-controlling interest reported for first half year                 2,140.6          1,174.5           82.3%
+         Sales reported for second half year                                    7,099.2          7,365.5            -3.6%
+         Operating (loss)/ profit after tax before deducting
+          non-controlling interest reported for second half year               (1,337.1)         1,059.0             n.m.
+
+       “n.m.” denotes not meaningful.
+
+
+
+11.    WEIGHTED AVERAGE NUMBER OF ORDINARY SHARES
+
+                                                         Second Half                                  Year
+                                                           31 Mar                                    31 Mar
+                                                     2024           2023                       2024              2023
+                                                     '000            '000                      '000              '000
+         Group                                    (Unaudited)   (Unaudited)                  (Audited)         (Audited)
+
+         Weighted average number of ordinary
+          shares in issue for calculation of
+          basic earnings per share                  16,505,158        16,504,783              16,506,284       16,505,968
+         Adjustment for dilutive effect of
+          performance share plans                          49,886            49,579               49,886           49,579
+
+         Weighted average number of ordinary
+          shares for calculation of diluted
+          earnings per share                        16,555,044        16,554,362              16,556,170       16,555,547
+
+       The weighted average number of ordinary shares in issue had been adjusted to exclude the
+       number of performance shares held by the Trust and the Company.
+
+--- PAGE 23 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                              22
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+12.    FAIR VALUE MEASUREMENTS
+
+       The Group classifies financial assets and liabilities measured at fair value using a fair value
+       hierarchy which reflects the significance of the inputs used in making the measurements. The
+       fair value hierarchy has the following levels -
+
+       (a) quoted prices (unadjusted) in active markets for identical assets or liabilities (Level 1);
+
+       (b) inputs other than quoted prices included within Level 1 which are observable for the asset
+           or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices) (Level 2);
+           and
+
+       (c) inputs for the asset or liability which are not based on observable market data
+           (unobservable inputs) (Level 3).
+
+       The following table presents the assets and liabilities measured at fair value as at 31 March
+       2024:
+
+        Group - 31 Mar 24                           Level 1        Level 2         Level 3        Total
+        (Audited)                                   S$ Mil         S$ Mil          S$ Mil         S$ Mil
+
+        Financial assets
+          FVOCI investments
+          - Quoted investments                            4.8            -               -             4.8
+          - Unquoted investments                           -             -            600.1          600.1
+                                                          4.8            -            600.1          604.9
+          Derivative financial instruments                 -          190.3              -           190.3
+                                                          4.8         190.3           600.1          795.2
+        Financial liabilities
+          Derivative financial instruments                  -         664.1               -          664.1
+                                                            -         664.1               -          664.1
+
+
+        Group - 31 Mar 23                           Level 1        Level 2        Level 3         Total
+        (Audited)                                   S$ Mil         S$ Mil         S$ Mil          S$ Mil
+
+        Financial assets
+          FVOCI investments
+          - Quoted investments                          266.5            -               -           266.5
+          - Unquoted investments                           -             -            467.2          467.2
+                                                        266.5            -            467.2          733.7
+          Derivative financial instruments                 -          227.1              -           227.1
+                                                        266.5         227.1           467.2          960.8
+        Financial liabilities
+          Derivative financial instruments                 -          777.4               -          777.4
+                                                           -          777.4               -          777.4
+
+--- PAGE 24 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                      23
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+12.    FAIR VALUE MEASUREMENTS (Continued)
+
+         Company - 31 Mar 24                      Level 1     Level 2       Level 3       Total
+         (Audited)                                S$ Mil      S$ Mil        S$ Mil        S$ Mil
+
+         Financial assets
+           Derivative financial instruments             -           26.5          -           26.5
+
+         Financial liabilities
+           Derivative financial instruments             -          216.9          -         216.9
+
+
+
+
+         Company - 31 Mar 23                      Level 1     Level 2       Level 3       Total
+         (Audited)                                S$ Mil      S$ Mil        S$ Mil        S$ Mil
+
+         Financial assets
+           Derivative financial instruments             -           23.5          -          23.5
+
+         Financial liabilities
+           Derivative financial instruments             -         199.8           -         199.8
+
+
+       The following table presents the liabilities not measured at fair value (but with fair value
+       disclosed) as at 31 March 2024:
+
+
+                                      Carrying                     Fair value
+         31 Mar 24                     Value      Level 1     Level 2       Level 3       Total
+         (Audited)                     S$ Mil     S$ Mil      S$ Mil        S$ Mil        S$ Mil
+
+         Financial liabilities
+           Group
+           Bonds                        7,001.5     5,125.7       1,523.0             -    6,648.7
+
+           Company
+           Bonds                          668.1      780.4              -             -      780.4
+
+
+                                      Carrying                     Fair value
+         31 Mar 23                     Value      Level 1     Level 2       Level 3       Total
+         (Audited)                     S$ Mil     S$ Mil      S$ Mil        S$ Mil        S$ Mil
+
+         Financial liabilities
+           Group
+           Bonds                        7,027.7     5,030.0       1,597.5         -        6,627.5
+
+           Company
+           Bonds                          668.7      792.1             -          -          792.1
+
+
+       Except as disclosed in the above tables, the carrying values of other financial assets and
+       financial liabilities approximate their fair values.
+
+--- PAGE 25 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                   24
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+12.    FAIR VALUE MEASUREMENTS (Continued)
+
+       Quoted and unquoted investments
+       The fair values of investments traded in active markets included within Level 1 were based on
+       the market quoted price or the price quoted by the market maker at the close of business at
+       the end of the reporting period.
+
+       The fair values of the unquoted FVOCI investments included within Level 3 were estimated
+       primarily using latest arm’s length transactions.
+
+       Derivatives
+       Derivatives comprise cross currency swaps, interest rate swaps and forward foreign
+       exchange contracts which are included within Level 2.
+
+       The fair value of a cross currency or an interest rate swap is the estimated amount that the
+       swap contract can be exchanged for or settled with under normal market conditions. This fair
+       value can be estimated using the discounted cash flow method where the future cash flows of
+       the swap contract are discounted at the prevailing market foreign exchange rates and interest
+       rates. Market interest rates are actively quoted interest rates or interest rates computed by
+       applying techniques to these actively quoted interest rates.
+
+       The fair value of forward foreign exchange contracts is determined using forward exchange
+       market rates for contracts with similar maturity profiles at the end of the reporting period.
+
+       The following table presents the reconciliation for the unquoted FVOCI investments measured
+       at fair value based on unobservable inputs (Level 3) -
+
+                                                                                  Group
+                                                                          31 Mar 24   31 Mar 23
+         (Audited)                                                         S$ Mil       S$ Mil
+
+         FVOCI investments - unquoted
+           Balance as at 1 April                                              467.2         423.2
+           Total gains included in 'Fair Value Reserve'                       131.0           0.5
+           Additions                                                           27.6          72.0
+           Disposals                                                          (24.6)        (20.4)
+           Translation differences                                             (1.1)         (8.1)
+
+           Balance as at 31 March                                             600.1         467.2
+
+--- PAGE 26 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                     25
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+13.    GROUP’S BORROWINGS AND DEBT SECURITIES
+
+                                                       Group                     Company
+                                              31 Mar 24    31 Mar 23       31 Mar 24  31 Mar 23
+         (Audited)                              S$ Mil       S$ Mil          S$ Mil     S$ Mil
+
+         Unsecured borrowings
+          Repayable within one year                 24.0          471.1            -             -
+          Repayable after one year               8,225.3        7,142.4         668.1         668.7
+                                                 8,249.3        7,613.5         668.1         668.7
+
+         Secured borrowings
+           Repayable within one year               545.7          511.6          62.3          58.7
+           Repayable after one year              3,104.6        2,768.2         336.8         372.8
+                                                 3,650.3        3,279.8         399.1         431.5
+
+                                                11,899.6      10,893.3        1,067.2       1,100.2
+
+
+       Unsecured borrowings of the Group comprise mainly bonds and bank loans. The unsecured
+       borrowings of the Company comprise bonds.
+
+       Secured borrowings of the Group comprise lease liabilities in respect of right-of-use assets as
+       well as a bank loan of a subsidiary secured by way of fixed and floating charges over a data
+       centre, plant and machinery, and other assets of certain subsidiaries. The secured borrowings
+       of the Company comprise lease liabilities in respect of right-of-use assets.
+
+
+14.    PROPERTY, PLANT AND EQUIPMENT
+
+
+                                                                                   Group
+                                                                          31 Mar 24    31 Mar 23
+         (Audited)                                                          S$ Mil       S$ Mil
+
+         Acquisition of property, plant and equipment                        2,235.8        2,270.2
+         Carrying amount of property, plant and equipment disposed             117.0            2.0
+
+--- PAGE 27 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                           26
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+15.    COMMITMENTS
+
+       (a)     The commitments for capital expenditure, spectrum and equity investments which had
+               not been recognised in the financial statements, excluding the commitments shown
+               under Note 15 (b) to (e), were as follows –
+
+                                                                 Group                   Company
+                                                        31 Mar           31 Mar     31 Mar     31 Mar
+                                                         2024             2023       2024       2023
+                (Audited)                               S$ Mil           S$ Mil     S$ Mil     S$ Mil
+
+                                                (1)
+                Authorised and contracted for            3,335.4          2,665.1      454.4         228.4
+
+               Note:
+               (1) Included spectrum payments of S$1.30 billion or A$1.48 billion (31 March 2023: S$1.36
+                   billion or A$1.53 billion) for 900 MHz spectrum in Australia and S$0.38 billion (31 March
+                   2023: S$0.38 billion) for 700 MHz spectrum in Singapore.
+
+
+       (b)     As at 31 March 2024, the Group’s commitments for the purchase of broadcasting
+               programme rights were S$485 million (31 March 2023: S$605 million). The
+               commitments included only the minimum guaranteed amounts payable under the
+               respective contracts and did not include amounts that may be payable based on
+               revenue share arrangement which cannot be reliably determined as at the end of the
+               reporting period.
+
+
+       (c)     Singtel entered into an agreement to purchase electricity from Sembcorp Power Pte
+               Ltd, an associated company of the ultimate holding company, for a period of 10 years
+               from 1 October 2023 to 30 September 2033. The annual contract sum is estimated at
+               approximately S$180 million.
+
+
+       (d)     GXS Bank Pte. Ltd. (“GXS”), an associate in which the Group has an equity interest
+               of 40%, holds a digital bank licence in Singapore and is required to have a minimum
+               paid up capital of S$1.5 billion when it achieves full bank status within four to six
+               years after its launch in 2022. The Group’s share of this capital is S$600 million, of
+               which S$29 million has been contributed by 31 March 2024.
+
+
+       (e)     In October 2021, the Group subscribed to Airtel’s rights issue for approximately
+               S$552 million. This represents the Group’s full rights entitlement for its direct stake
+               and additional rights share beyond entitlement. An amount of S$138 million has been
+               paid in October 2021 while the remaining will be paid over a period of up to three
+               years. No additional payment was made in the current financial year.
+
+--- PAGE 28 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                  27
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+16.    SHARE CAPITAL AND OTHER EQUITY INFORMATION
+
+       Share Capital
+
+                                                                       Second Half
+                                                          31 Mar 2024               31 Mar 2023
+                                                     Number        Share       Number        Share
+         Group and Company                          of shares      capital    of shares      capital
+         (Unaudited)                                    Mil        S$ Mil         Mil        S$ Mil
+
+         Balance as at beginning and
+          end of period                               16,514.6         4,573.1        16,514.6         4,573.1
+
+
+
+                                                                               Year
+                                                            31 Mar 2024                     31 Mar 2023
+                                                      Number          Share            Number        Share
+         Group and Company                           of shares       capital          of shares      capital
+         (Audited)                                       Mil         S$ Mil               Mil        S$ Mil
+
+
+         Balance as at beginning and
+          end of period                               16,514.6         4,573.1         16,514.6        4,573.1
+
+
+
+       As at 31 March 2024, the issued and paid up capital excluding treasury shares comprised
+       16,503.3 million (31 March 2023: 16,504.0 million) ordinary shares.
+
+
+       Treasury Shares
+
+                                                            Second Half                        Year
+                                                               31 Mar                         31 Mar
+                                                         2024          2023             2024          2023
+                                                       Number of Number of            Number of     Number of
+                                                        shares        shares           shares        shares
+                                                          Mil           Mil              Mil           Mil
+         Group                                        (Unaudited) (Unaudited)         (Audited)     (Audited)
+
+         Balance at beginning of period/ year                    3.8        7.3             10.6           8.9
+         Shares transferred to employees under
+          the Singtel Performance Share Plan 2012             (0.4)        (0.1)           (10.2)         (9.1)
+         Purchase of treasury shares                           7.9          3.4             10.9          10.8
+
+         Balance at end of period/ year                      11.3          10.6             11.3          10.6
+
+--- PAGE 29 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                       28
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+16.    SHARE CAPITAL AND OTHER EQUITY INFORMATION (Continued)
+
+       As at 31 March 2024, the number of treasury shares represented 0.07% (31 March 2023:
+       0.06%) of the total number of issued shares.
+
+       During the second half year ended 31 March 2024, 0.4 million (31 March 2023: 0.1 million) of
+       treasury shares were transferred to employees upon vesting of shares released under the
+       Singtel Performance Share Plan 2012 and 7.9 million (31 March 2023: 3.4 million) treasury
+       shares were purchased.
+
+       During the financial year ended 31 March 2024, 10.2 million (31 March 2023: 9.1 million) of
+       treasury shares were transferred to employees upon vesting of shares released under the
+       Singtel Performance Share Plan 2012 and 10.9 million (31 March 2023: 10.8 million) treasury
+       shares were purchased.
+
+       Except for the transfers, there was no other sale, disposal, cancellation and/or other use of
+       treasury shares for the second half year and financial year ended 31 March 2024.
+
+       The Company’s subsidiaries do not hold shares in the Company as at 31 March 2024 and 31
+       March 2023.
+
+
+       Perpetual Securities
+
+       On 14 April 2021, the Group issued fixed rate subordinated perpetual securities (the
+       “perpetual securities”) with an aggregate principal amount S$1.0 billion. Incremental costs
+       incurred of S$2.6 million were recognised in equity as a deduction from the proceeds.
+
+       The perpetual securities do not have a maturity date and the Group may elect to defer making
+       a distribution, subject to the terms and conditions of the securities issue. Accordingly, the
+       Group is not considered to have a contractual obligation to make principal repayments or
+       distributions in respect of its perpetual securities issue and the perpetual securities are
+       classified and presented as equity. Distributions are treated as dividends which will be directly
+       debited from equity.
+
+       Such perpetual securities bear distribution at a rate of 3.3% per annum, payable semi-
+       annually. Subject to relevant terms and conditions in the offering memorandum, the Group
+       may elect to defer making distributions on the perpetual securities, and is not subject to any
+       limit as to the number of times a distribution can be deferred.
+
+       As a result, the Group is considered to have no contractual obligations to repay its principal or
+       to pay any distributions and the perpetual securities do not meet the definition for
+       classification as a financial liability under SFRS(I) 1-32 Financial Instruments: Presentation.
+       The whole instrument is presented within equity, and distributions are treated as dividends.
+
+       During the financial year, distributions to perpetual securities holders amounting to S$33.1
+       million (31 March 2023: S$33.0 million) were accrued of which S$33.0 million (31 March
+       2023: S$33.0 million) has been paid.
+
+
+       Performance Shares
+
+       As at 31 March 2024, the number of outstanding performance shares granted under the
+       Singtel Performance Share Plan 2012 was 53,779,570 (31 March 2023: 57,211,567).
+
+--- PAGE 30 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                          29
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+17.    DIVIDENDS
+
+                                                            Group                  Company
+                                                    2024             2023       2024      2023
+         (Audited)                                 S$ Mil           S$ Mil     S$ Mil    S$ Mil
+
+         Total annual exempt (one-tier) dividend
+         Final dividend                               875.0           792.5       875.0        792.5
+         Interim dividend                             858.3           759.2       858.3        759.2
+         Special dividend                                -            825.2          -         825.2
+
+         Total                                      1,733.3         2,376.9     1,733.3      2,376.9
+
+
+       During the financial year,
+
+       (a) a final one-tier tax exempt ordinary dividend of 5.3 cents per share, totalling S$875 million
+           was paid in respect of the previous financial year ended 31 March 2023.
+
+       (b) an interim one-tier tax exempt ordinary dividend of 5.2 cents per share totalling S$858
+           million was paid in respect of the current financial year ended 31 March 2024.
+
+       The Directors have proposed a final one-tier tax exempt ordinary dividend of 9.8 cents per
+       share, totalling approximately S$1.62 billion in respect of the current financial year ended 31
+       March 2024.The dividend consists of:
+
+       (a) a core dividend of 6.0 cents per share; and
+
+       (b) a value realisation dividend of 3.8 cents per share.
+
+       The Singtel Scrip Dividend Scheme will not be applied to the final dividend. The value
+       realisation dividend is to be paid in two tranches of 1.9 cents per share each in August 2024
+       and December 2024 to shareholders on Singtel’s register at each respective record date. The
+       final dividend, if approved by shareholders of the Company at the forthcoming Annual General
+       Meeting, will be paid on 20 August 2024.
+
+       This report does not reflect the above final dividend payable of approximately S$1.62 billion,
+       which will be accounted for in the Shareholders’ Equity as an appropriation of ‘Retained
+       Earnings’ in the next financial year ending 31 March 2025.
+
+       Subject to the approval of the final dividend by shareholders at the forthcoming Annual
+       General Meeting, the Transfer Book and the Register of Members of the Company will be
+       closed on 5 August 2024 for the preparation of dividend warrants. Duly completed registrable
+       transfers of the ordinary shares of the Company received by the Company’s share registrar
+       up to 5.00 p.m. on 2 August 2024 will be registered to determine members’ entitlements to the
+       final dividend. The record date of the second tranche of the value creation dividend will be
+       disclosed at the appropriate time.
+
+--- PAGE 31 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                     30
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+18.    NET ASSET VALUE
+
+                                                         Group                  Company
+                                                   As at       As at         As at     As at
+                                                 31 Mar 24 31 Mar 23       31 Mar 24 31 Mar 23
+         (Unaudited)                                S$          S$            S$        S$
+
+
+         Net asset value per ordinary share         1.51          1.58        1.19         1.18
+
+       As at the end of the reporting period, the number of ordinary shares of the Group used for the
+       above calculation had been adjusted to exclude treasury shares.
+
+
+19.    CONTINGENT LIABILITIES OF SINGTEL AND ITS SUBSIDIARIES
+
+       (a)     Guarantees
+
+               As at 31 March 2024, the Group and Company provided the following:
+
+               (i)     bankers’ and other guarantees, and insurance bonds of S$526.8 million and
+                       S$71.0 million (31 March 2023: S$559.4 million and S$70.7 million)
+                       respectively.
+
+               (ii)    guarantees to Monetary Authority of Singapore in relation to 40% of all
+                       liabilities incurred by GXS for deposits placed by customers (excluding other
+                       banks). This obligation only arises in the event GXS is wound up or otherwise
+                       dissolved without satisfying these liabilities in full.
+
+               As at 31 March 2024, the Company provided the following guarantees to Singtel
+               Group Treasury Pte. Ltd., a wholly-owned subsidiary, in respect of the following:
+
+               (i)     notes issue of an aggregate equivalent amount of S$4.40 billion (31 March
+                       2023: S$4.39 billion) due between June 2025 and April 2032.
+
+               (ii)    subordinated perpetual securities issue of S$1.0 billion (31 March 2023:
+                       S$1.0 billion) due in April 2031.
+
+
+       (b)     In Australia, Singtel Optus Pty Limited (“Optus”) reported a cyber attack in September
+               2022 which accessed certain personal information but did not impact the operation of
+               Optus’ systems or its telecommunications network or services. The cyber attack is the
+               subject of several ongoing regulatory investigations and class action proceedings.
+               These investigations could give rise to regulatory actions, penalties, potential claims
+               and/or litigation and the class actions could give rise to damages. At this stage, the
+               outcomes of these matters are not determinable. The Group will vigorously defend
+               these claims.
+
+
+       (c)     The Group is contingently liable for claims arising in the ordinary course of business
+               and from certain tax assessments which are being contested, the outcomes of which
+               are not presently determinable. The Group is vigorously defending all these claims.
+
+--- PAGE 32 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                        31
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+20.    CONTINGENT LIABILITIES OF ASSOCIATES AND JOINT VENTURES
+
+       (a)     Bharti Airtel Limited (“Airtel”)
+
+               Airtel, a joint venture of the Group, has disputes with various government authorities
+               in the respective jurisdictions where its operations are based, as well as with third
+               parties regarding certain transactions entered into in the ordinary course of business.
+
+               On 8 January 2013, Department of Telecommunications (“DOT”) issued a demand on
+               Airtel Group for Rs. 52.01 billion (S$842 million) towards levy of one time spectrum
+               charge, which was further revised on 27 June 2018 to Rs. 84.14 billion (S$1.36
+               billion), excluding related interest. In the opinion of Airtel, the above demand amounts
+               to alteration of the terms of the licences issued in the past. Airtel had filed a petition
+               with the Hon’ble High Court of Bombay, which has directed DOT not to take any
+               coercive action until the next date of hearing. The matter is currently pending with the
+               Hon’ble High Court of Bombay.
+
+               On 4 July 2019, the Telecom Disputes Settlement and Appellate Tribunal in a similar
+               matter of another unrelated telecom service provider, passed an order providing
+               partial relief and confirming the basis for the balance of the one time spectrum
+               charge. The said telecom service provider filed an appeal in the Hon’ble Supreme
+               Court of India which was dismissed on 16 March 2020. With the ruling, Airtel Group
+               has assessed and provided Rs. 18.08 billion (S$293 million) of the principal demand
+               as well as the related interest. Notwithstanding this, Airtel Group intends to continue
+               to pursue its legal remedies.
+
+               Other taxes, custom duties and demands under adjudication, appeal or disputes and
+               related interest for some disputes as at 31 March 2024 amounted to approximately
+               Rs. 167.6 billion (S$2.71 billion). In respect of some of the tax issues, pending final
+               decisions, Airtel had deposited amounts with statutory authorities.
+
+
+       (b)     Advanced Info Service Public Company Limited (“AIS”)
+
+               AIS, a joint venture of the Group, has various commercial disputes and significant
+               litigations which are pending adjudication.
+
+               National Telecom Public Company Limited (“NT”) has demanded that AIS pay the
+               following:
+
+               (i)     additional charges for porting of subscribers from 900MHz to 2100MHz
+                       network of THB 41.1 billion (S$1.52 billion) plus interest. In September 2023,
+                       the Central Administrative Court (“CAC”) supported the arbitration award
+                       which was in favour of AIS. In October 2023, NT appealed to the Supreme
+                       Administrative Court (“SAC”).
+
+--- PAGE 33 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                      32
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+20.    CONTINGENT LIABILITIES OF ASSOCIATES AND JOINT VENTURES (Continued)
+
+               (ii)    additional revenue share of THB 62.8 billion (S$2.32 billion) arising from what
+                       NT claims to be an illegality of two amendments made to the Concession
+                       Agreement, namely, Amendment 6 (regarding reduction in prepaid revenue
+                       share rate) made in 2001 and Amendment 7 (regarding deduction of roaming
+                       expense from revenue share) made in 2002, which have resulted in lower
+                       revenue share. In January 2020, AIS received the award from the Arbitral
+                       Tribunal (“AT”) to pay THB 31.1 billion (S$1.15 billion) and 1.25% interest per
+                       month after 30 November 2015. In April 2020, AIS filed a motion to the CAC
+                       to set aside the award which was followed by NT’s appeal to the CAC to
+                       increase the award to THB 62.8 billion (S$2.32 billion). In July 2022, the CAC
+                       revoked the AT’s resolution and AIS is not required to pay the additional
+                       revenue share of THB 62.8 billion (S$2.32 billion). In August 2022, NT
+                       appealed to the SAC.
+
+               (iii)   additional revenue share from disputes on roaming rates from 2013 to 2015
+                       of THB 16.3 billion (S$601 million). In December 2023, the CAC dismissed
+                       the case and NT is eligible to appeal to the SAC.
+
+               As at 31 March 2024, other claims against AIS and its subsidiaries which are pending
+               adjudication amounted to THB 12.2 billion (S$453 million).
+
+               The above claims have not included potential interest and penalty.
+
+               AIS believes that the above claims will be settled in favour of AIS and will have no
+               material impact to its financial statements.
+
+
+       (c)     Intouch Holdings Public Company Limited (“Intouch”)
+
+               In October 2017, Intouch and its former subsidiary, Thaicom Public Company Limited
+               (“Thaicom”), received letters from the Ministry of Digital Economy and Society (the
+               “Ministry”) stating that Thaicom 7 and Thaicom 8 satellites (the “Satellites”) are
+               governed under the terms of a 1991 satellite operating agreement between Intouch
+               and the Ministry (“Agreement”) which entails the transfer of asset ownership,
+               procurement of backup satellites, payment of revenue share, and procurement of
+               property insurance. Intouch and Thaicom have obtained legal advice and are of the
+               opinion that the Satellites are not covered under the Agreement but instead under the
+               licence from the National Broadcasting and Telecommunications Commission
+               (“NBTC”). In September 2022, the arbitrators ruled against the Ministry and stated
+               that Intouch is not obligated to comply with the Ministry’s claim under this dispute. In
+               December 2022, the Ministry appealed to the Central Administrative Court (“CAC”).
+
+               In November 2020, Intouch and Thaicom received notices from the Ministry
+               requesting for replacement of the de-orbited Thaicom 5 satellite, or compensation
+               equivalent to the value of satellite at THB 7.8 billion (S$289 million) plus fines and
+               interest. This case is pending arbitration.
+
+               In June 2021, Intouch and Thaicom received letters from NBTC stating that Thaicom’s
+               rights to use the orbital slots of Thaicom 7 and Thaicom 8 satellites were up to 10
+               September 2021 only. Thaicom filed a complaint to the CAC and the CAC has
+               granted an injunction on 9 August 2021 protecting Thaicom’s rights to use these
+               orbital slots until the CAC issues the order. In June 2022, the Supreme Administrative
+               Court upheld the CAC’s decision.
+
+--- PAGE 34 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                       33
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+20.    CONTINGENT LIABILITIES OF ASSOCIATES AND JOINT VENTURES (Continued)
+
+       (d)     Globe Telecom, Inc. (“Globe”)
+
+               Globe, a joint venture of the Group, is contingently liable for various claims arising in
+               the ordinary conduct of business and certain tax assessments which are either
+               pending decision by the Courts or are being contested, the outcome of which are not
+               presently determinable. In the opinion of Globe’s management and legal counsel, the
+               eventual liability under these claims, if any, will not have a material or adverse effect
+               on Globe’s financial position and results of operations.
+
+               In June 2016, the Philippine Competition Commission (“PCC”) claimed that the Joint
+               Notice of Acquisition filed by Globe, PLDT Inc. (“PLDT”) and San Miguel Corporation
+               (“SMC”) on the acquisition of SMC’s telecommunications business was deficient and
+               cannot be claimed to be deemed approved. In July 2016, Globe filed a petition with
+               the Court of Appeals of the Philippines (“CA”) to stop the PCC from reviewing the
+               acquisition. In October 2017, the CA ruled in favour of Globe and PLDT, and declared
+               the acquisition as valid and deemed approved. PCC subsequently elevated the case
+               to the Supreme Court to review the CA’s rulings.
+
+
+       (e)     PT Telekomunikasi Selular (“Telkomsel”)
+
+               As at 31 March 2024, Telkomsel, a joint venture of the Group, has filed appeals and
+               cross-appeals amounting to approximately IDR 374 billion (S$32 million) for various
+               tax claims arising in certain tax assessments which are pending final decisions, the
+               outcome of which is not presently determinable.
+
+--- PAGE 35 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                            34
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+21.         GROUP SEGMENT INFORMATION
+
+            Segment information is presented based on the information reviewed by senior management
+            for performance measurement and resource allocation.
+
+            From 1 April 2023, the Group’s segment reporting has been changed to reflect the Group’s
+            new organisation structure. The results for the comparative periods have been restated on the
+            same basis.
+
+            Optus offers mobile, equipment sales, fixed voice and data, satellite, ICT and managed
+            services in Australia.
+
+            Singtel Singapore offers mobile, fixed voice and data, pay television, content and digital
+            services, ICT as well as equipment sales in Singapore.
+
+            NCS provides differentiated and end-to-end technology services to clients through its Gov+,
+            Enterprise and Telco+ strategic business groups, together with its NEXT capabilities in digital,
+            data, cloud and platforms, as well as core offerings in applications, infrastructure, engineering
+            and cyber.
+
+            Digital InfraCo provides regional data centre services under Nxera1, satellite carrier services,
+            as well as offers Paragon, Singtel’s all-in-one digital acceleration platform for 5G multi-access
+            edge compute (MEC) and cloud orchestration.
+
+            Trustwave provides cybersecurity services mainly in the U.S.
+
+            Corporate comprises the costs of Group functions not allocated to the business segments. It
+            also includes the Group’s regional investments in AIS and Intouch (which has an equity
+            interest of 40.4% in AIS in Thailand), Airtel in India, Africa and Sri Lanka, Globe in the
+            Philippines, and Telkomsel in Indonesia.
+
+            The segment results are before exceptional items, in line with the basis of information
+            presented to management for internal management reporting purposes.
+
+            The costs of shared and common infrastructure are allocated to the business segments using
+            established methodologies.
+
+
+
+
+1
+    Nxera is the brand name for Singtel’s data centre business.
+
+--- PAGE 36 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                                                                                       35
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+21.    GROUP SEGMENT INFORMATION (Continued)
+
+                                                                            Singtel                       Digital                                      Intercompany    Group
+         Group - 31 Mar 24                                Optus            Singapore          NCS         InfraCo       Trustwave (1)    Corporate     Eliminations    Total
+         (Audited)                                        S$ Mil             S$ Mil          S$ Mil        S$ Mil          S$ Mil         S$ Mil          S$ Mil       S$ Mil
+
+
+         Operating revenue                                   7,130.7             3,891.4       2,834.7        413.3             76.6             -           (219.2)   14,127.5
+
+         Operating expenses                                 (5,391.3)            (2,527.3)    (2,572.6)      (197.5)          (127.7)        (162.0)         228.5     (10,749.9)
+         Other incom e/ (expense)                              121.9                 86.9          3.9          2.9              2.6           11.7          (10.6)        219.3
+         Earnings before interest, tax,
+          depreciation and amortisation
+          ("EBITDA")                                         1,861.3             1,451.0        266.0         218.7            (48.5)        (150.3)           (1.3)     3,596.9
+
+         Share of pre-tax results of
+           associates and joint ventures
+         - Airtel                                                  -                   -              -           -                -          754.8              -        754.8
+         - Telkom sel                                              -                   -              -           -                -          805.8              -        805.8
+         - Globe                                                   -                   -              -           -                -          287.2              -        287.2
+         - AIS                                                     -                   -              -           -                -          338.8              -        338.8
+         - Intouch                                                 -                   -              -           -                -          147.1              -        147.1
+         - Others                                                      *               -              -         (0.6)              -            5.0              -          4.4
+
+                                                                       *               -              -         (0.6)              -        2,338.7              -       2,338.1
+         EBITDA and share of pre-tax results
+          of associates and joint ventures                   1,861.3             1,451.0        266.0         218.1            (48.5)       2,188.4            (1.3)     5,935.0
+
+         Depreciation and am ortisation                     (1,605.9)             (613.1)        (82.7)      (146.6)             (7.3)        (39.9)           51.5     (2,444.0)
+         Earnings before interest and tax
+          ("EBIT")                                             255.4               837.9        183.3          71.5            (55.8)       2,148.5            50.2      3,491.0
+
+       “*” denotes less than +/- S$0.05 million.
+
+
+       Note:
+       (1) In January 2024, the Group sold its 100% equity stake in Trustwave.
+
+--- PAGE 37 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                                                                    36
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+21.    GROUP SEGMENT INFORMATION (Continued)
+
+
+                                                                               Singtel                    Digital                   Intercompany     Group
+         Group - 31 Mar 24                                        Optus       Singapore      NCS         InfraCo      Corporate      Eliminations    Total
+         (Audited)                                                S$ Mil        S$ Mil      S$ Mil        S$ Mil       S$ Mil           S$ Mil       S$ Mil
+
+
+         Segment assets
+         Investment in associates and
+           joint ventures
+         - Airtel                                                        -             -             -           -        4,029.5              -       4,029.5
+         - Telkomsel                                                     -             -             -           -        3,587.4              -       3,587.4
+         - Globe                                                         -             -             -           -        1,787.4              -       1,787.4
+         - AIS                                                           -             -             -           -          987.6              -         987.6
+         - Intouch                                                       -             -             -           -        1,743.3              -       1,743.3
+         - Others                                                      18.4            -             -         26.6         577.7              -         622.7
+                                                                       18.4            -             -         26.6      12,712.9              -      12,757.9
+         Goodwill on acquisition
+          of subsidiaries                                           5,868.4            -        543.0            -             -               -       6,411.4
+         Other assets                                              13,674.3       4,604.7     1,723.0         860.6       6,398.2          (231.6)    27,029.2
+                                                                   19,561.1       4,604.7     2,266.0         887.2      19,111.1          (231.6)    46,198.5
+
+--- PAGE 38 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                                                                                                 37
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+21.    GROUP SEGMENT INFORMATION (Continued)
+
+
+                                                                                           Singtel                    Digital                                    Intercompany    Group
+         Group - 31 Mar 23                                            Optus              Singapore       NCS         InfraCo       Trustwave (1)   Corporate      Eliminations   Total
+         (Audited)                                                    S$ Mil               S$ Mil       S$ Mil        S$ Mil          S$ Mil        S$ Mil           S$ Mil      S$ Mil
+
+
+         Operating revenue                                              7,569.0             3,988.4       2,727.9        382.6            163.2            -           (206.7)    14,624.4
+
+         Operating expenses                                            (5,717.4)            (2,581.5)    (2,477.3)       (165.6)         (278.5)       (139.6)          226.3    (11,133.6)
+         Other income/ (expenses)                                         113.4                 83.0          3.9          11.1            (0.5)          3.9           (19.7)       195.1
+
+         EBITDA                                                         1,965.0             1,489.9        254.5         228.1           (115.8)       (135.7)           (0.1)     3,685.9
+
+         Share of pre-tax results of
+           associates and joint ventures
+         - Airtel                                                                -                -              -           -               -          694.4              -        694.4
+         - Telkomsel                                                             -                -              -           -               -          861.6              -        861.6
+         - Globe                                                                 -                -              -           -               -          301.3              -        301.3
+         - AIS                                                                   -                -              -           -               -          296.8              -        296.8
+         - Intouch                                                               -                -              -           -               -          112.9              -        112.9
+         - Others                                                                    *            -              -         (0.3)             -           20.4              -         20.1
+
+                                                                                 -                -              -         (0.3)             -        2,287.4              -       2,287.1
+         EBITDA and share of pre-tax results
+          of associates and joint ventures                              1,965.0             1,489.9        254.5         227.8           (115.8)      2,151.7            (0.1)     5,973.0
+
+         Depreciation and amortisation                                 (1,694.4)             (606.0)       (115.0)       (155.2)          (17.5)        (39.7)           53.7     (2,574.1)
+
+         EBIT                                                             270.6               883.9        139.5           72.6          (133.3)      2,112.0            53.6      3,398.9
+
+       “*” denotes less than +/- S$0.05 million.
+
+       Note:
+       (1) In January 2024, the Group sold its 100% equity stake in Trustwave.
+
+--- PAGE 39 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                                                                                                     38
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+21.    GROUP SEGMENT INFORMATION (Continued)
+
+
+                                                                            Singtel                     Digital                                        Intercompany    Group
+                                                                                                                                    (1)
+         Group - 31 Mar 23                                 Optus          Singapore         NCS         InfraCo         Trustwave         Corporate    Eliminations    Total
+         (Audited)                                         S$ Mil           S$ Mil         S$ Mil        S$ Mil            S$ Mil          S$ Mil         S$ Mil       S$ Mil
+
+
+         Segment assets
+         Investment in associates and
+           joint ventures
+         - Airtel                                                  -                  -             -              -                -        4,092.7             -      4,092.7
+         - Telkomsel                                               -                  -             -              -                -        2,431.4             -      2,431.4
+         - Globe                                                   -                  -             -              -                -        1,775.4             -      1,775.4
+         - AIS                                                     -                  -             -              -                -          989.2             -        989.2
+         - Intouch                                                 -                  -             -              -                -        1,807.7             -      1,807.7
+         - Others                                                18.7                 -             -             9.1               -          663.9             -        691.7
+                                                                 18.7                 -             -             9.1               -       11,760.3             -     11,788.1
+         Goodwill on acquisition
+          of subsidiaries                                    7,857.4                  -        553.9           -               12.3            598.3             -      9,021.9
+         Other assets                                       14,158.3             4,252.1     2,149.9        885.3             163.7          4,469.2         (358.5)   25,720.0
+                                                            22,034.4             4,252.1     2,703.8        894.4             176.0         16,827.8         (358.5)   46,530.0
+
+
+       Note:
+       (1) In January 2024, the Group sold its 100% equity stake in Trustwave.
+
+--- PAGE 40 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                              39
+
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+21.    GROUP SEGMENT INFORMATION (Continued)
+
+       A reconciliation of the total reportable segments’ EBIT to the Group’s profit before tax was as
+       follows -
+
+         Group                                                                      31 Mar 24      31 Mar 23
+         (Audited)                                                                    S$ Mil         S$ Mil
+
+         EBIT                                                                         3,491.0        3,398.9
+          Exceptional items                                                           (1,250.3)         18.7
+          Share of exceptional items of associates and joint ventures (post-tax)        (319.7)        208.0
+          Share of tax of associates and joint ventures                                 (656.9)       (668.3)
+         Profit before interest, investment income (net) and tax                      1,264.1        2,957.3
+          Interest and investment income (net)                                          141.3           56.9
+          Finance costs                                                                (444.2)        (415.8)
+
+         Profit before tax                                                              961.2        2,598.4
+
+
+       The Group’s revenue from its major products and services are as follows -
+
+         Group                                                                31 Mar 24           31 Mar 23
+         (Audited)                                                              S$ Mil              S$ Mil
+
+          Mobile service                                                            4,787.0          4,831.9
+          Sale of equipment                                                         1,899.7          2,054.9
+         Mobile                                                                     6,686.7          6,886.8
+         Infocomm Technology                                                        3,774.0          3,846.1
+         Data and internet                                                          3,008.7          3,201.6
+         Fixed voice                                                                  331.7            376.5
+         Pay television                                                               199.1            218.0
+         Others                                                                       127.3             95.4
+
+         Operating revenue                                                         14,127.5         14,624.4
+
+       The Group’s revenue is mainly derived from Singapore and Australia which respectively
+       accounted for approximately 45% (31 March 2023: 43%) and 52% (31 March 2023: 52%) of the
+       consolidated revenue for the financial year ended 31 March 2024, with the remaining 3% (31
+       March 2023: 5%) from other countries where the Group operates in. The geographical
+       information on the Group’s non-current assets is not presented as it is not used for segmental
+       reporting purposes.
+
+--- PAGE 41 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                     40
+
+
+SELECTED NOTES TO THE FINANCIAL STATEMENTS
+For the second half year and financial year ended 31 March 2024
+
+
+22.    SEASONALITY OF OPERATIONS
+
+       There is no significant seasonality in the Group’s operations.
+
+
+23.    RELATED PARTY TRANSACTIONS
+
+       Other than disclosed elsewhere in this condensed consolidated interim financial statements, the
+       Group has no new significant related party transactions during the second half year and
+       financial year ended 31 March 2024.
+
+
+24.    SUBSEQUENT EVENT
+
+       In April 2024, Optus signed an agreement with TPG Telecom Limited to create a regional Multi-
+       Operator Core Network (MOCN). Optus expects to receive total service fees of approximately
+       S$1.4 billion (A$1.6 billion) over the 11-year term of the agreement with incremental cash flows
+       of approximately S$789 million (A$900 million) expected over the same period.
+
+
+25.    The statements of financial position as at 31 March 2024 and the related consolidated income
+       statement, statement of comprehensive income, statement of changes in equity and statement
+       of cash flows for the financial year ended 31 March 2024 presented in this announcement have
+       been audited in accordance with Singapore Standards on Auditing.
+
+--- PAGE 42 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                     41
+
+
+OTHER INFORMATION REQUIRED BY LISTING RULE APPENDIX 7.2
+
+The disclosures below have not been audited or reviewed by the Company’s auditors.
+
+26.    REVIEW OF PERFORMANCE OF THE GROUP
+
+       Please refer to the Management Discussion and Analysis of the Group for the second half and
+       financial year ended 31 March 2024.
+
+
+27.    WHERE A FORECAST, OR A PROSPECT STATEMENT, HAS BEEN PREVIOUSLY
+       DISCLOSED TO SHAREHOLDERS, ANY VARIANCE BETWEEN IT AND THE ACTUAL
+       RESULTS.
+
+       Please refer to the Management Discussion and Analysis of the Group for the second half and
+       financial year ended 31 March 2024.
+
+
+28.    A COMMENTARY AT THE DATE OF THE ANNOUNCEMENT OF THE SIGNIFICANT
+       TRENDS AND COMPETITIVE CONDITIONS OF THE INDUSTRY IN WHICH THE GROUP
+       OPERATES AND ANY KNOWN FACTORS OR EVENTS THAT MAY AFFECT THE GROUP IN
+       THE NEXT OPERATING PERIOD AND THE NEXT 12 MONTHS.
+
+       Please refer to the Management Discussion and Analysis of the Group for the second half and
+       financial year ended 31 March 2024.
+
+
+29.    INTERESTED PERSON TRANSACTIONS
+
+       The Group has not obtained a general mandate from shareholders of the Company for
+       Interested Person Transactions.
+
+
+30.    DISCLOSURE OF PERSON OCCUPYING A MANAGERIAL POSITION IN THE ISSUER OR
+       ANY OF ITS PRINCIPAL SUBSIDIARIES WHO IS A RELATIVE OF A DIRECTOR OR CHIEF
+       EXECUTIVE OFFICER OR SUBSTANTIAL SHAREHOLDER OF THE ISSUER.
+
+       Pursuant to Rule 704(13) of the Listing Manual of the Singapore Exchange Securities Trading
+       Limited (“SGX-ST”), the Company confirms that, to the best of its knowledge, belief and
+       information, none of the persons occupying managerial positions in the Company or any of its
+       principal subsidiaries is a relative of a director or the chief executive officer or substantial
+       shareholder of the Company.
+
+
+31.    CONFIRMATION THAT THE ISSUER HAS PROCURED UNDERTAKINGS FROM ALL ITS
+       DIRECTORS AND EXECUTIVE OFFICERS (IN THE FORMAT SET OUT IN APPENDIX 7.7)
+       UNDER RULE 720(1)
+
+       The Company has received undertakings from all its directors and executive officers in the
+       format as set out in Appendix 7.7 under Rule 720(1) of the Listing Manual of the SGX-ST.
+
+--- PAGE 43 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                           42
+
+
+The auditors’ report on the full financial statements (separately prepared and not included in this filing)
+of Singapore Telecommunications Limited for the financial year ended 31 March 2024 is as follows:
+
+
+“Independent auditors’ report
+
+Members of Singapore Telecommunications Limited
+
+Report on the audit of the financial statements
+
+Opinion
+
+We have audited the financial statements of Singapore Telecommunications Limited (‘the Company’)
+and its subsidiaries (‘the Group’), which comprise the consolidated statement of financial position of the
+Group and the statement of financial position of the Company as at 31 March 2024 and the
+consolidated income statement, consolidated statement of comprehensive income, consolidated
+statement of changes in equity and consolidated statement of cash flows of the Group, and the
+statement of changes in equity of the Company for the year then ended, and notes to the financial
+statements, including a summary of material accounting policies, as set out on pages 18 to 127.
+
+In our opinion, the accompanying consolidated financial statements of the Group and the statement of
+financial position and statement of changes in equity of the Company are properly drawn up in
+accordance with the provisions of the Companies Act 1967 (‘the Act’) and Singapore Financial
+Reporting Standards (International) (‘SFRS(I)s’) so as to give a true and fair view of the consolidated
+financial position of the Group and the financial position of the Company as at 31 March 2024 and of
+the consolidated financial performance, consolidated changes in equity and consolidated cash flows of
+the Group and the changes in equity of the Company for the year ended on that date.
+
+Basis for opinions
+
+We conducted our audit in accordance with Singapore Standards on Auditing (‘SSAs’). Our
+responsibilities under those standards are further described in the ‘Auditors’ responsibilities for the audit
+of the financial statements’ section of our report. We are independent of the Group in accordance with
+the Accounting and Corporate Regulatory Authority Code of Professional Conduct and Ethics for Public
+Accountants and Accounting Entities (‘ACRA Code’) together with the ethical requirements that are
+relevant to our audit of the financial statements in Singapore, and we have fulfilled our other ethical
+responsibilities in accordance with these requirements and the ACRA Code. We believe that the audit
+evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+Key audit matters
+
+Key audit matters are those matters that, in our professional judgement, were of most significance in
+our audit of the financial statements of the current period. These matters were addressed in the context
+of our audit of the financial statements as a whole, and in forming our opinion thereon, and we do not
+provide a separate opinion on these matters.
+
+--- PAGE 44 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                         43
+
+
+Revenue recognition
+The key audit matter                                   How the matter was addressed in our audit
+
+The Group’s Mobile Service, Sale of Equipment          Our audit approach included controls testing as well
+and Data and Internet revenue streams are key          as substantive procedures. Our procedures
+audit matters as there is an elevated inherent         included:
+risk around the accuracy of amounts recorded
+as revenue due to:                                     •   We obtained an understanding of the nature of
+                                                           the various revenue streams and the related
+   the complexity of Information Technology
+                                                           billing and revenue recording processes,
+    (IT) systems used in billing and the large
+    volume of data processed;                              systems and controls.
+
+   impact of changing pricing models and the          •   IT systems: Involving our IT specialists, we
+    introduction of new products and tariff                tested the design and implementation, and the
+    arrangements; and                                      operating effectiveness of automated controls
+                                                           over the capture of data within IT systems used
+   different revenue recognition policies for             in billing, interfaces between relevant IT
+    rendering of services (over time) and sale of          applications used in billing, measurement and
+    goods (point in time).                                 billing of revenue, and the recording of revenue
+                                                           recognition entries in the general ledger. We
+For the Group’s Operating Revenue stream                   also tested the access controls and change
+Infocomm Technology (“ICT”), there is a                    management controls over the relevant billing
+significant inherent risk associated with                  systems.
+estimates made by the Group in recognition and
+measurement of revenue from certain long-term
+                                                       •   Manual controls: We tested the design and
+                                                           implementation, and the operating effectiveness
+contracts. These ICT contract revenue streams
+                                                           of manual controls over the initiation,
+are key audit matters as estimates are required
+                                                           authorisation, recording, and processing of
+in determining the budgeted cost and cost to
+                                                           revenue transactions. This included testing
+complete to measure the revenue to be
+                                                           process controls over authorising new price
+recognised.
+                                                           plans and approval of new product and tariff
+                                                           changes adjustments to the billing system.
+The accounting policies for revenue recognition,
+contract assets and contract liabilities are set out   •   We tested, on a sample basis, over time and
+in Notes 2.24, 2.4 and 2.8 to the financial                point in time revenue transactions recorded
+statements respectively and the various revenue            throughout the year. This testing included
+streams for the Group have been disclosed in               assessing, the existence of an underlying
+Note 4 to the financial statements.                        arrangement with the customer; the amounts
+                                                           invoiced to customers in accordance with the
+                                                           Group’s approved pricing list; and the timing of
+                                                           revenue recognition for each revenue contract
+                                                           based on completed performance obligations
+                                                           and the Group’s revenue recognition policy.
+
+                                                       •   For ICT contract revenue, we tested on a
+                                                           sample basis, the key terms and conditions of
+                                                           the respective customer contract and evaluated
+                                                           it for appropriate revenue recognition. We
+                                                           challenged the Group’s underlying assumptions
+                                                           in making estimates on the budgeted costs and
+                                                           cost to complete the long-term contracts.
+
+                                                       •   We tested a sample of manual journal entries
+                                                           impacting revenue to relevant underlying
+                                                           documentation for their consistency with the
+                                                           Group’s accounting policy.
+Findings
+For the Group’s Mobile Service, Sale of Equipment and Data and Internet revenue streams, we found
+the accuracy of amounts recorded as revenue to be appropriate.
+
+For ICT contract revenue, we found the estimates made in regard to the policies for revenue
+recognition to be reasonable.
+
+--- PAGE 45 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                        44
+
+
+
+Impairment assessment of non-financial assets –Optus Group (“Optus”) cash-generating unit
+(“CGU”)
+The key audit matter                           How the matter was addressed in our audit
+
+The accounting for the carrying value of Optus         Working with our valuation specialists, our
+CGU has a material impact on the Group due to          procedures included:
+the significant cumulative value of the goodwill
+and other long-lived non-financial assets.                   Considering the appropriateness of the
+                                                              valuation method applied by the Group
+In the current year, the Group recorded an                    to the CGU to perform the annual test
+impairment charge of S$2.0 billion in relation to             of goodwill for impairment against the
+Optus. At 31 March 2024, the carrying value of                requirements     of   the   accounting
+Optus includes S$5.9 billion of goodwill.                     standards.
+
+Impairment assessment of Optus CGU is a key                  Agreeing the cash flow forecasts used
+audit matter given the elevated and significant               in the impairment model to Board
+inherent risks associated with the assumptions                approved forecasts and budgets.
+the Group applied in their Value in Use (“VIU”)              Performing risk assessment procedures
+impairment models, including:                                 to determine the inherent risk of key
+                                                              assumptions and data that would
+•   Forecast future cash flows. The revenue and               impact the outcome of the impairment
+    margins continue to be impacted by                        assessment.
+    competitive and changing market conditions
+    offset by the benefit of Optus entering into the         Forecast future cash flows: Considering
+    regional    Multi-Operator    Core     Network            and     challenging      management’s
+    (“MOCN”) agreement with TPG Telecom;                      expectations of the future business
+                                                              developments, comparing against past
+•   Forecast future capital expenditure cashflows.            performance and corroborating certain
+    Telecommunications is a capital-intensive                 revenue and margin information with
+    business and changes in technology and                    market data. We also considered and
+    market conditions can impact future capital               challenged the impact of operational
+    expenditure requirements;                                 changes to the businesses and the
+                                                              MOCN agreement on future cash flows.
+•   Terminal growth rate. Movements in this rate
+    have an impact on forecast cashflows; and                Forecast future capital expenditure:
+                                                              Considering        and      challenging
+•   Discount rate. This is complicated in nature              management’s assumption on planned
+    and varies according to the conditions and                capital expenditure to past expenditure
+    environment the CGU is subject to from time               and corroborating certain assumptions
+    to time.                                                  to industry peers.
+                                                             Terminal growth rate: Comparing the
+Refer to Note 26 to the financial statements for              terminal growth rate to published
+the impairment assessments.                                   government data and industry peers.
+                                                             Discount         rate:      Independently
+                                                              developing a discount rate range using
+                                                              publicly available market data for
+                                                              comparable entities, adjusted by risk
+                                                              factors specific to the CGU, Group and
+                                                              the industry it operates in.
+                                                             Performing a cross-check of the implied
+                                                              value of the CGU against comparable
+                                                              entities.
+                                                             Recalculating the impairment charge
+                                                              against the recorded amount.
+                                                             Assessing the appropriateness of the
+                                                              disclosures in the financial statements
+                                                              in accordance with the requirements of
+                                                              the accounting standards.
+
+--- PAGE 46 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                 45
+
+Findings
+We found the key estimates and assumptions used in determining the S$2.0 billion impairment loss
+recorded to be within a supportable range.
+
+--- PAGE 47 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                           46
+
+
+
+Share of joint ventures’ reported contingent liabilities and provision for losses relating to
+regulatory litigations
+The key audit matter                               How the matter was addressed in our audit
+
+A number of the Group’s significant joint ventures      Our audit procedures included:
+have several on-going disputes and litigations
+with their local regulators. The Group may be                 Inquiring with management of the
+exposed to significant losses as a result of the               Group and joint ventures, and where
+unfavourable outcome of such disputes.                         considered appropriate, internal legal
+                                                               counsel of the Group and joint ventures
+This is a key audit matter as significant judgement            to understand the process and internal
+is required in assessing the likelihood of the                 controls relating to the identification and
+outcome of each matter and whether the risk of                 assessment of the disputes and
+loss is remote, possible or probable and whether               litigations, and recognition of the related
+the matter is considered a contingent liability to be          liabilities, where appropriate.
+disclosed. Where the risk of loss is probable,
+management is required to estimate the provision              Reviewing the audit working papers of
+amount based on the expected economic outflow                  the auditors of the joint ventures
+resulting from the disputes and litigations.                   (‘Component Auditors’), in particular,
+                                                               their assessment on the regulatory
+Please refer to Note 43 to the financial statements            litigations and disputes that may have a
+for ‘Significant Contingent Liabilities of Associates          material impact to the financial
+and Joint Ventures’.                                           statements.
+                                                              Discussing with       the   Component
+                                                               Auditors on their evaluation of the
+                                                               probability and magnitude of losses
+                                                               relating to the disputes and litigations,
+                                                               and their conclusions reached in
+                                                               accordance      with    SFRS(I)     1-37
+                                                               Provisions, Contingent Liabilities and
+                                                               Contingent Assets.
+                                                              Assessing the appropriateness of
+                                                               disclosures in the financial statements
+                                                               in accordance with the requirements of
+                                                               the accounting standards.
+
+
+Findings
+We found management’s assessment of the regulatory litigations and disputes to be reasonable, and
+the disclosure of contingent liabilities to be appropriate.
+
+--- PAGE 48 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                       47
+
+
+
+Other information
+
+Management is responsible for the other information contained in the annual report. Other information
+is defined as all information in the annual report other than the financial statements and our auditors’
+report thereon. We have not obtained any other information prior to the date of this auditors’ report.
+The other information is expected to be made available to us after the date of this auditors’ report.
+
+Our opinion on the financial statements does not cover the other information and we do not express any
+form of assurance conclusion thereon.
+
+In connection with our audit of the financial statements, our responsibility is to read the other
+information identified above when it becomes available and, in doing so, consider whether the other
+information is materially inconsistent with the financial statements or our knowledge obtained in the
+audit, or otherwise appears to be materially misstated.
+
+When we read the other information, if we conclude that there is a material misstatement therein, we
+are required to communicate the matter to those charged with governance and take appropriate actions
+in accordance with SSAs.
+
+Responsibilities of management and directors for the financial statements
+
+Management is responsible for the preparation of financial statements that give a true and fair view in
+accordance with the provisions of the Act and SFRS(I)s, and for devising and maintaining a system of
+internal accounting controls sufficient to provide a reasonable assurance that assets are safeguarded
+against loss from unauthorised use or disposition; and transactions are properly authorised and that
+they are recorded as necessary to permit the preparation of true and fair financial statements and to
+maintain accountability of assets.
+
+In preparing the financial statements, management is responsible for assessing the Group’s ability to
+continue as a going concern, disclosing, as applicable, matters related to going concern and using the
+going concern basis of accounting unless management either intends to liquidate the Group or to cease
+operations, or has no realistic alternative but to do so.
+
+The directors’ responsibilities include overseeing the Group’s financial reporting process.
+
+Auditors’ responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditors’ report that
+includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an
+audit conducted in accordance with SSAs will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on
+the basis of these financial statements.
+
+As part of an audit in accordance with SSAs, we exercise professional judgement and maintain
+professional scepticism throughout the audit. We also:
+
+    Identify and assess the risks of material misstatement of the financial statements, whether due to
+     fraud or error, design and perform audit procedures responsive to those risks, and obtain audit
+     evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not
+     detecting a material misstatement resulting from fraud is higher than for one resulting from error,
+     as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override
+     of internal controls.
+
+    Obtain an understanding of internal controls relevant to the audit in order to design audit
+     procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+     opinion on the effectiveness of the Group’s internal controls.
+
+    Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+     estimates and related disclosures made by management.
+
+--- PAGE 49 ---
+SINGAPORE TELECOMMUNICATIONS LIMITED AND SUBSIDIARY COMPANIES                                           48
+
+
+    Conclude on the appropriateness of management’s use of the going concern basis of accounting
+     and, based on the audit evidence obtained, whether a material uncertainty exists related to events
+     or conditions that may cast significant doubt on the Group’s ability to continue as a going concern.
+     If we conclude that a material uncertainty exists, we are required to draw attention in our auditors’
+     report to the related disclosures in the financial statements or, if such disclosures are inadequate,
+     to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of
+     our auditors’ report. However, future events or conditions may cause the Group to cease to
+     continue as a going concern.
+
+    Evaluate the overall presentation, structure and content of the financial statements, including the
+     disclosures, and whether the financial statements represent the underlying transactions and events
+     in a manner that achieves fair presentation.
+
+    Obtain sufficient appropriate audit evidence regarding the financial information of the entities or
+     business activities within the Group to express an opinion on the consolidated financial
+     statements. We are responsible for the direction, supervision and performance of the group audit.
+     We remain solely responsible for our audit opinion.
+
+We communicate with the directors regarding, among other matters, the planned scope and timing of
+the audit and significant audit findings, including any significant deficiencies in internal controls that we
+identify during our audit.
+
+We also provide the directors with a statement that we have complied with relevant ethical requirements
+regarding independence, and communicate with them all relationships and other matters that may
+reasonably be thought to bear on our independence, and where applicable, related safeguards.
+
+From the matters communicated with the directors, we determine those matters that were of most
+significance in the audit of the financial statements of the current period and are therefore the key audit
+matters. We describe these matters in our auditors’ report unless the law or regulations preclude public
+disclosure about the matter or when, in extremely rare circumstances, we determine that a matter
+should not be communicated in our report because the adverse consequences of doing so would
+reasonably be expected to outweigh the public interest benefits of such communication.
+
+Report on other legal and regulatory requirements
+
+In our opinion, the accounting and other records required by the Act to be kept by the Company and by
+those subsidiary corporations incorporated in Singapore of which we are the auditors have been
+properly kept in accordance with the provisions of the Act.
+
+The engagement partner on the audit resulting in this independent auditors’ report is Mr Malcolm
+Ramsay.
+
+
+
+
+KPMG LLP
+Public Accountants and
+Chartered Accountants
+
+Singapore
+21 May 2024”
